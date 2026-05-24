@@ -1,0 +1,1001 @@
+GameID,Title,AvgSessionLength,VisualStyle,NarrativeDepth,ComplexityScore,PlayerRating,MechanicsCount,MultiplayerSupport,InAppPurchases,ReleaseYear,AvgPlaytimePerUserHrs,ReviewSentiment,HasStoryMode,Platform,TargetAudienceAge,PriceCategory,Genre
+5001,Game_1,24.6,Realistic,2,1.1,3.2,6,0,1,2011,5.8,Negative,1,Console,Teens,Premium,Strategy
+5002,Game_2,28.7,Cartoon,1,3.7,2.3,18,0,1,2019,16.3,Positive,1,Cross-platform,Teens,Paid,Simulation
+5003,Game_3,88.0,Minimalist,5,6.6,3.8,7,1,0,2007,3.8,Mixed,0,Cross-platform,Teens,Premium,Shooter
+5004,Game_4,47.4,3D,2,6.5,2.7,8,1,1,2005,1.7,Positive,1,PC,Adults,Freemium,Puzzle
+5005,Game_5,49.2,Cartoon,2,6.5,1.1,1,1,1,2022,3.8,Mixed,0,Console,All Ages,Freemium,Sports
+5006,Game_6,59.6,Pixel,2,8.0,1.1,16,0,0,2015,0.2,Positive,0,PC,Kids,Paid,Strategy
+5007,Game_7,61.1,Anime,2,7.2,3.2,1,0,0,2019,7.0,Mixed,1,Mobile,Teens,Free,Puzzle
+5008,Game_8,59.1,3D,2,2.4,3.3,9,1,0,2010,5.0,Mixed,0,Console,Adults,Paid,Shooter
+5009,Game_9,21.5,Minimalist,2,7.7,4.1,5,0,0,2011,6.9,Positive,0,PC,Kids,Freemium,Shooter
+5010,Game_10,10.0,Cartoon,5,3.9,2.6,2,0,1,2013,1.2,Positive,1,PC,Adults,Freemium,Horror
+5011,Game_11,10.0,Minimalist,5,1.8,4.2,4,0,0,2004,1.9,Positive,0,PC,All Ages,Paid,Sports
+5012,Game_12,62.6,Cartoon,1,7.7,4.6,13,0,0,2000,2.6,Positive,0,Cross-platform,Kids,Free,Simulation
+5013,Game_13,31.2,Realistic,2,3.3,1.8,10,0,0,2014,18.2,Negative,0,PC,All Ages,Free,Adventure
+5014,Game_14,61.6,3D,1,2.0,3.3,3,0,1,2002,2.7,Mixed,1,Console,Adults,Premium,Horror
+5015,Game_15,53.2,Pixel,2,4.0,3.6,19,0,0,2012,0.2,Mixed,1,Mobile,Adults,Freemium,Strategy
+5016,Game_16,10.0,Realistic,3,9.1,3.2,14,0,1,2007,7.3,Positive,1,Cross-platform,All Ages,Paid,Horror
+5017,Game_17,27.3,Realistic,5,5.9,3.9,15,0,1,2016,19.9,Mixed,1,Mobile,Kids,Premium,Simulation
+5018,Game_18,46.6,Minimalist,4,9.5,1.7,7,1,1,2022,37.3,Mixed,1,Cross-platform,Kids,Free,RPG
+5019,Game_19,51.9,Realistic,2,7.1,2.3,1,1,0,2016,7.3,Positive,1,Cross-platform,Adults,Freemium,Shooter
+5020,Game_20,63.1,Realistic,3,8.3,1.9,2,0,1,2012,12.6,Positive,0,Mobile,Kids,Freemium,Simulation
+5021,Game_21,60.8,3D,1,3.1,3.2,7,0,0,2013,0.8,Positive,1,Mobile,All Ages,Premium,Horror
+5022,Game_22,27.3,Anime,1,1.5,2.8,12,0,1,2005,3.3,Positive,1,Mobile,Adults,Premium,Horror
+5023,Game_23,36.6,Anime,4,8.8,3.2,16,0,0,2024,1.0,Positive,1,Console,Adults,Freemium,RPG
+5024,Game_24,13.7,Cartoon,1,2.2,1.6,18,1,0,2015,9.9,Negative,1,PC,Adults,Premium,Adventure
+5025,Game_25,57.1,Anime,3,3.1,3.6,17,1,0,2016,2.5,Positive,1,PC,Teens,Premium,Strategy
+5026,Game_26,52.1,Cartoon,4,6.4,4.9,9,0,0,2023,3.0,Mixed,1,Cross-platform,Teens,Freemium,Strategy
+5027,Game_27,53.3,Anime,1,2.9,1.4,16,1,0,2004,18.5,Positive,1,Console,Kids,Premium,Horror
+5028,Game_28,53.8,Realistic,4,3.6,2.3,14,0,0,2012,0.7,Positive,1,Cross-platform,Adults,Paid,Simulation
+5029,Game_29,46.1,Pixel,1,3.1,2.5,13,0,0,2018,3.2,Positive,1,PC,Teens,Free,Sports
+5030,Game_30,50.9,Minimalist,4,1.0,4.6,18,1,0,2014,3.0,Positive,1,Console,Kids,Premium,Sports
+5031,Game_31,42.3,Anime,5,4.6,2.3,7,1,1,2016,23.7,Mixed,1,Cross-platform,Teens,Freemium,RPG
+5032,Game_32,40.2,Pixel,2,9.2,2.4,16,1,0,2019,0.4,Positive,1,PC,Teens,Premium,Horror
+5033,Game_33,64.9,Cartoon,2,7.8,2.6,13,0,1,2020,1.1,Positive,0,Console,Teens,Premium,Sports
+5034,Game_34,38.9,Cartoon,1,8.6,1.0,15,0,0,2003,1.6,Negative,0,Console,Adults,Premium,Shooter
+5035,Game_35,49.1,Minimalist,3,8.0,4.1,7,1,1,2006,34.4,Positive,1,PC,Adults,Premium,Adventure
+5036,Game_36,49.0,3D,4,4.2,4.1,1,0,0,2024,2.4,Positive,0,Mobile,Kids,Premium,Puzzle
+5037,Game_37,28.7,Cartoon,5,5.2,2.1,11,1,1,2016,8.2,Mixed,0,Console,All Ages,Free,Platformer
+5038,Game_38,10.0,Pixel,2,4.6,4.3,5,0,0,2014,4.6,Positive,0,PC,Adults,Paid,Puzzle
+5039,Game_39,25.6,Anime,4,2.9,3.2,17,0,0,2000,8.0,Mixed,1,Cross-platform,Teens,Premium,Strategy
+5040,Game_40,61.1,Cartoon,2,7.9,2.2,16,0,0,2021,2.4,Positive,1,Console,Kids,Freemium,Shooter
+5041,Game_41,28.9,3D,3,1.2,2.1,4,0,1,2010,14.5,Positive,1,PC,Kids,Paid,Adventure
+5042,Game_42,59.1,Cartoon,5,3.3,3.8,17,1,0,2007,8.1,Positive,1,Mobile,Adults,Free,Sports
+5043,Game_43,43.2,Pixel,3,3.1,3.3,17,1,0,2005,16.9,Positive,0,Console,Teens,Freemium,Simulation
+5044,Game_44,10.0,Minimalist,4,4.5,3.0,1,1,1,2001,0.6,Mixed,1,Console,All Ages,Premium,Adventure
+5045,Game_45,26.1,Pixel,1,9.1,1.6,5,0,0,2001,1.1,Positive,1,PC,All Ages,Premium,Sports
+5046,Game_46,50.8,Minimalist,3,1.2,3.7,8,0,0,2001,7.0,Positive,1,Cross-platform,Adults,Premium,Simulation
+5047,Game_47,73.6,Anime,4,1.7,3.2,18,0,0,2018,3.0,Mixed,1,Cross-platform,Teens,Freemium,Platformer
+5048,Game_48,62.9,Minimalist,1,8.5,2.9,17,0,1,2021,3.5,Mixed,1,Mobile,Kids,Freemium,Sports
+5049,Game_49,10.7,Anime,4,4.4,4.5,7,0,1,2014,2.6,Positive,1,Console,Teens,Freemium,Horror
+5050,Game_50,78.2,3D,3,9.3,3.6,1,1,1,2006,14.8,Mixed,1,Cross-platform,Kids,Freemium,Strategy
+5051,Game_51,43.6,Realistic,1,6.7,2.1,8,0,0,2003,3.7,Positive,1,Mobile,All Ages,Premium,Platformer
+5052,Game_52,56.5,Cartoon,3,4.0,4.8,15,0,1,2003,4.5,Positive,1,Cross-platform,Kids,Paid,Shooter
+5053,Game_53,31.5,Realistic,3,1.7,3.5,9,1,0,2004,2.4,Mixed,0,Console,Kids,Paid,Adventure
+5054,Game_54,64.7,Realistic,3,5.0,4.1,11,1,1,2010,1.7,Positive,1,Cross-platform,All Ages,Free,Sports
+5055,Game_55,44.8,Minimalist,1,9.0,1.5,6,0,1,2019,0.5,Positive,1,Mobile,Adults,Paid,Platformer
+5056,Game_56,14.8,Minimalist,4,6.7,3.5,14,1,0,2010,1.7,Positive,1,PC,Adults,Paid,Puzzle
+5057,Game_57,49.1,Pixel,4,4.4,3.6,11,0,1,2019,8.6,Positive,1,PC,Kids,Premium,Shooter
+5058,Game_58,10.0,Minimalist,1,1.8,1.0,17,0,1,2018,8.2,Positive,1,Cross-platform,All Ages,Premium,Platformer
+5059,Game_59,72.3,Anime,1,5.2,3.0,15,0,0,2010,33.1,Negative,0,Mobile,Teens,Free,Strategy
+5060,Game_60,47.9,Cartoon,4,4.4,2.6,9,0,0,2006,6.3,Mixed,1,Cross-platform,Teens,Freemium,RPG
+5061,Game_61,61.1,Cartoon,1,3.9,3.7,1,1,0,2013,33.0,Positive,1,Cross-platform,Kids,Premium,RPG
+5062,Game_62,53.4,Cartoon,3,4.5,2.8,16,0,1,2023,10.8,Positive,0,Console,Adults,Paid,RPG
+5063,Game_63,36.7,Anime,2,5.1,3.6,12,0,1,2003,4.3,Mixed,0,Mobile,Kids,Paid,Simulation
+5064,Game_64,16.9,Anime,1,9.0,2.5,12,0,0,2013,23.1,Positive,1,Mobile,Teens,Paid,Simulation
+5065,Game_65,46.3,3D,5,2.8,2.3,9,0,0,2006,20.6,Negative,1,Mobile,All Ages,Free,Shooter
+5066,Game_66,44.2,3D,1,3.0,1.6,12,1,1,2013,15.1,Positive,0,PC,Kids,Premium,Sports
+5067,Game_67,48.3,Pixel,4,9.3,2.5,15,1,1,2000,9.9,Positive,1,Mobile,Kids,Freemium,Sports
+5068,Game_68,42.1,Cartoon,2,4.4,1.8,8,0,1,2017,6.7,Positive,1,PC,Adults,Paid,Simulation
+5069,Game_69,29.6,Minimalist,2,8.9,5.0,16,0,1,2010,0.0,Positive,1,PC,Adults,Premium,Horror
+5070,Game_70,10.0,Anime,5,8.7,4.7,12,1,0,2024,25.2,Mixed,1,PC,All Ages,Freemium,Strategy
+5071,Game_71,29.8,Realistic,4,9.7,4.9,4,0,1,2004,0.8,Positive,0,PC,Kids,Premium,Shooter
+5072,Game_72,60.5,Minimalist,3,8.0,2.5,8,1,1,2010,12.4,Positive,1,Console,All Ages,Free,Shooter
+5073,Game_73,32.9,Anime,2,4.6,2.7,7,0,0,2023,3.9,Negative,1,Cross-platform,Kids,Paid,Sports
+5074,Game_74,36.3,Minimalist,1,2.0,3.4,17,1,1,2004,1.3,Positive,1,PC,Kids,Free,Strategy
+5075,Game_75,35.9,Realistic,3,8.4,4.1,2,0,0,2013,4.9,Positive,1,Mobile,Kids,Free,Shooter
+5076,Game_76,46.5,Pixel,2,2.7,3.5,12,0,0,2000,0.0,Positive,0,Cross-platform,Kids,Freemium,RPG
+5077,Game_77,45.9,Minimalist,4,4.8,2.5,15,0,0,2015,8.8,Positive,1,PC,Adults,Premium,Platformer
+5078,Game_78,67.0,Realistic,2,7.7,2.3,2,0,0,2006,0.7,Positive,1,Mobile,Kids,Free,Horror
+5079,Game_79,79.5,Cartoon,1,2.2,2.1,1,0,1,2004,2.2,Mixed,0,PC,Teens,Freemium,Puzzle
+5080,Game_80,40.4,Cartoon,2,9.7,3.4,6,1,1,2007,4.1,Positive,0,Console,All Ages,Paid,Horror
+5081,Game_81,29.2,Cartoon,1,1.4,4.0,9,1,0,2011,16.9,Mixed,0,Mobile,Kids,Freemium,Horror
+5082,Game_82,48.6,Pixel,4,1.4,2.5,15,0,1,2016,7.3,Negative,0,PC,Kids,Premium,Strategy
+5083,Game_83,63.0,Realistic,1,8.5,1.3,9,1,1,2024,15.3,Positive,0,Console,Adults,Paid,Adventure
+5084,Game_84,70.8,Realistic,2,6.2,2.1,5,1,0,2019,3.0,Positive,1,PC,All Ages,Paid,Platformer
+5085,Game_85,40.9,Minimalist,5,4.1,2.7,5,0,0,2010,3.1,Positive,1,Console,Kids,Free,Strategy
+5086,Game_86,23.7,Realistic,2,3.8,2.2,18,0,1,2002,11.5,Positive,1,Mobile,All Ages,Paid,Puzzle
+5087,Game_87,55.1,Cartoon,3,8.5,3.6,12,0,1,2018,29.4,Mixed,0,Console,Teens,Premium,Sports
+5088,Game_88,50.3,Anime,3,9.7,4.5,16,0,1,2020,13.8,Positive,0,Cross-platform,Teens,Free,Shooter
+5089,Game_89,34.6,Minimalist,5,9.8,1.6,17,0,0,2020,30.7,Negative,1,PC,Kids,Free,Sports
+5090,Game_90,10.3,Minimalist,2,4.6,2.6,5,1,1,2004,0.5,Positive,1,Console,All Ages,Freemium,Simulation
+5091,Game_91,69.4,Realistic,3,6.7,2.6,10,0,0,2022,3.5,Mixed,1,PC,Teens,Premium,Strategy
+5092,Game_92,51.4,Minimalist,1,3.0,3.7,19,0,0,2023,31.2,Mixed,1,Console,Adults,Premium,Shooter
+5093,Game_93,47.5,Pixel,1,9.4,1.7,3,1,1,2018,4.9,Negative,0,PC,Teens,Free,Simulation
+5094,Game_94,25.8,Realistic,5,3.4,1.2,14,0,1,2018,39.6,Mixed,0,PC,Kids,Freemium,Platformer
+5095,Game_95,43.8,Pixel,5,1.8,1.2,8,1,1,2023,0.1,Positive,1,Mobile,Teens,Freemium,RPG
+5096,Game_96,62.4,Anime,3,4.5,4.9,12,0,0,2002,5.9,Positive,1,Mobile,All Ages,Premium,RPG
+5097,Game_97,54.9,Realistic,1,6.9,3.4,9,1,0,2018,11.0,Positive,1,Mobile,Adults,Free,Puzzle
+5098,Game_98,45.4,3D,3,4.4,3.7,7,0,0,2017,1.3,Positive,1,PC,All Ages,Freemium,Simulation
+5099,Game_99,39.2,Anime,5,5.6,4.3,19,0,1,2013,8.1,Mixed,0,PC,Teens,Freemium,Simulation
+5100,Game_100,55.2,Pixel,1,8.3,3.1,11,0,0,2016,4.3,Negative,1,Console,Teens,Premium,Simulation
+5101,Game_101,31.8,Minimalist,1,3.0,2.4,10,1,1,2024,1.2,Positive,1,Mobile,All Ages,Freemium,Shooter
+5102,Game_102,87.7,Pixel,2,6.8,2.6,9,0,0,2007,4.7,Positive,1,PC,Kids,Paid,RPG
+5103,Game_103,23.2,Anime,3,8.5,3.2,6,1,1,2007,7.3,Positive,0,PC,Adults,Paid,Adventure
+5104,Game_104,32.6,Anime,1,2.7,3.3,12,1,1,2002,7.8,Positive,0,Console,All Ages,Freemium,Puzzle
+5105,Game_105,67.7,3D,2,2.8,5.0,19,1,0,2022,10.8,Positive,0,Cross-platform,All Ages,Free,Simulation
+5106,Game_106,24.3,Realistic,3,9.5,2.8,5,0,0,2007,13.4,Positive,0,PC,Kids,Premium,Adventure
+5107,Game_107,56.0,3D,5,6.5,1.8,9,1,0,2015,9.3,Positive,1,PC,Kids,Paid,Strategy
+5108,Game_108,44.0,3D,3,7.4,4.1,2,0,0,2004,19.4,Positive,0,PC,Teens,Premium,Puzzle
+5109,Game_109,63.5,Cartoon,1,9.2,2.3,8,0,0,2016,7.4,Mixed,1,PC,Teens,Paid,Horror
+5110,Game_110,55.9,Realistic,4,7.1,3.0,10,0,0,2007,16.2,Mixed,1,Mobile,Kids,Free,Sports
+5111,Game_111,64.6,Minimalist,5,7.6,3.1,1,0,0,2019,1.2,Positive,0,Console,Kids,Premium,Shooter
+5112,Game_112,28.8,Pixel,4,8.5,3.0,4,1,1,2005,9.7,Positive,1,PC,All Ages,Premium,Simulation
+5113,Game_113,46.1,Realistic,5,7.5,4.0,7,1,1,2019,11.0,Mixed,0,Cross-platform,All Ages,Paid,RPG
+5114,Game_114,42.3,Anime,1,5.4,1.5,7,1,0,2024,4.6,Positive,1,Cross-platform,All Ages,Paid,Shooter
+5115,Game_115,45.7,Minimalist,3,1.5,1.1,18,1,0,2015,32.9,Positive,1,Cross-platform,Adults,Freemium,Puzzle
+5116,Game_116,43.2,Anime,1,6.5,1.9,4,1,1,2024,9.6,Positive,1,PC,All Ages,Freemium,Shooter
+5117,Game_117,62.7,Minimalist,2,7.3,3.7,7,1,0,2008,1.5,Positive,1,PC,Adults,Premium,RPG
+5118,Game_118,32.9,Anime,4,8.7,2.3,14,1,0,2004,5.4,Positive,0,Mobile,Kids,Paid,Sports
+5119,Game_119,37.9,Cartoon,2,4.1,1.3,17,0,0,2004,12.4,Positive,1,Console,Adults,Premium,Simulation
+5120,Game_120,34.9,3D,3,2.0,2.1,8,0,1,2001,1.4,Negative,1,PC,Kids,Free,Simulation
+5121,Game_121,40.1,Minimalist,5,2.2,1.5,4,0,1,2003,0.0,Mixed,1,Console,Adults,Premium,RPG
+5122,Game_122,23.8,Pixel,1,3.1,3.0,3,0,0,2022,6.4,Positive,0,Mobile,Adults,Free,Adventure
+5123,Game_123,38.6,Anime,5,3.5,4.0,17,1,0,2013,4.5,Positive,1,PC,Kids,Free,Horror
+5124,Game_124,34.6,Minimalist,5,3.3,3.4,6,1,1,2009,0.4,Positive,0,Cross-platform,Adults,Premium,Strategy
+5125,Game_125,14.7,Anime,3,2.8,2.0,1,0,0,2017,8.3,Positive,0,Console,All Ages,Freemium,Shooter
+5126,Game_126,32.9,3D,4,4.8,4.3,7,1,1,2002,0.3,Mixed,1,PC,Kids,Freemium,Platformer
+5127,Game_127,49.6,Cartoon,1,1.2,4.2,5,1,1,2020,24.2,Mixed,1,Console,Teens,Paid,Simulation
+5128,Game_128,29.3,Pixel,3,2.6,3.3,3,0,1,2018,60.0,Mixed,0,PC,Adults,Freemium,Platformer
+5129,Game_129,59.3,3D,3,7.8,3.5,9,0,0,2011,47.3,Mixed,0,PC,Adults,Paid,Platformer
+5130,Game_130,45.1,Pixel,3,2.3,3.4,7,1,0,2013,10.9,Positive,1,Cross-platform,Adults,Paid,Adventure
+5131,Game_131,10.0,Minimalist,2,3.0,3.6,2,1,0,2009,10.4,Mixed,0,Console,Teens,Paid,Strategy
+5132,Game_132,35.5,Minimalist,1,6.6,3.4,18,0,1,2003,22.0,Mixed,0,Cross-platform,All Ages,Free,Adventure
+5133,Game_133,59.1,Anime,4,9.1,2.6,8,0,1,2006,7.0,Positive,1,Cross-platform,Kids,Free,Horror
+5134,Game_134,18.3,3D,1,7.2,3.7,2,0,1,2024,0.1,Positive,1,Cross-platform,Adults,Paid,Adventure
+5135,Game_135,59.7,Cartoon,1,5.1,2.0,16,0,1,2023,2.1,Mixed,1,PC,Kids,Premium,Shooter
+5136,Game_136,10.0,Realistic,2,6.0,2.4,13,1,1,2000,1.2,Mixed,1,Cross-platform,All Ages,Premium,RPG
+5137,Game_137,13.1,3D,1,8.0,4.3,8,1,1,2005,4.3,Positive,0,PC,All Ages,Freemium,Strategy
+5138,Game_138,68.0,3D,3,7.5,4.1,16,0,1,2000,4.8,Positive,0,PC,Kids,Premium,Sports
+5139,Game_139,60.2,Minimalist,5,8.9,2.3,8,0,0,2006,3.7,Mixed,1,Mobile,Kids,Paid,Horror
+5140,Game_140,69.9,Pixel,3,6.7,2.2,19,0,0,2003,7.3,Mixed,0,Mobile,Teens,Freemium,Strategy
+5141,Game_141,55.7,Realistic,4,4.1,2.5,4,1,0,2016,5.8,Negative,0,Mobile,All Ages,Free,RPG
+5142,Game_142,23.7,3D,1,6.6,3.8,1,0,1,2019,20.4,Mixed,1,Cross-platform,Kids,Premium,Strategy
+5143,Game_143,88.2,3D,1,4.3,2.9,12,0,1,2012,10.6,Negative,0,Mobile,Teens,Freemium,RPG
+5144,Game_144,34.8,Minimalist,1,7.5,4.3,14,0,0,2013,15.7,Positive,0,Console,All Ages,Free,Horror
+5145,Game_145,48.5,3D,2,4.9,1.5,15,0,1,2017,30.2,Positive,1,PC,Teens,Premium,Platformer
+5146,Game_146,57.9,Minimalist,4,8.3,1.2,11,0,0,2012,3.6,Mixed,1,Console,Kids,Paid,Puzzle
+5147,Game_147,66.6,Minimalist,4,1.5,3.2,17,0,1,2009,16.0,Positive,1,Mobile,Teens,Paid,Adventure
+5148,Game_148,79.0,Pixel,1,6.4,1.7,18,1,0,2014,17.0,Positive,0,PC,All Ages,Free,Simulation
+5149,Game_149,53.4,Realistic,5,7.0,1.2,1,0,0,2011,3.3,Positive,1,Cross-platform,All Ages,Free,RPG
+5150,Game_150,16.1,Pixel,2,7.6,5.0,2,1,0,2019,23.0,Positive,0,Cross-platform,Kids,Free,Shooter
+5151,Game_151,34.3,3D,2,10.0,3.0,1,1,1,2009,23.6,Positive,1,Console,All Ages,Premium,Puzzle
+5152,Game_152,10.0,Minimalist,5,5.5,4.9,5,1,0,2006,8.5,Positive,1,Cross-platform,All Ages,Paid,Shooter
+5153,Game_153,45.5,Pixel,3,2.4,2.0,9,0,0,2009,22.7,Positive,1,Cross-platform,All Ages,Free,Horror
+5154,Game_154,35.4,Minimalist,4,9.3,4.1,12,1,1,2000,6.7,Mixed,1,Console,Teens,Freemium,Platformer
+5155,Game_155,21.8,Pixel,1,9.7,1.4,13,0,0,2019,22.8,Positive,0,Cross-platform,Adults,Freemium,Adventure
+5156,Game_156,75.5,Minimalist,2,7.5,2.5,2,0,1,2000,1.5,Mixed,0,Cross-platform,All Ages,Freemium,Simulation
+5157,Game_157,71.9,3D,2,4.8,1.6,9,1,1,2009,6.0,Positive,0,Console,Teens,Freemium,RPG
+5158,Game_158,10.0,Cartoon,5,8.1,4.3,1,0,0,2010,19.1,Mixed,1,PC,Kids,Paid,Strategy
+5159,Game_159,64.2,Anime,1,9.6,4.0,2,0,1,2023,5.3,Positive,1,Mobile,All Ages,Paid,Horror
+5160,Game_160,54.6,3D,1,7.1,2.5,13,0,1,2019,21.7,Mixed,1,Console,Kids,Free,Strategy
+5161,Game_161,32.2,Realistic,2,6.3,3.7,10,1,0,2018,10.5,Positive,1,Mobile,Adults,Paid,Strategy
+5162,Game_162,63.5,Anime,1,7.6,2.5,7,0,0,2013,23.6,Negative,0,Mobile,Adults,Freemium,Shooter
+5163,Game_163,59.2,Minimalist,5,7.1,3.3,1,1,0,2010,15.9,Mixed,0,PC,Adults,Free,Simulation
+5164,Game_164,20.7,3D,2,1.8,3.0,12,0,1,2016,5.9,Positive,1,PC,Adults,Free,Sports
+5165,Game_165,61.3,Minimalist,4,9.5,3.3,6,1,1,2014,8.1,Positive,1,PC,Adults,Freemium,Adventure
+5166,Game_166,46.5,Cartoon,3,8.8,2.1,6,0,1,2012,7.4,Negative,1,Mobile,Teens,Premium,Strategy
+5167,Game_167,27.9,Realistic,1,3.8,1.5,14,0,0,2019,5.4,Mixed,1,Mobile,All Ages,Free,Platformer
+5168,Game_168,66.9,Cartoon,3,1.8,3.5,12,1,1,2008,22.9,Positive,1,Cross-platform,All Ages,Free,Sports
+5169,Game_169,59.7,Realistic,4,1.0,4.1,16,1,0,2000,8.9,Positive,0,Console,Kids,Freemium,Puzzle
+5170,Game_170,33.9,3D,5,7.9,4.9,11,1,1,2014,4.9,Positive,1,PC,Teens,Free,Shooter
+5171,Game_171,37.2,Pixel,3,5.9,4.6,13,0,1,2021,16.1,Positive,1,Console,All Ages,Premium,RPG
+5172,Game_172,33.4,Minimalist,4,1.4,1.4,11,1,0,2007,2.4,Negative,1,Cross-platform,All Ages,Paid,Simulation
+5173,Game_173,32.3,Cartoon,4,5.9,2.5,15,1,1,2022,1.8,Positive,1,PC,All Ages,Premium,Horror
+5174,Game_174,30.9,Anime,2,8.8,3.0,4,1,0,2007,20.4,Mixed,1,Mobile,Adults,Freemium,Strategy
+5175,Game_175,46.4,3D,2,9.8,2.9,4,0,0,2008,25.1,Positive,1,Mobile,Teens,Free,Adventure
+5176,Game_176,68.7,Anime,3,8.8,4.7,14,1,0,2018,6.1,Negative,1,Console,All Ages,Paid,Simulation
+5177,Game_177,41.8,Realistic,2,8.2,2.7,17,0,1,2011,3.0,Mixed,1,Console,Kids,Freemium,Horror
+5178,Game_178,75.0,Realistic,2,1.3,2.6,17,1,0,2014,12.2,Mixed,0,Console,Teens,Premium,Adventure
+5179,Game_179,19.0,Minimalist,2,7.7,2.3,15,1,0,2005,6.6,Positive,1,Mobile,Teens,Free,Strategy
+5180,Game_180,34.8,Minimalist,5,6.0,2.3,8,0,0,2013,16.2,Mixed,1,Cross-platform,Kids,Freemium,Platformer
+5181,Game_181,53.3,3D,4,1.6,1.1,9,0,1,2019,13.8,Mixed,1,Console,All Ages,Paid,Sports
+5182,Game_182,33.1,Realistic,5,3.4,1.0,11,1,0,2017,8.2,Mixed,1,Console,Teens,Premium,Shooter
+5183,Game_183,49.4,Realistic,2,8.2,3.9,12,0,0,2008,28.5,Positive,0,Console,Teens,Premium,Simulation
+5184,Game_184,10.0,Minimalist,2,2.6,2.7,13,1,0,2002,3.2,Mixed,0,Cross-platform,All Ages,Freemium,RPG
+5185,Game_185,23.6,Minimalist,2,1.2,4.2,7,0,1,2004,2.5,Mixed,0,PC,All Ages,Free,Platformer
+5186,Game_186,32.2,Pixel,2,2.3,4.5,15,1,0,2004,23.5,Positive,1,Cross-platform,Kids,Freemium,Platformer
+5187,Game_187,62.7,Pixel,5,9.1,3.3,3,0,0,2002,6.4,Positive,1,PC,Kids,Premium,RPG
+5188,Game_188,37.7,Minimalist,5,4.6,1.5,17,0,1,2021,26.0,Mixed,0,PC,Adults,Free,Adventure
+5189,Game_189,74.3,Pixel,5,8.2,1.7,19,0,0,2002,7.0,Positive,1,Mobile,Kids,Paid,Puzzle
+5190,Game_190,10.0,Pixel,1,2.8,3.5,19,0,0,2009,6.1,Positive,1,PC,Kids,Freemium,Shooter
+5191,Game_191,45.4,Anime,3,6.3,4.7,14,1,1,2019,25.2,Positive,1,Console,Teens,Premium,Platformer
+5192,Game_192,50.2,3D,4,8.0,3.6,1,0,1,2023,12.5,Mixed,1,PC,Adults,Free,Puzzle
+5193,Game_193,66.2,Realistic,1,2.8,1.2,19,0,0,2014,14.5,Negative,0,PC,Teens,Premium,Adventure
+5194,Game_194,99.1,Cartoon,2,4.1,4.5,14,0,0,2021,18.4,Positive,0,PC,Kids,Free,Strategy
+5195,Game_195,53.5,Pixel,1,5.4,3.3,19,1,0,2019,11.9,Mixed,0,Cross-platform,All Ages,Free,Adventure
+5196,Game_196,34.5,Pixel,3,9.6,4.6,5,1,1,2010,4.1,Mixed,1,Cross-platform,Kids,Freemium,RPG
+5197,Game_197,22.4,Minimalist,1,7.0,3.3,13,1,1,2014,0.3,Positive,1,Cross-platform,Teens,Free,Shooter
+5198,Game_198,65.0,Pixel,4,1.8,3.3,10,0,1,2001,1.9,Mixed,1,Cross-platform,Adults,Free,Adventure
+5199,Game_199,45.0,Anime,3,1.1,3.4,8,1,1,2001,18.4,Mixed,1,PC,Kids,Free,Adventure
+5200,Game_200,42.0,3D,5,1.8,3.4,7,1,0,2022,9.6,Negative,1,Console,All Ages,Free,Horror
+5201,Game_201,10.6,Pixel,1,4.4,4.9,2,1,0,2024,9.9,Negative,1,Cross-platform,All Ages,Paid,Horror
+5202,Game_202,17.1,3D,2,9.2,1.5,16,0,1,2010,1.7,Positive,0,Cross-platform,Adults,Paid,Platformer
+5203,Game_203,22.3,Minimalist,4,3.0,4.8,10,0,0,2004,5.4,Mixed,1,PC,All Ages,Paid,Puzzle
+5204,Game_204,10.0,Cartoon,3,3.7,3.2,10,0,1,2002,4.4,Positive,1,PC,Teens,Premium,Simulation
+5205,Game_205,44.7,Minimalist,2,7.6,3.7,15,0,0,2000,14.0,Mixed,0,Console,All Ages,Premium,RPG
+5206,Game_206,60.1,3D,2,5.7,1.3,10,0,0,2006,4.9,Positive,1,Mobile,Kids,Paid,Simulation
+5207,Game_207,76.0,Cartoon,2,3.7,4.5,12,0,1,2019,3.8,Positive,1,Mobile,Adults,Free,Sports
+5208,Game_208,47.0,3D,3,7.1,3.2,2,0,1,2006,11.2,Positive,1,Console,Teens,Paid,RPG
+5209,Game_209,53.8,3D,3,9.6,4.9,2,0,0,2013,15.9,Mixed,0,PC,Adults,Paid,Strategy
+5210,Game_210,41.7,Minimalist,1,5.6,4.5,1,0,0,2004,14.0,Positive,1,Cross-platform,Kids,Free,Adventure
+5211,Game_211,38.7,Realistic,4,3.9,4.0,19,0,1,2001,9.0,Positive,0,Console,All Ages,Premium,Sports
+5212,Game_212,63.9,Cartoon,4,9.7,2.2,19,0,0,2002,10.7,Positive,1,PC,Teens,Free,Sports
+5213,Game_213,60.6,Cartoon,3,4.1,3.5,18,1,1,2020,9.7,Positive,1,Console,All Ages,Free,Horror
+5214,Game_214,31.1,Anime,4,1.1,2.6,16,1,1,2021,4.7,Positive,1,Mobile,Kids,Freemium,Platformer
+5215,Game_215,79.2,Minimalist,2,7.3,1.4,5,0,1,2021,12.7,Mixed,0,PC,All Ages,Paid,RPG
+5216,Game_216,66.7,Anime,4,5.4,1.1,8,1,1,2019,1.8,Mixed,1,PC,Adults,Paid,Horror
+5217,Game_217,43.8,Cartoon,2,9.4,1.6,9,1,0,2022,40.6,Positive,0,Cross-platform,Teens,Free,Simulation
+5218,Game_218,53.2,Pixel,5,5.2,2.9,14,1,0,2005,1.5,Positive,0,Mobile,Adults,Premium,RPG
+5219,Game_219,35.8,3D,2,2.6,2.2,19,0,0,2017,5.9,Negative,1,PC,Kids,Freemium,Adventure
+5220,Game_220,11.0,3D,5,1.9,2.0,1,1,1,2019,8.0,Negative,1,Cross-platform,All Ages,Paid,Horror
+5221,Game_221,59.9,3D,3,9.1,2.7,12,1,0,2020,6.0,Negative,1,Cross-platform,All Ages,Paid,RPG
+5222,Game_222,47.8,Realistic,4,3.6,3.7,7,0,1,2010,6.1,Positive,1,Cross-platform,Kids,Premium,Adventure
+5223,Game_223,106.5,Cartoon,3,8.2,4.0,1,1,1,2015,5.4,Positive,0,Cross-platform,All Ages,Premium,Sports
+5224,Game_224,59.5,Realistic,3,9.4,1.5,7,0,0,2005,4.8,Positive,1,Console,All Ages,Premium,Simulation
+5225,Game_225,49.9,Pixel,1,2.9,2.2,17,0,1,2009,4.0,Mixed,1,Mobile,Adults,Free,Puzzle
+5226,Game_226,29.2,Anime,5,5.2,1.5,11,1,1,2010,5.1,Mixed,1,Mobile,Adults,Paid,Horror
+5227,Game_227,32.8,Pixel,5,2.9,3.3,15,0,0,2015,2.7,Positive,1,Mobile,All Ages,Free,Puzzle
+5228,Game_228,73.2,Minimalist,4,8.2,3.5,7,0,1,2009,1.6,Negative,1,Console,All Ages,Freemium,Shooter
+5229,Game_229,40.3,Realistic,1,8.6,2.6,2,0,0,2015,10.4,Mixed,0,PC,Kids,Freemium,Strategy
+5230,Game_230,38.5,Pixel,5,2.6,4.0,14,1,1,2002,1.6,Positive,1,PC,All Ages,Free,Platformer
+5231,Game_231,50.3,Minimalist,5,2.1,4.3,10,1,0,2013,1.2,Positive,1,Console,Adults,Paid,Adventure
+5232,Game_232,32.3,Anime,1,9.8,4.7,13,1,0,2024,2.3,Mixed,1,Cross-platform,Teens,Free,RPG
+5233,Game_233,36.5,Realistic,4,5.1,4.2,2,0,0,2001,3.2,Mixed,1,Console,Kids,Premium,Simulation
+5234,Game_234,38.7,Minimalist,1,8.7,3.4,19,0,1,2020,7.5,Positive,0,Mobile,Adults,Freemium,RPG
+5235,Game_235,26.5,Realistic,4,1.3,4.9,7,0,1,2006,5.7,Negative,1,PC,Kids,Paid,Adventure
+5236,Game_236,53.6,Anime,3,9.2,3.9,5,1,1,2018,1.6,Mixed,1,Console,All Ages,Freemium,Adventure
+5237,Game_237,54.3,Realistic,1,2.1,3.6,10,1,1,2024,29.1,Mixed,1,Console,Kids,Premium,Horror
+5238,Game_238,60.0,Realistic,5,4.0,4.1,11,0,0,2018,9.5,Positive,1,PC,Teens,Free,RPG
+5239,Game_239,44.9,Minimalist,2,8.9,4.2,11,1,1,2010,1.2,Negative,0,Cross-platform,All Ages,Paid,Strategy
+5240,Game_240,10.0,Realistic,2,7.9,1.5,18,0,1,2013,2.6,Mixed,1,Cross-platform,Teens,Premium,Shooter
+5241,Game_241,82.2,3D,1,2.5,1.4,3,0,1,2005,17.8,Positive,1,PC,Teens,Paid,Strategy
+5242,Game_242,36.4,Anime,2,7.1,2.8,3,0,1,2019,3.3,Positive,1,Cross-platform,Teens,Premium,Horror
+5243,Game_243,14.9,3D,1,9.6,4.9,16,0,0,2007,1.3,Positive,1,Mobile,All Ages,Free,Shooter
+5244,Game_244,45.1,Anime,1,5.3,3.1,15,1,0,2022,10.6,Positive,1,Cross-platform,Teens,Freemium,Adventure
+5245,Game_245,31.4,Minimalist,3,6.6,4.8,19,0,1,2012,0.2,Negative,1,Mobile,Kids,Free,RPG
+5246,Game_246,18.4,Anime,2,5.7,4.0,16,0,1,2022,1.6,Mixed,1,Mobile,Kids,Premium,Puzzle
+5247,Game_247,65.6,Anime,2,3.6,1.7,3,0,0,2024,9.1,Negative,1,PC,Kids,Paid,Strategy
+5248,Game_248,44.8,3D,1,1.1,2.6,4,0,0,2014,3.7,Positive,1,Console,Teens,Paid,Adventure
+5249,Game_249,53.1,Minimalist,5,7.5,2.5,3,1,1,2010,1.1,Negative,1,PC,All Ages,Freemium,Strategy
+5250,Game_250,39.2,Pixel,1,3.7,4.3,14,1,0,2006,3.3,Positive,0,Mobile,Adults,Paid,RPG
+5251,Game_251,56.9,Realistic,2,8.1,2.8,9,0,1,2008,1.6,Positive,0,PC,Adults,Paid,Strategy
+5252,Game_252,42.1,3D,3,5.6,1.1,4,1,1,2004,5.8,Mixed,1,PC,All Ages,Freemium,Simulation
+5253,Game_253,51.7,Minimalist,1,7.7,4.4,13,0,1,2008,6.5,Positive,0,PC,All Ages,Premium,Adventure
+5254,Game_254,58.0,Cartoon,1,8.0,2.6,6,0,1,2024,12.8,Mixed,0,Cross-platform,Adults,Free,Sports
+5255,Game_255,49.6,Pixel,4,2.0,2.9,18,0,0,2014,7.9,Positive,1,Mobile,Adults,Paid,Adventure
+5256,Game_256,40.9,Pixel,4,8.5,2.1,5,1,1,2023,5.3,Positive,0,Mobile,Teens,Free,Simulation
+5257,Game_257,38.5,Pixel,4,1.2,1.9,15,1,1,2008,7.8,Positive,1,Mobile,Teens,Freemium,Sports
+5258,Game_258,15.4,Realistic,2,7.1,4.7,7,1,1,2011,25.9,Positive,1,Console,Adults,Premium,Sports
+5259,Game_259,76.7,Cartoon,3,5.9,3.5,14,0,0,2012,12.3,Positive,1,PC,Adults,Premium,Puzzle
+5260,Game_260,34.1,Minimalist,5,8.0,2.7,17,0,0,2023,2.4,Positive,0,Mobile,All Ages,Free,RPG
+5261,Game_261,34.6,Realistic,3,7.8,1.4,4,1,0,2010,7.4,Positive,1,Console,Teens,Freemium,Shooter
+5262,Game_262,52.1,Pixel,4,7.7,3.2,7,0,1,2009,6.8,Negative,0,Console,Kids,Premium,Sports
+5263,Game_263,44.4,Minimalist,3,7.9,2.9,12,0,0,2005,7.0,Positive,1,PC,Teens,Freemium,Puzzle
+5264,Game_264,41.0,Cartoon,1,8.6,2.2,1,1,0,2001,0.4,Mixed,1,Mobile,All Ages,Freemium,Strategy
+5265,Game_265,28.6,Pixel,2,1.7,1.3,12,0,1,2008,3.6,Positive,0,Console,Kids,Free,Strategy
+5266,Game_266,67.0,Minimalist,4,4.6,3.8,15,1,1,2005,4.8,Positive,1,Cross-platform,Kids,Premium,Sports
+5267,Game_267,38.9,Anime,4,4.1,4.7,1,1,0,2003,8.6,Positive,1,PC,Adults,Free,Adventure
+5268,Game_268,67.0,Realistic,4,2.9,1.7,15,1,1,2010,0.4,Positive,1,Console,Kids,Paid,RPG
+5269,Game_269,37.9,Cartoon,1,3.1,1.3,17,1,1,2021,0.7,Positive,1,Mobile,Adults,Free,Puzzle
+5270,Game_270,76.1,Cartoon,2,3.6,4.4,10,1,0,2009,10.0,Positive,1,Mobile,Teens,Paid,Platformer
+5271,Game_271,63.1,Minimalist,2,3.1,2.2,8,0,0,2007,0.8,Positive,1,PC,Teens,Freemium,Sports
+5272,Game_272,58.8,3D,2,4.8,3.9,1,0,1,2021,11.2,Mixed,1,Console,Kids,Premium,RPG
+5273,Game_273,54.1,Anime,4,8.8,2.0,2,0,1,2024,32.0,Positive,1,Mobile,Adults,Free,Adventure
+5274,Game_274,54.1,3D,3,4.6,3.8,14,1,1,2023,9.2,Mixed,1,Mobile,All Ages,Freemium,Adventure
+5275,Game_275,76.9,3D,2,3.4,4.3,4,0,0,2017,4.0,Positive,0,Mobile,Adults,Paid,Puzzle
+5276,Game_276,68.3,Anime,2,9.6,3.6,15,0,0,2017,7.1,Negative,1,Mobile,Teens,Free,Sports
+5277,Game_277,35.4,Minimalist,4,7.6,4.3,12,0,1,2012,4.7,Mixed,1,Cross-platform,Kids,Freemium,Simulation
+5278,Game_278,32.9,Pixel,2,8.3,2.6,10,0,0,2007,5.1,Positive,1,PC,Teens,Premium,Puzzle
+5279,Game_279,51.8,Cartoon,4,3.9,3.9,5,1,1,2023,14.1,Positive,1,PC,Teens,Freemium,Simulation
+5280,Game_280,33.5,3D,2,6.8,1.5,1,0,0,2019,15.9,Positive,1,Cross-platform,Teens,Freemium,Horror
+5281,Game_281,41.3,Realistic,1,4.8,3.6,8,1,0,2012,33.3,Positive,1,Console,Adults,Freemium,Puzzle
+5282,Game_282,52.7,Anime,2,7.5,3.8,7,1,1,2003,8.2,Positive,1,Console,All Ages,Freemium,Horror
+5283,Game_283,51.9,Cartoon,5,3.5,3.5,12,0,0,2007,33.6,Negative,1,Console,Kids,Premium,Puzzle
+5284,Game_284,68.3,Minimalist,2,2.9,3.5,14,1,0,2005,7.1,Positive,0,Cross-platform,All Ages,Free,Sports
+5285,Game_285,30.7,Realistic,2,2.4,4.0,14,1,0,2023,3.7,Positive,1,Console,All Ages,Premium,Shooter
+5286,Game_286,38.2,Minimalist,3,10.0,2.6,9,1,1,2019,36.7,Positive,1,Cross-platform,All Ages,Free,Adventure
+5287,Game_287,35.2,Cartoon,2,2.0,4.9,2,1,1,2011,13.6,Positive,0,Mobile,All Ages,Free,Sports
+5288,Game_288,52.1,Realistic,1,1.8,4.5,13,1,0,2018,7.8,Positive,0,Console,Kids,Premium,Platformer
+5289,Game_289,46.9,Anime,5,1.8,1.7,10,0,0,2008,12.7,Positive,1,Mobile,Teens,Freemium,Horror
+5290,Game_290,53.9,Cartoon,3,6.9,1.7,3,1,0,2018,21.4,Positive,1,Console,Adults,Freemium,Shooter
+5291,Game_291,68.3,Realistic,5,2.8,3.0,10,0,0,2015,9.9,Positive,0,Console,Teens,Freemium,Platformer
+5292,Game_292,73.7,Cartoon,4,5.1,3.7,12,0,1,2014,8.0,Positive,1,Cross-platform,Teens,Free,Horror
+5293,Game_293,38.1,Minimalist,5,6.1,1.2,12,0,1,2009,2.1,Positive,0,Console,Adults,Paid,Puzzle
+5294,Game_294,54.0,Anime,4,9.1,2.3,12,1,0,2014,23.8,Negative,1,PC,Kids,Paid,Strategy
+5295,Game_295,35.0,Minimalist,4,7.0,4.6,3,0,0,2017,14.4,Positive,0,Cross-platform,Kids,Freemium,Platformer
+5296,Game_296,55.2,Anime,5,1.7,4.9,11,1,0,2010,18.2,Positive,0,Console,All Ages,Free,RPG
+5297,Game_297,39.3,Minimalist,4,3.4,2.1,2,1,1,2014,5.0,Positive,0,Console,Adults,Free,Simulation
+5298,Game_298,71.8,Cartoon,1,7.0,4.9,19,0,0,2014,3.2,Negative,1,Mobile,Kids,Paid,Platformer
+5299,Game_299,69.6,3D,3,8.6,4.6,16,0,0,2012,0.3,Negative,0,PC,Kids,Freemium,RPG
+5300,Game_300,51.3,Anime,2,8.2,2.6,14,0,0,2012,12.2,Mixed,0,Cross-platform,Kids,Free,Platformer
+5301,Game_301,14.8,Anime,1,2.7,2.7,8,0,1,2013,7.2,Positive,0,Cross-platform,Teens,Paid,Strategy
+5302,Game_302,48.7,Minimalist,2,7.8,2.1,11,0,0,2013,1.4,Positive,0,Cross-platform,Kids,Paid,Puzzle
+5303,Game_303,56.0,Pixel,5,3.4,2.4,9,1,1,2001,4.8,Negative,1,Cross-platform,Kids,Freemium,Puzzle
+5304,Game_304,41.7,3D,3,9.7,4.2,10,1,1,2012,10.1,Positive,1,Console,Teens,Free,Strategy
+5305,Game_305,33.1,Minimalist,5,7.2,3.2,13,1,0,2022,11.3,Positive,1,Console,Adults,Freemium,Shooter
+5306,Game_306,56.6,Minimalist,1,9.2,2.9,14,0,1,2005,10.3,Mixed,1,Mobile,Kids,Premium,Adventure
+5307,Game_307,34.6,3D,4,5.3,1.4,1,1,0,2000,11.5,Mixed,1,Mobile,All Ages,Freemium,Simulation
+5308,Game_308,36.5,Realistic,4,3.1,4.8,6,1,0,2000,19.8,Positive,1,PC,Teens,Premium,RPG
+5309,Game_309,57.6,Realistic,2,7.6,4.3,12,0,1,2009,0.3,Positive,1,Console,All Ages,Free,Strategy
+5310,Game_310,57.4,Anime,1,3.7,3.8,12,1,0,2013,2.2,Mixed,1,Cross-platform,All Ages,Premium,Platformer
+5311,Game_311,79.7,Anime,3,1.0,1.6,19,0,1,2023,0.6,Mixed,1,PC,Adults,Paid,Shooter
+5312,Game_312,52.2,Minimalist,1,2.5,2.6,13,0,1,2024,6.6,Positive,1,PC,Adults,Freemium,Shooter
+5313,Game_313,36.0,Realistic,2,9.3,2.1,10,0,0,2008,0.4,Positive,0,PC,Kids,Paid,Adventure
+5314,Game_314,21.5,Pixel,3,3.4,1.1,1,0,1,2010,2.7,Positive,1,PC,Kids,Paid,Platformer
+5315,Game_315,56.9,3D,2,6.8,2.5,2,0,1,2018,11.9,Positive,0,Console,All Ages,Paid,Adventure
+5316,Game_316,39.4,3D,4,1.4,3.3,5,1,1,2012,9.8,Positive,0,Mobile,Kids,Paid,Horror
+5317,Game_317,55.6,Anime,5,7.2,2.9,14,0,0,2005,6.9,Positive,1,Console,Teens,Premium,Adventure
+5318,Game_318,66.8,Anime,1,3.9,1.4,11,1,1,2005,20.0,Positive,1,Mobile,Kids,Paid,Sports
+5319,Game_319,48.9,Minimalist,2,1.3,1.9,16,1,0,2014,1.5,Mixed,0,PC,Kids,Paid,RPG
+5320,Game_320,52.3,Pixel,5,2.7,2.6,14,0,1,2020,1.1,Positive,0,PC,Adults,Paid,RPG
+5321,Game_321,52.3,Realistic,5,5.4,3.1,17,1,1,2013,3.2,Positive,1,Console,Adults,Freemium,RPG
+5322,Game_322,23.3,Minimalist,5,4.6,1.4,7,0,0,2017,5.7,Mixed,1,PC,Teens,Freemium,Strategy
+5323,Game_323,33.8,Anime,1,6.3,3.1,15,0,0,2024,9.0,Positive,1,PC,Teens,Freemium,RPG
+5324,Game_324,74.9,Anime,3,2.2,2.0,15,1,1,2004,24.8,Positive,1,Mobile,All Ages,Paid,Simulation
+5325,Game_325,57.4,Pixel,1,8.5,1.7,11,0,1,2005,0.2,Mixed,1,Cross-platform,Teens,Paid,RPG
+5326,Game_326,37.2,Pixel,4,1.9,2.8,12,1,1,2010,0.1,Mixed,1,Cross-platform,Adults,Freemium,Puzzle
+5327,Game_327,38.7,Cartoon,3,8.6,1.3,4,0,1,2002,13.8,Positive,0,Mobile,Kids,Freemium,Puzzle
+5328,Game_328,41.3,Anime,1,6.6,3.7,15,0,1,2023,0.9,Negative,0,Cross-platform,Adults,Freemium,Simulation
+5329,Game_329,29.0,Anime,1,5.8,4.1,4,0,1,2019,17.2,Positive,1,Cross-platform,Adults,Free,Adventure
+5330,Game_330,36.0,Minimalist,2,7.2,2.9,11,1,1,2020,6.1,Positive,1,PC,Kids,Premium,Strategy
+5331,Game_331,12.8,Pixel,1,6.6,2.9,6,1,0,2003,0.6,Positive,1,Cross-platform,Kids,Premium,Simulation
+5332,Game_332,18.1,Realistic,4,9.4,4.6,2,0,1,2021,56.5,Mixed,1,Console,All Ages,Free,Shooter
+5333,Game_333,42.5,Cartoon,3,8.0,2.9,11,0,0,2013,12.0,Positive,0,Cross-platform,Teens,Paid,Platformer
+5334,Game_334,48.7,Minimalist,2,4.5,2.6,10,0,0,2009,1.7,Mixed,0,Mobile,Adults,Premium,Shooter
+5335,Game_335,30.8,Anime,5,6.2,1.4,9,1,1,2004,3.9,Positive,1,Mobile,Teens,Premium,Horror
+5336,Game_336,42.3,Cartoon,5,2.4,4.5,7,0,1,2010,3.2,Positive,1,Mobile,Teens,Premium,Strategy
+5337,Game_337,29.5,3D,5,7.8,2.3,8,1,0,2018,16.0,Positive,1,Cross-platform,Kids,Premium,Simulation
+5338,Game_338,10.0,Minimalist,2,9.7,3.9,17,1,1,2013,12.9,Mixed,1,Mobile,All Ages,Paid,Adventure
+5339,Game_339,32.1,Realistic,5,2.1,2.3,2,0,1,2004,29.7,Negative,1,Console,Adults,Premium,Sports
+5340,Game_340,59.0,Anime,1,4.3,3.7,4,0,1,2015,0.5,Mixed,0,PC,Kids,Freemium,Puzzle
+5341,Game_341,49.6,Pixel,2,5.7,4.6,14,0,1,2014,1.4,Mixed,0,Mobile,Teens,Freemium,Puzzle
+5342,Game_342,10.0,Minimalist,4,3.4,3.5,8,1,0,2005,1.8,Mixed,1,Cross-platform,All Ages,Freemium,Puzzle
+5343,Game_343,10.0,Pixel,5,2.6,2.5,2,0,1,2006,5.3,Positive,0,Cross-platform,Adults,Premium,RPG
+5344,Game_344,43.3,Anime,3,8.7,3.6,2,1,0,2021,1.4,Positive,1,Mobile,Kids,Free,Platformer
+5345,Game_345,58.8,Pixel,4,8.1,3.3,2,1,1,2015,3.8,Negative,1,Cross-platform,Adults,Paid,Strategy
+5346,Game_346,36.2,3D,3,7.5,4.1,2,0,0,2018,8.5,Mixed,1,Mobile,Adults,Freemium,Shooter
+5347,Game_347,70.6,Anime,3,7.9,2.3,13,0,1,2002,0.5,Mixed,1,Cross-platform,Adults,Premium,Platformer
+5348,Game_348,48.3,3D,3,4.9,3.6,2,0,1,2007,9.0,Mixed,1,Mobile,All Ages,Paid,Strategy
+5349,Game_349,36.8,3D,5,9.5,1.6,16,1,0,2019,5.8,Positive,0,Cross-platform,Kids,Paid,Strategy
+5350,Game_350,27.1,Pixel,1,4.8,3.7,19,0,1,2023,3.4,Mixed,1,PC,All Ages,Freemium,Platformer
+5351,Game_351,37.1,Cartoon,4,2.9,4.3,19,1,0,2016,0.2,Positive,1,Cross-platform,All Ages,Premium,Platformer
+5352,Game_352,24.1,3D,4,7.6,1.8,16,1,0,2023,2.8,Positive,1,Mobile,Teens,Freemium,Shooter
+5353,Game_353,32.5,Pixel,5,4.7,3.6,16,0,1,2023,12.7,Positive,1,Console,All Ages,Premium,Strategy
+5354,Game_354,40.9,3D,5,7.1,1.6,4,0,0,2022,25.9,Mixed,1,Console,Teens,Paid,Horror
+5355,Game_355,10.0,Minimalist,1,6.4,3.9,1,1,1,2006,3.4,Positive,1,PC,Teens,Premium,Shooter
+5356,Game_356,31.6,3D,4,1.5,3.2,6,1,1,2015,5.4,Positive,0,Console,Adults,Paid,Horror
+5357,Game_357,20.8,3D,1,4.5,1.3,8,0,0,2006,22.0,Positive,0,Console,All Ages,Premium,Shooter
+5358,Game_358,58.8,Cartoon,2,7.3,1.4,16,1,1,2015,7.4,Positive,1,PC,Kids,Free,Simulation
+5359,Game_359,10.0,3D,4,3.7,3.0,9,1,1,2004,4.7,Positive,1,Cross-platform,Teens,Paid,Shooter
+5360,Game_360,19.5,Pixel,1,4.2,4.5,1,0,0,2015,26.8,Mixed,1,Console,All Ages,Premium,Strategy
+5361,Game_361,41.2,Minimalist,2,1.3,3.6,11,0,1,2001,6.0,Mixed,0,Console,All Ages,Premium,Sports
+5362,Game_362,52.3,Minimalist,4,2.6,4.9,17,1,1,2000,1.4,Mixed,1,PC,Teens,Premium,RPG
+5363,Game_363,84.2,Anime,4,7.8,5.0,12,0,1,2001,26.4,Positive,1,Mobile,All Ages,Freemium,Platformer
+5364,Game_364,60.6,Pixel,5,2.1,1.5,3,1,0,2005,20.2,Negative,1,Cross-platform,Teens,Premium,Platformer
+5365,Game_365,28.0,Minimalist,2,5.9,2.8,9,1,0,2005,14.0,Positive,0,Cross-platform,All Ages,Freemium,RPG
+5366,Game_366,65.5,Cartoon,2,2.6,1.9,6,0,0,2018,15.2,Positive,0,Mobile,Adults,Freemium,Adventure
+5367,Game_367,19.3,Pixel,3,4.7,1.1,19,1,1,2020,12.7,Negative,1,Console,All Ages,Freemium,Strategy
+5368,Game_368,42.2,Pixel,1,3.0,4.7,19,1,0,2024,9.5,Positive,0,Cross-platform,Adults,Paid,RPG
+5369,Game_369,79.9,Anime,5,3.6,2.6,3,0,0,2016,16.2,Positive,0,Cross-platform,All Ages,Free,Adventure
+5370,Game_370,56.9,3D,4,4.6,3.0,18,1,1,2006,1.0,Positive,1,Console,Teens,Free,Simulation
+5371,Game_371,33.2,Realistic,1,4.0,1.4,10,0,1,2004,3.9,Negative,1,PC,Kids,Paid,RPG
+5372,Game_372,50.6,Anime,2,2.6,2.7,7,0,1,2024,2.2,Positive,1,PC,Kids,Free,RPG
+5373,Game_373,10.0,Realistic,5,6.5,3.1,4,0,0,2024,12.4,Positive,1,Mobile,Kids,Paid,Horror
+5374,Game_374,63.2,Realistic,3,5.8,3.8,6,1,0,2020,18.9,Positive,1,Console,Adults,Premium,Horror
+5375,Game_375,23.1,Anime,4,6.9,4.2,17,0,1,2019,1.2,Positive,0,Mobile,Teens,Freemium,Horror
+5376,Game_376,47.7,3D,3,2.5,4.1,1,0,0,2011,10.4,Positive,1,PC,Teens,Freemium,Horror
+5377,Game_377,70.6,3D,4,4.1,4.9,14,0,0,2024,0.5,Negative,1,Mobile,Kids,Freemium,Adventure
+5378,Game_378,48.9,Realistic,3,2.9,3.4,19,0,1,2021,0.5,Negative,0,Cross-platform,Teens,Free,RPG
+5379,Game_379,43.4,3D,4,4.3,2.6,6,0,1,2002,5.7,Positive,1,Console,All Ages,Premium,Shooter
+5380,Game_380,83.1,Cartoon,3,4.9,1.1,10,1,0,2007,4.5,Positive,0,Cross-platform,Adults,Free,Simulation
+5381,Game_381,54.5,Anime,2,4.5,3.2,3,1,0,2018,4.1,Positive,1,Cross-platform,Kids,Freemium,Horror
+5382,Game_382,58.3,Pixel,5,4.3,4.8,17,0,1,2018,14.8,Positive,1,Console,Kids,Paid,Sports
+5383,Game_383,57.0,Realistic,5,6.9,1.7,19,1,0,2021,27.0,Negative,0,Console,All Ages,Free,Shooter
+5384,Game_384,55.9,Cartoon,3,7.4,1.8,4,0,0,2000,31.9,Positive,0,Mobile,All Ages,Paid,Sports
+5385,Game_385,46.6,3D,2,7.5,1.8,19,1,0,2002,10.1,Positive,1,Cross-platform,Adults,Premium,Puzzle
+5386,Game_386,47.3,3D,3,8.6,1.9,2,1,1,2005,0.9,Negative,1,PC,Teens,Free,RPG
+5387,Game_387,10.0,Realistic,5,4.1,2.7,17,1,0,2013,5.9,Positive,0,Console,Adults,Free,Shooter
+5388,Game_388,33.6,Anime,4,1.8,1.5,6,1,1,2015,2.3,Negative,1,Console,Kids,Freemium,RPG
+5389,Game_389,32.8,Minimalist,4,5.4,1.3,7,1,0,2004,33.3,Positive,1,Mobile,All Ages,Paid,Strategy
+5390,Game_390,49.5,Realistic,1,4.7,3.4,1,0,1,2009,0.4,Mixed,0,Cross-platform,All Ages,Free,Simulation
+5391,Game_391,28.0,Realistic,5,5.2,4.3,10,1,1,2006,4.6,Mixed,1,PC,All Ages,Paid,RPG
+5392,Game_392,10.0,Cartoon,2,8.8,4.7,2,0,1,2006,16.4,Positive,1,Cross-platform,Kids,Freemium,Shooter
+5393,Game_393,35.0,Realistic,2,2.9,2.7,3,0,0,2015,10.7,Mixed,0,Mobile,Adults,Freemium,Simulation
+5394,Game_394,41.1,Anime,1,8.5,2.7,19,1,1,2007,8.3,Positive,0,Cross-platform,All Ages,Freemium,Shooter
+5395,Game_395,35.5,Cartoon,4,1.8,1.9,11,0,1,2024,8.5,Negative,1,Mobile,Kids,Free,Simulation
+5396,Game_396,15.5,Minimalist,5,1.4,4.1,8,0,1,2024,11.7,Mixed,0,Mobile,Teens,Paid,Puzzle
+5397,Game_397,77.8,Cartoon,5,6.2,4.8,2,0,1,2012,2.1,Negative,1,Cross-platform,Kids,Paid,Adventure
+5398,Game_398,15.4,Cartoon,5,8.8,3.2,11,1,1,2015,15.5,Mixed,1,Cross-platform,All Ages,Freemium,Shooter
+5399,Game_399,20.6,Pixel,4,1.1,3.4,5,1,1,2006,31.9,Positive,1,Mobile,Kids,Freemium,Sports
+5400,Game_400,29.1,Realistic,1,5.0,2.4,13,0,0,2012,9.5,Positive,1,Mobile,Adults,Paid,Puzzle
+5401,Game_401,72.1,Minimalist,2,2.7,2.1,11,0,1,2014,1.5,Positive,1,Mobile,Teens,Freemium,Shooter
+5402,Game_402,81.2,3D,3,1.3,3.4,5,1,1,2008,13.3,Positive,1,Cross-platform,Adults,Premium,Platformer
+5403,Game_403,39.7,3D,2,7.5,1.3,11,1,1,2019,3.1,Positive,0,Cross-platform,Adults,Free,Shooter
+5404,Game_404,35.3,Pixel,1,3.3,1.6,5,1,0,2010,69.8,Positive,1,Cross-platform,Adults,Paid,Shooter
+5405,Game_405,57.2,Pixel,2,6.8,3.3,4,0,0,2001,16.2,Mixed,1,PC,All Ages,Paid,RPG
+5406,Game_406,57.1,Minimalist,1,6.0,1.3,19,0,0,2011,5.7,Mixed,0,PC,Adults,Freemium,Strategy
+5407,Game_407,25.6,Anime,1,8.9,1.5,19,1,1,2006,6.2,Negative,1,Mobile,Kids,Premium,Sports
+5408,Game_408,51.3,3D,4,9.8,2.9,17,0,1,2018,19.8,Mixed,1,Cross-platform,Kids,Freemium,Platformer
+5409,Game_409,45.7,Cartoon,2,6.5,3.4,14,0,0,2022,8.4,Positive,1,Cross-platform,Kids,Paid,RPG
+5410,Game_410,88.4,Pixel,4,8.6,4.7,5,1,0,2014,0.6,Positive,0,Mobile,All Ages,Free,Platformer
+5411,Game_411,71.3,Anime,3,7.4,2.9,14,0,0,2003,16.3,Negative,1,Mobile,Adults,Paid,Shooter
+5412,Game_412,54.1,3D,5,4.0,1.6,12,0,1,2001,3.2,Positive,0,Mobile,Adults,Free,Sports
+5413,Game_413,31.4,Realistic,5,6.8,4.2,16,1,1,2021,3.8,Positive,1,Cross-platform,Kids,Premium,Platformer
+5414,Game_414,58.5,Realistic,4,2.0,3.8,5,0,0,2015,9.3,Positive,1,Cross-platform,Adults,Freemium,Shooter
+5415,Game_415,72.6,Minimalist,3,7.1,3.4,12,0,1,2011,6.7,Positive,1,Console,Teens,Freemium,Puzzle
+5416,Game_416,43.0,Minimalist,3,3.3,4.8,18,1,1,2011,7.6,Positive,0,Mobile,Teens,Premium,Platformer
+5417,Game_417,41.4,Anime,1,3.9,3.4,4,1,1,2023,12.2,Mixed,1,PC,Kids,Free,Sports
+5418,Game_418,56.1,Pixel,2,5.7,1.3,4,0,0,2010,8.8,Positive,1,PC,Adults,Free,Simulation
+5419,Game_419,71.6,Minimalist,5,7.3,3.2,8,1,0,2009,2.3,Positive,1,Mobile,All Ages,Paid,Sports
+5420,Game_420,59.5,Anime,2,5.3,1.8,12,1,0,2020,10.4,Positive,1,Cross-platform,Teens,Paid,Simulation
+5421,Game_421,71.2,Realistic,3,9.3,4.8,12,0,0,2008,2.0,Positive,1,PC,Teens,Paid,Strategy
+5422,Game_422,70.2,Anime,5,3.4,3.3,16,0,1,2003,7.5,Mixed,1,Cross-platform,Teens,Paid,Horror
+5423,Game_423,45.9,3D,2,3.3,2.2,12,0,0,2011,1.0,Positive,1,Mobile,Teens,Free,Strategy
+5424,Game_424,57.9,3D,5,9.3,2.1,19,0,1,2008,1.7,Positive,1,Console,Teens,Freemium,Shooter
+5425,Game_425,33.2,3D,5,4.0,3.0,12,1,0,2003,22.8,Positive,1,PC,Adults,Freemium,Sports
+5426,Game_426,83.3,Anime,5,8.3,4.1,14,1,1,2021,2.7,Positive,1,Cross-platform,Kids,Free,Adventure
+5427,Game_427,48.6,Minimalist,2,7.1,1.8,3,0,1,2024,8.1,Positive,0,PC,Adults,Freemium,Adventure
+5428,Game_428,22.6,Realistic,2,9.5,1.2,12,0,1,2021,21.0,Mixed,1,Mobile,Teens,Paid,Strategy
+5429,Game_429,45.8,Cartoon,5,2.6,2.3,12,1,0,2004,0.5,Positive,1,Cross-platform,Teens,Premium,Shooter
+5430,Game_430,10.0,Cartoon,1,8.9,2.7,8,1,0,2004,7.4,Positive,1,Mobile,Adults,Free,Adventure
+5431,Game_431,55.7,Pixel,4,8.2,1.6,9,1,0,2019,20.9,Positive,1,PC,Teens,Premium,Simulation
+5432,Game_432,25.9,Pixel,3,9.0,3.0,12,0,0,2003,0.5,Positive,0,PC,All Ages,Freemium,Shooter
+5433,Game_433,62.6,3D,3,3.8,2.0,2,0,1,2015,11.6,Positive,1,Cross-platform,Adults,Premium,Puzzle
+5434,Game_434,47.8,Anime,2,1.0,4.0,9,0,0,2024,5.6,Positive,1,PC,All Ages,Premium,Puzzle
+5435,Game_435,47.7,Realistic,4,3.6,3.0,14,1,1,2013,0.8,Positive,1,Cross-platform,Kids,Paid,Horror
+5436,Game_436,48.8,Pixel,4,3.1,2.3,16,0,1,2013,10.0,Positive,1,Mobile,All Ages,Free,Adventure
+5437,Game_437,34.2,Cartoon,1,3.0,2.1,9,1,1,2001,24.4,Positive,1,Mobile,Kids,Premium,Horror
+5438,Game_438,42.2,Anime,4,9.1,4.0,15,1,1,2020,0.1,Negative,1,Console,All Ages,Freemium,Strategy
+5439,Game_439,50.7,Anime,3,7.2,2.5,5,0,0,2012,10.5,Positive,1,Mobile,All Ages,Paid,Platformer
+5440,Game_440,49.5,Cartoon,4,3.5,1.7,1,0,1,2004,2.9,Negative,0,Mobile,Kids,Paid,Adventure
+5441,Game_441,63.4,Anime,2,4.8,3.5,10,0,1,2001,33.4,Positive,1,Cross-platform,Adults,Free,RPG
+5442,Game_442,35.2,3D,4,2.7,4.6,17,1,1,2004,12.4,Positive,1,Console,Kids,Free,Simulation
+5443,Game_443,43.7,Minimalist,4,8.1,4.7,10,0,1,2003,7.6,Positive,0,Cross-platform,Kids,Premium,Adventure
+5444,Game_444,25.6,3D,1,8.4,3.9,14,0,0,2013,17.6,Negative,0,Console,Kids,Free,RPG
+5445,Game_445,80.1,Cartoon,5,1.9,2.3,6,0,0,2013,5.9,Mixed,0,Console,Kids,Premium,Sports
+5446,Game_446,33.7,Cartoon,4,9.5,1.5,10,0,0,2023,0.2,Positive,0,Cross-platform,All Ages,Premium,Strategy
+5447,Game_447,60.8,Anime,2,2.7,4.1,12,1,1,2020,0.3,Positive,1,Cross-platform,All Ages,Paid,Adventure
+5448,Game_448,42.7,Realistic,2,3.5,1.0,17,0,1,2019,0.9,Mixed,1,Mobile,Teens,Paid,Puzzle
+5449,Game_449,47.2,Pixel,3,3.9,5.0,5,1,0,2023,14.5,Positive,1,Console,Teens,Free,Simulation
+5450,Game_450,50.2,Minimalist,5,1.2,2.7,2,0,0,2003,8.5,Positive,0,Cross-platform,All Ages,Paid,Platformer
+5451,Game_451,10.1,Realistic,4,5.7,2.5,9,1,0,2006,5.9,Mixed,1,Cross-platform,Teens,Freemium,Adventure
+5452,Game_452,41.0,3D,5,4.5,2.6,1,0,1,2016,3.2,Mixed,1,PC,Adults,Premium,Sports
+5453,Game_453,24.6,Anime,4,7.1,1.4,9,0,0,2013,9.5,Positive,1,PC,Kids,Premium,Horror
+5454,Game_454,44.6,Anime,3,9.0,1.6,4,0,0,2009,2.1,Positive,1,Console,Adults,Paid,Puzzle
+5455,Game_455,39.8,Cartoon,1,7.4,3.8,13,1,0,2024,34.1,Mixed,1,PC,Adults,Freemium,Adventure
+5456,Game_456,56.3,Pixel,1,4.5,2.9,13,0,1,2013,1.6,Positive,1,Console,Teens,Freemium,RPG
+5457,Game_457,60.6,3D,1,6.3,2.9,2,0,0,2002,6.4,Positive,1,Console,All Ages,Paid,Shooter
+5458,Game_458,39.8,3D,5,9.9,1.1,6,0,1,2000,11.9,Positive,1,Console,Adults,Freemium,Strategy
+5459,Game_459,67.5,3D,1,5.6,2.8,14,0,1,2017,8.0,Positive,0,Cross-platform,Kids,Premium,Strategy
+5460,Game_460,21.3,3D,5,2.0,1.7,17,1,0,2018,7.4,Positive,1,Mobile,Kids,Premium,Sports
+5461,Game_461,28.0,Minimalist,2,1.4,2.3,11,0,0,2013,12.9,Positive,1,Cross-platform,Kids,Freemium,RPG
+5462,Game_462,70.9,Pixel,5,6.5,4.4,9,0,0,2014,24.0,Negative,1,Cross-platform,Adults,Freemium,Adventure
+5463,Game_463,48.8,Cartoon,3,3.6,2.1,11,0,1,2019,0.8,Positive,0,Mobile,Kids,Free,Simulation
+5464,Game_464,36.6,Minimalist,2,3.7,2.2,1,1,1,2012,2.4,Positive,0,Console,All Ages,Paid,Simulation
+5465,Game_465,69.1,Pixel,5,5.7,2.0,13,0,1,2015,5.3,Mixed,1,Mobile,All Ages,Free,Platformer
+5466,Game_466,40.8,Realistic,5,2.9,1.4,4,1,1,2011,20.6,Positive,1,Cross-platform,All Ages,Paid,Platformer
+5467,Game_467,51.8,Minimalist,1,7.2,3.3,12,1,1,2014,6.7,Mixed,1,Mobile,Kids,Free,Puzzle
+5468,Game_468,46.3,Anime,2,9.5,4.9,9,0,0,2009,4.2,Positive,0,Console,Kids,Paid,Simulation
+5469,Game_469,22.3,Pixel,5,8.1,2.1,15,0,1,2007,0.8,Positive,1,Cross-platform,Adults,Premium,Simulation
+5470,Game_470,68.1,Minimalist,5,3.9,2.6,3,0,0,2010,13.8,Mixed,1,Console,Kids,Paid,RPG
+5471,Game_471,67.2,Cartoon,3,5.6,4.1,11,0,0,2018,1.2,Mixed,1,Cross-platform,All Ages,Paid,Horror
+5472,Game_472,75.7,Realistic,5,6.2,2.8,7,1,0,2001,0.8,Positive,1,Cross-platform,Kids,Free,Shooter
+5473,Game_473,44.7,Anime,3,1.9,3.6,4,0,1,2007,8.9,Negative,0,Mobile,Teens,Paid,Shooter
+5474,Game_474,49.4,Realistic,3,2.5,1.6,1,0,1,2002,25.5,Mixed,1,Cross-platform,Kids,Freemium,Sports
+5475,Game_475,15.1,Anime,5,9.8,4.6,4,1,1,2002,18.2,Negative,0,Mobile,All Ages,Freemium,Simulation
+5476,Game_476,54.4,Realistic,3,9.2,1.7,5,0,0,2020,6.8,Negative,1,PC,All Ages,Premium,RPG
+5477,Game_477,55.0,Cartoon,4,4.2,3.2,8,1,1,2008,1.0,Positive,0,Console,All Ages,Freemium,Strategy
+5478,Game_478,36.9,Minimalist,2,9.9,2.7,19,0,0,2011,10.0,Mixed,0,Cross-platform,Kids,Free,Strategy
+5479,Game_479,74.8,Pixel,2,7.7,1.3,6,0,0,2017,1.6,Negative,0,Cross-platform,All Ages,Paid,Shooter
+5480,Game_480,47.5,Anime,1,6.4,2.0,18,0,1,2014,3.8,Positive,1,Cross-platform,Adults,Freemium,Strategy
+5481,Game_481,72.5,Pixel,1,2.1,2.0,18,0,0,2021,7.3,Positive,1,Mobile,All Ages,Freemium,Puzzle
+5482,Game_482,67.7,Anime,2,6.9,2.3,12,1,0,2024,9.9,Positive,1,PC,All Ages,Premium,Horror
+5483,Game_483,10.0,3D,3,1.4,4.7,15,1,1,2006,13.6,Mixed,1,PC,Teens,Paid,RPG
+5484,Game_484,56.0,Pixel,5,1.7,4.4,15,1,1,2009,0.4,Positive,1,PC,Adults,Free,RPG
+5485,Game_485,87.8,Pixel,4,5.0,1.5,2,0,1,2018,13.0,Mixed,1,Console,All Ages,Premium,Adventure
+5486,Game_486,35.0,3D,3,1.2,2.0,19,1,1,2024,6.5,Positive,1,Mobile,Teens,Premium,Puzzle
+5487,Game_487,22.7,Cartoon,2,6.5,1.0,10,1,0,2001,1.7,Mixed,1,Mobile,Kids,Premium,Shooter
+5488,Game_488,68.7,Cartoon,4,5.4,3.9,8,0,1,2022,8.4,Mixed,1,Console,Teens,Paid,Adventure
+5489,Game_489,76.4,Pixel,1,1.8,5.0,1,1,0,2021,3.2,Positive,0,PC,All Ages,Paid,Adventure
+5490,Game_490,43.3,Minimalist,3,3.8,2.0,7,0,1,2010,0.8,Mixed,0,Cross-platform,Teens,Free,Sports
+5491,Game_491,35.4,Realistic,2,5.9,1.1,6,0,1,2018,26.6,Positive,1,Cross-platform,Teens,Free,Simulation
+5492,Game_492,47.9,Pixel,5,5.5,3.1,10,1,1,2015,2.7,Mixed,1,PC,Kids,Paid,Simulation
+5493,Game_493,47.7,Realistic,1,6.4,3.9,13,1,1,2006,2.1,Positive,1,PC,Adults,Free,Sports
+5494,Game_494,50.8,Realistic,3,4.0,1.6,14,0,1,2002,6.0,Positive,0,Console,Adults,Premium,Platformer
+5495,Game_495,66.0,Minimalist,1,5.7,4.3,6,1,1,2021,2.5,Positive,0,PC,All Ages,Freemium,RPG
+5496,Game_496,61.0,Cartoon,3,7.0,3.2,4,1,0,2023,14.1,Positive,1,Cross-platform,Adults,Freemium,Sports
+5497,Game_497,49.4,Realistic,1,4.1,3.1,10,1,0,2000,5.1,Mixed,0,PC,All Ages,Paid,Platformer
+5498,Game_498,47.5,Realistic,5,9.9,3.5,16,0,1,2010,6.5,Mixed,1,PC,All Ages,Premium,Sports
+5499,Game_499,44.7,Pixel,3,1.9,3.0,16,1,1,2009,6.7,Mixed,1,Cross-platform,All Ages,Premium,Strategy
+5500,Game_500,16.9,Cartoon,4,3.3,1.9,18,0,1,2015,6.7,Negative,0,Console,Teens,Free,Horror
+5501,Game_501,39.3,Pixel,2,4.6,2.9,2,0,0,2023,1.2,Positive,1,Console,All Ages,Free,Sports
+5502,Game_502,40.0,3D,4,1.0,1.4,4,0,1,2023,4.5,Mixed,0,Mobile,Kids,Free,Horror
+5503,Game_503,59.1,3D,3,6.2,4.1,11,0,1,2015,21.4,Mixed,1,Mobile,Adults,Paid,Simulation
+5504,Game_504,38.2,3D,1,4.1,3.3,11,0,0,2022,6.4,Positive,1,Cross-platform,Teens,Premium,Platformer
+5505,Game_505,37.9,3D,3,8.1,4.8,12,0,1,2016,1.4,Positive,1,Mobile,Adults,Paid,Simulation
+5506,Game_506,23.3,Minimalist,4,1.6,2.6,12,1,0,2018,5.0,Positive,1,Console,Teens,Paid,Platformer
+5507,Game_507,37.5,Cartoon,1,1.7,1.9,2,1,1,2000,14.0,Negative,0,Mobile,Adults,Freemium,Sports
+5508,Game_508,61.6,Pixel,1,4.4,4.2,9,0,0,2007,1.1,Positive,1,Console,Teens,Free,Shooter
+5509,Game_509,45.7,Cartoon,5,5.8,3.4,1,1,1,2011,0.2,Positive,1,PC,Kids,Premium,RPG
+5510,Game_510,77.0,Minimalist,2,3.4,1.8,10,0,0,2008,16.5,Positive,1,Console,Adults,Freemium,Shooter
+5511,Game_511,37.0,Realistic,2,9.9,2.3,1,0,1,2013,3.2,Positive,1,Console,All Ages,Paid,Adventure
+5512,Game_512,21.3,Realistic,5,7.4,2.2,5,0,0,2008,1.2,Positive,1,PC,Teens,Freemium,Adventure
+5513,Game_513,65.6,3D,2,6.4,1.9,10,1,0,2021,4.7,Mixed,1,Cross-platform,Teens,Free,Strategy
+5514,Game_514,26.0,Cartoon,1,5.5,1.1,11,1,1,2023,10.1,Positive,1,Console,All Ages,Freemium,Simulation
+5515,Game_515,48.3,Realistic,5,1.5,1.3,14,1,1,2024,1.8,Positive,1,Cross-platform,Kids,Free,Simulation
+5516,Game_516,24.6,Cartoon,5,3.4,2.8,3,1,1,2016,10.1,Positive,1,Console,All Ages,Premium,Strategy
+5517,Game_517,28.4,Pixel,5,8.1,3.8,4,0,0,2006,0.4,Positive,1,Mobile,Kids,Free,Puzzle
+5518,Game_518,30.5,Cartoon,4,3.3,2.4,19,0,1,2007,9.5,Positive,1,PC,Adults,Premium,Strategy
+5519,Game_519,32.8,Cartoon,3,2.2,4.1,8,1,0,2019,3.8,Positive,0,PC,All Ages,Free,Platformer
+5520,Game_520,49.2,Anime,3,3.0,4.1,5,1,1,2000,4.4,Mixed,0,Console,Kids,Paid,Adventure
+5521,Game_521,56.6,Realistic,1,2.6,1.1,9,0,1,2002,2.3,Positive,1,Mobile,Teens,Free,Adventure
+5522,Game_522,58.1,Anime,2,1.1,5.0,13,0,1,2016,3.2,Positive,1,PC,All Ages,Paid,Strategy
+5523,Game_523,26.0,Minimalist,5,1.7,2.8,4,0,1,2005,0.8,Positive,1,PC,Kids,Paid,Platformer
+5524,Game_524,36.4,Pixel,4,5.4,3.0,13,0,0,2016,24.0,Positive,1,Console,All Ages,Free,RPG
+5525,Game_525,85.6,Pixel,1,7.2,2.2,19,0,1,2017,5.5,Positive,0,Console,All Ages,Paid,Puzzle
+5526,Game_526,34.9,Cartoon,5,7.8,2.9,1,0,1,2012,27.7,Mixed,0,Mobile,Teens,Paid,Strategy
+5527,Game_527,33.1,Minimalist,3,2.1,4.9,16,1,1,2020,17.9,Positive,1,Cross-platform,Adults,Free,Sports
+5528,Game_528,70.2,Realistic,3,1.2,4.1,14,0,1,2017,35.4,Negative,1,Mobile,Teens,Freemium,Strategy
+5529,Game_529,41.6,Cartoon,3,1.4,1.2,9,0,1,2011,3.4,Positive,0,Mobile,All Ages,Free,Shooter
+5530,Game_530,31.9,Cartoon,2,5.2,1.4,12,0,0,2021,7.5,Positive,1,Console,Adults,Premium,Adventure
+5531,Game_531,12.6,Pixel,1,3.0,3.0,12,0,0,2016,8.7,Negative,0,Cross-platform,Kids,Free,Shooter
+5532,Game_532,47.0,Realistic,3,4.1,4.3,18,0,0,2011,7.7,Negative,1,PC,Adults,Paid,Sports
+5533,Game_533,51.2,3D,1,9.9,4.2,16,0,1,2001,1.2,Mixed,1,Mobile,All Ages,Freemium,RPG
+5534,Game_534,56.9,Realistic,3,8.6,4.7,11,0,1,2024,22.6,Positive,1,Mobile,All Ages,Paid,Strategy
+5535,Game_535,61.5,Cartoon,5,3.1,1.7,12,0,0,2024,1.8,Positive,1,Console,Adults,Paid,Platformer
+5536,Game_536,58.5,Anime,5,1.6,3.6,7,1,0,2020,4.5,Negative,1,Mobile,Adults,Paid,Sports
+5537,Game_537,35.6,Anime,5,3.2,3.7,6,1,0,2007,1.6,Negative,1,PC,Adults,Free,Horror
+5538,Game_538,49.2,Anime,1,8.7,4.0,5,0,0,2024,2.4,Mixed,1,Mobile,All Ages,Paid,Adventure
+5539,Game_539,52.7,3D,1,7.4,1.5,5,1,1,2021,14.3,Negative,0,Cross-platform,Teens,Paid,Platformer
+5540,Game_540,20.4,Realistic,4,3.9,2.1,1,0,1,2003,3.8,Positive,1,Console,All Ages,Premium,Adventure
+5541,Game_541,52.6,Minimalist,2,9.4,4.9,5,0,1,2002,26.0,Positive,1,Cross-platform,Adults,Freemium,Simulation
+5542,Game_542,39.3,3D,4,2.0,1.8,12,0,1,2016,9.8,Positive,0,Console,Teens,Paid,Sports
+5543,Game_543,53.6,Pixel,3,1.1,4.7,4,0,0,2024,1.1,Mixed,0,Mobile,All Ages,Premium,Puzzle
+5544,Game_544,33.2,3D,1,4.4,1.0,18,1,1,2015,24.3,Positive,1,Mobile,All Ages,Free,Sports
+5545,Game_545,34.6,Minimalist,4,5.2,2.6,1,1,0,2022,13.7,Mixed,1,Console,Adults,Free,Strategy
+5546,Game_546,28.2,Realistic,5,7.1,4.6,9,0,0,2007,14.5,Mixed,0,Console,All Ages,Premium,Sports
+5547,Game_547,81.9,Pixel,1,8.1,2.1,4,0,1,2010,13.4,Mixed,1,Cross-platform,All Ages,Free,Platformer
+5548,Game_548,77.3,Pixel,1,5.7,2.0,13,0,0,2011,16.8,Mixed,1,Console,Teens,Premium,RPG
+5549,Game_549,40.7,Cartoon,1,5.8,4.2,10,0,1,2019,8.5,Positive,1,Cross-platform,Kids,Freemium,Adventure
+5550,Game_550,44.1,Anime,2,5.7,4.3,19,1,0,2007,5.1,Positive,1,Console,Adults,Paid,Simulation
+5551,Game_551,49.8,Cartoon,4,4.1,2.5,15,1,0,2011,25.0,Positive,1,Cross-platform,All Ages,Paid,Horror
+5552,Game_552,30.0,Pixel,2,1.8,2.8,18,1,0,2009,3.5,Mixed,1,Cross-platform,All Ages,Free,Platformer
+5553,Game_553,56.6,Realistic,4,7.7,4.0,11,1,1,2013,10.7,Mixed,1,Cross-platform,All Ages,Freemium,Puzzle
+5554,Game_554,66.8,Minimalist,1,5.1,3.9,1,0,1,2008,8.7,Positive,1,Console,Kids,Paid,Shooter
+5555,Game_555,69.5,3D,3,1.4,4.2,7,0,0,2016,0.4,Positive,0,Cross-platform,Adults,Paid,Strategy
+5556,Game_556,79.5,Realistic,3,7.2,3.9,11,1,0,2003,8.6,Mixed,0,Console,All Ages,Freemium,Puzzle
+5557,Game_557,67.7,Anime,4,4.0,2.3,7,1,1,2021,18.3,Positive,0,PC,Kids,Freemium,Strategy
+5558,Game_558,75.6,Anime,5,2.1,2.6,2,0,1,2020,1.3,Positive,0,Mobile,Teens,Freemium,Puzzle
+5559,Game_559,63.5,Pixel,3,3.2,3.4,19,0,1,2010,5.6,Mixed,0,PC,Teens,Premium,Sports
+5560,Game_560,28.7,Anime,4,6.2,4.2,2,0,0,2020,5.7,Mixed,1,Console,Adults,Paid,RPG
+5561,Game_561,30.3,Minimalist,4,9.2,2.2,13,0,0,2004,1.3,Positive,1,PC,Adults,Freemium,Sports
+5562,Game_562,50.2,Realistic,2,2.7,4.5,11,0,0,2010,6.9,Positive,1,Mobile,Teens,Freemium,Simulation
+5563,Game_563,27.7,3D,5,9.2,1.4,7,1,1,2005,24.6,Positive,1,Mobile,Adults,Premium,Platformer
+5564,Game_564,24.6,3D,5,9.9,4.2,11,0,0,2020,30.7,Mixed,1,Console,Teens,Premium,RPG
+5565,Game_565,50.6,Realistic,4,8.7,3.8,18,0,1,2005,26.1,Positive,0,PC,Kids,Paid,Puzzle
+5566,Game_566,16.7,Cartoon,1,9.9,1.9,2,0,0,2004,13.0,Mixed,0,PC,Adults,Paid,Sports
+5567,Game_567,24.9,Pixel,2,6.4,3.3,15,0,1,2007,24.2,Positive,0,Mobile,All Ages,Premium,Sports
+5568,Game_568,25.6,Realistic,3,10.0,3.3,2,0,1,2003,12.0,Positive,0,Cross-platform,Kids,Premium,Strategy
+5569,Game_569,69.1,Anime,3,4.3,3.9,19,0,1,2020,9.1,Positive,0,PC,All Ages,Free,Strategy
+5570,Game_570,43.9,Minimalist,2,8.7,3.8,5,0,0,2001,2.8,Negative,1,Cross-platform,All Ages,Freemium,Sports
+5571,Game_571,40.0,3D,5,3.2,2.7,5,0,0,2008,1.0,Positive,0,Cross-platform,Adults,Paid,RPG
+5572,Game_572,45.0,Pixel,3,7.3,2.3,6,0,1,2004,0.5,Positive,1,PC,Kids,Free,Strategy
+5573,Game_573,46.9,Minimalist,3,7.2,4.6,9,1,1,2008,0.3,Positive,0,PC,Kids,Freemium,RPG
+5574,Game_574,86.2,Minimalist,2,1.2,4.4,1,1,0,2007,1.0,Positive,1,Mobile,Kids,Paid,Platformer
+5575,Game_575,34.0,Realistic,2,3.6,4.4,9,1,0,2020,28.0,Positive,1,PC,Teens,Paid,Sports
+5576,Game_576,54.0,Anime,1,5.9,3.5,15,0,1,2003,1.7,Positive,1,PC,Adults,Free,Shooter
+5577,Game_577,39.4,3D,1,5.6,2.7,9,0,1,2003,8.3,Positive,1,Mobile,All Ages,Free,Puzzle
+5578,Game_578,47.5,Realistic,5,8.6,3.7,1,0,1,2004,7.5,Positive,1,PC,Adults,Premium,Sports
+5579,Game_579,40.4,3D,2,7.3,3.3,4,1,0,2010,4.4,Negative,1,Cross-platform,All Ages,Freemium,Shooter
+5580,Game_580,74.9,3D,2,2.2,2.1,1,1,1,2004,32.2,Positive,1,Console,Kids,Freemium,Platformer
+5581,Game_581,60.4,Cartoon,4,1.9,2.7,6,1,1,2003,4.8,Mixed,1,Console,Teens,Free,Sports
+5582,Game_582,29.9,Minimalist,5,7.9,2.1,2,1,0,2024,1.1,Positive,0,Console,All Ages,Free,Simulation
+5583,Game_583,34.9,Minimalist,5,6.6,2.0,14,0,0,2014,3.8,Positive,1,PC,Adults,Freemium,Strategy
+5584,Game_584,26.3,3D,3,7.2,3.9,15,0,1,2017,32.4,Negative,1,Console,Teens,Premium,Horror
+5585,Game_585,10.0,Minimalist,5,5.4,2.6,7,1,0,2022,2.5,Positive,1,Cross-platform,Kids,Premium,Strategy
+5586,Game_586,36.0,Anime,3,9.8,2.5,5,1,0,2007,51.5,Positive,0,Mobile,Adults,Freemium,RPG
+5587,Game_587,36.2,Pixel,2,5.2,4.7,13,0,0,2014,36.9,Mixed,1,Console,Kids,Free,Sports
+5588,Game_588,36.8,Realistic,1,8.6,1.3,12,0,0,2001,6.4,Positive,1,Cross-platform,Adults,Paid,RPG
+5589,Game_589,62.0,Cartoon,1,3.6,1.7,1,1,0,2019,0.1,Positive,1,Mobile,Kids,Free,RPG
+5590,Game_590,39.6,Anime,1,2.8,1.3,4,1,0,2019,4.7,Mixed,1,PC,All Ages,Free,Simulation
+5591,Game_591,59.2,3D,2,3.8,1.1,13,0,0,2004,21.2,Negative,1,Cross-platform,Teens,Paid,Horror
+5592,Game_592,23.3,Realistic,1,9.9,1.8,19,1,1,2010,8.8,Positive,0,Console,Adults,Premium,Horror
+5593,Game_593,61.3,Cartoon,4,3.1,2.9,1,0,0,2013,26.2,Positive,0,Cross-platform,Teens,Free,Adventure
+5594,Game_594,47.1,3D,5,3.8,2.9,10,0,1,2007,18.4,Positive,1,PC,Kids,Paid,Horror
+5595,Game_595,62.1,Realistic,4,8.1,3.0,17,0,1,2016,1.1,Positive,0,PC,Kids,Free,Simulation
+5596,Game_596,34.9,Cartoon,2,7.4,1.7,16,1,0,2010,6.9,Positive,1,Console,Teens,Freemium,Horror
+5597,Game_597,42.7,Realistic,4,4.7,1.1,14,0,1,2018,3.3,Positive,1,Console,All Ages,Freemium,Strategy
+5598,Game_598,37.7,Pixel,1,7.1,3.5,16,0,0,2016,5.8,Positive,1,Cross-platform,Kids,Premium,Puzzle
+5599,Game_599,47.1,Pixel,4,3.9,1.5,3,0,1,2014,11.1,Negative,1,Mobile,Kids,Freemium,Simulation
+5600,Game_600,34.6,Anime,4,4.2,2.8,4,0,1,2005,5.3,Mixed,1,Cross-platform,Kids,Paid,Puzzle
+5601,Game_601,56.7,3D,5,6.1,4.7,11,0,1,2014,6.1,Mixed,1,Cross-platform,All Ages,Freemium,Platformer
+5602,Game_602,18.6,Minimalist,4,8.9,1.6,7,0,1,2017,4.1,Positive,1,PC,Adults,Paid,Strategy
+5603,Game_603,90.0,Anime,5,1.6,4.0,15,0,1,2010,14.7,Positive,1,Cross-platform,All Ages,Premium,Platformer
+5604,Game_604,59.8,Cartoon,1,9.0,4.7,14,0,0,2019,2.6,Positive,1,Mobile,Kids,Freemium,Sports
+5605,Game_605,97.6,Realistic,3,7.6,2.3,19,0,1,2001,1.7,Positive,1,Mobile,Kids,Freemium,Platformer
+5606,Game_606,60.6,Realistic,5,2.9,3.0,4,0,0,2013,17.9,Positive,0,PC,Kids,Premium,Simulation
+5607,Game_607,40.2,3D,5,9.4,2.3,4,0,1,2006,9.2,Mixed,0,Mobile,Adults,Free,Strategy
+5608,Game_608,60.8,Cartoon,2,6.3,1.9,9,1,0,2018,6.1,Mixed,1,Cross-platform,Teens,Paid,Shooter
+5609,Game_609,51.7,3D,3,3.2,4.7,18,1,0,2008,19.4,Positive,1,Cross-platform,All Ages,Paid,Horror
+5610,Game_610,37.3,Anime,2,3.9,4.7,9,1,1,2001,17.0,Negative,1,Cross-platform,Teens,Freemium,Horror
+5611,Game_611,55.8,Pixel,2,9.9,2.6,12,1,0,2020,20.6,Positive,1,Mobile,Adults,Freemium,Sports
+5612,Game_612,49.1,Anime,4,9.6,4.1,8,1,0,2001,1.7,Mixed,1,Console,All Ages,Free,Platformer
+5613,Game_613,55.4,Realistic,2,9.9,4.7,19,1,1,2010,0.0,Positive,0,Mobile,Teens,Premium,Sports
+5614,Game_614,18.2,Anime,1,2.2,3.0,10,0,0,2012,5.1,Mixed,1,Cross-platform,Adults,Premium,Puzzle
+5615,Game_615,84.2,Minimalist,4,4.7,4.6,6,1,0,2017,16.0,Positive,1,Mobile,Teens,Premium,Puzzle
+5616,Game_616,40.2,Pixel,1,1.5,2.6,5,0,0,2017,3.5,Positive,1,Cross-platform,Teens,Freemium,Simulation
+5617,Game_617,34.2,Realistic,4,5.8,2.0,19,0,0,2013,3.5,Positive,1,Console,All Ages,Premium,Puzzle
+5618,Game_618,24.8,Minimalist,1,1.1,1.9,11,0,0,2016,1.7,Positive,0,Console,Kids,Free,Platformer
+5619,Game_619,26.0,Cartoon,2,2.5,4.2,13,1,0,2008,2.6,Negative,1,Mobile,Kids,Free,Puzzle
+5620,Game_620,43.1,Realistic,2,6.8,2.6,11,1,0,2010,0.8,Positive,1,Cross-platform,Kids,Premium,Sports
+5621,Game_621,56.8,3D,2,1.1,3.0,7,0,0,2018,9.1,Mixed,0,Cross-platform,All Ages,Paid,Adventure
+5622,Game_622,54.4,Cartoon,5,8.0,2.3,3,1,1,2004,16.8,Negative,1,Mobile,Teens,Free,Simulation
+5623,Game_623,63.1,Anime,3,9.1,3.4,16,1,1,2024,4.3,Negative,0,Mobile,Kids,Paid,Adventure
+5624,Game_624,46.9,3D,3,9.4,3.9,17,1,1,2004,10.6,Positive,1,Cross-platform,Adults,Freemium,RPG
+5625,Game_625,19.7,Anime,3,7.4,3.2,2,0,0,2007,0.7,Positive,1,Cross-platform,All Ages,Free,Shooter
+5626,Game_626,58.7,Cartoon,1,9.1,4.1,3,0,1,2008,15.4,Positive,1,Console,Kids,Paid,Strategy
+5627,Game_627,10.8,Pixel,4,6.0,1.6,6,0,1,2016,0.2,Positive,1,PC,Adults,Freemium,Sports
+5628,Game_628,26.4,3D,1,9.1,2.6,13,1,0,2003,7.0,Positive,1,PC,Teens,Premium,Platformer
+5629,Game_629,66.4,Realistic,3,7.9,3.1,15,1,0,2022,5.8,Positive,1,Cross-platform,Kids,Freemium,Sports
+5630,Game_630,30.6,Cartoon,4,2.1,2.7,19,1,0,2000,0.8,Positive,1,Mobile,All Ages,Premium,Strategy
+5631,Game_631,36.9,Realistic,5,9.8,2.0,13,0,1,2002,10.3,Positive,0,Console,Kids,Premium,Puzzle
+5632,Game_632,30.4,3D,2,3.4,2.3,7,1,1,2011,3.9,Mixed,1,Mobile,Teens,Premium,Puzzle
+5633,Game_633,42.5,Cartoon,4,4.8,2.0,8,0,0,2014,2.4,Mixed,1,Cross-platform,All Ages,Premium,Horror
+5634,Game_634,46.4,Anime,1,2.7,2.1,7,1,1,2000,16.8,Negative,0,Mobile,Kids,Paid,Adventure
+5635,Game_635,39.1,Minimalist,5,9.5,3.2,12,0,1,2000,1.6,Positive,1,PC,Teens,Premium,Simulation
+5636,Game_636,69.6,Pixel,2,2.5,4.0,12,1,1,2011,6.3,Positive,0,Cross-platform,Adults,Freemium,Simulation
+5637,Game_637,36.7,3D,4,7.7,2.9,14,0,0,2015,8.0,Positive,1,Console,Adults,Freemium,Sports
+5638,Game_638,45.6,Realistic,4,5.1,3.6,9,0,1,2016,16.0,Mixed,1,Console,Adults,Paid,Simulation
+5639,Game_639,24.1,3D,3,2.8,4.1,2,0,1,2021,5.3,Positive,1,Console,Teens,Premium,Strategy
+5640,Game_640,54.7,Pixel,1,2.6,2.4,13,0,0,2011,7.9,Mixed,1,PC,All Ages,Paid,Shooter
+5641,Game_641,13.6,Cartoon,4,9.6,2.6,15,0,1,2015,3.3,Positive,0,Mobile,Adults,Freemium,Horror
+5642,Game_642,56.5,Cartoon,1,6.7,2.6,11,1,0,2011,15.3,Positive,1,Mobile,All Ages,Free,Puzzle
+5643,Game_643,64.1,Realistic,5,3.0,2.9,14,1,0,2003,3.3,Negative,0,Console,Kids,Premium,Puzzle
+5644,Game_644,31.3,Pixel,5,7.4,4.1,7,0,0,2024,25.1,Negative,1,PC,Teens,Free,Strategy
+5645,Game_645,57.8,Cartoon,2,5.9,3.8,4,1,1,2023,16.7,Positive,1,Mobile,Teens,Freemium,Horror
+5646,Game_646,29.4,3D,5,3.6,1.8,19,0,0,2001,4.9,Negative,1,PC,Adults,Free,RPG
+5647,Game_647,33.6,Realistic,3,4.4,3.5,3,1,1,2021,4.9,Positive,0,Console,Kids,Free,RPG
+5648,Game_648,50.6,Anime,5,2.7,1.8,13,0,1,2014,2.2,Mixed,0,Mobile,Teens,Premium,Platformer
+5649,Game_649,52.6,3D,4,9.0,2.5,15,1,1,2000,10.7,Positive,1,PC,Teens,Paid,Strategy
+5650,Game_650,31.4,3D,3,5.5,4.8,3,0,1,2019,5.6,Positive,1,Cross-platform,Adults,Paid,Simulation
+5651,Game_651,83.9,Realistic,5,3.9,3.4,10,0,1,2008,9.5,Positive,1,PC,Adults,Premium,Adventure
+5652,Game_652,40.9,Minimalist,3,9.7,4.0,10,0,0,2022,7.1,Negative,0,Console,Kids,Free,Sports
+5653,Game_653,27.1,Minimalist,2,2.7,2.9,5,0,0,2000,1.1,Positive,1,PC,Adults,Premium,RPG
+5654,Game_654,18.7,Pixel,2,8.2,2.4,9,1,0,2007,2.4,Positive,0,PC,Adults,Free,Platformer
+5655,Game_655,12.0,Anime,2,2.3,1.1,1,1,1,2022,3.0,Positive,1,Mobile,Teens,Freemium,Shooter
+5656,Game_656,43.4,Realistic,1,2.4,3.6,17,0,0,2000,1.1,Positive,0,Cross-platform,Adults,Paid,Adventure
+5657,Game_657,60.8,Minimalist,3,5.9,3.7,1,0,0,2011,26.9,Positive,1,PC,All Ages,Free,RPG
+5658,Game_658,60.0,Cartoon,5,1.7,1.3,18,0,1,2013,12.6,Positive,1,Cross-platform,Adults,Paid,Platformer
+5659,Game_659,62.8,Realistic,4,7.0,1.4,4,0,0,2006,0.3,Negative,0,Console,Teens,Free,Horror
+5660,Game_660,13.3,Realistic,5,8.0,1.1,3,0,1,2023,18.4,Positive,1,Console,Teens,Freemium,Sports
+5661,Game_661,32.4,Anime,4,8.6,3.6,16,0,0,2017,16.3,Positive,0,PC,Teens,Freemium,Platformer
+5662,Game_662,56.9,Cartoon,3,3.3,1.5,12,0,1,2014,3.7,Positive,0,Cross-platform,Teens,Freemium,Puzzle
+5663,Game_663,42.6,Minimalist,3,8.1,2.7,2,0,0,2016,0.8,Positive,0,Console,All Ages,Premium,Adventure
+5664,Game_664,10.0,Realistic,4,10.0,3.2,17,0,1,2014,5.3,Positive,1,Console,All Ages,Paid,Platformer
+5665,Game_665,45.9,Anime,2,9.3,3.5,7,1,0,2011,2.7,Positive,1,Cross-platform,All Ages,Freemium,RPG
+5666,Game_666,38.0,Realistic,2,9.5,1.4,17,1,1,2000,0.7,Positive,0,PC,All Ages,Freemium,Shooter
+5667,Game_667,49.3,Minimalist,2,9.2,2.0,3,1,1,2003,6.4,Positive,0,PC,All Ages,Premium,Strategy
+5668,Game_668,50.4,Cartoon,4,2.1,4.9,14,1,0,2024,1.6,Mixed,1,PC,Kids,Freemium,Horror
+5669,Game_669,32.2,Anime,1,1.7,4.9,11,1,0,2012,2.5,Negative,0,Mobile,Kids,Free,RPG
+5670,Game_670,74.7,3D,5,1.7,2.1,11,0,1,2004,17.1,Positive,1,Console,Adults,Free,Simulation
+5671,Game_671,48.2,Realistic,5,7.6,4.5,10,0,0,2005,51.8,Positive,1,PC,Teens,Premium,Sports
+5672,Game_672,67.1,3D,3,2.3,3.8,18,1,0,2004,7.7,Positive,0,Mobile,All Ages,Premium,Simulation
+5673,Game_673,38.8,3D,1,1.3,1.1,15,1,1,2016,1.6,Positive,0,Console,All Ages,Free,Strategy
+5674,Game_674,32.2,Anime,4,6.5,4.9,9,0,0,2020,4.7,Positive,1,Console,All Ages,Premium,Simulation
+5675,Game_675,67.8,3D,1,2.5,4.4,12,0,0,2003,13.7,Negative,1,PC,All Ages,Paid,Sports
+5676,Game_676,79.4,Anime,3,6.8,2.7,10,0,1,2010,10.5,Negative,0,PC,All Ages,Premium,Simulation
+5677,Game_677,76.3,Cartoon,5,4.0,1.3,15,0,1,2019,7.3,Positive,1,Cross-platform,Kids,Paid,Strategy
+5678,Game_678,31.6,Pixel,4,2.1,2.7,2,0,0,2020,41.6,Mixed,0,Cross-platform,Adults,Premium,Platformer
+5679,Game_679,74.1,Anime,3,8.1,3.9,5,0,1,2023,2.8,Negative,1,Mobile,Teens,Free,Strategy
+5680,Game_680,26.4,Realistic,1,6.9,2.9,7,0,1,2002,4.4,Positive,1,Mobile,Kids,Paid,Adventure
+5681,Game_681,31.0,Pixel,3,6.4,1.6,18,0,1,2000,3.4,Mixed,1,Cross-platform,Kids,Paid,RPG
+5682,Game_682,40.7,Anime,1,8.5,1.7,19,1,1,2008,1.2,Mixed,1,Console,Teens,Free,Adventure
+5683,Game_683,45.1,Realistic,5,4.5,3.6,5,0,0,2007,14.0,Positive,1,Cross-platform,Adults,Paid,Sports
+5684,Game_684,53.0,Anime,3,1.3,4.2,15,0,1,2021,3.0,Negative,1,Cross-platform,Adults,Premium,Platformer
+5685,Game_685,54.0,3D,3,4.4,1.9,18,0,1,2001,8.1,Negative,0,Cross-platform,Kids,Free,Platformer
+5686,Game_686,59.0,Anime,1,3.8,3.9,1,0,0,2011,1.2,Positive,0,Mobile,Adults,Free,Horror
+5687,Game_687,51.9,Pixel,3,7.0,3.9,16,1,1,2000,11.4,Positive,1,Console,Teens,Premium,Platformer
+5688,Game_688,33.4,Minimalist,2,5.0,3.1,18,0,1,2010,27.5,Positive,1,PC,All Ages,Freemium,Sports
+5689,Game_689,19.6,3D,1,5.9,5.0,8,0,0,2021,20.9,Positive,0,Mobile,All Ages,Paid,Horror
+5690,Game_690,43.3,Realistic,3,4.4,3.8,15,0,1,2007,3.9,Positive,1,PC,Teens,Free,Puzzle
+5691,Game_691,16.6,Realistic,1,9.4,2.8,15,0,1,2000,17.6,Positive,0,Cross-platform,Kids,Free,Platformer
+5692,Game_692,53.8,Cartoon,2,5.9,2.0,12,1,1,2005,0.7,Negative,0,Console,Teens,Paid,Strategy
+5693,Game_693,55.3,Pixel,3,8.8,4.7,19,0,0,2014,20.0,Positive,1,Cross-platform,Kids,Free,Simulation
+5694,Game_694,35.9,3D,3,9.0,3.2,9,0,0,2015,11.8,Mixed,0,Console,All Ages,Freemium,Sports
+5695,Game_695,53.0,Cartoon,1,5.4,2.6,3,0,0,2010,1.7,Positive,0,PC,Adults,Premium,Simulation
+5696,Game_696,35.8,Cartoon,1,3.2,1.3,6,1,1,2001,3.2,Positive,0,PC,Adults,Free,Sports
+5697,Game_697,57.6,Minimalist,3,5.9,1.3,17,1,0,2021,35.5,Positive,1,Cross-platform,Adults,Paid,Simulation
+5698,Game_698,43.9,Realistic,2,6.0,2.0,3,0,1,2005,3.5,Negative,1,Console,Adults,Freemium,Sports
+5699,Game_699,29.5,Realistic,3,5.9,3.2,12,0,0,2023,8.7,Mixed,1,Mobile,Adults,Free,Platformer
+5700,Game_700,37.1,Realistic,2,8.0,2.0,10,0,1,2000,23.3,Positive,0,Mobile,All Ages,Premium,Simulation
+5701,Game_701,54.2,3D,1,4.8,1.7,9,0,1,2006,22.8,Negative,1,Mobile,Adults,Freemium,Adventure
+5702,Game_702,45.4,Realistic,1,7.6,3.1,15,0,1,2004,22.4,Mixed,0,PC,Kids,Freemium,Horror
+5703,Game_703,41.7,Realistic,1,4.7,2.7,16,0,1,2008,8.2,Positive,1,PC,Kids,Premium,Horror
+5704,Game_704,43.4,Realistic,2,2.0,4.9,13,1,0,2005,18.1,Negative,1,PC,Adults,Freemium,Platformer
+5705,Game_705,34.8,Anime,1,9.4,2.6,9,0,0,2002,7.3,Positive,0,Console,Adults,Paid,Horror
+5706,Game_706,66.7,Realistic,2,8.4,1.2,17,0,0,2009,23.8,Mixed,1,Mobile,All Ages,Paid,Puzzle
+5707,Game_707,73.3,Minimalist,4,9.2,3.2,11,0,1,2017,12.1,Mixed,0,Console,All Ages,Premium,Shooter
+5708,Game_708,36.6,Cartoon,2,6.7,3.5,5,0,0,2021,15.4,Mixed,1,PC,Kids,Free,RPG
+5709,Game_709,36.4,3D,4,2.7,4.8,15,1,1,2016,9.5,Negative,1,Cross-platform,Teens,Freemium,Shooter
+5710,Game_710,29.9,Realistic,2,2.1,1.2,10,1,0,2019,5.5,Mixed,1,PC,All Ages,Free,Adventure
+5711,Game_711,28.9,Pixel,4,6.0,2.1,5,0,0,2023,1.6,Positive,1,Console,All Ages,Paid,Horror
+5712,Game_712,48.0,Pixel,5,8.6,4.8,13,0,0,2000,28.2,Positive,1,Console,Adults,Free,Shooter
+5713,Game_713,30.4,Realistic,1,3.2,3.7,5,0,0,2004,12.4,Mixed,1,PC,All Ages,Freemium,Horror
+5714,Game_714,83.1,Pixel,5,9.0,2.0,17,1,1,2018,5.7,Negative,0,Mobile,Adults,Premium,Horror
+5715,Game_715,14.4,Cartoon,4,2.4,3.3,16,1,0,2015,4.1,Positive,1,PC,Teens,Freemium,Puzzle
+5716,Game_716,60.0,Realistic,1,4.7,1.7,19,0,0,2011,1.0,Positive,1,Console,Adults,Premium,Platformer
+5717,Game_717,66.5,Minimalist,5,3.3,4.7,6,1,0,2010,17.6,Negative,0,Cross-platform,Adults,Free,Puzzle
+5718,Game_718,71.7,Minimalist,2,9.3,2.2,11,0,0,2024,6.9,Negative,1,Cross-platform,Kids,Premium,Strategy
+5719,Game_719,76.8,Pixel,1,8.3,2.5,1,0,1,2019,5.2,Mixed,0,Mobile,Adults,Paid,Shooter
+5720,Game_720,34.9,Minimalist,1,5.2,1.8,10,1,0,2006,3.7,Positive,1,PC,All Ages,Paid,Sports
+5721,Game_721,25.8,Anime,1,6.7,4.8,14,0,1,2016,0.1,Positive,1,Mobile,Teens,Premium,Shooter
+5722,Game_722,16.7,Anime,3,9.5,3.4,5,1,1,2011,1.8,Positive,1,Mobile,Kids,Premium,Sports
+5723,Game_723,11.2,Anime,1,9.8,1.8,9,0,0,2020,13.6,Positive,1,Console,Adults,Paid,Adventure
+5724,Game_724,33.2,Pixel,1,9.3,2.0,6,1,1,2013,4.4,Positive,0,PC,Teens,Paid,Simulation
+5725,Game_725,63.4,Realistic,4,8.6,3.7,10,0,0,2010,0.2,Positive,0,PC,All Ages,Paid,Sports
+5726,Game_726,28.7,Minimalist,4,7.3,3.6,2,0,0,2018,11.4,Negative,1,Mobile,Adults,Premium,Horror
+5727,Game_727,44.1,Pixel,4,5.2,3.6,11,0,0,2023,4.6,Positive,1,Mobile,Adults,Free,Puzzle
+5728,Game_728,69.6,Minimalist,5,8.0,3.8,5,0,1,2012,1.6,Negative,0,PC,Kids,Free,Horror
+5729,Game_729,40.5,Pixel,5,7.1,2.9,16,0,1,2009,8.9,Positive,1,Console,Adults,Paid,Simulation
+5730,Game_730,21.6,Pixel,1,9.1,3.3,9,0,1,2005,6.3,Positive,1,Console,Teens,Freemium,Sports
+5731,Game_731,39.4,3D,1,4.6,1.3,1,1,0,2023,7.0,Positive,1,Mobile,Teens,Freemium,Adventure
+5732,Game_732,60.8,Cartoon,3,8.6,1.4,10,0,1,2013,2.0,Mixed,1,PC,Kids,Freemium,Sports
+5733,Game_733,89.3,Cartoon,5,1.2,3.3,9,1,1,2005,2.4,Mixed,1,Mobile,Teens,Free,Adventure
+5734,Game_734,44.3,Minimalist,3,5.8,3.4,15,0,1,2022,1.7,Mixed,1,PC,All Ages,Premium,Horror
+5735,Game_735,31.7,Realistic,2,2.7,3.8,9,0,0,2013,11.3,Positive,1,PC,Adults,Paid,Strategy
+5736,Game_736,23.9,Minimalist,5,6.7,3.5,14,0,0,2014,8.7,Positive,1,Mobile,Teens,Premium,Horror
+5737,Game_737,55.6,3D,2,5.2,3.7,6,0,0,2004,27.5,Positive,1,PC,Adults,Free,Simulation
+5738,Game_738,45.7,Minimalist,1,2.1,1.7,15,0,0,2015,6.5,Positive,1,Mobile,Kids,Free,Adventure
+5739,Game_739,66.1,Cartoon,3,6.5,4.9,11,1,1,2005,63.0,Negative,1,PC,Kids,Freemium,Simulation
+5740,Game_740,82.2,Minimalist,4,7.4,1.1,4,0,1,2017,2.7,Negative,1,Console,Adults,Paid,Puzzle
+5741,Game_741,61.4,Anime,2,5.2,2.1,19,1,0,2012,3.0,Mixed,1,Mobile,Kids,Free,Horror
+5742,Game_742,18.2,Minimalist,2,1.9,3.9,15,1,1,2002,24.0,Mixed,1,Console,Adults,Freemium,Platformer
+5743,Game_743,15.9,Cartoon,4,3.3,4.9,12,1,0,2016,15.3,Positive,1,PC,All Ages,Premium,Simulation
+5744,Game_744,44.0,Cartoon,4,9.3,3.7,1,1,0,2024,8.1,Positive,1,Cross-platform,Kids,Freemium,Shooter
+5745,Game_745,21.6,Cartoon,1,3.9,3.2,18,1,1,2020,5.4,Positive,1,PC,All Ages,Freemium,Puzzle
+5746,Game_746,45.8,Cartoon,2,6.5,1.1,2,1,1,2018,2.6,Positive,0,PC,Teens,Free,Platformer
+5747,Game_747,36.5,Anime,5,8.2,4.7,19,0,0,2021,11.6,Positive,1,Mobile,Kids,Free,Strategy
+5748,Game_748,33.9,Anime,3,6.3,4.5,17,0,0,2004,6.8,Positive,1,Console,Kids,Paid,RPG
+5749,Game_749,30.4,Realistic,2,4.7,2.4,5,1,0,2006,20.6,Negative,0,Mobile,Teens,Paid,Horror
+5750,Game_750,48.7,Realistic,1,1.3,5.0,16,1,0,2013,7.9,Negative,0,Console,All Ages,Premium,RPG
+5751,Game_751,38.0,Minimalist,3,5.9,1.3,1,0,0,2020,6.4,Mixed,1,PC,All Ages,Premium,Sports
+5752,Game_752,76.8,Realistic,5,8.9,1.4,15,1,1,2007,3.4,Mixed,0,PC,All Ages,Paid,RPG
+5753,Game_753,33.4,3D,3,10.0,3.8,16,0,1,2008,9.2,Positive,1,Cross-platform,Adults,Paid,Simulation
+5754,Game_754,19.6,3D,2,7.8,4.4,13,1,1,2007,3.6,Positive,1,Cross-platform,All Ages,Freemium,Sports
+5755,Game_755,59.2,3D,1,6.4,2.6,16,0,0,2015,7.3,Positive,1,PC,All Ages,Premium,Adventure
+5756,Game_756,73.8,Anime,2,1.3,3.1,17,1,0,2016,19.1,Positive,1,Mobile,Adults,Premium,Strategy
+5757,Game_757,97.6,3D,3,9.7,3.0,17,1,0,2002,3.5,Positive,1,Mobile,Teens,Free,RPG
+5758,Game_758,42.2,Cartoon,1,4.7,2.9,17,0,0,2009,42.0,Negative,1,Console,Teens,Freemium,Sports
+5759,Game_759,70.3,Anime,1,9.4,3.0,7,1,1,2020,2.5,Mixed,1,Cross-platform,Adults,Premium,Platformer
+5760,Game_760,26.4,Realistic,3,4.8,1.3,4,0,1,2019,9.3,Mixed,1,Console,Teens,Freemium,Strategy
+5761,Game_761,67.1,Cartoon,3,3.0,3.2,11,0,1,2010,4.5,Negative,1,Cross-platform,Teens,Paid,Sports
+5762,Game_762,47.3,Minimalist,5,7.9,4.1,13,1,0,2021,17.6,Positive,0,PC,All Ages,Premium,Sports
+5763,Game_763,12.9,Realistic,3,7.8,2.0,10,0,0,2018,9.1,Negative,1,Console,Kids,Paid,Platformer
+5764,Game_764,47.4,Cartoon,3,7.2,3.6,18,0,0,2001,5.6,Positive,0,Console,Teens,Free,Adventure
+5765,Game_765,55.1,Anime,1,5.8,1.1,12,0,0,2013,3.3,Mixed,0,Mobile,Adults,Premium,Sports
+5766,Game_766,30.6,Anime,4,5.9,2.9,9,0,1,2003,6.9,Positive,1,Cross-platform,Adults,Paid,Sports
+5767,Game_767,29.9,Anime,4,6.7,3.6,4,1,0,2002,11.1,Mixed,1,Mobile,Kids,Premium,Horror
+5768,Game_768,10.0,Anime,3,7.9,1.9,3,1,1,2011,47.4,Positive,1,Console,Adults,Premium,Horror
+5769,Game_769,21.8,Pixel,1,5.2,3.3,6,1,1,2016,1.5,Positive,1,Mobile,Teens,Freemium,Puzzle
+5770,Game_770,35.1,Cartoon,4,9.0,4.0,15,1,1,2021,15.4,Positive,0,Console,Teens,Premium,Strategy
+5771,Game_771,46.6,Cartoon,3,9.3,4.3,6,0,1,2019,14.9,Mixed,0,PC,Kids,Paid,Adventure
+5772,Game_772,57.4,Realistic,5,1.9,3.7,5,1,1,2008,10.5,Negative,0,Cross-platform,Kids,Premium,Horror
+5773,Game_773,21.0,Anime,1,8.9,3.5,19,0,1,2002,1.0,Positive,1,Mobile,Adults,Paid,Puzzle
+5774,Game_774,50.1,Pixel,3,3.0,4.5,9,0,1,2012,3.5,Negative,0,Console,Teens,Free,RPG
+5775,Game_775,31.5,Realistic,5,2.0,4.5,11,1,0,2001,1.2,Mixed,0,Console,Kids,Free,Adventure
+5776,Game_776,44.4,Realistic,4,6.2,3.8,5,1,1,2020,10.2,Mixed,0,Mobile,Adults,Free,Puzzle
+5777,Game_777,12.2,Realistic,3,7.3,4.9,16,0,0,2014,5.3,Mixed,1,Console,Teens,Paid,Puzzle
+5778,Game_778,22.8,3D,1,6.0,3.2,8,0,0,2021,29.1,Mixed,0,Console,Kids,Paid,Shooter
+5779,Game_779,81.8,Anime,3,4.9,1.5,4,0,0,2024,3.3,Positive,0,Cross-platform,Kids,Paid,Sports
+5780,Game_780,14.3,3D,4,4.2,3.2,5,0,1,2015,3.8,Positive,1,Mobile,All Ages,Premium,Platformer
+5781,Game_781,77.5,Minimalist,4,5.0,4.2,12,0,1,2006,17.9,Mixed,1,Cross-platform,Teens,Premium,Adventure
+5782,Game_782,74.0,Cartoon,1,9.4,4.6,5,0,0,2008,3.8,Positive,1,PC,Kids,Premium,Sports
+5783,Game_783,75.4,Realistic,1,7.1,4.7,4,0,0,2002,4.3,Mixed,1,Cross-platform,Teens,Paid,Adventure
+5784,Game_784,10.5,Anime,5,8.2,3.7,19,0,0,2004,13.3,Negative,1,Console,Teens,Free,Strategy
+5785,Game_785,21.1,Minimalist,2,9.5,4.5,3,0,1,2005,0.4,Mixed,1,Mobile,Teens,Freemium,Sports
+5786,Game_786,56.7,Cartoon,1,9.3,4.9,11,0,1,2015,5.1,Negative,1,Cross-platform,Adults,Premium,Horror
+5787,Game_787,59.5,Pixel,5,6.7,1.9,5,0,0,2018,1.7,Positive,1,Mobile,All Ages,Premium,Strategy
+5788,Game_788,42.3,3D,3,3.3,2.5,2,1,0,2021,10.9,Mixed,0,Mobile,Teens,Paid,Platformer
+5789,Game_789,70.2,3D,1,6.6,1.5,11,1,0,2001,5.8,Positive,1,Mobile,Teens,Free,Shooter
+5790,Game_790,38.1,Cartoon,4,8.5,4.2,12,1,0,2020,17.8,Positive,1,PC,Teens,Free,Adventure
+5791,Game_791,50.8,Cartoon,1,8.7,2.3,6,1,0,2010,6.0,Mixed,0,Console,All Ages,Premium,Platformer
+5792,Game_792,35.5,Anime,1,1.3,4.4,6,0,0,2013,6.1,Positive,1,Cross-platform,Adults,Freemium,Strategy
+5793,Game_793,63.8,Pixel,3,3.7,1.2,12,1,1,2020,3.2,Mixed,1,PC,All Ages,Freemium,RPG
+5794,Game_794,20.8,Realistic,3,2.8,3.6,8,0,0,2021,18.5,Positive,1,Console,Adults,Paid,Strategy
+5795,Game_795,65.6,3D,1,9.8,4.4,3,0,1,2023,3.3,Positive,1,Mobile,Teens,Premium,RPG
+5796,Game_796,52.5,3D,1,3.7,1.1,12,0,0,2021,1.4,Negative,1,PC,Kids,Freemium,Horror
+5797,Game_797,15.6,Realistic,1,1.3,2.2,17,0,1,2011,10.9,Positive,0,Cross-platform,Teens,Free,Adventure
+5798,Game_798,14.6,Minimalist,5,4.8,4.0,9,0,1,2024,0.5,Positive,1,Cross-platform,Teens,Paid,Horror
+5799,Game_799,51.0,Cartoon,1,8.5,4.5,4,1,1,2017,19.3,Mixed,1,Mobile,Teens,Premium,Puzzle
+5800,Game_800,48.1,Cartoon,4,1.1,2.1,3,0,0,2015,4.3,Negative,0,PC,All Ages,Paid,Horror
+5801,Game_801,57.2,Pixel,1,4.3,3.0,15,1,1,2005,16.3,Positive,1,PC,Adults,Paid,Strategy
+5802,Game_802,29.6,3D,4,1.9,2.6,15,1,0,2009,1.8,Positive,0,PC,All Ages,Paid,Horror
+5803,Game_803,26.4,Pixel,2,3.4,2.3,13,0,1,2020,10.6,Positive,1,PC,Kids,Paid,RPG
+5804,Game_804,49.8,3D,4,2.0,2.4,15,0,0,2022,2.5,Positive,1,Console,All Ages,Free,Simulation
+5805,Game_805,59.1,Minimalist,1,9.6,4.7,15,1,1,2019,4.4,Positive,1,Mobile,Teens,Premium,Sports
+5806,Game_806,41.0,Realistic,1,8.5,2.8,19,1,1,2016,24.6,Negative,1,PC,All Ages,Paid,Adventure
+5807,Game_807,42.3,3D,2,8.4,2.6,13,1,0,2012,3.1,Mixed,0,PC,All Ages,Freemium,Strategy
+5808,Game_808,33.5,Realistic,2,8.0,4.5,4,1,0,2008,1.4,Mixed,1,Mobile,Teens,Premium,Puzzle
+5809,Game_809,26.6,Pixel,4,7.7,4.6,10,0,0,2022,7.9,Positive,1,Cross-platform,Teens,Freemium,Shooter
+5810,Game_810,82.5,Realistic,1,1.4,4.6,12,0,1,2004,5.0,Positive,1,PC,Kids,Premium,RPG
+5811,Game_811,48.2,Cartoon,5,3.5,3.2,12,1,1,2005,10.0,Positive,0,PC,Kids,Premium,Shooter
+5812,Game_812,11.0,Pixel,2,3.2,1.5,6,1,0,2008,0.2,Positive,1,Mobile,All Ages,Freemium,Platformer
+5813,Game_813,32.7,Anime,3,2.9,4.0,15,0,0,2021,11.8,Positive,1,Mobile,Adults,Premium,Shooter
+5814,Game_814,28.5,Minimalist,3,6.9,4.7,4,0,1,2019,7.4,Positive,1,Mobile,Kids,Paid,RPG
+5815,Game_815,28.7,Realistic,1,1.2,1.3,1,0,1,2014,14.6,Positive,0,Cross-platform,All Ages,Premium,RPG
+5816,Game_816,71.2,Anime,2,6.5,3.9,10,0,0,2008,29.2,Negative,1,Cross-platform,Kids,Paid,Simulation
+5817,Game_817,57.0,Realistic,3,3.8,3.4,11,1,1,2001,7.8,Mixed,1,Mobile,Teens,Premium,Simulation
+5818,Game_818,30.5,Realistic,3,6.6,1.4,13,0,0,2013,0.1,Negative,1,Console,Kids,Free,Simulation
+5819,Game_819,74.7,Cartoon,3,4.9,3.0,7,1,1,2009,22.6,Mixed,0,PC,Adults,Paid,Platformer
+5820,Game_820,51.7,Minimalist,3,3.5,2.2,7,0,1,2013,0.6,Mixed,1,PC,Adults,Paid,Platformer
+5821,Game_821,53.3,3D,5,10.0,2.7,18,0,0,2014,38.0,Positive,1,PC,Kids,Paid,Simulation
+5822,Game_822,77.0,Realistic,5,9.9,2.6,18,1,0,2016,15.9,Mixed,1,Mobile,Adults,Freemium,Puzzle
+5823,Game_823,10.0,Cartoon,1,6.0,3.2,2,0,1,2016,1.9,Negative,0,PC,Teens,Freemium,Adventure
+5824,Game_824,14.3,3D,5,7.2,1.7,7,0,1,2010,8.3,Mixed,1,Cross-platform,Teens,Premium,Puzzle
+5825,Game_825,43.1,Anime,5,1.1,1.4,19,0,0,2017,19.0,Negative,1,PC,Kids,Free,Horror
+5826,Game_826,39.2,Realistic,1,8.7,1.4,11,0,1,2008,20.1,Mixed,0,Mobile,All Ages,Premium,RPG
+5827,Game_827,31.6,Cartoon,4,4.4,2.7,3,0,1,2020,12.3,Positive,0,Cross-platform,Adults,Free,Simulation
+5828,Game_828,50.0,Minimalist,5,4.1,3.9,2,0,0,2011,5.7,Mixed,1,Cross-platform,All Ages,Free,Sports
+5829,Game_829,60.1,Realistic,5,9.6,5.0,2,0,1,2005,22.3,Positive,1,Console,Teens,Paid,Platformer
+5830,Game_830,24.9,Anime,2,1.0,4.0,11,0,1,2004,2.5,Positive,0,PC,Teens,Premium,Sports
+5831,Game_831,46.5,Cartoon,4,8.2,4.5,6,1,1,2014,19.8,Negative,0,PC,Kids,Paid,Strategy
+5832,Game_832,35.6,Minimalist,1,9.2,2.8,8,1,0,2019,26.5,Mixed,1,PC,All Ages,Paid,Shooter
+5833,Game_833,33.3,Realistic,2,2.1,1.7,14,0,1,2012,10.1,Mixed,1,PC,All Ages,Freemium,Horror
+5834,Game_834,86.6,Cartoon,1,9.7,2.1,5,0,1,2023,2.0,Mixed,1,Mobile,All Ages,Free,Sports
+5835,Game_835,35.5,Realistic,1,5.4,1.7,10,0,0,2006,4.3,Mixed,0,PC,Kids,Paid,Shooter
+5836,Game_836,37.4,Pixel,5,10.0,3.9,17,0,1,2020,3.8,Negative,0,Console,Teens,Free,Shooter
+5837,Game_837,19.5,Minimalist,1,3.5,4.3,11,0,0,2023,3.3,Positive,1,PC,Teens,Freemium,Sports
+5838,Game_838,68.2,Pixel,4,8.4,2.2,9,1,0,2024,5.7,Positive,1,Cross-platform,Kids,Freemium,Simulation
+5839,Game_839,33.0,Anime,3,8.0,3.2,11,0,1,2001,21.6,Negative,1,PC,All Ages,Premium,Adventure
+5840,Game_840,53.2,3D,2,6.4,3.4,2,0,1,2019,16.2,Positive,1,Console,Adults,Paid,Strategy
+5841,Game_841,30.9,Pixel,2,4.0,3.8,3,1,1,2019,10.2,Positive,1,Cross-platform,Teens,Free,Adventure
+5842,Game_842,56.8,3D,4,4.8,3.1,3,1,1,2014,5.6,Positive,1,Mobile,Kids,Premium,Platformer
+5843,Game_843,51.8,Minimalist,5,3.3,3.7,15,0,1,2020,39.8,Positive,1,Cross-platform,Kids,Free,Sports
+5844,Game_844,44.5,3D,1,9.0,4.2,11,1,1,2005,1.4,Negative,1,Cross-platform,All Ages,Premium,RPG
+5845,Game_845,52.0,Minimalist,4,9.3,2.8,3,0,0,2016,11.5,Negative,1,Cross-platform,Adults,Paid,Sports
+5846,Game_846,67.2,Pixel,2,2.8,1.2,8,0,0,2022,22.4,Negative,0,Console,Kids,Paid,Sports
+5847,Game_847,49.2,Pixel,4,9.3,2.1,3,0,1,2003,12.0,Mixed,1,Mobile,All Ages,Free,Sports
+5848,Game_848,25.2,3D,4,2.1,2.1,4,0,1,2022,3.6,Positive,1,Console,All Ages,Premium,Adventure
+5849,Game_849,67.2,Cartoon,2,4.3,2.6,16,1,1,2004,4.4,Positive,0,Console,Teens,Premium,Simulation
+5850,Game_850,62.6,Anime,4,5.3,4.6,2,0,0,2011,18.9,Positive,0,Cross-platform,Kids,Free,Horror
+5851,Game_851,41.1,Pixel,1,6.4,1.8,2,0,0,2003,0.4,Positive,1,Mobile,Teens,Paid,Sports
+5852,Game_852,25.9,Cartoon,1,3.8,4.9,6,0,1,2022,1.5,Positive,1,Cross-platform,Adults,Paid,Adventure
+5853,Game_853,42.3,Realistic,1,5.0,3.9,15,1,1,2017,3.6,Negative,1,Cross-platform,All Ages,Freemium,Strategy
+5854,Game_854,67.3,Realistic,2,5.7,1.3,2,0,1,2024,5.0,Positive,1,Mobile,Kids,Paid,Puzzle
+5855,Game_855,63.1,Anime,4,6.7,1.3,19,0,1,2011,34.0,Negative,1,Console,Kids,Paid,Adventure
+5856,Game_856,25.3,Minimalist,1,1.1,4.4,5,1,1,2000,0.9,Negative,1,Cross-platform,All Ages,Free,Strategy
+5857,Game_857,50.1,Cartoon,3,1.4,1.2,5,0,1,2007,20.5,Positive,1,Cross-platform,All Ages,Premium,Puzzle
+5858,Game_858,64.8,3D,3,2.0,4.0,16,1,0,2023,8.1,Positive,0,PC,Adults,Freemium,Adventure
+5859,Game_859,62.1,Minimalist,3,4.6,4.6,18,1,1,2013,6.4,Negative,1,Mobile,All Ages,Freemium,Platformer
+5860,Game_860,66.7,3D,4,3.6,2.7,10,1,0,2005,3.3,Mixed,0,Cross-platform,Kids,Free,Horror
+5861,Game_861,49.5,Pixel,5,8.7,2.7,7,0,0,2018,13.3,Positive,0,Cross-platform,Teens,Premium,Horror
+5862,Game_862,44.0,3D,3,9.6,4.9,10,1,1,2021,0.1,Positive,1,Mobile,Teens,Paid,Horror
+5863,Game_863,27.7,Realistic,3,6.1,2.7,13,0,0,2003,8.4,Mixed,0,Mobile,All Ages,Premium,Strategy
+5864,Game_864,27.4,Anime,3,5.9,3.3,5,0,1,2002,9.8,Positive,1,Mobile,All Ages,Paid,Platformer
+5865,Game_865,83.6,Cartoon,3,3.7,3.6,18,1,0,2000,15.8,Mixed,1,Mobile,Kids,Paid,Simulation
+5866,Game_866,75.6,Cartoon,5,8.3,4.4,5,1,1,2015,4.8,Mixed,0,PC,Kids,Premium,Simulation
+5867,Game_867,46.2,Realistic,1,1.7,1.3,7,0,0,2010,17.7,Positive,1,Console,All Ages,Paid,RPG
+5868,Game_868,39.4,Minimalist,1,6.6,3.5,18,0,0,2019,6.2,Mixed,1,Cross-platform,Kids,Free,Sports
+5869,Game_869,41.4,Minimalist,2,8.7,2.2,4,0,0,2006,26.6,Positive,1,Cross-platform,Teens,Premium,Shooter
+5870,Game_870,39.7,Anime,5,4.6,2.2,7,0,1,2009,40.7,Negative,1,Console,Teens,Paid,Shooter
+5871,Game_871,66.8,3D,1,1.5,4.2,9,1,1,2011,0.0,Positive,1,PC,All Ages,Free,Platformer
+5872,Game_872,12.3,Cartoon,1,9.6,4.5,16,1,1,2021,2.0,Mixed,0,Console,Kids,Premium,Platformer
+5873,Game_873,10.0,Pixel,2,9.2,2.6,6,0,1,2024,15.8,Mixed,0,Console,Teens,Freemium,Simulation
+5874,Game_874,16.0,Pixel,1,6.6,1.7,2,0,0,2009,1.7,Positive,1,Mobile,Kids,Freemium,Adventure
+5875,Game_875,54.0,Realistic,5,7.8,3.0,5,1,0,2013,0.3,Positive,1,Mobile,Teens,Free,Simulation
+5876,Game_876,68.0,Realistic,5,8.6,2.1,18,0,0,2018,15.3,Positive,1,PC,Teens,Freemium,Adventure
+5877,Game_877,45.0,Cartoon,2,8.5,2.6,16,1,1,2015,3.0,Positive,0,Cross-platform,Kids,Premium,Puzzle
+5878,Game_878,36.2,Pixel,3,5.8,2.6,3,1,0,2022,11.8,Mixed,0,Cross-platform,All Ages,Premium,Puzzle
+5879,Game_879,32.5,Cartoon,5,3.8,3.0,11,0,1,2012,10.3,Positive,1,PC,Kids,Free,Shooter
+5880,Game_880,46.1,Anime,3,2.5,1.1,1,0,1,2005,0.8,Positive,0,Cross-platform,Teens,Freemium,Shooter
+5881,Game_881,102.9,Realistic,5,8.7,3.4,10,0,0,2019,25.4,Positive,0,Cross-platform,All Ages,Freemium,Shooter
+5882,Game_882,30.3,3D,2,6.0,1.1,17,0,0,2019,13.1,Positive,1,Console,Adults,Premium,Horror
+5883,Game_883,47.0,3D,4,6.3,4.3,11,0,0,2009,6.7,Positive,0,PC,Adults,Freemium,Shooter
+5884,Game_884,10.0,Cartoon,2,6.0,5.0,18,0,1,2019,0.1,Mixed,0,Cross-platform,All Ages,Paid,Adventure
+5885,Game_885,58.2,Anime,2,7.9,1.5,8,0,1,2011,0.5,Positive,1,PC,Teens,Freemium,Adventure
+5886,Game_886,10.0,Cartoon,4,7.6,3.5,2,1,1,2022,7.3,Negative,1,Cross-platform,Teens,Paid,Sports
+5887,Game_887,44.1,3D,1,9.6,3.9,6,0,0,2023,5.3,Positive,1,Console,Adults,Freemium,Simulation
+5888,Game_888,58.6,Pixel,2,6.0,1.4,10,1,1,2006,9.5,Positive,1,Mobile,All Ages,Paid,Sports
+5889,Game_889,38.7,Realistic,4,3.2,3.7,4,0,1,2008,0.7,Positive,1,Cross-platform,Teens,Premium,Platformer
+5890,Game_890,44.3,Pixel,2,3.7,1.8,3,1,1,2005,5.3,Negative,1,Console,Adults,Premium,Puzzle
+5891,Game_891,43.4,Anime,5,5.9,1.7,17,1,0,2021,0.8,Positive,0,Mobile,Teens,Free,Sports
+5892,Game_892,51.6,Realistic,5,9.3,2.7,19,0,1,2014,8.0,Mixed,1,Console,Kids,Freemium,Strategy
+5893,Game_893,36.4,Cartoon,1,6.2,4.4,17,1,0,2003,15.2,Negative,1,Mobile,All Ages,Paid,Adventure
+5894,Game_894,13.3,3D,5,4.3,3.2,5,1,1,2019,10.5,Mixed,1,PC,Kids,Premium,RPG
+5895,Game_895,20.6,Pixel,3,7.9,4.1,9,0,0,2004,1.2,Mixed,1,Mobile,Teens,Free,Shooter
+5896,Game_896,22.3,Anime,1,1.9,3.9,17,1,0,2019,3.0,Mixed,0,PC,Adults,Paid,Shooter
+5897,Game_897,16.1,3D,1,2.7,4.9,1,0,1,2018,7.4,Positive,1,Console,Teens,Paid,Horror
+5898,Game_898,32.3,3D,1,9.9,2.7,19,1,0,2019,19.1,Mixed,1,Cross-platform,Kids,Freemium,Horror
+5899,Game_899,45.6,Cartoon,1,5.6,2.8,2,0,1,2022,12.2,Positive,0,Mobile,Kids,Premium,Shooter
+5900,Game_900,45.6,Cartoon,1,1.2,3.9,1,0,1,2011,3.7,Mixed,1,Console,All Ages,Freemium,Adventure
+5901,Game_901,33.7,3D,1,8.9,3.7,13,0,0,2019,4.4,Positive,1,Cross-platform,Kids,Free,Shooter
+5902,Game_902,43.6,Minimalist,1,3.1,1.6,9,1,0,2009,0.8,Mixed,1,Mobile,Adults,Premium,Platformer
+5903,Game_903,42.5,Minimalist,4,4.4,3.5,13,0,0,2021,32.3,Mixed,1,Console,All Ages,Paid,Puzzle
+5904,Game_904,36.8,Realistic,1,6.4,4.5,14,1,1,2020,8.7,Positive,0,PC,Adults,Paid,Platformer
+5905,Game_905,13.1,Cartoon,5,3.5,4.8,14,0,0,2024,13.9,Mixed,0,Console,All Ages,Premium,Simulation
+5906,Game_906,51.2,Realistic,4,7.5,2.2,18,0,0,2019,1.8,Negative,1,Mobile,All Ages,Paid,Strategy
+5907,Game_907,37.4,Minimalist,5,4.1,3.4,11,1,0,2020,1.6,Mixed,1,Mobile,All Ages,Freemium,RPG
+5908,Game_908,44.0,Realistic,1,8.1,4.5,13,1,0,2024,4.1,Mixed,1,Mobile,All Ages,Premium,Puzzle
+5909,Game_909,69.5,Realistic,5,3.5,4.3,19,0,1,2006,2.8,Positive,1,PC,Teens,Premium,Simulation
+5910,Game_910,62.9,Anime,1,7.1,4.8,12,0,0,2022,7.2,Positive,1,Console,Kids,Premium,Shooter
+5911,Game_911,58.3,3D,3,1.8,3.2,15,0,1,2007,1.8,Positive,1,PC,Kids,Premium,Puzzle
+5912,Game_912,27.2,3D,2,9.9,4.6,13,0,0,2015,19.9,Positive,0,PC,Kids,Freemium,Platformer
+5913,Game_913,70.0,Pixel,1,8.9,4.9,19,1,1,2022,5.4,Mixed,1,Mobile,Teens,Premium,Sports
+5914,Game_914,44.1,Minimalist,3,1.7,2.3,10,0,1,2024,12.3,Positive,1,Cross-platform,Teens,Free,Shooter
+5915,Game_915,28.9,Realistic,4,9.0,4.2,7,0,1,2022,2.9,Positive,0,Mobile,All Ages,Premium,Shooter
+5916,Game_916,29.7,Realistic,3,9.2,4.4,1,0,1,2011,18.4,Mixed,1,Cross-platform,Kids,Free,Platformer
+5917,Game_917,45.1,Pixel,4,1.4,1.8,1,1,1,2006,8.5,Mixed,1,Console,Adults,Premium,Puzzle
+5918,Game_918,72.8,Cartoon,1,2.6,4.4,9,0,0,2010,0.4,Positive,0,Console,Kids,Premium,Puzzle
+5919,Game_919,24.5,Cartoon,2,7.6,3.3,10,0,1,2007,11.7,Positive,1,Cross-platform,Kids,Free,Simulation
+5920,Game_920,59.6,Cartoon,1,5.1,1.8,2,1,1,2009,10.3,Mixed,1,PC,All Ages,Paid,Sports
+5921,Game_921,10.0,3D,4,8.8,4.2,2,0,1,2004,2.9,Positive,1,Mobile,Teens,Premium,Horror
+5922,Game_922,58.1,Minimalist,4,9.5,1.8,17,1,1,2017,3.8,Mixed,1,PC,All Ages,Paid,Simulation
+5923,Game_923,51.2,Cartoon,4,9.7,1.7,15,0,0,2022,12.4,Positive,1,Cross-platform,Kids,Premium,Puzzle
+5924,Game_924,19.4,Pixel,3,6.4,2.6,8,1,1,2009,3.9,Mixed,1,PC,Teens,Freemium,Sports
+5925,Game_925,52.2,3D,1,2.8,2.8,10,0,0,2021,3.2,Positive,1,Cross-platform,All Ages,Premium,Adventure
+5926,Game_926,53.2,Anime,4,6.2,3.9,16,1,0,2021,12.3,Negative,0,Console,Adults,Paid,RPG
+5927,Game_927,41.7,Realistic,1,2.2,3.6,10,0,1,2020,6.7,Positive,0,Console,Adults,Paid,Adventure
+5928,Game_928,46.2,3D,1,2.7,3.3,11,0,1,2019,23.2,Positive,1,PC,Adults,Paid,Simulation
+5929,Game_929,21.4,Cartoon,3,3.4,2.7,18,0,0,2017,3.1,Mixed,1,Console,All Ages,Paid,Strategy
+5930,Game_930,74.9,Pixel,3,6.3,1.4,3,1,0,2023,8.2,Positive,0,Console,Teens,Freemium,Shooter
+5931,Game_931,63.0,Realistic,4,6.8,1.5,7,0,0,2004,10.0,Positive,1,PC,Teens,Freemium,Horror
+5932,Game_932,65.7,Anime,5,9.5,4.5,17,0,1,2013,4.8,Positive,1,Cross-platform,Teens,Premium,Shooter
+5933,Game_933,39.7,Realistic,1,6.2,3.8,1,0,1,2010,4.1,Positive,1,PC,Teens,Free,Adventure
+5934,Game_934,13.0,Anime,4,5.3,1.5,6,1,1,2016,4.9,Positive,1,Cross-platform,All Ages,Free,Simulation
+5935,Game_935,89.7,3D,1,3.6,2.6,13,1,0,2004,36.5,Positive,1,Console,All Ages,Premium,Puzzle
+5936,Game_936,55.3,Pixel,4,5.7,1.0,19,1,1,2017,41.3,Positive,0,Mobile,All Ages,Freemium,Strategy
+5937,Game_937,44.5,Anime,1,2.3,1.3,1,0,0,2023,2.1,Negative,1,Cross-platform,Teens,Premium,Shooter
+5938,Game_938,28.3,Minimalist,1,2.6,2.0,9,1,0,2012,44.8,Positive,0,Cross-platform,Adults,Paid,Sports
+5939,Game_939,19.1,3D,2,7.6,3.7,9,0,0,2008,7.7,Negative,0,Mobile,Teens,Free,Adventure
+5940,Game_940,53.6,3D,5,7.3,3.0,16,0,1,2007,6.5,Positive,1,Mobile,All Ages,Premium,Adventure
+5941,Game_941,48.2,Cartoon,4,2.3,1.7,5,0,0,2011,1.7,Negative,1,Mobile,Adults,Freemium,RPG
+5942,Game_942,10.0,3D,3,8.0,1.8,18,0,1,2017,1.5,Positive,1,PC,Kids,Paid,Shooter
+5943,Game_943,10.7,Anime,2,7.7,3.8,1,0,0,2006,0.7,Mixed,1,Mobile,Teens,Premium,RPG
+5944,Game_944,55.9,3D,3,2.1,4.5,12,1,1,2014,28.6,Positive,1,Console,Kids,Premium,Puzzle
+5945,Game_945,44.0,Cartoon,5,2.2,3.1,8,0,0,2019,10.2,Positive,0,PC,Kids,Paid,Horror
+5946,Game_946,43.4,Pixel,2,2.9,2.9,6,0,0,2002,2.9,Positive,1,Console,Kids,Paid,Puzzle
+5947,Game_947,67.7,Pixel,5,3.9,4.4,11,0,1,2022,2.9,Positive,1,Console,Kids,Paid,Simulation
+5948,Game_948,45.1,Pixel,4,3.7,2.2,18,0,1,2019,0.6,Mixed,1,Console,All Ages,Freemium,Horror
+5949,Game_949,51.0,Pixel,1,4.7,2.9,11,1,1,2010,4.3,Mixed,1,Console,All Ages,Paid,Strategy
+5950,Game_950,45.1,Cartoon,4,1.9,4.1,14,0,0,2020,5.5,Positive,1,Console,Teens,Free,Platformer
+5951,Game_951,51.9,Pixel,1,6.9,2.9,1,1,1,2017,5.9,Positive,1,Cross-platform,Kids,Free,RPG
+5952,Game_952,39.5,Anime,5,4.0,3.5,3,1,0,2012,4.6,Mixed,1,Console,Kids,Freemium,Horror
+5953,Game_953,52.6,Pixel,3,5.6,1.7,4,0,1,2009,10.1,Negative,1,Cross-platform,All Ages,Freemium,Simulation
+5954,Game_954,82.1,Realistic,4,6.6,4.9,4,1,0,2020,2.9,Positive,1,Console,Teens,Freemium,Sports
+5955,Game_955,89.1,Cartoon,2,2.1,1.0,9,1,0,2012,5.4,Negative,1,Cross-platform,Adults,Freemium,Platformer
+5956,Game_956,30.5,Cartoon,2,7.8,1.9,18,1,1,2005,1.3,Negative,1,Mobile,Kids,Premium,Sports
+5957,Game_957,53.5,3D,1,6.9,1.7,14,1,0,2013,12.9,Positive,1,Mobile,Kids,Free,Shooter
+5958,Game_958,33.0,Minimalist,3,4.2,2.5,1,1,0,2012,9.0,Positive,1,Cross-platform,Adults,Premium,Strategy
+5959,Game_959,10.0,Anime,5,8.7,1.0,17,0,1,2013,1.2,Mixed,1,Mobile,All Ages,Paid,Puzzle
+5960,Game_960,32.4,Pixel,2,4.6,2.5,18,0,1,2020,3.6,Positive,0,PC,Adults,Freemium,RPG
+5961,Game_961,54.7,Minimalist,3,8.0,1.0,8,1,0,2021,5.7,Positive,1,Cross-platform,Kids,Paid,Sports
+5962,Game_962,44.0,Cartoon,4,8.3,2.4,14,0,0,2023,5.4,Mixed,1,Console,All Ages,Premium,Sports
+5963,Game_963,41.2,Minimalist,3,5.6,1.5,6,1,1,2001,4.1,Positive,1,Cross-platform,Adults,Paid,Strategy
+5964,Game_964,44.9,3D,1,5.2,4.0,5,0,1,2005,15.3,Positive,1,Cross-platform,Adults,Free,Sports
+5965,Game_965,66.3,Anime,5,8.0,3.5,13,0,1,2010,10.4,Mixed,1,Cross-platform,Teens,Freemium,Simulation
+5966,Game_966,10.0,Pixel,4,6.2,3.8,18,0,0,2016,22.9,Positive,0,PC,Kids,Free,Sports
+5967,Game_967,71.0,Minimalist,3,6.8,1.0,16,1,0,2014,2.4,Positive,1,Mobile,All Ages,Freemium,Platformer
+5968,Game_968,13.3,Minimalist,2,2.6,2.5,2,1,1,2015,7.5,Negative,0,Console,Adults,Paid,Adventure
+5969,Game_969,62.2,Cartoon,5,5.5,1.5,14,0,1,2021,6.9,Positive,1,PC,All Ages,Premium,Horror
+5970,Game_970,41.4,Realistic,3,1.8,4.2,1,1,0,2022,2.8,Positive,1,Cross-platform,Kids,Freemium,Adventure
+5971,Game_971,52.0,Anime,3,6.9,2.9,19,0,0,2001,13.1,Positive,1,PC,All Ages,Freemium,Shooter
+5972,Game_972,49.0,Anime,2,6.1,3.6,13,0,0,2019,15.2,Positive,1,Cross-platform,Kids,Freemium,Puzzle
+5973,Game_973,20.8,3D,4,2.6,3.2,11,1,0,2011,9.0,Mixed,1,PC,Kids,Free,Simulation
+5974,Game_974,23.4,Minimalist,4,5.7,2.9,18,0,1,2000,1.7,Positive,1,PC,Teens,Premium,Simulation
+5975,Game_975,10.0,Cartoon,5,3.0,1.7,16,0,0,2017,26.7,Positive,1,PC,Teens,Paid,Platformer
+5976,Game_976,44.9,Cartoon,1,8.4,3.9,5,0,0,2005,8.5,Positive,1,Console,Kids,Freemium,Shooter
+5977,Game_977,50.1,Pixel,1,1.9,4.3,6,1,1,2019,5.5,Mixed,1,Console,Adults,Paid,Platformer
+5978,Game_978,44.2,Cartoon,4,4.3,1.9,9,1,0,2016,6.2,Positive,1,Console,Teens,Paid,Sports
+5979,Game_979,39.3,Minimalist,4,6.2,1.7,2,1,1,2013,8.5,Positive,1,PC,Kids,Premium,Shooter
+5980,Game_980,37.5,Realistic,2,1.6,3.1,4,0,0,2019,5.7,Mixed,0,Mobile,Teens,Free,Shooter
+5981,Game_981,48.0,Anime,5,2.4,4.8,2,1,0,2017,23.1,Positive,1,Console,Teens,Premium,Platformer
+5982,Game_982,38.6,Realistic,4,1.8,4.0,17,0,1,2023,15.3,Mixed,1,Cross-platform,Adults,Free,Shooter
+5983,Game_983,24.4,Minimalist,1,9.1,3.8,13,1,1,2005,3.3,Negative,0,Console,Kids,Freemium,Simulation
+5984,Game_984,60.0,Anime,3,8.3,2.4,13,0,1,2018,14.0,Mixed,1,PC,Kids,Freemium,Strategy
+5985,Game_985,59.8,Minimalist,5,7.8,3.2,3,0,1,2008,15.4,Positive,1,Cross-platform,All Ages,Paid,Puzzle
+5986,Game_986,42.9,Realistic,3,1.6,2.1,3,1,0,2021,2.9,Positive,1,Cross-platform,Kids,Paid,Puzzle
+5987,Game_987,42.9,Pixel,1,6.5,2.5,7,1,0,2014,1.5,Mixed,1,Mobile,Teens,Free,Horror
+5988,Game_988,22.7,Minimalist,3,2.8,4.2,14,0,1,2003,5.9,Mixed,1,PC,All Ages,Paid,Horror
+5989,Game_989,44.9,Minimalist,4,6.9,4.4,1,1,1,2010,0.3,Negative,0,PC,Teens,Paid,Shooter
+5990,Game_990,45.1,3D,5,3.6,2.0,13,0,1,2012,2.8,Negative,0,PC,Kids,Free,RPG
+5991,Game_991,59.3,3D,3,4.9,3.1,12,0,1,2011,3.1,Negative,1,Mobile,Kids,Paid,Shooter
+5992,Game_992,42.7,Cartoon,1,6.9,3.4,15,1,1,2018,0.3,Mixed,1,Mobile,Teens,Paid,Adventure
+5993,Game_993,67.7,Anime,3,7.8,3.9,3,0,1,2016,3.8,Negative,0,Mobile,Adults,Paid,Shooter
+5994,Game_994,19.1,Anime,3,2.9,2.8,16,0,1,2015,6.7,Negative,1,PC,All Ages,Premium,Sports
+5995,Game_995,18.8,Cartoon,2,4.6,1.4,7,1,1,2006,0.7,Positive,0,PC,Kids,Premium,Shooter
+5996,Game_996,51.1,Minimalist,2,6.4,3.8,19,0,0,2007,12.2,Mixed,0,Mobile,Teens,Premium,Simulation
+5997,Game_997,10.0,Realistic,4,5.5,3.2,9,0,0,2010,6.4,Negative,1,Console,Kids,Free,Simulation
+5998,Game_998,46.5,3D,5,4.2,3.0,16,0,0,2012,36.0,Positive,1,Mobile,All Ages,Paid,Platformer
+5999,Game_999,10.0,Realistic,3,9.7,4.2,10,0,0,2004,4.2,Mixed,1,PC,Adults,Paid,Strategy
+6000,Game_1000,70.0,Realistic,1,7.0,1.2,5,0,1,2007,4.2,Mixed,0,PC,Kids,Premium,Platformer
