@@ -1,0 +1,1001 @@
+Booking ID,Lead Time (days),Room Type,Rate Plan,Customer Age,Customer Location,Weather on Date,Local Event,Cancelled
+BOOK1000,352,Standard,Non-Refundable,25,Mumbai,Clear,None,0
+BOOK1001,50,Standard,Refundable,26,Bangalore,Fog,None,1
+BOOK1002,316,Standard,Refundable,56,Chennai,Clear,None,1
+BOOK1003,228,Suite,Non-Refundable,41,Delhi,Fog,Conference,0
+BOOK1004,72,Standard,Refundable,21,Chennai,Rain,None,0
+BOOK1005,85,Suite,Refundable,38,Delhi,Clear,Conference,0
+BOOK1006,299,Standard,Non-Refundable,47,Bangalore,Clear,Conference,0
+BOOK1007,58,Standard,Non-Refundable,56,Kolkata,Rain,Festival,0
+BOOK1008,153,Standard,Non-Refundable,20,Delhi,Clear,Conference,0
+BOOK1009,215,Suite,Refundable,68,Chennai,Clear,Conference,0
+BOOK1010,40,Standard,Non-Refundable,32,Kolkata,Clear,Festival,0
+BOOK1011,293,Standard,Non-Refundable,28,Bangalore,Storm,Conference,0
+BOOK1012,362,Deluxe,Refundable,59,Delhi,Fog,None,1
+BOOK1013,165,Deluxe,Refundable,27,Mumbai,Fog,None,0
+BOOK1014,311,Deluxe,Non-Refundable,41,Kolkata,Fog,None,0
+BOOK1015,327,Standard,Refundable,21,Kolkata,Fog,Festival,0
+BOOK1016,71,Deluxe,Non-Refundable,24,Bangalore,Clear,None,0
+BOOK1017,348,Standard,Refundable,54,Bangalore,Clear,None,1
+BOOK1018,263,Deluxe,Refundable,60,Mumbai,Fog,None,1
+BOOK1019,258,Standard,Refundable,26,Kolkata,Fog,None,1
+BOOK1020,188,Standard,Refundable,41,Delhi,Clear,Sports Event,1
+BOOK1021,298,Deluxe,Refundable,39,Chennai,Clear,Festival,1
+BOOK1022,187,Standard,Refundable,38,Kolkata,Rain,None,0
+BOOK1023,67,Standard,Non-Refundable,62,Bangalore,Clear,None,0
+BOOK1024,36,Standard,Refundable,30,Mumbai,Clear,None,1
+BOOK1025,199,Standard,Non-Refundable,32,Chennai,Clear,None,1
+BOOK1026,312,Standard,Non-Refundable,64,Kolkata,Clear,None,1
+BOOK1027,150,Standard,Refundable,57,Bangalore,Rain,Festival,1
+BOOK1028,209,Standard,Refundable,67,Kolkata,Clear,Festival,1
+BOOK1029,142,Suite,Refundable,48,Bangalore,Fog,Festival,0
+BOOK1030,73,Suite,Refundable,42,Mumbai,Storm,Sports Event,1
+BOOK1031,30,Suite,Refundable,68,Kolkata,Rain,Sports Event,1
+BOOK1032,339,Standard,Non-Refundable,52,Bangalore,Clear,None,0
+BOOK1033,7,Deluxe,Non-Refundable,67,Kolkata,Rain,None,0
+BOOK1034,122,Suite,Non-Refundable,68,Mumbai,Fog,Conference,0
+BOOK1035,41,Suite,Refundable,58,Kolkata,Rain,Festival,1
+BOOK1036,133,Deluxe,Non-Refundable,59,Delhi,Clear,Festival,0
+BOOK1037,206,Suite,Refundable,37,Bangalore,Rain,Festival,1
+BOOK1038,350,Standard,Non-Refundable,35,Kolkata,Rain,None,0
+BOOK1039,124,Standard,Refundable,60,Mumbai,Clear,Sports Event,0
+BOOK1040,193,Standard,Refundable,68,Delhi,Rain,None,0
+BOOK1041,22,Suite,Refundable,46,Bangalore,Clear,Sports Event,1
+BOOK1042,16,Standard,Refundable,49,Bangalore,Clear,None,0
+BOOK1043,249,Standard,Non-Refundable,38,Bangalore,Clear,Festival,0
+BOOK1044,11,Standard,Refundable,67,Kolkata,Clear,None,1
+BOOK1045,183,Deluxe,Refundable,21,Kolkata,Clear,Festival,0
+BOOK1046,263,Standard,Non-Refundable,44,Kolkata,Clear,Festival,0
+BOOK1047,72,Deluxe,Refundable,33,Delhi,Clear,Conference,0
+BOOK1048,81,Deluxe,Refundable,48,Delhi,Rain,None,0
+BOOK1049,227,Deluxe,Refundable,24,Mumbai,Clear,None,0
+BOOK1050,299,Deluxe,Non-Refundable,26,Mumbai,Clear,Conference,0
+BOOK1051,110,Deluxe,Non-Refundable,61,Mumbai,Storm,None,0
+BOOK1052,75,Suite,Non-Refundable,24,Chennai,Clear,None,0
+BOOK1053,318,Standard,Non-Refundable,53,Kolkata,Rain,Festival,0
+BOOK1054,214,Standard,Refundable,31,Mumbai,Clear,Festival,1
+BOOK1055,29,Suite,Refundable,61,Bangalore,Rain,None,1
+BOOK1056,142,Suite,Refundable,65,Kolkata,Clear,None,1
+BOOK1057,120,Suite,Non-Refundable,59,Bangalore,Clear,Conference,0
+BOOK1058,136,Deluxe,Refundable,33,Mumbai,Clear,Festival,1
+BOOK1059,305,Suite,Refundable,22,Chennai,Clear,Conference,1
+BOOK1060,145,Standard,Refundable,24,Delhi,Clear,None,1
+BOOK1061,231,Deluxe,Refundable,56,Kolkata,Rain,Sports Event,0
+BOOK1062,97,Standard,Refundable,41,Delhi,Rain,Sports Event,1
+BOOK1063,99,Deluxe,Refundable,41,Delhi,Clear,None,0
+BOOK1064,294,Standard,Non-Refundable,29,Bangalore,Clear,Sports Event,0
+BOOK1065,168,Standard,Refundable,20,Delhi,Rain,Conference,1
+BOOK1066,205,Standard,Refundable,47,Chennai,Clear,None,1
+BOOK1067,150,Standard,Non-Refundable,57,Delhi,Clear,Festival,1
+BOOK1068,224,Deluxe,Non-Refundable,63,Chennai,Clear,None,0
+BOOK1069,214,Suite,Non-Refundable,56,Mumbai,Rain,Festival,1
+BOOK1070,188,Deluxe,Non-Refundable,27,Mumbai,Clear,None,0
+BOOK1071,210,Suite,Refundable,41,Delhi,Clear,Sports Event,0
+BOOK1072,205,Deluxe,Non-Refundable,63,Bangalore,Clear,None,0
+BOOK1073,256,Standard,Refundable,24,Mumbai,Fog,None,1
+BOOK1074,315,Standard,Refundable,41,Mumbai,Rain,Conference,1
+BOOK1075,222,Standard,Refundable,58,Mumbai,Rain,Sports Event,1
+BOOK1076,155,Standard,Refundable,55,Chennai,Clear,None,0
+BOOK1077,191,Deluxe,Refundable,56,Chennai,Clear,Sports Event,1
+BOOK1078,359,Standard,Refundable,58,Mumbai,Rain,None,1
+BOOK1079,236,Suite,Non-Refundable,29,Delhi,Clear,None,0
+BOOK1080,251,Standard,Refundable,35,Delhi,Fog,None,0
+BOOK1081,336,Standard,Non-Refundable,67,Bangalore,Clear,None,1
+BOOK1082,18,Deluxe,Non-Refundable,61,Bangalore,Clear,Conference,0
+BOOK1083,118,Standard,Refundable,40,Delhi,Clear,None,1
+BOOK1084,218,Suite,Refundable,56,Bangalore,Fog,Festival,1
+BOOK1085,5,Standard,Refundable,63,Chennai,Fog,None,0
+BOOK1086,348,Suite,Refundable,32,Kolkata,Storm,None,1
+BOOK1087,236,Suite,Refundable,27,Mumbai,Storm,None,1
+BOOK1088,3,Deluxe,Refundable,51,Mumbai,Fog,None,1
+BOOK1089,326,Standard,Non-Refundable,39,Chennai,Clear,None,0
+BOOK1090,38,Standard,Non-Refundable,37,Kolkata,Clear,None,0
+BOOK1091,125,Standard,Non-Refundable,23,Bangalore,Rain,None,0
+BOOK1092,325,Deluxe,Refundable,55,Delhi,Rain,None,1
+BOOK1093,337,Standard,Refundable,26,Delhi,Rain,None,0
+BOOK1094,193,Standard,Refundable,66,Kolkata,Fog,None,1
+BOOK1095,282,Standard,Non-Refundable,50,Chennai,Clear,None,0
+BOOK1096,272,Deluxe,Refundable,69,Kolkata,Rain,None,1
+BOOK1097,91,Standard,Non-Refundable,52,Delhi,Storm,Conference,0
+BOOK1098,80,Standard,Refundable,49,Chennai,Clear,Festival,1
+BOOK1099,139,Deluxe,Refundable,66,Chennai,Rain,Festival,1
+BOOK1100,29,Standard,Refundable,55,Chennai,Clear,None,1
+BOOK1101,283,Deluxe,Non-Refundable,65,Bangalore,Clear,None,0
+BOOK1102,127,Deluxe,Refundable,62,Delhi,Clear,Festival,0
+BOOK1103,24,Standard,Refundable,52,Chennai,Clear,None,0
+BOOK1104,323,Standard,Refundable,49,Delhi,Clear,None,0
+BOOK1105,300,Deluxe,Refundable,55,Delhi,Fog,Festival,1
+BOOK1106,352,Deluxe,Non-Refundable,37,Delhi,Fog,None,0
+BOOK1107,272,Suite,Refundable,56,Delhi,Rain,Festival,0
+BOOK1108,231,Standard,Non-Refundable,19,Kolkata,Clear,None,0
+BOOK1109,218,Deluxe,Non-Refundable,27,Bangalore,Clear,Festival,0
+BOOK1110,269,Standard,Non-Refundable,69,Bangalore,Fog,Festival,0
+BOOK1111,90,Standard,Refundable,46,Kolkata,Clear,None,1
+BOOK1112,292,Standard,Non-Refundable,39,Kolkata,Fog,Festival,0
+BOOK1113,216,Standard,Refundable,59,Chennai,Storm,None,1
+BOOK1114,161,Standard,Non-Refundable,32,Mumbai,Rain,None,0
+BOOK1115,3,Deluxe,Refundable,62,Mumbai,Clear,Conference,0
+BOOK1116,127,Standard,Refundable,49,Chennai,Clear,None,0
+BOOK1117,200,Standard,Refundable,45,Bangalore,Fog,None,1
+BOOK1118,153,Deluxe,Refundable,24,Bangalore,Clear,Conference,1
+BOOK1119,3,Deluxe,Refundable,25,Chennai,Rain,None,0
+BOOK1120,138,Standard,Non-Refundable,64,Mumbai,Clear,Festival,0
+BOOK1121,305,Deluxe,Non-Refundable,62,Kolkata,Rain,None,0
+BOOK1122,312,Standard,Non-Refundable,26,Mumbai,Clear,None,0
+BOOK1123,212,Deluxe,Non-Refundable,18,Chennai,Clear,None,0
+BOOK1124,41,Deluxe,Refundable,30,Kolkata,Clear,Festival,0
+BOOK1125,87,Standard,Non-Refundable,20,Delhi,Fog,None,0
+BOOK1126,354,Standard,Refundable,29,Chennai,Clear,Conference,0
+BOOK1127,151,Standard,Refundable,43,Chennai,Storm,None,1
+BOOK1128,362,Standard,Refundable,18,Mumbai,Clear,Sports Event,1
+BOOK1129,190,Deluxe,Non-Refundable,21,Delhi,Clear,None,0
+BOOK1130,247,Suite,Non-Refundable,36,Bangalore,Clear,Festival,0
+BOOK1131,318,Suite,Refundable,40,Bangalore,Fog,Conference,0
+BOOK1132,5,Suite,Refundable,59,Chennai,Clear,None,1
+BOOK1133,23,Suite,Refundable,35,Mumbai,Clear,None,0
+BOOK1134,130,Suite,Refundable,38,Bangalore,Clear,Conference,0
+BOOK1135,148,Standard,Refundable,30,Mumbai,Clear,None,0
+BOOK1136,332,Deluxe,Non-Refundable,46,Chennai,Rain,Conference,0
+BOOK1137,105,Standard,Refundable,34,Kolkata,Clear,Festival,1
+BOOK1138,301,Suite,Non-Refundable,51,Delhi,Clear,None,0
+BOOK1139,30,Deluxe,Refundable,30,Kolkata,Rain,Festival,0
+BOOK1140,289,Standard,Non-Refundable,44,Mumbai,Fog,Sports Event,0
+BOOK1141,321,Standard,Refundable,38,Delhi,Rain,None,1
+BOOK1142,276,Deluxe,Non-Refundable,38,Bangalore,Rain,None,0
+BOOK1143,95,Deluxe,Refundable,60,Mumbai,Rain,None,0
+BOOK1144,235,Standard,Refundable,63,Mumbai,Clear,Conference,0
+BOOK1145,167,Standard,Refundable,66,Chennai,Rain,None,0
+BOOK1146,194,Standard,Refundable,65,Kolkata,Fog,None,1
+BOOK1147,197,Deluxe,Refundable,41,Bangalore,Clear,Festival,0
+BOOK1148,77,Standard,Non-Refundable,58,Chennai,Rain,Conference,0
+BOOK1149,351,Deluxe,Non-Refundable,64,Mumbai,Fog,Festival,0
+BOOK1150,187,Standard,Non-Refundable,36,Kolkata,Clear,None,0
+BOOK1151,50,Standard,Refundable,65,Delhi,Clear,Sports Event,0
+BOOK1152,282,Suite,Non-Refundable,33,Kolkata,Clear,None,0
+BOOK1153,41,Suite,Refundable,35,Bangalore,Clear,None,1
+BOOK1154,138,Suite,Non-Refundable,33,Delhi,Clear,Conference,0
+BOOK1155,253,Deluxe,Refundable,65,Bangalore,Clear,None,1
+BOOK1156,335,Suite,Refundable,19,Kolkata,Clear,None,1
+BOOK1157,234,Deluxe,Non-Refundable,55,Bangalore,Clear,None,0
+BOOK1158,288,Suite,Refundable,41,Bangalore,Rain,None,0
+BOOK1159,191,Standard,Non-Refundable,29,Kolkata,Clear,Conference,0
+BOOK1160,276,Suite,Non-Refundable,50,Delhi,Rain,Conference,1
+BOOK1161,219,Deluxe,Non-Refundable,59,Chennai,Clear,None,0
+BOOK1162,92,Standard,Refundable,58,Kolkata,Storm,Conference,1
+BOOK1163,223,Deluxe,Refundable,67,Kolkata,Clear,None,0
+BOOK1164,107,Standard,Refundable,48,Delhi,Clear,None,1
+BOOK1165,162,Standard,Refundable,49,Delhi,Clear,None,1
+BOOK1166,222,Deluxe,Non-Refundable,36,Bangalore,Clear,Festival,0
+BOOK1167,322,Standard,Non-Refundable,51,Chennai,Clear,Sports Event,1
+BOOK1168,55,Standard,Non-Refundable,42,Mumbai,Rain,None,0
+BOOK1169,265,Suite,Non-Refundable,22,Mumbai,Rain,Conference,1
+BOOK1170,341,Standard,Non-Refundable,66,Mumbai,Rain,Conference,0
+BOOK1171,213,Suite,Non-Refundable,69,Chennai,Clear,None,0
+BOOK1172,150,Standard,Non-Refundable,51,Chennai,Clear,None,0
+BOOK1173,167,Deluxe,Refundable,25,Mumbai,Rain,None,0
+BOOK1174,254,Suite,Refundable,48,Bangalore,Clear,None,1
+BOOK1175,126,Standard,Non-Refundable,35,Delhi,Fog,Conference,0
+BOOK1176,179,Standard,Non-Refundable,55,Bangalore,Clear,None,1
+BOOK1177,18,Suite,Refundable,59,Bangalore,Rain,Festival,0
+BOOK1178,354,Standard,Refundable,35,Mumbai,Fog,Festival,1
+BOOK1179,180,Suite,Refundable,51,Delhi,Clear,None,1
+BOOK1180,262,Standard,Refundable,57,Kolkata,Clear,Conference,0
+BOOK1181,91,Suite,Refundable,69,Delhi,Clear,Sports Event,0
+BOOK1182,100,Standard,Refundable,39,Bangalore,Clear,Sports Event,0
+BOOK1183,328,Standard,Refundable,55,Mumbai,Storm,None,1
+BOOK1184,194,Deluxe,Non-Refundable,69,Chennai,Clear,None,1
+BOOK1185,65,Suite,Non-Refundable,57,Bangalore,Clear,Festival,0
+BOOK1186,151,Standard,Refundable,60,Chennai,Fog,Festival,1
+BOOK1187,68,Standard,Refundable,55,Delhi,Rain,Conference,1
+BOOK1188,49,Suite,Refundable,57,Mumbai,Fog,None,1
+BOOK1189,93,Standard,Non-Refundable,50,Bangalore,Storm,Festival,1
+BOOK1190,160,Standard,Non-Refundable,27,Chennai,Clear,None,1
+BOOK1191,134,Deluxe,Non-Refundable,63,Delhi,Rain,Festival,0
+BOOK1192,166,Standard,Non-Refundable,45,Chennai,Rain,None,0
+BOOK1193,37,Standard,Non-Refundable,49,Kolkata,Clear,Festival,0
+BOOK1194,46,Deluxe,Refundable,35,Kolkata,Clear,Festival,1
+BOOK1195,146,Standard,Refundable,32,Bangalore,Clear,Conference,1
+BOOK1196,187,Deluxe,Refundable,59,Chennai,Storm,None,1
+BOOK1197,188,Standard,Refundable,64,Mumbai,Clear,Festival,1
+BOOK1198,227,Deluxe,Refundable,32,Mumbai,Clear,None,1
+BOOK1199,11,Standard,Non-Refundable,31,Chennai,Clear,Sports Event,0
+BOOK1200,68,Standard,Refundable,33,Delhi,Storm,Sports Event,0
+BOOK1201,222,Deluxe,Non-Refundable,32,Bangalore,Clear,None,1
+BOOK1202,24,Deluxe,Refundable,64,Kolkata,Clear,Conference,1
+BOOK1203,188,Suite,Non-Refundable,41,Bangalore,Rain,Festival,0
+BOOK1204,196,Deluxe,Refundable,35,Mumbai,Clear,Conference,1
+BOOK1205,125,Deluxe,Non-Refundable,47,Chennai,Clear,None,0
+BOOK1206,300,Standard,Refundable,24,Mumbai,Clear,None,0
+BOOK1207,70,Deluxe,Refundable,34,Kolkata,Clear,Conference,1
+BOOK1208,200,Standard,Non-Refundable,28,Chennai,Rain,None,0
+BOOK1209,80,Standard,Non-Refundable,23,Mumbai,Clear,Sports Event,0
+BOOK1210,40,Standard,Refundable,27,Mumbai,Clear,Conference,0
+BOOK1211,14,Standard,Refundable,19,Bangalore,Clear,None,1
+BOOK1212,188,Standard,Refundable,55,Delhi,Clear,None,1
+BOOK1213,168,Deluxe,Refundable,56,Mumbai,Clear,None,1
+BOOK1214,164,Suite,Non-Refundable,23,Kolkata,Clear,Sports Event,0
+BOOK1215,277,Standard,Refundable,21,Bangalore,Clear,None,1
+BOOK1216,322,Standard,Refundable,29,Mumbai,Clear,None,1
+BOOK1217,361,Standard,Refundable,64,Mumbai,Rain,Festival,1
+BOOK1218,103,Suite,Non-Refundable,68,Chennai,Rain,None,0
+BOOK1219,57,Standard,Refundable,66,Delhi,Storm,None,1
+BOOK1220,315,Standard,Refundable,67,Kolkata,Clear,Sports Event,1
+BOOK1221,103,Deluxe,Refundable,19,Mumbai,Fog,None,1
+BOOK1222,114,Standard,Non-Refundable,45,Kolkata,Clear,None,0
+BOOK1223,224,Standard,Non-Refundable,24,Delhi,Rain,None,0
+BOOK1224,294,Deluxe,Non-Refundable,26,Mumbai,Storm,Sports Event,0
+BOOK1225,196,Suite,Non-Refundable,49,Kolkata,Clear,Conference,0
+BOOK1226,222,Suite,Refundable,32,Bangalore,Clear,None,1
+BOOK1227,197,Standard,Non-Refundable,47,Kolkata,Clear,Festival,0
+BOOK1228,314,Deluxe,Non-Refundable,51,Mumbai,Rain,None,0
+BOOK1229,287,Deluxe,Non-Refundable,45,Bangalore,Clear,None,0
+BOOK1230,43,Standard,Refundable,36,Kolkata,Clear,Conference,0
+BOOK1231,21,Deluxe,Refundable,21,Delhi,Clear,Conference,0
+BOOK1232,97,Standard,Refundable,28,Bangalore,Clear,None,1
+BOOK1233,265,Standard,Refundable,24,Bangalore,Rain,Festival,1
+BOOK1234,98,Suite,Non-Refundable,63,Mumbai,Rain,None,1
+BOOK1235,357,Standard,Refundable,38,Mumbai,Clear,None,1
+BOOK1236,98,Deluxe,Non-Refundable,57,Chennai,Clear,Conference,0
+BOOK1237,165,Standard,Refundable,68,Delhi,Clear,Conference,0
+BOOK1238,105,Standard,Refundable,34,Delhi,Clear,None,1
+BOOK1239,136,Standard,Non-Refundable,57,Kolkata,Clear,Conference,0
+BOOK1240,69,Deluxe,Refundable,38,Chennai,Clear,Festival,1
+BOOK1241,3,Standard,Refundable,62,Kolkata,Storm,Conference,0
+BOOK1242,16,Deluxe,Non-Refundable,34,Mumbai,Clear,None,0
+BOOK1243,274,Standard,Refundable,65,Bangalore,Clear,Sports Event,1
+BOOK1244,62,Standard,Refundable,60,Bangalore,Clear,Conference,1
+BOOK1245,176,Standard,Non-Refundable,69,Bangalore,Clear,None,0
+BOOK1246,46,Deluxe,Refundable,58,Delhi,Clear,Conference,1
+BOOK1247,113,Deluxe,Non-Refundable,51,Mumbai,Clear,None,1
+BOOK1248,81,Standard,Refundable,56,Kolkata,Clear,None,0
+BOOK1249,51,Deluxe,Non-Refundable,63,Kolkata,Clear,Conference,0
+BOOK1250,345,Standard,Refundable,26,Mumbai,Clear,Conference,1
+BOOK1251,195,Deluxe,Non-Refundable,68,Bangalore,Rain,None,1
+BOOK1252,259,Deluxe,Non-Refundable,22,Delhi,Clear,Conference,1
+BOOK1253,130,Suite,Refundable,60,Mumbai,Rain,None,1
+BOOK1254,32,Deluxe,Non-Refundable,52,Delhi,Clear,Festival,0
+BOOK1255,247,Standard,Refundable,43,Delhi,Storm,None,1
+BOOK1256,21,Standard,Refundable,21,Chennai,Clear,None,1
+BOOK1257,210,Deluxe,Non-Refundable,51,Delhi,Clear,None,0
+BOOK1258,343,Standard,Refundable,47,Mumbai,Fog,None,0
+BOOK1259,87,Standard,Refundable,32,Kolkata,Clear,None,1
+BOOK1260,66,Standard,Refundable,30,Mumbai,Rain,None,0
+BOOK1261,135,Standard,Refundable,38,Bangalore,Clear,None,1
+BOOK1262,310,Suite,Non-Refundable,18,Bangalore,Storm,None,1
+BOOK1263,153,Deluxe,Refundable,44,Chennai,Clear,None,0
+BOOK1264,278,Standard,Refundable,30,Bangalore,Clear,Festival,1
+BOOK1265,268,Deluxe,Refundable,26,Chennai,Storm,Conference,1
+BOOK1266,204,Deluxe,Non-Refundable,52,Mumbai,Clear,Festival,0
+BOOK1267,87,Standard,Non-Refundable,63,Kolkata,Clear,Sports Event,0
+BOOK1268,204,Standard,Non-Refundable,21,Bangalore,Clear,None,0
+BOOK1269,249,Standard,Refundable,62,Bangalore,Rain,None,1
+BOOK1270,93,Standard,Refundable,22,Chennai,Clear,None,0
+BOOK1271,52,Standard,Refundable,27,Mumbai,Storm,None,1
+BOOK1272,353,Standard,Refundable,59,Chennai,Clear,Sports Event,0
+BOOK1273,79,Deluxe,Refundable,67,Kolkata,Fog,None,0
+BOOK1274,54,Deluxe,Refundable,21,Delhi,Clear,None,0
+BOOK1275,358,Deluxe,Non-Refundable,25,Delhi,Storm,None,0
+BOOK1276,85,Suite,Refundable,28,Mumbai,Clear,None,1
+BOOK1277,266,Standard,Refundable,32,Bangalore,Clear,None,1
+BOOK1278,135,Standard,Non-Refundable,30,Kolkata,Clear,Conference,0
+BOOK1279,172,Standard,Refundable,24,Chennai,Clear,None,0
+BOOK1280,231,Standard,Refundable,69,Chennai,Rain,None,1
+BOOK1281,114,Deluxe,Non-Refundable,52,Delhi,Clear,Conference,0
+BOOK1282,125,Deluxe,Non-Refundable,33,Delhi,Clear,None,0
+BOOK1283,281,Standard,Refundable,63,Kolkata,Storm,None,1
+BOOK1284,56,Standard,Non-Refundable,26,Kolkata,Rain,Sports Event,0
+BOOK1285,40,Suite,Refundable,24,Chennai,Clear,None,0
+BOOK1286,187,Standard,Non-Refundable,69,Kolkata,Clear,None,0
+BOOK1287,20,Suite,Refundable,57,Delhi,Rain,None,1
+BOOK1288,304,Standard,Non-Refundable,29,Chennai,Clear,Conference,0
+BOOK1289,219,Deluxe,Refundable,61,Delhi,Clear,Sports Event,1
+BOOK1290,342,Standard,Refundable,20,Chennai,Clear,Conference,1
+BOOK1291,139,Deluxe,Non-Refundable,29,Kolkata,Storm,None,0
+BOOK1292,24,Deluxe,Non-Refundable,18,Bangalore,Clear,None,0
+BOOK1293,221,Suite,Non-Refundable,53,Kolkata,Clear,Sports Event,0
+BOOK1294,44,Standard,Refundable,47,Mumbai,Clear,Sports Event,1
+BOOK1295,257,Standard,Non-Refundable,40,Kolkata,Clear,None,0
+BOOK1296,142,Deluxe,Non-Refundable,59,Bangalore,Clear,Sports Event,0
+BOOK1297,245,Suite,Refundable,50,Kolkata,Clear,None,1
+BOOK1298,131,Standard,Refundable,45,Kolkata,Rain,None,1
+BOOK1299,56,Deluxe,Refundable,22,Bangalore,Clear,Conference,0
+BOOK1300,117,Standard,Refundable,31,Kolkata,Clear,Sports Event,0
+BOOK1301,4,Deluxe,Refundable,68,Delhi,Rain,None,1
+BOOK1302,310,Suite,Refundable,69,Mumbai,Rain,Conference,0
+BOOK1303,288,Suite,Refundable,25,Mumbai,Rain,Sports Event,1
+BOOK1304,327,Deluxe,Refundable,48,Bangalore,Clear,None,1
+BOOK1305,347,Standard,Non-Refundable,46,Kolkata,Fog,None,1
+BOOK1306,103,Standard,Refundable,68,Delhi,Rain,Festival,0
+BOOK1307,239,Suite,Non-Refundable,62,Kolkata,Rain,Festival,0
+BOOK1308,308,Standard,Refundable,35,Delhi,Clear,Festival,0
+BOOK1309,243,Standard,Refundable,37,Chennai,Clear,None,1
+BOOK1310,40,Deluxe,Refundable,35,Bangalore,Fog,Sports Event,1
+BOOK1311,310,Standard,Refundable,51,Chennai,Rain,None,1
+BOOK1312,262,Standard,Non-Refundable,23,Delhi,Rain,None,0
+BOOK1313,142,Deluxe,Non-Refundable,59,Delhi,Clear,Festival,0
+BOOK1314,240,Suite,Refundable,65,Bangalore,Clear,None,0
+BOOK1315,63,Suite,Non-Refundable,18,Mumbai,Clear,None,0
+BOOK1316,101,Standard,Non-Refundable,26,Mumbai,Clear,None,1
+BOOK1317,138,Standard,Non-Refundable,18,Bangalore,Clear,Festival,0
+BOOK1318,56,Deluxe,Refundable,26,Kolkata,Clear,None,0
+BOOK1319,223,Standard,Refundable,22,Chennai,Rain,None,0
+BOOK1320,354,Standard,Non-Refundable,67,Kolkata,Clear,Conference,1
+BOOK1321,328,Deluxe,Refundable,46,Kolkata,Rain,Festival,0
+BOOK1322,195,Deluxe,Refundable,23,Bangalore,Fog,None,1
+BOOK1323,223,Deluxe,Non-Refundable,54,Delhi,Fog,None,1
+BOOK1324,72,Deluxe,Non-Refundable,39,Delhi,Clear,Festival,0
+BOOK1325,204,Deluxe,Refundable,49,Chennai,Clear,Festival,1
+BOOK1326,149,Standard,Refundable,36,Delhi,Clear,Conference,0
+BOOK1327,71,Standard,Non-Refundable,37,Delhi,Storm,None,0
+BOOK1328,217,Standard,Refundable,26,Kolkata,Clear,Festival,0
+BOOK1329,257,Standard,Non-Refundable,37,Delhi,Clear,None,0
+BOOK1330,300,Deluxe,Non-Refundable,51,Mumbai,Clear,Conference,0
+BOOK1331,152,Standard,Refundable,47,Chennai,Clear,Conference,1
+BOOK1332,235,Standard,Refundable,46,Delhi,Clear,Festival,0
+BOOK1333,76,Deluxe,Refundable,57,Delhi,Clear,Conference,1
+BOOK1334,172,Standard,Non-Refundable,35,Kolkata,Storm,None,0
+BOOK1335,85,Deluxe,Refundable,25,Bangalore,Clear,None,1
+BOOK1336,150,Deluxe,Refundable,63,Mumbai,Clear,Festival,1
+BOOK1337,70,Standard,Refundable,57,Delhi,Clear,None,1
+BOOK1338,142,Standard,Refundable,36,Mumbai,Clear,Festival,1
+BOOK1339,132,Standard,Refundable,22,Mumbai,Clear,Sports Event,1
+BOOK1340,295,Deluxe,Refundable,48,Mumbai,Clear,None,0
+BOOK1341,303,Standard,Refundable,51,Delhi,Rain,None,1
+BOOK1342,158,Deluxe,Refundable,19,Bangalore,Clear,None,0
+BOOK1343,105,Standard,Non-Refundable,63,Kolkata,Clear,Sports Event,0
+BOOK1344,305,Deluxe,Refundable,33,Bangalore,Clear,Sports Event,1
+BOOK1345,109,Standard,Refundable,32,Mumbai,Clear,None,0
+BOOK1346,14,Standard,Refundable,64,Chennai,Storm,None,1
+BOOK1347,106,Suite,Refundable,48,Mumbai,Fog,None,1
+BOOK1348,281,Suite,Non-Refundable,31,Mumbai,Clear,Festival,0
+BOOK1349,182,Deluxe,Refundable,26,Delhi,Clear,None,1
+BOOK1350,159,Standard,Refundable,62,Delhi,Clear,None,0
+BOOK1351,163,Deluxe,Non-Refundable,30,Delhi,Rain,Sports Event,0
+BOOK1352,42,Deluxe,Refundable,58,Kolkata,Storm,Conference,1
+BOOK1353,55,Deluxe,Refundable,27,Chennai,Clear,Conference,1
+BOOK1354,217,Standard,Non-Refundable,69,Mumbai,Clear,None,0
+BOOK1355,112,Suite,Refundable,51,Chennai,Fog,None,1
+BOOK1356,131,Standard,Refundable,39,Chennai,Rain,None,0
+BOOK1357,53,Standard,Refundable,19,Mumbai,Clear,Festival,0
+BOOK1358,40,Suite,Refundable,36,Bangalore,Clear,Festival,1
+BOOK1359,347,Standard,Refundable,43,Delhi,Clear,Conference,0
+BOOK1360,98,Suite,Refundable,67,Kolkata,Clear,Conference,0
+BOOK1361,94,Standard,Non-Refundable,53,Kolkata,Clear,None,0
+BOOK1362,272,Standard,Non-Refundable,42,Mumbai,Clear,None,1
+BOOK1363,241,Standard,Refundable,37,Mumbai,Fog,None,0
+BOOK1364,252,Standard,Refundable,50,Kolkata,Rain,Festival,0
+BOOK1365,212,Deluxe,Refundable,52,Kolkata,Clear,Sports Event,1
+BOOK1366,357,Suite,Non-Refundable,68,Bangalore,Clear,Conference,0
+BOOK1367,112,Deluxe,Refundable,59,Chennai,Clear,Festival,1
+BOOK1368,221,Suite,Non-Refundable,28,Chennai,Rain,Festival,0
+BOOK1369,98,Deluxe,Non-Refundable,31,Kolkata,Storm,None,1
+BOOK1370,348,Deluxe,Refundable,30,Bangalore,Rain,None,0
+BOOK1371,319,Deluxe,Non-Refundable,66,Mumbai,Rain,None,1
+BOOK1372,342,Standard,Refundable,28,Chennai,Fog,None,1
+BOOK1373,13,Suite,Refundable,44,Delhi,Rain,None,1
+BOOK1374,310,Standard,Refundable,46,Delhi,Clear,None,1
+BOOK1375,197,Standard,Non-Refundable,29,Delhi,Clear,Conference,0
+BOOK1376,91,Deluxe,Refundable,31,Kolkata,Clear,None,0
+BOOK1377,221,Deluxe,Non-Refundable,25,Mumbai,Clear,Sports Event,0
+BOOK1378,136,Suite,Refundable,47,Kolkata,Rain,None,0
+BOOK1379,267,Suite,Refundable,24,Kolkata,Storm,Festival,1
+BOOK1380,189,Standard,Non-Refundable,64,Bangalore,Fog,None,1
+BOOK1381,275,Deluxe,Refundable,21,Mumbai,Clear,Conference,1
+BOOK1382,177,Standard,Refundable,57,Bangalore,Storm,Sports Event,0
+BOOK1383,77,Standard,Refundable,69,Bangalore,Fog,Conference,1
+BOOK1384,128,Standard,Non-Refundable,69,Mumbai,Clear,Festival,0
+BOOK1385,244,Deluxe,Refundable,68,Bangalore,Clear,None,1
+BOOK1386,101,Standard,Non-Refundable,21,Mumbai,Storm,Festival,0
+BOOK1387,238,Standard,Non-Refundable,27,Kolkata,Clear,None,0
+BOOK1388,131,Suite,Refundable,57,Chennai,Clear,Festival,0
+BOOK1389,239,Deluxe,Refundable,69,Mumbai,Fog,None,1
+BOOK1390,218,Standard,Non-Refundable,69,Mumbai,Fog,Festival,0
+BOOK1391,215,Standard,Non-Refundable,44,Mumbai,Clear,Festival,0
+BOOK1392,69,Deluxe,Refundable,64,Bangalore,Clear,Conference,0
+BOOK1393,168,Standard,Refundable,30,Mumbai,Clear,Festival,0
+BOOK1394,226,Standard,Refundable,59,Mumbai,Clear,None,1
+BOOK1395,242,Deluxe,Refundable,45,Bangalore,Clear,Festival,0
+BOOK1396,259,Standard,Non-Refundable,34,Delhi,Rain,Conference,0
+BOOK1397,169,Deluxe,Refundable,18,Delhi,Clear,None,1
+BOOK1398,93,Standard,Refundable,41,Delhi,Clear,None,0
+BOOK1399,29,Deluxe,Non-Refundable,63,Chennai,Rain,Festival,0
+BOOK1400,238,Standard,Non-Refundable,46,Bangalore,Clear,Conference,0
+BOOK1401,328,Suite,Refundable,50,Mumbai,Fog,Festival,1
+BOOK1402,255,Standard,Refundable,56,Delhi,Clear,None,1
+BOOK1403,40,Standard,Refundable,25,Chennai,Fog,Conference,1
+BOOK1404,227,Suite,Non-Refundable,53,Mumbai,Rain,Conference,0
+BOOK1405,91,Standard,Refundable,24,Bangalore,Storm,None,1
+BOOK1406,348,Standard,Non-Refundable,44,Delhi,Rain,Festival,1
+BOOK1407,36,Standard,Refundable,42,Mumbai,Rain,Festival,0
+BOOK1408,93,Standard,Non-Refundable,49,Kolkata,Clear,None,0
+BOOK1409,89,Suite,Refundable,46,Mumbai,Clear,Sports Event,0
+BOOK1410,197,Suite,Refundable,67,Mumbai,Rain,None,0
+BOOK1411,175,Standard,Refundable,57,Kolkata,Clear,None,0
+BOOK1412,231,Standard,Refundable,60,Bangalore,Storm,None,1
+BOOK1413,292,Standard,Refundable,40,Chennai,Clear,None,1
+BOOK1414,192,Standard,Refundable,32,Chennai,Clear,None,0
+BOOK1415,238,Standard,Refundable,27,Chennai,Clear,Festival,1
+BOOK1416,125,Suite,Refundable,63,Mumbai,Fog,None,0
+BOOK1417,203,Suite,Non-Refundable,62,Bangalore,Clear,Conference,0
+BOOK1418,327,Standard,Non-Refundable,38,Bangalore,Rain,None,1
+BOOK1419,200,Standard,Non-Refundable,65,Chennai,Clear,None,0
+BOOK1420,333,Suite,Non-Refundable,45,Kolkata,Rain,None,0
+BOOK1421,317,Suite,Refundable,29,Delhi,Rain,Festival,0
+BOOK1422,276,Standard,Refundable,21,Bangalore,Clear,Conference,1
+BOOK1423,204,Standard,Non-Refundable,28,Delhi,Clear,None,1
+BOOK1424,148,Standard,Refundable,52,Delhi,Storm,None,1
+BOOK1425,274,Standard,Non-Refundable,50,Chennai,Clear,Festival,0
+BOOK1426,143,Deluxe,Refundable,31,Kolkata,Rain,Sports Event,1
+BOOK1427,212,Standard,Refundable,62,Delhi,Clear,Festival,0
+BOOK1428,359,Standard,Refundable,58,Chennai,Rain,None,1
+BOOK1429,311,Suite,Non-Refundable,52,Bangalore,Clear,Festival,0
+BOOK1430,148,Standard,Refundable,44,Chennai,Clear,Festival,0
+BOOK1431,288,Standard,Refundable,53,Delhi,Storm,Conference,1
+BOOK1432,104,Deluxe,Non-Refundable,20,Delhi,Fog,None,1
+BOOK1433,140,Deluxe,Refundable,37,Kolkata,Rain,Sports Event,0
+BOOK1434,207,Standard,Non-Refundable,39,Kolkata,Clear,None,1
+BOOK1435,165,Deluxe,Refundable,27,Bangalore,Storm,None,1
+BOOK1436,304,Standard,Refundable,23,Delhi,Clear,Conference,0
+BOOK1437,268,Suite,Refundable,33,Chennai,Storm,None,1
+BOOK1438,0,Standard,Refundable,34,Kolkata,Rain,Festival,0
+BOOK1439,154,Standard,Non-Refundable,46,Kolkata,Storm,Conference,0
+BOOK1440,182,Suite,Non-Refundable,27,Bangalore,Fog,Festival,0
+BOOK1441,43,Deluxe,Non-Refundable,27,Chennai,Clear,None,0
+BOOK1442,261,Suite,Non-Refundable,49,Kolkata,Clear,None,0
+BOOK1443,245,Standard,Refundable,42,Kolkata,Clear,None,0
+BOOK1444,48,Deluxe,Non-Refundable,30,Mumbai,Clear,None,0
+BOOK1445,71,Standard,Refundable,43,Delhi,Storm,None,1
+BOOK1446,313,Deluxe,Refundable,48,Chennai,Clear,Conference,1
+BOOK1447,30,Standard,Non-Refundable,50,Delhi,Rain,Sports Event,0
+BOOK1448,5,Standard,Non-Refundable,32,Kolkata,Clear,None,0
+BOOK1449,205,Deluxe,Non-Refundable,62,Bangalore,Clear,None,0
+BOOK1450,32,Suite,Refundable,50,Mumbai,Storm,None,1
+BOOK1451,76,Suite,Refundable,58,Kolkata,Clear,Festival,0
+BOOK1452,45,Deluxe,Refundable,38,Kolkata,Clear,Conference,0
+BOOK1453,352,Standard,Non-Refundable,24,Kolkata,Clear,None,0
+BOOK1454,257,Deluxe,Refundable,67,Chennai,Clear,Festival,1
+BOOK1455,276,Standard,Non-Refundable,57,Mumbai,Clear,Festival,0
+BOOK1456,175,Deluxe,Non-Refundable,38,Delhi,Fog,Conference,0
+BOOK1457,302,Suite,Refundable,46,Mumbai,Storm,Sports Event,1
+BOOK1458,83,Deluxe,Refundable,40,Chennai,Clear,Festival,0
+BOOK1459,69,Deluxe,Refundable,21,Chennai,Clear,None,1
+BOOK1460,167,Standard,Refundable,51,Delhi,Clear,Conference,1
+BOOK1461,192,Standard,Non-Refundable,68,Kolkata,Clear,Festival,0
+BOOK1462,278,Deluxe,Non-Refundable,48,Chennai,Clear,Conference,1
+BOOK1463,46,Deluxe,Refundable,30,Bangalore,Clear,None,1
+BOOK1464,14,Standard,Non-Refundable,41,Bangalore,Clear,None,0
+BOOK1465,291,Standard,Refundable,26,Kolkata,Clear,Sports Event,1
+BOOK1466,297,Deluxe,Refundable,19,Delhi,Rain,Festival,0
+BOOK1467,270,Standard,Non-Refundable,59,Mumbai,Rain,Sports Event,0
+BOOK1468,360,Standard,Non-Refundable,54,Kolkata,Rain,Festival,0
+BOOK1469,194,Suite,Refundable,61,Kolkata,Storm,None,0
+BOOK1470,339,Suite,Refundable,58,Delhi,Clear,None,1
+BOOK1471,157,Standard,Non-Refundable,68,Kolkata,Clear,Conference,0
+BOOK1472,309,Standard,Refundable,22,Chennai,Clear,None,1
+BOOK1473,336,Deluxe,Non-Refundable,39,Chennai,Clear,Sports Event,0
+BOOK1474,334,Suite,Refundable,64,Chennai,Clear,Festival,0
+BOOK1475,174,Suite,Refundable,50,Delhi,Clear,None,0
+BOOK1476,168,Standard,Non-Refundable,32,Delhi,Rain,None,1
+BOOK1477,11,Suite,Refundable,22,Delhi,Clear,None,0
+BOOK1478,180,Deluxe,Refundable,57,Chennai,Clear,Conference,1
+BOOK1479,341,Standard,Refundable,56,Kolkata,Clear,Festival,0
+BOOK1480,44,Standard,Non-Refundable,23,Chennai,Clear,None,0
+BOOK1481,341,Standard,Refundable,57,Bangalore,Clear,Conference,0
+BOOK1482,307,Deluxe,Refundable,37,Mumbai,Clear,None,1
+BOOK1483,157,Suite,Refundable,60,Kolkata,Clear,Festival,0
+BOOK1484,133,Deluxe,Non-Refundable,34,Chennai,Clear,Festival,0
+BOOK1485,129,Suite,Refundable,36,Kolkata,Fog,Conference,0
+BOOK1486,126,Standard,Refundable,29,Chennai,Clear,Conference,1
+BOOK1487,257,Suite,Refundable,39,Bangalore,Clear,None,0
+BOOK1488,280,Deluxe,Refundable,22,Kolkata,Rain,None,0
+BOOK1489,169,Deluxe,Non-Refundable,37,Delhi,Clear,None,0
+BOOK1490,306,Deluxe,Non-Refundable,43,Kolkata,Clear,Festival,0
+BOOK1491,176,Standard,Refundable,38,Bangalore,Rain,Conference,0
+BOOK1492,303,Standard,Refundable,34,Chennai,Clear,Conference,1
+BOOK1493,62,Deluxe,Refundable,55,Kolkata,Clear,Festival,1
+BOOK1494,151,Standard,Refundable,26,Bangalore,Rain,Festival,1
+BOOK1495,295,Deluxe,Non-Refundable,47,Mumbai,Rain,None,0
+BOOK1496,176,Suite,Refundable,31,Mumbai,Clear,Conference,0
+BOOK1497,78,Standard,Refundable,51,Mumbai,Rain,Conference,1
+BOOK1498,198,Standard,Refundable,37,Mumbai,Storm,None,1
+BOOK1499,178,Standard,Non-Refundable,56,Delhi,Rain,None,1
+BOOK1500,135,Standard,Non-Refundable,21,Chennai,Clear,Festival,0
+BOOK1501,148,Suite,Non-Refundable,64,Chennai,Rain,None,0
+BOOK1502,299,Suite,Refundable,59,Kolkata,Clear,Sports Event,1
+BOOK1503,75,Deluxe,Refundable,32,Bangalore,Clear,Festival,1
+BOOK1504,64,Standard,Refundable,49,Bangalore,Clear,Sports Event,0
+BOOK1505,295,Standard,Refundable,27,Chennai,Clear,Festival,0
+BOOK1506,136,Standard,Non-Refundable,44,Delhi,Clear,None,0
+BOOK1507,64,Standard,Non-Refundable,56,Chennai,Clear,Conference,1
+BOOK1508,362,Standard,Refundable,32,Kolkata,Clear,Conference,1
+BOOK1509,149,Deluxe,Refundable,55,Bangalore,Storm,Sports Event,1
+BOOK1510,349,Standard,Refundable,58,Mumbai,Clear,Festival,1
+BOOK1511,307,Deluxe,Refundable,62,Delhi,Storm,None,1
+BOOK1512,274,Standard,Non-Refundable,66,Bangalore,Rain,None,1
+BOOK1513,233,Suite,Refundable,47,Chennai,Clear,Festival,1
+BOOK1514,147,Deluxe,Non-Refundable,35,Chennai,Rain,Festival,1
+BOOK1515,245,Standard,Refundable,20,Bangalore,Fog,None,0
+BOOK1516,277,Standard,Refundable,36,Kolkata,Clear,Festival,1
+BOOK1517,95,Suite,Refundable,22,Kolkata,Rain,None,1
+BOOK1518,130,Deluxe,Refundable,18,Delhi,Rain,Conference,0
+BOOK1519,13,Suite,Refundable,35,Delhi,Storm,None,1
+BOOK1520,15,Standard,Non-Refundable,50,Bangalore,Rain,Sports Event,0
+BOOK1521,299,Standard,Non-Refundable,41,Bangalore,Rain,Conference,0
+BOOK1522,329,Standard,Refundable,68,Mumbai,Clear,Festival,1
+BOOK1523,10,Standard,Refundable,29,Delhi,Clear,None,0
+BOOK1524,46,Standard,Refundable,24,Bangalore,Clear,Conference,0
+BOOK1525,269,Suite,Non-Refundable,57,Mumbai,Clear,None,1
+BOOK1526,175,Standard,Refundable,45,Mumbai,Clear,None,1
+BOOK1527,72,Standard,Refundable,47,Chennai,Clear,Festival,1
+BOOK1528,255,Deluxe,Refundable,64,Bangalore,Storm,None,1
+BOOK1529,7,Suite,Refundable,21,Kolkata,Clear,None,0
+BOOK1530,135,Standard,Refundable,52,Delhi,Clear,None,0
+BOOK1531,159,Deluxe,Non-Refundable,34,Mumbai,Clear,Festival,1
+BOOK1532,187,Deluxe,Refundable,27,Kolkata,Storm,Festival,1
+BOOK1533,81,Standard,Refundable,55,Bangalore,Clear,Conference,1
+BOOK1534,45,Standard,Non-Refundable,67,Mumbai,Clear,Conference,0
+BOOK1535,206,Suite,Refundable,48,Bangalore,Storm,None,1
+BOOK1536,240,Standard,Non-Refundable,25,Chennai,Clear,Conference,0
+BOOK1537,6,Standard,Non-Refundable,66,Chennai,Clear,None,0
+BOOK1538,197,Suite,Non-Refundable,31,Kolkata,Clear,None,1
+BOOK1539,210,Standard,Refundable,69,Bangalore,Rain,Sports Event,1
+BOOK1540,54,Standard,Refundable,59,Chennai,Clear,None,1
+BOOK1541,253,Suite,Non-Refundable,45,Delhi,Fog,Conference,0
+BOOK1542,275,Standard,Non-Refundable,30,Kolkata,Rain,None,0
+BOOK1543,265,Deluxe,Refundable,35,Chennai,Clear,None,1
+BOOK1544,154,Deluxe,Refundable,69,Mumbai,Clear,Festival,1
+BOOK1545,25,Standard,Non-Refundable,50,Mumbai,Clear,None,0
+BOOK1546,64,Deluxe,Non-Refundable,25,Delhi,Clear,None,0
+BOOK1547,321,Standard,Non-Refundable,38,Delhi,Clear,None,0
+BOOK1548,51,Standard,Refundable,67,Bangalore,Clear,None,1
+BOOK1549,356,Standard,Non-Refundable,66,Kolkata,Clear,None,1
+BOOK1550,266,Deluxe,Refundable,69,Kolkata,Clear,None,1
+BOOK1551,229,Standard,Refundable,25,Bangalore,Rain,None,1
+BOOK1552,44,Standard,Non-Refundable,31,Delhi,Clear,None,0
+BOOK1553,316,Deluxe,Refundable,31,Bangalore,Clear,Conference,0
+BOOK1554,308,Standard,Refundable,53,Bangalore,Clear,Festival,0
+BOOK1555,290,Standard,Refundable,53,Chennai,Rain,Conference,1
+BOOK1556,294,Deluxe,Non-Refundable,65,Bangalore,Clear,Festival,0
+BOOK1557,279,Suite,Non-Refundable,59,Bangalore,Clear,None,0
+BOOK1558,327,Standard,Refundable,41,Chennai,Storm,None,1
+BOOK1559,299,Standard,Non-Refundable,60,Mumbai,Rain,None,0
+BOOK1560,267,Suite,Refundable,36,Kolkata,Clear,None,0
+BOOK1561,249,Standard,Non-Refundable,61,Delhi,Clear,None,1
+BOOK1562,104,Suite,Refundable,43,Kolkata,Clear,None,0
+BOOK1563,348,Standard,Refundable,46,Kolkata,Clear,None,1
+BOOK1564,180,Standard,Non-Refundable,40,Mumbai,Fog,Sports Event,0
+BOOK1565,74,Standard,Non-Refundable,61,Chennai,Fog,Sports Event,0
+BOOK1566,169,Suite,Refundable,48,Mumbai,Rain,Festival,1
+BOOK1567,253,Suite,Refundable,48,Chennai,Fog,Conference,1
+BOOK1568,114,Suite,Refundable,61,Kolkata,Clear,None,0
+BOOK1569,210,Standard,Refundable,61,Delhi,Storm,None,1
+BOOK1570,320,Suite,Refundable,67,Kolkata,Clear,Conference,0
+BOOK1571,246,Suite,Non-Refundable,55,Delhi,Clear,None,1
+BOOK1572,85,Suite,Non-Refundable,34,Mumbai,Storm,None,0
+BOOK1573,155,Suite,Refundable,47,Bangalore,Clear,Sports Event,1
+BOOK1574,130,Suite,Refundable,29,Delhi,Rain,Conference,0
+BOOK1575,54,Standard,Refundable,59,Delhi,Storm,None,1
+BOOK1576,72,Deluxe,Non-Refundable,37,Bangalore,Clear,None,0
+BOOK1577,268,Standard,Non-Refundable,34,Chennai,Clear,Festival,0
+BOOK1578,84,Suite,Non-Refundable,18,Chennai,Clear,Sports Event,0
+BOOK1579,179,Deluxe,Non-Refundable,49,Kolkata,Rain,Sports Event,0
+BOOK1580,213,Standard,Refundable,59,Bangalore,Clear,None,1
+BOOK1581,215,Standard,Non-Refundable,45,Bangalore,Clear,None,1
+BOOK1582,28,Suite,Refundable,55,Delhi,Rain,None,1
+BOOK1583,217,Deluxe,Non-Refundable,19,Mumbai,Rain,Conference,0
+BOOK1584,206,Suite,Refundable,42,Delhi,Clear,None,0
+BOOK1585,271,Standard,Non-Refundable,33,Kolkata,Clear,Conference,0
+BOOK1586,335,Deluxe,Refundable,45,Delhi,Clear,None,1
+BOOK1587,160,Standard,Refundable,33,Bangalore,Clear,Festival,1
+BOOK1588,209,Deluxe,Refundable,61,Kolkata,Clear,Festival,1
+BOOK1589,302,Deluxe,Non-Refundable,68,Mumbai,Clear,Sports Event,0
+BOOK1590,343,Standard,Refundable,31,Bangalore,Clear,Festival,1
+BOOK1591,220,Standard,Refundable,41,Delhi,Clear,Sports Event,0
+BOOK1592,286,Standard,Non-Refundable,20,Delhi,Rain,Conference,1
+BOOK1593,247,Deluxe,Refundable,65,Mumbai,Clear,None,0
+BOOK1594,18,Deluxe,Non-Refundable,45,Bangalore,Rain,Conference,0
+BOOK1595,230,Standard,Non-Refundable,33,Kolkata,Storm,None,0
+BOOK1596,245,Deluxe,Refundable,65,Mumbai,Clear,None,1
+BOOK1597,251,Suite,Non-Refundable,43,Bangalore,Clear,None,0
+BOOK1598,102,Deluxe,Non-Refundable,23,Chennai,Clear,Sports Event,0
+BOOK1599,186,Standard,Refundable,20,Chennai,Clear,None,1
+BOOK1600,167,Deluxe,Refundable,53,Bangalore,Fog,Festival,0
+BOOK1601,291,Suite,Non-Refundable,28,Chennai,Clear,Festival,0
+BOOK1602,86,Standard,Refundable,59,Mumbai,Fog,None,1
+BOOK1603,220,Standard,Non-Refundable,29,Kolkata,Fog,Sports Event,0
+BOOK1604,51,Suite,Refundable,29,Chennai,Clear,Festival,1
+BOOK1605,331,Standard,Non-Refundable,58,Bangalore,Clear,Sports Event,0
+BOOK1606,90,Standard,Refundable,44,Kolkata,Storm,None,0
+BOOK1607,25,Standard,Refundable,69,Mumbai,Fog,Conference,0
+BOOK1608,100,Suite,Non-Refundable,69,Delhi,Clear,None,0
+BOOK1609,179,Standard,Non-Refundable,31,Delhi,Clear,Conference,0
+BOOK1610,299,Standard,Non-Refundable,31,Delhi,Clear,None,1
+BOOK1611,184,Standard,Refundable,36,Chennai,Clear,None,1
+BOOK1612,140,Deluxe,Refundable,46,Delhi,Clear,Conference,0
+BOOK1613,213,Suite,Refundable,63,Delhi,Clear,None,1
+BOOK1614,341,Suite,Refundable,55,Kolkata,Fog,None,1
+BOOK1615,211,Standard,Refundable,57,Bangalore,Fog,None,1
+BOOK1616,82,Standard,Non-Refundable,64,Kolkata,Clear,Conference,0
+BOOK1617,290,Standard,Refundable,38,Mumbai,Rain,None,1
+BOOK1618,302,Suite,Non-Refundable,19,Mumbai,Clear,None,1
+BOOK1619,156,Deluxe,Refundable,38,Delhi,Clear,None,0
+BOOK1620,162,Deluxe,Refundable,40,Chennai,Rain,None,0
+BOOK1621,245,Deluxe,Refundable,27,Mumbai,Fog,None,1
+BOOK1622,79,Standard,Refundable,68,Chennai,Clear,Sports Event,1
+BOOK1623,94,Deluxe,Non-Refundable,35,Delhi,Storm,None,0
+BOOK1624,291,Standard,Non-Refundable,54,Kolkata,Storm,None,0
+BOOK1625,163,Standard,Non-Refundable,21,Mumbai,Rain,Festival,0
+BOOK1626,36,Standard,Non-Refundable,45,Kolkata,Clear,Festival,0
+BOOK1627,102,Standard,Refundable,19,Chennai,Clear,None,0
+BOOK1628,100,Standard,Refundable,46,Bangalore,Rain,Conference,0
+BOOK1629,134,Standard,Refundable,53,Delhi,Rain,None,0
+BOOK1630,48,Standard,Non-Refundable,65,Kolkata,Clear,Conference,0
+BOOK1631,97,Standard,Refundable,21,Kolkata,Rain,None,0
+BOOK1632,199,Standard,Refundable,41,Kolkata,Clear,Conference,1
+BOOK1633,337,Deluxe,Non-Refundable,41,Bangalore,Clear,Festival,0
+BOOK1634,113,Standard,Refundable,21,Bangalore,Clear,Sports Event,0
+BOOK1635,283,Deluxe,Non-Refundable,62,Bangalore,Clear,Festival,0
+BOOK1636,247,Deluxe,Non-Refundable,18,Bangalore,Clear,None,1
+BOOK1637,175,Standard,Non-Refundable,44,Kolkata,Clear,Conference,0
+BOOK1638,16,Standard,Non-Refundable,20,Delhi,Clear,Festival,0
+BOOK1639,86,Standard,Non-Refundable,64,Delhi,Clear,Festival,0
+BOOK1640,159,Standard,Refundable,37,Mumbai,Storm,None,1
+BOOK1641,83,Standard,Non-Refundable,61,Delhi,Fog,None,0
+BOOK1642,146,Suite,Refundable,37,Delhi,Clear,None,1
+BOOK1643,168,Deluxe,Non-Refundable,36,Kolkata,Clear,Sports Event,0
+BOOK1644,98,Suite,Refundable,68,Chennai,Clear,None,1
+BOOK1645,324,Deluxe,Refundable,20,Delhi,Clear,None,0
+BOOK1646,361,Deluxe,Non-Refundable,61,Bangalore,Clear,None,0
+BOOK1647,65,Deluxe,Non-Refundable,43,Chennai,Fog,None,1
+BOOK1648,20,Deluxe,Refundable,56,Bangalore,Clear,Conference,0
+BOOK1649,128,Standard,Refundable,34,Bangalore,Clear,Festival,1
+BOOK1650,230,Standard,Refundable,27,Kolkata,Rain,Sports Event,1
+BOOK1651,167,Deluxe,Refundable,18,Delhi,Clear,Conference,0
+BOOK1652,347,Standard,Refundable,36,Delhi,Fog,Conference,1
+BOOK1653,7,Standard,Non-Refundable,22,Bangalore,Clear,None,0
+BOOK1654,339,Suite,Refundable,19,Bangalore,Storm,Festival,1
+BOOK1655,266,Suite,Non-Refundable,61,Kolkata,Clear,Conference,0
+BOOK1656,53,Suite,Non-Refundable,20,Mumbai,Clear,Conference,0
+BOOK1657,107,Deluxe,Non-Refundable,57,Chennai,Rain,Festival,0
+BOOK1658,200,Standard,Non-Refundable,66,Delhi,Fog,None,0
+BOOK1659,120,Deluxe,Non-Refundable,27,Delhi,Fog,None,0
+BOOK1660,343,Suite,Non-Refundable,46,Chennai,Clear,Sports Event,0
+BOOK1661,239,Standard,Refundable,59,Kolkata,Clear,None,1
+BOOK1662,52,Standard,Non-Refundable,44,Chennai,Rain,None,0
+BOOK1663,63,Deluxe,Refundable,66,Chennai,Clear,None,0
+BOOK1664,91,Suite,Non-Refundable,48,Bangalore,Clear,Conference,0
+BOOK1665,79,Standard,Refundable,20,Delhi,Clear,None,1
+BOOK1666,82,Standard,Refundable,24,Bangalore,Fog,None,0
+BOOK1667,283,Deluxe,Refundable,23,Kolkata,Clear,None,1
+BOOK1668,32,Deluxe,Non-Refundable,48,Chennai,Fog,None,0
+BOOK1669,234,Suite,Non-Refundable,49,Mumbai,Storm,Festival,0
+BOOK1670,347,Standard,Refundable,35,Chennai,Rain,None,1
+BOOK1671,37,Standard,Refundable,34,Mumbai,Fog,None,1
+BOOK1672,348,Deluxe,Refundable,67,Delhi,Rain,None,0
+BOOK1673,128,Standard,Refundable,50,Bangalore,Clear,Conference,1
+BOOK1674,89,Suite,Refundable,20,Kolkata,Rain,Festival,0
+BOOK1675,149,Deluxe,Refundable,48,Bangalore,Clear,None,1
+BOOK1676,281,Standard,Non-Refundable,49,Delhi,Clear,None,0
+BOOK1677,294,Standard,Refundable,25,Delhi,Rain,None,0
+BOOK1678,62,Standard,Non-Refundable,40,Bangalore,Rain,Festival,0
+BOOK1679,101,Suite,Non-Refundable,69,Mumbai,Clear,Conference,0
+BOOK1680,24,Deluxe,Non-Refundable,42,Kolkata,Rain,Conference,0
+BOOK1681,312,Deluxe,Refundable,48,Mumbai,Rain,None,1
+BOOK1682,51,Deluxe,Non-Refundable,33,Mumbai,Clear,None,0
+BOOK1683,155,Standard,Non-Refundable,48,Mumbai,Clear,Festival,0
+BOOK1684,196,Deluxe,Refundable,23,Kolkata,Clear,None,1
+BOOK1685,190,Deluxe,Non-Refundable,31,Chennai,Rain,None,0
+BOOK1686,167,Suite,Refundable,60,Kolkata,Clear,Sports Event,1
+BOOK1687,208,Standard,Refundable,49,Bangalore,Clear,Conference,1
+BOOK1688,241,Standard,Non-Refundable,61,Mumbai,Rain,Conference,0
+BOOK1689,133,Standard,Refundable,51,Delhi,Fog,None,0
+BOOK1690,219,Deluxe,Refundable,43,Chennai,Clear,None,1
+BOOK1691,57,Deluxe,Refundable,50,Chennai,Clear,None,1
+BOOK1692,104,Standard,Non-Refundable,43,Delhi,Clear,Conference,0
+BOOK1693,191,Standard,Non-Refundable,48,Kolkata,Clear,Conference,0
+BOOK1694,354,Standard,Refundable,36,Bangalore,Rain,None,1
+BOOK1695,201,Standard,Non-Refundable,36,Mumbai,Clear,None,0
+BOOK1696,225,Standard,Refundable,66,Delhi,Rain,Festival,1
+BOOK1697,330,Standard,Refundable,68,Delhi,Clear,None,1
+BOOK1698,218,Standard,Refundable,45,Delhi,Clear,Conference,1
+BOOK1699,330,Standard,Refundable,43,Delhi,Clear,Conference,1
+BOOK1700,64,Standard,Refundable,50,Mumbai,Rain,None,1
+BOOK1701,356,Deluxe,Non-Refundable,51,Bangalore,Rain,None,1
+BOOK1702,17,Deluxe,Refundable,29,Bangalore,Clear,None,1
+BOOK1703,221,Standard,Refundable,56,Mumbai,Rain,None,1
+BOOK1704,276,Suite,Refundable,65,Mumbai,Rain,Sports Event,1
+BOOK1705,70,Standard,Refundable,62,Mumbai,Clear,Festival,0
+BOOK1706,202,Deluxe,Refundable,58,Chennai,Fog,None,0
+BOOK1707,34,Suite,Refundable,52,Delhi,Clear,Conference,1
+BOOK1708,122,Standard,Refundable,21,Chennai,Clear,Conference,0
+BOOK1709,151,Standard,Refundable,47,Kolkata,Clear,None,0
+BOOK1710,18,Suite,Refundable,18,Chennai,Clear,Sports Event,1
+BOOK1711,117,Standard,Refundable,36,Bangalore,Clear,None,1
+BOOK1712,104,Deluxe,Refundable,54,Bangalore,Rain,None,1
+BOOK1713,149,Standard,Non-Refundable,65,Chennai,Clear,None,0
+BOOK1714,56,Standard,Refundable,46,Bangalore,Clear,None,1
+BOOK1715,48,Suite,Non-Refundable,51,Chennai,Rain,None,0
+BOOK1716,126,Deluxe,Refundable,36,Delhi,Storm,Festival,1
+BOOK1717,301,Deluxe,Refundable,29,Kolkata,Rain,Conference,1
+BOOK1718,236,Suite,Refundable,64,Kolkata,Rain,Sports Event,1
+BOOK1719,98,Deluxe,Non-Refundable,23,Chennai,Rain,None,1
+BOOK1720,1,Standard,Refundable,45,Mumbai,Rain,Festival,0
+BOOK1721,87,Standard,Refundable,69,Bangalore,Fog,Sports Event,0
+BOOK1722,260,Deluxe,Non-Refundable,50,Kolkata,Clear,Conference,0
+BOOK1723,112,Suite,Refundable,42,Mumbai,Fog,Festival,0
+BOOK1724,253,Standard,Refundable,37,Bangalore,Rain,None,1
+BOOK1725,133,Standard,Refundable,21,Mumbai,Fog,Sports Event,0
+BOOK1726,342,Standard,Non-Refundable,47,Mumbai,Storm,None,0
+BOOK1727,308,Standard,Refundable,28,Mumbai,Clear,None,1
+BOOK1728,194,Deluxe,Non-Refundable,46,Kolkata,Clear,Conference,0
+BOOK1729,322,Deluxe,Non-Refundable,59,Mumbai,Clear,None,0
+BOOK1730,135,Standard,Non-Refundable,51,Chennai,Clear,None,0
+BOOK1731,86,Deluxe,Refundable,64,Kolkata,Storm,None,1
+BOOK1732,252,Suite,Refundable,29,Mumbai,Storm,None,1
+BOOK1733,54,Deluxe,Refundable,46,Bangalore,Clear,None,0
+BOOK1734,62,Suite,Non-Refundable,59,Delhi,Clear,Sports Event,0
+BOOK1735,360,Standard,Refundable,65,Chennai,Rain,None,1
+BOOK1736,199,Suite,Refundable,31,Kolkata,Rain,Conference,0
+BOOK1737,18,Standard,Non-Refundable,48,Kolkata,Clear,Sports Event,0
+BOOK1738,339,Standard,Refundable,28,Kolkata,Storm,None,1
+BOOK1739,234,Deluxe,Refundable,58,Bangalore,Clear,None,0
+BOOK1740,43,Standard,Non-Refundable,60,Kolkata,Fog,Festival,0
+BOOK1741,237,Standard,Non-Refundable,32,Kolkata,Clear,None,0
+BOOK1742,351,Standard,Non-Refundable,23,Chennai,Clear,None,1
+BOOK1743,40,Deluxe,Non-Refundable,40,Chennai,Clear,Festival,0
+BOOK1744,51,Suite,Refundable,19,Mumbai,Fog,None,0
+BOOK1745,25,Standard,Refundable,52,Delhi,Storm,Conference,0
+BOOK1746,22,Deluxe,Refundable,33,Mumbai,Storm,Sports Event,1
+BOOK1747,330,Standard,Non-Refundable,42,Chennai,Clear,Conference,0
+BOOK1748,55,Suite,Refundable,20,Delhi,Storm,None,1
+BOOK1749,231,Suite,Refundable,52,Delhi,Rain,None,1
+BOOK1750,18,Deluxe,Non-Refundable,47,Bangalore,Rain,None,0
+BOOK1751,294,Standard,Non-Refundable,28,Mumbai,Rain,Conference,0
+BOOK1752,330,Deluxe,Non-Refundable,48,Chennai,Storm,None,0
+BOOK1753,207,Deluxe,Refundable,32,Bangalore,Fog,None,0
+BOOK1754,251,Suite,Non-Refundable,55,Chennai,Clear,Sports Event,1
+BOOK1755,84,Deluxe,Refundable,45,Bangalore,Fog,None,0
+BOOK1756,78,Deluxe,Refundable,44,Bangalore,Clear,Conference,1
+BOOK1757,171,Deluxe,Refundable,19,Bangalore,Clear,Conference,1
+BOOK1758,298,Deluxe,Refundable,47,Delhi,Clear,Sports Event,0
+BOOK1759,320,Deluxe,Refundable,18,Bangalore,Rain,Conference,1
+BOOK1760,82,Deluxe,Refundable,51,Kolkata,Storm,Sports Event,1
+BOOK1761,299,Suite,Refundable,64,Delhi,Rain,None,1
+BOOK1762,24,Deluxe,Refundable,64,Kolkata,Clear,None,0
+BOOK1763,4,Standard,Refundable,54,Bangalore,Rain,None,1
+BOOK1764,114,Deluxe,Refundable,24,Bangalore,Clear,None,1
+BOOK1765,319,Standard,Refundable,65,Kolkata,Rain,Sports Event,1
+BOOK1766,267,Deluxe,Refundable,19,Delhi,Storm,None,1
+BOOK1767,104,Standard,Refundable,42,Delhi,Clear,Conference,0
+BOOK1768,346,Deluxe,Refundable,56,Mumbai,Clear,Sports Event,1
+BOOK1769,163,Standard,Non-Refundable,30,Chennai,Clear,None,0
+BOOK1770,313,Standard,Refundable,30,Bangalore,Clear,Conference,1
+BOOK1771,119,Deluxe,Non-Refundable,43,Delhi,Fog,None,1
+BOOK1772,243,Standard,Non-Refundable,45,Mumbai,Clear,Festival,0
+BOOK1773,43,Suite,Non-Refundable,50,Chennai,Rain,None,0
+BOOK1774,286,Deluxe,Refundable,43,Bangalore,Storm,None,1
+BOOK1775,363,Deluxe,Refundable,63,Delhi,Rain,None,1
+BOOK1776,189,Deluxe,Refundable,29,Chennai,Clear,None,0
+BOOK1777,360,Suite,Non-Refundable,39,Delhi,Clear,Sports Event,1
+BOOK1778,249,Standard,Refundable,50,Kolkata,Fog,Festival,0
+BOOK1779,334,Standard,Non-Refundable,42,Delhi,Clear,Conference,0
+BOOK1780,198,Standard,Refundable,28,Kolkata,Clear,None,1
+BOOK1781,270,Deluxe,Non-Refundable,20,Delhi,Clear,Sports Event,0
+BOOK1782,278,Suite,Refundable,52,Chennai,Rain,None,1
+BOOK1783,298,Deluxe,Non-Refundable,48,Kolkata,Clear,None,1
+BOOK1784,76,Deluxe,Refundable,22,Bangalore,Clear,Festival,1
+BOOK1785,65,Deluxe,Non-Refundable,23,Chennai,Clear,Conference,0
+BOOK1786,96,Standard,Refundable,25,Delhi,Clear,None,1
+BOOK1787,336,Suite,Non-Refundable,60,Chennai,Clear,None,0
+BOOK1788,32,Standard,Non-Refundable,26,Mumbai,Clear,Festival,0
+BOOK1789,23,Standard,Refundable,26,Chennai,Clear,None,0
+BOOK1790,364,Suite,Refundable,57,Bangalore,Clear,None,1
+BOOK1791,339,Standard,Non-Refundable,49,Delhi,Fog,Festival,0
+BOOK1792,3,Suite,Refundable,30,Kolkata,Clear,Conference,1
+BOOK1793,175,Deluxe,Refundable,26,Chennai,Clear,Conference,1
+BOOK1794,237,Deluxe,Non-Refundable,23,Delhi,Rain,None,0
+BOOK1795,73,Deluxe,Non-Refundable,20,Kolkata,Clear,None,0
+BOOK1796,82,Standard,Refundable,41,Chennai,Clear,None,0
+BOOK1797,142,Suite,Refundable,65,Bangalore,Clear,None,0
+BOOK1798,167,Standard,Refundable,62,Kolkata,Rain,Sports Event,1
+BOOK1799,300,Suite,Non-Refundable,52,Kolkata,Rain,Sports Event,0
+BOOK1800,157,Standard,Refundable,67,Mumbai,Clear,None,1
+BOOK1801,173,Deluxe,Non-Refundable,18,Bangalore,Rain,None,1
+BOOK1802,93,Deluxe,Non-Refundable,64,Chennai,Rain,Conference,0
+BOOK1803,108,Standard,Refundable,63,Chennai,Clear,None,1
+BOOK1804,43,Standard,Non-Refundable,18,Bangalore,Fog,None,0
+BOOK1805,198,Standard,Non-Refundable,49,Chennai,Clear,Sports Event,0
+BOOK1806,215,Standard,Non-Refundable,28,Delhi,Clear,Festival,0
+BOOK1807,217,Deluxe,Non-Refundable,31,Mumbai,Rain,None,0
+BOOK1808,297,Standard,Refundable,68,Chennai,Clear,Festival,1
+BOOK1809,149,Standard,Refundable,48,Delhi,Rain,None,0
+BOOK1810,314,Standard,Refundable,53,Mumbai,Clear,None,1
+BOOK1811,253,Deluxe,Non-Refundable,35,Delhi,Clear,Festival,0
+BOOK1812,34,Deluxe,Refundable,29,Kolkata,Clear,None,1
+BOOK1813,109,Suite,Non-Refundable,26,Bangalore,Rain,None,0
+BOOK1814,338,Standard,Refundable,44,Mumbai,Clear,Conference,0
+BOOK1815,219,Deluxe,Refundable,59,Chennai,Clear,None,1
+BOOK1816,163,Standard,Refundable,30,Mumbai,Storm,None,1
+BOOK1817,328,Deluxe,Non-Refundable,25,Delhi,Clear,Sports Event,0
+BOOK1818,54,Standard,Refundable,63,Mumbai,Clear,Conference,0
+BOOK1819,157,Standard,Refundable,50,Mumbai,Clear,None,0
+BOOK1820,209,Suite,Refundable,68,Kolkata,Rain,Conference,1
+BOOK1821,295,Suite,Non-Refundable,26,Kolkata,Clear,Sports Event,0
+BOOK1822,23,Suite,Non-Refundable,44,Kolkata,Fog,Conference,0
+BOOK1823,152,Standard,Refundable,20,Kolkata,Clear,Sports Event,1
+BOOK1824,114,Standard,Non-Refundable,21,Kolkata,Clear,Festival,0
+BOOK1825,99,Deluxe,Refundable,34,Chennai,Clear,None,0
+BOOK1826,59,Deluxe,Non-Refundable,27,Mumbai,Clear,None,0
+BOOK1827,352,Standard,Non-Refundable,48,Mumbai,Storm,Sports Event,1
+BOOK1828,94,Suite,Non-Refundable,21,Chennai,Clear,None,0
+BOOK1829,134,Deluxe,Non-Refundable,39,Delhi,Clear,Sports Event,0
+BOOK1830,291,Standard,Refundable,46,Mumbai,Storm,None,0
+BOOK1831,25,Suite,Refundable,40,Delhi,Clear,None,1
+BOOK1832,100,Suite,Refundable,38,Mumbai,Rain,None,1
+BOOK1833,228,Deluxe,Non-Refundable,23,Mumbai,Clear,None,1
+BOOK1834,222,Deluxe,Non-Refundable,57,Bangalore,Clear,None,0
+BOOK1835,335,Standard,Refundable,19,Mumbai,Storm,Festival,1
+BOOK1836,8,Standard,Non-Refundable,63,Bangalore,Storm,None,1
+BOOK1837,252,Suite,Refundable,41,Delhi,Rain,Festival,1
+BOOK1838,180,Standard,Refundable,23,Mumbai,Clear,Sports Event,0
+BOOK1839,212,Suite,Refundable,55,Chennai,Clear,None,1
+BOOK1840,118,Standard,Refundable,67,Chennai,Clear,Festival,1
+BOOK1841,278,Suite,Refundable,47,Kolkata,Storm,Festival,1
+BOOK1842,264,Standard,Non-Refundable,41,Bangalore,Storm,Festival,1
+BOOK1843,255,Suite,Non-Refundable,64,Mumbai,Clear,None,1
+BOOK1844,334,Deluxe,Refundable,37,Mumbai,Clear,None,1
+BOOK1845,304,Standard,Non-Refundable,57,Mumbai,Rain,Conference,0
+BOOK1846,286,Standard,Refundable,42,Mumbai,Rain,Conference,1
+BOOK1847,77,Deluxe,Non-Refundable,52,Bangalore,Clear,None,0
+BOOK1848,93,Standard,Non-Refundable,39,Bangalore,Rain,None,1
+BOOK1849,227,Standard,Non-Refundable,37,Bangalore,Clear,None,0
+BOOK1850,134,Standard,Refundable,62,Chennai,Clear,Festival,0
+BOOK1851,16,Deluxe,Non-Refundable,32,Delhi,Clear,Sports Event,0
+BOOK1852,49,Deluxe,Refundable,28,Chennai,Clear,None,1
+BOOK1853,192,Standard,Non-Refundable,64,Chennai,Clear,Sports Event,0
+BOOK1854,281,Deluxe,Refundable,50,Chennai,Storm,Conference,1
+BOOK1855,183,Deluxe,Refundable,24,Kolkata,Clear,None,1
+BOOK1856,194,Suite,Refundable,65,Chennai,Clear,None,1
+BOOK1857,9,Standard,Non-Refundable,69,Bangalore,Clear,Festival,0
+BOOK1858,260,Deluxe,Refundable,22,Bangalore,Storm,None,1
+BOOK1859,211,Suite,Non-Refundable,37,Delhi,Rain,Conference,0
+BOOK1860,95,Standard,Non-Refundable,31,Bangalore,Clear,Conference,0
+BOOK1861,249,Suite,Non-Refundable,57,Chennai,Clear,None,1
+BOOK1862,163,Suite,Non-Refundable,45,Delhi,Storm,None,1
+BOOK1863,178,Standard,Non-Refundable,32,Mumbai,Rain,Festival,0
+BOOK1864,229,Standard,Non-Refundable,58,Delhi,Clear,None,0
+BOOK1865,137,Standard,Non-Refundable,33,Chennai,Clear,None,0
+BOOK1866,225,Deluxe,Refundable,55,Chennai,Clear,Conference,0
+BOOK1867,62,Suite,Non-Refundable,31,Chennai,Rain,Festival,0
+BOOK1868,148,Standard,Refundable,43,Bangalore,Clear,None,0
+BOOK1869,12,Standard,Non-Refundable,22,Kolkata,Clear,Conference,0
+BOOK1870,233,Deluxe,Non-Refundable,27,Mumbai,Clear,None,0
+BOOK1871,41,Standard,Refundable,43,Mumbai,Storm,None,1
+BOOK1872,193,Standard,Non-Refundable,66,Kolkata,Rain,Conference,0
+BOOK1873,294,Deluxe,Refundable,33,Chennai,Clear,Festival,1
+BOOK1874,301,Standard,Non-Refundable,48,Kolkata,Rain,None,0
+BOOK1875,184,Deluxe,Non-Refundable,62,Chennai,Clear,None,0
+BOOK1876,162,Deluxe,Non-Refundable,69,Kolkata,Clear,None,0
+BOOK1877,262,Suite,Non-Refundable,61,Kolkata,Clear,Festival,0
+BOOK1878,278,Standard,Non-Refundable,35,Delhi,Clear,Conference,0
+BOOK1879,198,Standard,Non-Refundable,61,Chennai,Clear,None,0
+BOOK1880,279,Standard,Non-Refundable,53,Chennai,Clear,None,1
+BOOK1881,250,Standard,Refundable,62,Kolkata,Clear,Festival,1
+BOOK1882,65,Suite,Non-Refundable,27,Bangalore,Rain,None,0
+BOOK1883,321,Deluxe,Non-Refundable,28,Chennai,Clear,None,1
+BOOK1884,332,Standard,Non-Refundable,24,Kolkata,Storm,Conference,0
+BOOK1885,333,Deluxe,Refundable,44,Chennai,Rain,Festival,1
+BOOK1886,208,Standard,Refundable,26,Delhi,Clear,Conference,1
+BOOK1887,132,Deluxe,Refundable,32,Mumbai,Clear,None,1
+BOOK1888,234,Deluxe,Non-Refundable,39,Bangalore,Clear,Festival,0
+BOOK1889,207,Suite,Refundable,20,Chennai,Rain,Sports Event,0
+BOOK1890,47,Suite,Non-Refundable,23,Bangalore,Clear,Conference,0
+BOOK1891,350,Standard,Refundable,53,Bangalore,Clear,Sports Event,0
+BOOK1892,144,Deluxe,Refundable,40,Mumbai,Fog,None,1
+BOOK1893,33,Deluxe,Refundable,64,Bangalore,Clear,Festival,1
+BOOK1894,0,Standard,Refundable,40,Delhi,Clear,None,0
+BOOK1895,192,Standard,Refundable,69,Mumbai,Clear,Festival,0
+BOOK1896,51,Standard,Refundable,49,Delhi,Fog,None,0
+BOOK1897,231,Deluxe,Non-Refundable,32,Mumbai,Clear,Festival,0
+BOOK1898,85,Standard,Refundable,27,Delhi,Rain,Conference,0
+BOOK1899,175,Suite,Refundable,44,Kolkata,Clear,Festival,1
+BOOK1900,73,Standard,Refundable,67,Chennai,Rain,None,0
+BOOK1901,328,Standard,Refundable,35,Kolkata,Clear,Conference,1
+BOOK1902,130,Standard,Non-Refundable,25,Bangalore,Rain,None,0
+BOOK1903,141,Standard,Non-Refundable,39,Kolkata,Clear,None,0
+BOOK1904,291,Standard,Non-Refundable,33,Mumbai,Clear,Conference,0
+BOOK1905,208,Standard,Non-Refundable,63,Chennai,Rain,None,0
+BOOK1906,73,Standard,Refundable,48,Chennai,Rain,Festival,0
+BOOK1907,337,Standard,Non-Refundable,25,Chennai,Clear,Conference,0
+BOOK1908,265,Deluxe,Refundable,53,Bangalore,Storm,None,1
+BOOK1909,90,Standard,Non-Refundable,68,Delhi,Fog,None,0
+BOOK1910,9,Standard,Refundable,39,Mumbai,Clear,Conference,1
+BOOK1911,68,Suite,Refundable,52,Mumbai,Fog,None,1
+BOOK1912,200,Standard,Refundable,55,Bangalore,Clear,None,1
+BOOK1913,105,Standard,Refundable,54,Bangalore,Clear,Sports Event,0
+BOOK1914,218,Suite,Refundable,28,Chennai,Rain,Sports Event,1
+BOOK1915,115,Deluxe,Non-Refundable,50,Kolkata,Rain,Festival,0
+BOOK1916,48,Deluxe,Refundable,38,Mumbai,Rain,None,0
+BOOK1917,182,Standard,Non-Refundable,35,Bangalore,Fog,None,0
+BOOK1918,106,Deluxe,Non-Refundable,32,Mumbai,Clear,Conference,0
+BOOK1919,195,Standard,Refundable,36,Delhi,Clear,None,1
+BOOK1920,298,Deluxe,Non-Refundable,62,Bangalore,Clear,None,1
+BOOK1921,179,Standard,Non-Refundable,33,Mumbai,Fog,Sports Event,0
+BOOK1922,187,Deluxe,Non-Refundable,32,Mumbai,Clear,None,1
+BOOK1923,162,Standard,Refundable,36,Mumbai,Clear,Festival,0
+BOOK1924,174,Standard,Refundable,63,Mumbai,Fog,Sports Event,0
+BOOK1925,164,Standard,Refundable,55,Delhi,Storm,Festival,1
+BOOK1926,178,Standard,Refundable,26,Mumbai,Clear,Conference,0
+BOOK1927,295,Standard,Refundable,44,Chennai,Storm,None,1
+BOOK1928,45,Standard,Non-Refundable,68,Delhi,Clear,None,0
+BOOK1929,283,Standard,Refundable,51,Chennai,Clear,None,1
+BOOK1930,219,Deluxe,Non-Refundable,41,Mumbai,Rain,Sports Event,0
+BOOK1931,83,Suite,Non-Refundable,57,Mumbai,Storm,None,0
+BOOK1932,102,Standard,Non-Refundable,28,Kolkata,Rain,None,0
+BOOK1933,268,Standard,Non-Refundable,57,Delhi,Clear,Sports Event,1
+BOOK1934,336,Deluxe,Refundable,18,Bangalore,Clear,None,0
+BOOK1935,60,Standard,Refundable,53,Kolkata,Rain,Conference,0
+BOOK1936,212,Suite,Refundable,59,Chennai,Rain,Conference,1
+BOOK1937,363,Deluxe,Non-Refundable,57,Delhi,Clear,None,1
+BOOK1938,131,Standard,Non-Refundable,67,Kolkata,Clear,None,0
+BOOK1939,3,Standard,Non-Refundable,22,Mumbai,Rain,Conference,0
+BOOK1940,250,Standard,Non-Refundable,59,Mumbai,Rain,None,1
+BOOK1941,90,Standard,Non-Refundable,58,Chennai,Rain,None,0
+BOOK1942,315,Deluxe,Refundable,18,Bangalore,Storm,None,1
+BOOK1943,356,Suite,Refundable,45,Bangalore,Clear,Conference,1
+BOOK1944,236,Suite,Refundable,33,Bangalore,Clear,None,1
+BOOK1945,359,Deluxe,Refundable,18,Delhi,Clear,Festival,1
+BOOK1946,240,Deluxe,Non-Refundable,44,Bangalore,Storm,Conference,0
+BOOK1947,194,Standard,Refundable,48,Bangalore,Clear,Conference,1
+BOOK1948,354,Standard,Refundable,69,Delhi,Clear,Festival,1
+BOOK1949,10,Standard,Refundable,24,Chennai,Clear,Festival,0
+BOOK1950,272,Suite,Refundable,39,Bangalore,Rain,Conference,1
+BOOK1951,205,Suite,Refundable,56,Chennai,Clear,None,0
+BOOK1952,176,Suite,Refundable,31,Kolkata,Clear,None,1
+BOOK1953,222,Standard,Refundable,48,Kolkata,Rain,Festival,0
+BOOK1954,330,Deluxe,Non-Refundable,60,Bangalore,Clear,None,0
+BOOK1955,88,Suite,Refundable,20,Mumbai,Clear,Festival,0
+BOOK1956,207,Deluxe,Non-Refundable,31,Delhi,Clear,Conference,1
+BOOK1957,70,Deluxe,Refundable,22,Chennai,Rain,Festival,0
+BOOK1958,135,Deluxe,Non-Refundable,26,Chennai,Clear,None,0
+BOOK1959,151,Deluxe,Non-Refundable,19,Chennai,Clear,None,0
+BOOK1960,297,Standard,Refundable,40,Bangalore,Clear,None,1
+BOOK1961,0,Suite,Refundable,40,Kolkata,Clear,None,1
+BOOK1962,251,Standard,Refundable,20,Chennai,Clear,Conference,0
+BOOK1963,337,Standard,Refundable,64,Delhi,Clear,None,1
+BOOK1964,176,Deluxe,Non-Refundable,60,Mumbai,Clear,None,0
+BOOK1965,19,Standard,Non-Refundable,39,Kolkata,Rain,None,0
+BOOK1966,149,Standard,Refundable,44,Kolkata,Clear,Sports Event,1
+BOOK1967,304,Standard,Refundable,23,Kolkata,Clear,None,1
+BOOK1968,295,Standard,Refundable,20,Delhi,Storm,Conference,1
+BOOK1969,59,Suite,Non-Refundable,51,Bangalore,Rain,Festival,0
+BOOK1970,276,Deluxe,Non-Refundable,34,Kolkata,Clear,Conference,0
+BOOK1971,259,Standard,Refundable,46,Bangalore,Rain,Festival,1
+BOOK1972,347,Standard,Non-Refundable,33,Mumbai,Clear,None,1
+BOOK1973,275,Deluxe,Non-Refundable,49,Mumbai,Storm,Festival,1
+BOOK1974,351,Standard,Non-Refundable,46,Chennai,Clear,Conference,0
+BOOK1975,360,Deluxe,Refundable,47,Mumbai,Clear,None,0
+BOOK1976,196,Standard,Refundable,29,Delhi,Clear,Festival,0
+BOOK1977,210,Standard,Refundable,52,Mumbai,Clear,Conference,0
+BOOK1978,184,Standard,Refundable,58,Kolkata,Rain,Conference,1
+BOOK1979,23,Standard,Refundable,37,Bangalore,Clear,Conference,1
+BOOK1980,76,Deluxe,Refundable,52,Kolkata,Storm,Sports Event,1
+BOOK1981,196,Standard,Non-Refundable,63,Kolkata,Rain,None,0
+BOOK1982,93,Standard,Non-Refundable,43,Delhi,Clear,None,0
+BOOK1983,189,Standard,Refundable,57,Mumbai,Clear,Festival,0
+BOOK1984,18,Deluxe,Non-Refundable,54,Delhi,Fog,None,0
+BOOK1985,110,Standard,Refundable,47,Delhi,Rain,None,1
+BOOK1986,44,Deluxe,Non-Refundable,56,Bangalore,Clear,Festival,0
+BOOK1987,231,Deluxe,Refundable,36,Mumbai,Fog,Festival,1
+BOOK1988,107,Standard,Non-Refundable,66,Kolkata,Clear,None,0
+BOOK1989,204,Suite,Refundable,21,Chennai,Clear,None,1
+BOOK1990,163,Suite,Non-Refundable,49,Kolkata,Storm,None,0
+BOOK1991,342,Suite,Non-Refundable,28,Bangalore,Storm,Festival,0
+BOOK1992,175,Standard,Refundable,40,Delhi,Rain,Conference,1
+BOOK1993,27,Standard,Non-Refundable,19,Mumbai,Clear,Festival,0
+BOOK1994,45,Standard,Non-Refundable,38,Mumbai,Storm,Festival,0
+BOOK1995,72,Suite,Non-Refundable,39,Mumbai,Storm,None,0
+BOOK1996,142,Standard,Refundable,49,Kolkata,Rain,None,0
+BOOK1997,130,Deluxe,Refundable,69,Mumbai,Clear,None,0
+BOOK1998,91,Standard,Non-Refundable,27,Chennai,Clear,None,0
+BOOK1999,116,Standard,Refundable,46,Mumbai,Clear,Festival,1
