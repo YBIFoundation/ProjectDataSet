@@ -1,0 +1,1001 @@
+route,airline,booking_class,demand_level,season,days_to_departure,fuel_price_index,competitor_price,predicted_flight_price_inr
+HYD-BOM,FlyIndia,Economy,0.94,Peak,137,105.91,10249.78,6519.11
+GOA-DEL,IndiSky,Economy,0.95,Holiday,67,113.08,7783.44,9393.35
+GOA-DEL,BharatAir,Economy,1.25,Off-Peak,158,97.26,7428.5,8867.11
+DEL-MUM,AirVista,Economy,1.44,Holiday,167,129.59,8461.06,8673.83
+CHN-KOL,BharatAir,Business,0.77,Peak,177,85.04,7241.78,9637.07
+DEL-MUM,AirVista,Economy,1.27,Off-Peak,119,92.85,4676.15,7382.56
+GOA-DEL,IndiSky,Premium Economy,0.61,Off-Peak,34,99.86,6909.39,8771.42
+PUNE-BLR,SkyJet,Premium Economy,1.32,Regular,33,80.26,3457.51,12691.53
+CHN-KOL,IndiSky,Economy,1.34,Holiday,66,109.03,9911.3,13585.16
+CHN-KOL,SkyJet,Economy,1.47,Peak,116,97.33,7856.9,12490.66
+DEL-MUM,AirVista,Economy,1.14,Regular,136,119.23,11406.69,7249.75
+GOA-DEL,SkyJet,Economy,0.7,Holiday,122,83.2,6263.72,5785.2
+HYD-BOM,FlyIndia,Premium Economy,0.94,Peak,125,83.7,4729.38,8204.23
+CHN-KOL,AirVista,Economy,1.43,Off-Peak,16,98.85,10204.49,14160.99
+HYD-BOM,SkyJet,Economy,0.65,Regular,13,106.49,8216.27,6165.94
+DEL-MUM,SkyJet,Economy,0.96,Peak,40,93.16,4295.53,10582.98
+BLR-DEL,SkyJet,Economy,1.19,Regular,170,129.71,5521.44,7059.81
+CHN-KOL,BharatAir,Economy,0.98,Off-Peak,55,115.49,5261.27,9156.69
+DEL-MUM,FlyIndia,Economy,0.83,Holiday,106,110.08,4552.73,6806.44
+BLR-DEL,SkyJet,Economy,1.07,Regular,50,105.06,2636.57,10731.13
+HYD-BOM,FlyIndia,Premium Economy,1.45,Peak,46,82.88,3293.79,18065.55
+PUNE-BLR,AirVista,Economy,1.45,Peak,112,93.49,6754.38,10803.04
+HYD-BOM,AirVista,Economy,0.77,Holiday,131,119.68,9261.53,5836.11
+CHN-KOL,IndiSky,Premium Economy,0.84,Holiday,131,92.73,5918.48,8423.13
+PUNE-BLR,AirVista,Economy,1.26,Peak,178,86.9,9924.2,6486.38
+PUNE-BLR,FlyIndia,Economy,0.92,Off-Peak,87,90.85,9939.96,6218.01
+HYD-BOM,IndiSky,Premium Economy,0.77,Off-Peak,147,88.78,2767.85,5207.48
+CHN-KOL,FlyIndia,Premium Economy,1.28,Off-Peak,170,80.72,11962.52,8621.66
+PUNE-BLR,AirVista,Business,1.11,Holiday,63,83.99,6684.11,15750.3
+HYD-BOM,SkyJet,Premium Economy,1.3,Off-Peak,55,104.69,7271.51,12561.39
+CHN-KOL,SkyJet,Premium Economy,1.27,Off-Peak,0,114.52,5367.41,16766.21
+PUNE-BLR,FlyIndia,Premium Economy,1.11,Regular,4,117.59,6983.16,11954.07
+CHN-KOL,BharatAir,Business,0.99,Off-Peak,107,86.16,11877.58,12749.47
+DEL-MUM,IndiSky,Economy,0.98,Holiday,110,81.09,9963.28,6542.04
+BLR-DEL,SkyJet,Economy,0.63,Peak,136,82.43,3072.33,5743.13
+DEL-MUM,SkyJet,Economy,0.91,Holiday,46,103.6,3336.25,9438.15
+CHN-KOL,FlyIndia,Economy,1.19,Peak,146,91.15,7323.84,8669.41
+HYD-BOM,SkyJet,Premium Economy,0.68,Holiday,117,97.37,10303.34,5450.77
+BLR-DEL,IndiSky,Premium Economy,0.81,Peak,147,129.53,10159.84,8559.68
+PUNE-BLR,SkyJet,Premium Economy,1.23,Peak,39,122.31,11294.62,15364.33
+GOA-DEL,SkyJet,Economy,0.63,Holiday,158,91.86,4172.6,4690.12
+GOA-DEL,BharatAir,Economy,1.11,Off-Peak,158,83.6,8645.49,6970.84
+CHN-KOL,SkyJet,Economy,1.18,Regular,119,92.19,8900.06,8282.74
+DEL-MUM,BharatAir,Economy,1.01,Holiday,80,122.71,9742.34,9449.5
+HYD-BOM,FlyIndia,Economy,0.79,Regular,8,115.44,3648.38,7024.36
+HYD-BOM,IndiSky,Economy,0.73,Peak,52,96.08,5091.76,6958.02
+BLR-DEL,BharatAir,Premium Economy,1.19,Holiday,10,126.65,11658.18,18648.64
+GOA-DEL,SkyJet,Economy,0.89,Off-Peak,88,85.42,4444.82,8110.86
+HYD-BOM,SkyJet,Premium Economy,1.27,Regular,51,80.55,11359.47,12026.42
+GOA-DEL,AirVista,Economy,0.72,Holiday,96,98.67,2558.28,7295.41
+GOA-DEL,IndiSky,Economy,1.28,Regular,82,103.3,6272.76,11431.45
+HYD-BOM,SkyJet,Economy,0.77,Holiday,16,113.93,11106.08,7651.51
+PUNE-BLR,SkyJet,Economy,1.02,Regular,28,119.28,5168.09,6781.7
+CHN-KOL,IndiSky,Economy,1.49,Holiday,125,105.87,4975.18,12186.7
+GOA-DEL,AirVista,Economy,1.36,Holiday,104,106.61,10186.89,11940.2
+PUNE-BLR,BharatAir,Premium Economy,1.15,Off-Peak,171,106.38,10322.93,6499.26
+CHN-KOL,AirVista,Economy,0.71,Peak,139,97.33,5976.1,6403.93
+HYD-BOM,AirVista,Economy,1.12,Regular,102,84.42,6807.05,6241.31
+DEL-MUM,FlyIndia,Business,1.22,Regular,145,117.06,9659.73,12659.38
+PUNE-BLR,IndiSky,Economy,1.26,Peak,131,102.61,9505.29,8653.82
+BLR-DEL,IndiSky,Premium Economy,0.61,Off-Peak,175,82.22,10202.18,4471.53
+BLR-DEL,IndiSky,Economy,1.47,Peak,136,114.6,9379.73,12458.5
+HYD-BOM,FlyIndia,Economy,0.7,Holiday,32,96.6,5482.56,6235.84
+GOA-DEL,IndiSky,Economy,0.98,Off-Peak,175,86.1,6310.75,5741.26
+DEL-MUM,BharatAir,Economy,1.47,Off-Peak,153,92.18,8093.49,9225.56
+PUNE-BLR,SkyJet,Economy,0.81,Off-Peak,63,109.0,10178.69,5810.05
+GOA-DEL,IndiSky,Business,1.38,Peak,101,125.32,5425.43,25000.0
+HYD-BOM,IndiSky,Premium Economy,1.01,Holiday,155,89.31,10913.96,6865.8
+GOA-DEL,BharatAir,Economy,0.67,Regular,80,125.65,3557.25,6206.78
+PUNE-BLR,BharatAir,Premium Economy,0.74,Peak,148,129.32,10037.96,6409.8
+CHN-KOL,AirVista,Economy,0.84,Regular,49,122.76,9268.27,8130.07
+CHN-KOL,IndiSky,Premium Economy,1.24,Holiday,111,129.68,4755.01,12857.56
+PUNE-BLR,IndiSky,Economy,1.43,Regular,111,109.92,8060.44,8109.12
+DEL-MUM,SkyJet,Premium Economy,1.3,Off-Peak,93,129.91,7962.3,12308.63
+BLR-DEL,AirVista,Economy,1.39,Peak,151,98.42,9336.04,11262.04
+GOA-DEL,FlyIndia,Economy,1.14,Peak,71,122.77,9252.75,12966.33
+GOA-DEL,AirVista,Economy,1.27,Regular,90,92.31,6451.18,10764.41
+HYD-BOM,SkyJet,Business,1.22,Off-Peak,119,115.16,5643.77,13947.54
+GOA-DEL,SkyJet,Economy,0.95,Peak,10,114.57,10994.28,13921.35
+PUNE-BLR,BharatAir,Premium Economy,1.48,Off-Peak,130,81.26,10633.09,10550.26
+CHN-KOL,BharatAir,Economy,0.83,Off-Peak,36,94.68,10622.8,7774.81
+HYD-BOM,FlyIndia,Economy,0.83,Regular,167,107.21,8427.6,4033.77
+HYD-BOM,IndiSky,Premium Economy,1.11,Regular,16,105.83,6491.96,12076.57
+GOA-DEL,AirVista,Economy,1.13,Off-Peak,12,122.13,8847.17,12029.15
+HYD-BOM,BharatAir,Economy,1.35,Peak,52,115.12,7844.36,12424.05
+BLR-DEL,BharatAir,Economy,1.4,Regular,136,86.52,5131.56,9954.22
+CHN-KOL,IndiSky,Economy,0.62,Peak,155,84.94,6550.18,4377.55
+BLR-DEL,SkyJet,Economy,1.14,Off-Peak,100,118.53,5210.14,9355.55
+GOA-DEL,SkyJet,Business,0.69,Regular,9,111.32,4960.02,13670.8
+BLR-DEL,SkyJet,Economy,0.81,Holiday,131,114.64,9476.92,6799.49
+DEL-MUM,BharatAir,Premium Economy,0.91,Off-Peak,168,104.5,6380.98,6615.06
+GOA-DEL,FlyIndia,Business,1.15,Peak,169,128.68,5951.13,15823.6
+DEL-MUM,FlyIndia,Premium Economy,1.0,Holiday,104,103.28,11324.51,10770.82
+DEL-MUM,BharatAir,Economy,0.98,Regular,157,122.26,3307.29,5245.57
+DEL-MUM,BharatAir,Economy,1.34,Regular,24,94.61,4106.86,11370.84
+DEL-MUM,IndiSky,Premium Economy,1.16,Peak,6,90.18,3190.18,16855.34
+CHN-KOL,SkyJet,Economy,0.62,Regular,133,95.61,2655.69,4052.16
+GOA-DEL,IndiSky,Economy,1.05,Regular,56,129.67,4290.98,10689.14
+DEL-MUM,BharatAir,Premium Economy,1.09,Holiday,147,91.84,6961.3,10336.7
+BLR-DEL,IndiSky,Economy,0.64,Off-Peak,1,95.73,7069.76,5745.54
+CHN-KOL,BharatAir,Economy,1.04,Off-Peak,105,119.46,7276.56,7582.27
+HYD-BOM,IndiSky,Economy,1.1,Peak,140,115.41,4178.19,7606.19
+GOA-DEL,FlyIndia,Premium Economy,0.85,Peak,24,100.46,2757.46,14452.85
+CHN-KOL,IndiSky,Business,1.06,Peak,51,113.94,8505.59,21037.67
+BLR-DEL,FlyIndia,Economy,0.92,Off-Peak,157,95.95,3782.45,6403.59
+DEL-MUM,AirVista,Economy,1.09,Off-Peak,25,97.52,6846.99,9162.63
+DEL-MUM,SkyJet,Economy,0.7,Peak,11,108.32,11304.44,7915.02
+GOA-DEL,IndiSky,Business,1.47,Peak,67,123.89,3890.08,25000.0
+DEL-MUM,AirVista,Economy,0.69,Off-Peak,169,83.35,9709.19,2948.74
+HYD-BOM,IndiSky,Premium Economy,0.73,Holiday,115,124.7,11365.09,6019.31
+PUNE-BLR,IndiSky,Economy,1.45,Regular,48,116.5,5518.27,10432.39
+HYD-BOM,FlyIndia,Economy,1.02,Off-Peak,165,90.74,7224.8,5654.19
+HYD-BOM,IndiSky,Business,1.0,Holiday,88,126.51,5638.37,14710.7
+PUNE-BLR,AirVista,Economy,0.61,Peak,141,109.47,4543.56,3988.58
+BLR-DEL,FlyIndia,Economy,0.7,Off-Peak,41,92.08,11366.13,7189.86
+BLR-DEL,FlyIndia,Economy,1.37,Holiday,51,96.23,11228.41,14121.59
+DEL-MUM,IndiSky,Economy,1.48,Regular,77,129.51,6415.41,11573.97
+CHN-KOL,FlyIndia,Business,0.95,Regular,88,128.0,9756.98,13319.79
+DEL-MUM,IndiSky,Premium Economy,0.83,Holiday,77,129.31,11227.86,9317.21
+BLR-DEL,IndiSky,Economy,0.99,Peak,98,86.58,7252.07,9919.29
+DEL-MUM,IndiSky,Economy,0.9,Holiday,78,100.51,10943.47,7291.46
+BLR-DEL,FlyIndia,Economy,0.89,Regular,55,82.98,6300.28,7706.9
+GOA-DEL,FlyIndia,Business,1.37,Holiday,18,106.88,4946.68,25000.0
+BLR-DEL,BharatAir,Economy,1.44,Regular,108,80.57,4521.46,10639.79
+HYD-BOM,BharatAir,Business,0.95,Regular,74,88.5,10014.41,10973.09
+GOA-DEL,BharatAir,Economy,0.83,Off-Peak,58,112.01,6359.12,8207.44
+BLR-DEL,AirVista,Economy,1.35,Off-Peak,2,80.47,7289.06,13524.69
+DEL-MUM,BharatAir,Premium Economy,1.38,Holiday,108,119.07,5638.83,14998.31
+GOA-DEL,BharatAir,Economy,1.0,Holiday,80,124.77,8212.32,10761.65
+BLR-DEL,IndiSky,Economy,0.64,Off-Peak,56,126.61,9365.67,6663.53
+CHN-KOL,AirVista,Premium Economy,0.64,Off-Peak,25,115.83,7647.55,7932.31
+PUNE-BLR,BharatAir,Economy,0.93,Off-Peak,132,125.24,9932.62,5720.09
+CHN-KOL,FlyIndia,Economy,1.09,Off-Peak,144,107.53,3864.84,6179.75
+HYD-BOM,IndiSky,Premium Economy,0.82,Peak,160,125.28,6327.94,6506.43
+DEL-MUM,BharatAir,Premium Economy,0.75,Regular,167,118.24,7450.38,5114.14
+HYD-BOM,SkyJet,Business,1.43,Peak,141,86.31,6583.55,17721.21
+PUNE-BLR,SkyJet,Economy,0.99,Off-Peak,13,129.1,4789.71,8740.79
+DEL-MUM,FlyIndia,Business,0.62,Off-Peak,129,93.24,5631.62,6500.71
+HYD-BOM,BharatAir,Economy,1.2,Off-Peak,96,101.06,4843.43,8232.91
+CHN-KOL,BharatAir,Premium Economy,1.25,Off-Peak,116,89.28,5183.67,11065.2
+BLR-DEL,SkyJet,Economy,0.79,Peak,84,127.19,7703.85,7874.2
+DEL-MUM,AirVista,Premium Economy,1.25,Peak,149,88.11,9523.13,12128.94
+GOA-DEL,IndiSky,Economy,1.04,Peak,170,117.05,6948.43,9001.43
+DEL-MUM,SkyJet,Economy,1.35,Holiday,164,102.55,8634.84,8374.97
+DEL-MUM,BharatAir,Economy,0.82,Peak,18,90.24,9961.95,9347.63
+DEL-MUM,AirVista,Economy,0.81,Off-Peak,68,88.92,5895.18,6598.74
+HYD-BOM,FlyIndia,Economy,1.33,Holiday,173,127.8,6320.8,7111.13
+GOA-DEL,BharatAir,Premium Economy,1.05,Holiday,53,111.48,6354.38,14343.64
+CHN-KOL,FlyIndia,Economy,1.34,Regular,171,90.87,6900.11,6932.51
+HYD-BOM,FlyIndia,Economy,0.63,Regular,31,115.59,9878.21,5688.49
+GOA-DEL,SkyJet,Economy,1.23,Off-Peak,109,107.45,9069.09,9735.24
+PUNE-BLR,BharatAir,Economy,0.8,Peak,21,94.69,4288.41,8117.56
+HYD-BOM,AirVista,Economy,1.09,Holiday,30,99.08,8414.43,9967.56
+GOA-DEL,AirVista,Economy,0.93,Holiday,53,89.36,4290.93,10287.64
+BLR-DEL,SkyJet,Premium Economy,0.77,Off-Peak,103,124.47,6110.8,8206.24
+DEL-MUM,FlyIndia,Business,1.12,Peak,9,104.99,11576.09,24024.5
+GOA-DEL,FlyIndia,Economy,1.36,Holiday,147,95.93,8301.21,10413.33
+GOA-DEL,IndiSky,Economy,1.33,Peak,37,128.4,9708.68,17973.58
+CHN-KOL,SkyJet,Premium Economy,1.2,Holiday,14,89.67,6915.21,16401.25
+GOA-DEL,FlyIndia,Business,0.63,Regular,70,120.2,5867.28,10910.29
+DEL-MUM,BharatAir,Business,1.19,Holiday,63,87.47,2784.52,18640.09
+HYD-BOM,AirVista,Economy,0.94,Peak,27,87.64,8627.65,9119.47
+HYD-BOM,SkyJet,Economy,1.22,Peak,133,107.16,8992.03,8066.42
+PUNE-BLR,BharatAir,Economy,1.49,Holiday,119,83.74,3207.81,8848.78
+CHN-KOL,AirVista,Economy,1.26,Off-Peak,29,113.55,3371.69,12688.12
+CHN-KOL,BharatAir,Economy,1.23,Regular,60,118.69,2750.71,11050.2
+HYD-BOM,BharatAir,Economy,0.82,Regular,4,122.26,8646.24,7040.77
+HYD-BOM,IndiSky,Business,1.01,Off-Peak,26,92.61,3604.58,14674.8
+DEL-MUM,BharatAir,Economy,1.08,Holiday,109,119.29,6604.39,8079.45
+BLR-DEL,AirVista,Economy,1.17,Off-Peak,22,129.96,7617.73,11559.42
+PUNE-BLR,BharatAir,Premium Economy,0.67,Holiday,31,126.25,8347.47,7826.84
+PUNE-BLR,IndiSky,Business,1.04,Off-Peak,40,127.02,3555.85,14978.17
+GOA-DEL,SkyJet,Economy,1.14,Off-Peak,96,125.56,4897.5,9874.26
+DEL-MUM,SkyJet,Economy,0.78,Off-Peak,40,86.14,11710.95,6144.62
+PUNE-BLR,AirVista,Economy,0.62,Off-Peak,54,83.63,11699.11,4235.31
+BLR-DEL,AirVista,Economy,1.39,Holiday,37,84.05,5019.37,15288.68
+GOA-DEL,IndiSky,Economy,1.48,Regular,23,116.62,10770.03,15501.02
+BLR-DEL,SkyJet,Business,0.86,Holiday,37,87.42,9203.78,16692.09
+HYD-BOM,IndiSky,Economy,0.9,Holiday,12,81.81,2737.14,7588.52
+GOA-DEL,AirVista,Economy,1.06,Peak,115,110.3,11728.75,11060.82
+HYD-BOM,FlyIndia,Economy,1.44,Off-Peak,174,88.5,10495.31,6025.45
+GOA-DEL,BharatAir,Economy,1.43,Regular,68,112.1,6557.13,13380.46
+DEL-MUM,FlyIndia,Business,0.87,Regular,13,96.79,3317.65,14759.27
+DEL-MUM,FlyIndia,Business,1.47,Holiday,102,86.35,6653.1,21981.54
+BLR-DEL,FlyIndia,Premium Economy,1.11,Regular,56,119.33,9379.6,13262.52
+DEL-MUM,AirVista,Economy,0.86,Off-Peak,68,112.95,6991.56,6379.07
+DEL-MUM,AirVista,Economy,0.68,Regular,93,110.03,3906.29,4393.15
+PUNE-BLR,AirVista,Economy,0.8,Regular,149,121.42,4266.74,4405.63
+PUNE-BLR,IndiSky,Economy,1.05,Regular,114,99.35,8764.23,6244.6
+GOA-DEL,AirVista,Economy,1.38,Off-Peak,174,81.49,10019.35,7571.58
+PUNE-BLR,IndiSky,Business,1.06,Peak,95,98.9,4537.68,14933.93
+HYD-BOM,IndiSky,Economy,1.49,Holiday,161,95.4,9276.77,8067.74
+CHN-KOL,SkyJet,Economy,0.78,Off-Peak,175,113.17,9379.59,3767.47
+HYD-BOM,SkyJet,Economy,1.39,Peak,16,102.48,7590.32,14541.96
+CHN-KOL,AirVista,Economy,1.23,Holiday,134,107.14,11921.8,8848.6
+DEL-MUM,IndiSky,Economy,1.09,Holiday,162,98.67,9199.02,5515.39
+PUNE-BLR,BharatAir,Economy,1.3,Holiday,91,126.87,6774.88,9785.66
+BLR-DEL,AirVista,Economy,0.61,Regular,101,107.0,4810.76,4647.02
+BLR-DEL,BharatAir,Economy,1.01,Regular,118,123.5,11405.87,7608.08
+HYD-BOM,IndiSky,Economy,1.16,Regular,162,124.36,7755.48,6167.98
+DEL-MUM,SkyJet,Economy,0.73,Holiday,158,104.44,6412.11,5273.16
+GOA-DEL,BharatAir,Economy,1.28,Holiday,27,92.45,3236.03,15590.25
+GOA-DEL,SkyJet,Economy,1.47,Peak,39,107.26,3307.3,17432.52
+PUNE-BLR,SkyJet,Economy,0.77,Peak,30,107.71,4772.32,7808.71
+CHN-KOL,BharatAir,Economy,0.99,Peak,64,107.01,7819.97,10722.16
+DEL-MUM,IndiSky,Premium Economy,0.88,Regular,7,118.78,4883.93,12850.46
+CHN-KOL,AirVista,Premium Economy,1.01,Peak,43,101.11,4198.99,14243.68
+CHN-KOL,IndiSky,Economy,1.47,Holiday,163,116.66,7595.54,10482.75
+PUNE-BLR,BharatAir,Economy,1.45,Peak,178,100.29,6509.19,7977.89
+BLR-DEL,SkyJet,Economy,1.28,Peak,128,85.55,11836.11,10578.58
+BLR-DEL,SkyJet,Economy,1.03,Regular,134,126.91,6399.26,6955.22
+GOA-DEL,IndiSky,Business,0.6,Peak,119,121.1,2925.22,10465.16
+DEL-MUM,SkyJet,Economy,0.63,Holiday,24,125.76,7671.06,7083.69
+DEL-MUM,FlyIndia,Economy,0.8,Off-Peak,62,111.52,8482.24,6883.01
+DEL-MUM,IndiSky,Premium Economy,0.92,Regular,174,89.52,11460.51,5970.3
+GOA-DEL,SkyJet,Economy,1.12,Peak,102,86.08,2865.24,11256.2
+CHN-KOL,SkyJet,Economy,0.93,Regular,64,107.85,5170.58,7876.3
+HYD-BOM,IndiSky,Premium Economy,1.15,Holiday,178,122.2,11490.68,8917.26
+CHN-KOL,FlyIndia,Economy,0.64,Peak,61,92.39,8852.01,7543.43
+GOA-DEL,BharatAir,Economy,1.48,Peak,58,124.6,4967.96,17158.16
+BLR-DEL,IndiSky,Economy,1.24,Off-Peak,13,87.57,8002.23,11475.84
+GOA-DEL,IndiSky,Economy,0.62,Holiday,76,100.61,4236.47,6273.51
+BLR-DEL,BharatAir,Premium Economy,0.97,Off-Peak,59,92.93,11290.77,10893.03
+CHN-KOL,SkyJet,Economy,1.41,Peak,21,125.93,5389.84,17509.25
+DEL-MUM,BharatAir,Premium Economy,1.26,Off-Peak,78,120.33,6013.21,12807.88
+HYD-BOM,IndiSky,Economy,1.43,Regular,77,103.5,4395.94,9818.47
+CHN-KOL,IndiSky,Economy,0.89,Peak,155,111.7,11539.71,7208.26
+CHN-KOL,AirVista,Economy,0.88,Peak,135,127.0,8216.47,6823.64
+DEL-MUM,SkyJet,Economy,1.05,Off-Peak,96,128.94,4482.46,8218.79
+HYD-BOM,AirVista,Premium Economy,0.97,Holiday,32,125.93,4874.46,11664.91
+PUNE-BLR,IndiSky,Economy,0.98,Off-Peak,53,122.3,8888.96,6935.22
+PUNE-BLR,SkyJet,Economy,1.49,Off-Peak,83,115.2,8612.53,9321.73
+HYD-BOM,BharatAir,Economy,0.71,Peak,146,103.19,8749.82,6339.61
+CHN-KOL,IndiSky,Economy,0.79,Holiday,89,118.89,9124.41,7908.58
+PUNE-BLR,BharatAir,Economy,1.19,Off-Peak,138,113.68,6931.39,6706.7
+GOA-DEL,BharatAir,Premium Economy,1.5,Peak,70,124.93,8012.17,22666.79
+HYD-BOM,FlyIndia,Premium Economy,0.66,Peak,156,99.99,3124.87,5732.33
+DEL-MUM,FlyIndia,Business,1.24,Off-Peak,1,122.16,3430.64,22412.07
+CHN-KOL,SkyJet,Economy,1.23,Off-Peak,12,81.12,8023.99,11048.09
+BLR-DEL,SkyJet,Premium Economy,0.81,Holiday,99,106.9,8109.38,8567.88
+HYD-BOM,BharatAir,Business,1.0,Regular,107,89.58,9112.55,11677.19
+GOA-DEL,FlyIndia,Economy,1.44,Off-Peak,38,111.89,8350.72,14940.6
+PUNE-BLR,SkyJet,Economy,0.72,Holiday,140,103.31,8949.74,5012.31
+PUNE-BLR,AirVista,Economy,1.02,Holiday,26,86.09,4271.04,9396.2
+DEL-MUM,IndiSky,Business,1.34,Peak,30,110.79,11850.87,25000.0
+GOA-DEL,IndiSky,Economy,0.71,Regular,127,115.74,2632.1,5964.14
+CHN-KOL,IndiSky,Economy,0.99,Peak,155,103.39,5118.39,7553.43
+GOA-DEL,AirVista,Economy,1.44,Off-Peak,121,84.96,9428.42,10969.8
+CHN-KOL,AirVista,Economy,0.89,Regular,73,92.8,11812.94,6767.81
+GOA-DEL,BharatAir,Premium Economy,1.19,Regular,80,126.12,8837.69,13542.51
+CHN-KOL,AirVista,Economy,1.12,Off-Peak,118,96.19,7794.63,6617.73
+HYD-BOM,SkyJet,Business,0.77,Regular,157,110.55,2649.85,7249.88
+GOA-DEL,BharatAir,Economy,1.06,Off-Peak,95,120.21,11233.01,8245.96
+CHN-KOL,AirVista,Economy,0.87,Holiday,26,109.21,10720.8,9940.31
+HYD-BOM,SkyJet,Economy,0.67,Off-Peak,14,100.82,5856.52,6079.31
+HYD-BOM,AirVista,Economy,0.8,Peak,158,81.44,11910.58,4596.28
+GOA-DEL,BharatAir,Economy,1.11,Holiday,47,107.24,3237.5,13455.73
+BLR-DEL,FlyIndia,Economy,0.96,Regular,69,123.82,3521.77,9550.15
+HYD-BOM,SkyJet,Economy,0.82,Holiday,90,129.77,9164.74,6082.8
+PUNE-BLR,AirVista,Economy,1.31,Peak,3,117.99,10549.5,13619.89
+CHN-KOL,BharatAir,Premium Economy,0.75,Off-Peak,114,110.08,6276.91,6762.23
+CHN-KOL,IndiSky,Business,0.63,Regular,112,81.89,7409.01,7723.34
+PUNE-BLR,BharatAir,Business,1.11,Holiday,156,128.31,7172.92,11830.0
+PUNE-BLR,IndiSky,Economy,1.39,Holiday,43,100.63,7079.5,11672.91
+CHN-KOL,AirVista,Economy,0.98,Regular,18,126.68,7198.76,10336.55
+GOA-DEL,BharatAir,Premium Economy,0.95,Regular,169,101.14,3287.77,7861.02
+CHN-KOL,IndiSky,Economy,1.36,Regular,20,91.18,7829.12,12790.41
+DEL-MUM,AirVista,Business,0.94,Regular,46,118.24,9967.17,13732.82
+HYD-BOM,SkyJet,Premium Economy,1.35,Regular,26,117.78,4765.51,14318.56
+CHN-KOL,AirVista,Economy,0.94,Peak,61,114.24,8564.67,9903.51
+CHN-KOL,IndiSky,Premium Economy,1.0,Off-Peak,105,106.7,2848.59,9894.64
+DEL-MUM,IndiSky,Economy,1.0,Off-Peak,147,107.26,6941.61,6862.29
+DEL-MUM,SkyJet,Business,1.41,Off-Peak,108,111.44,8594.27,16918.93
+CHN-KOL,SkyJet,Economy,1.39,Off-Peak,152,118.57,4604.94,8792.99
+HYD-BOM,FlyIndia,Economy,1.38,Regular,67,103.07,7987.94,9792.3
+GOA-DEL,SkyJet,Premium Economy,0.63,Regular,41,124.31,9641.03,7721.18
+HYD-BOM,SkyJet,Economy,1.35,Holiday,101,126.04,10331.31,11145.16
+PUNE-BLR,AirVista,Economy,1.4,Off-Peak,20,84.89,8872.12,11304.54
+GOA-DEL,BharatAir,Business,1.35,Off-Peak,6,124.11,8492.6,25000.0
+CHN-KOL,FlyIndia,Economy,1.47,Regular,75,90.97,10820.89,12050.18
+GOA-DEL,BharatAir,Economy,1.42,Regular,152,85.78,10854.8,9951.1
+GOA-DEL,BharatAir,Economy,1.03,Off-Peak,26,109.05,9078.23,10384.25
+PUNE-BLR,SkyJet,Business,1.22,Regular,21,114.93,11715.17,16924.9
+CHN-KOL,AirVista,Economy,1.0,Regular,116,107.9,7840.04,7233.4
+BLR-DEL,BharatAir,Economy,1.49,Off-Peak,122,101.79,3603.95,10438.64
+PUNE-BLR,AirVista,Business,1.26,Peak,72,97.88,7793.32,19043.17
+CHN-KOL,SkyJet,Economy,0.96,Holiday,166,102.0,10066.5,6065.01
+HYD-BOM,AirVista,Economy,0.62,Off-Peak,58,126.66,11140.42,5328.17
+HYD-BOM,IndiSky,Economy,1.45,Holiday,23,113.97,11298.0,13519.41
+CHN-KOL,IndiSky,Economy,1.26,Peak,3,120.11,8927.39,16892.57
+PUNE-BLR,IndiSky,Economy,1.34,Holiday,166,127.1,10905.5,7159.21
+CHN-KOL,IndiSky,Economy,0.91,Off-Peak,63,126.01,11796.68,8578.09
+HYD-BOM,SkyJet,Premium Economy,1.11,Off-Peak,120,111.86,4556.16,8642.89
+CHN-KOL,SkyJet,Economy,0.61,Holiday,50,92.5,6057.41,5553.87
+DEL-MUM,BharatAir,Economy,1.12,Regular,14,110.91,3691.92,10539.56
+BLR-DEL,AirVista,Economy,1.17,Off-Peak,74,121.61,10108.02,10792.5
+HYD-BOM,AirVista,Business,0.69,Regular,105,122.99,5496.09,7864.26
+GOA-DEL,FlyIndia,Premium Economy,0.68,Peak,9,81.67,10541.33,11238.1
+PUNE-BLR,FlyIndia,Economy,0.89,Off-Peak,151,94.78,2893.88,4041.34
+GOA-DEL,BharatAir,Economy,1.08,Peak,131,90.07,8771.07,9771.05
+PUNE-BLR,FlyIndia,Economy,1.11,Holiday,134,129.08,10614.4,5509.74
+BLR-DEL,SkyJet,Economy,0.71,Holiday,72,95.17,2786.67,7404.3
+BLR-DEL,BharatAir,Economy,1.17,Peak,148,81.49,5297.48,9168.92
+GOA-DEL,SkyJet,Economy,1.36,Off-Peak,125,100.84,9743.29,10512.35
+BLR-DEL,FlyIndia,Premium Economy,1.12,Regular,172,121.44,10731.59,8026.76
+BLR-DEL,SkyJet,Premium Economy,0.77,Peak,59,80.53,5053.77,10624.95
+DEL-MUM,IndiSky,Economy,1.28,Regular,39,98.2,7320.03,11006.12
+BLR-DEL,BharatAir,Economy,1.38,Regular,126,85.0,6330.67,9482.35
+HYD-BOM,AirVista,Economy,1.04,Peak,30,93.31,5613.12,10604.9
+BLR-DEL,SkyJet,Economy,0.84,Regular,61,85.71,5838.99,8049.95
+HYD-BOM,IndiSky,Economy,1.44,Holiday,114,127.57,11356.66,10582.88
+HYD-BOM,BharatAir,Economy,0.65,Peak,34,121.92,6793.76,6114.3
+BLR-DEL,AirVista,Economy,0.85,Holiday,49,120.87,6199.65,8994.88
+BLR-DEL,SkyJet,Economy,0.88,Off-Peak,178,118.79,10875.9,4222.26
+HYD-BOM,SkyJet,Economy,1.39,Peak,40,117.38,11011.76,13972.35
+GOA-DEL,FlyIndia,Premium Economy,0.72,Regular,19,82.41,11074.42,9984.35
+PUNE-BLR,IndiSky,Economy,0.75,Off-Peak,145,94.0,7717.64,4295.26
+PUNE-BLR,SkyJet,Premium Economy,0.72,Off-Peak,106,92.05,3760.27,5760.26
+GOA-DEL,AirVista,Economy,1.11,Off-Peak,121,90.39,9690.78,8278.43
+DEL-MUM,SkyJet,Business,1.38,Regular,31,112.77,11335.35,21859.18
+BLR-DEL,AirVista,Premium Economy,1.4,Peak,20,81.21,3128.56,23227.87
+DEL-MUM,IndiSky,Premium Economy,0.62,Regular,113,110.51,9454.47,5555.82
+HYD-BOM,FlyIndia,Premium Economy,0.97,Holiday,131,95.75,8213.25,7610.21
+CHN-KOL,FlyIndia,Economy,1.01,Regular,154,111.26,3526.13,6227.54
+PUNE-BLR,AirVista,Economy,1.39,Peak,15,101.62,7172.25,14157.7
+PUNE-BLR,FlyIndia,Premium Economy,1.32,Peak,94,93.85,5310.74,13899.22
+CHN-KOL,AirVista,Economy,1.06,Regular,6,129.79,6495.72,10940.69
+DEL-MUM,AirVista,Business,1.13,Regular,43,129.64,6306.11,17198.86
+GOA-DEL,BharatAir,Economy,0.72,Off-Peak,134,107.92,7773.48,5148.42
+PUNE-BLR,FlyIndia,Economy,1.09,Peak,163,114.2,4168.21,6613.9
+HYD-BOM,IndiSky,Economy,0.82,Holiday,141,80.34,3566.06,5933.3
+CHN-KOL,BharatAir,Premium Economy,0.79,Peak,107,122.98,3365.36,10230.45
+DEL-MUM,BharatAir,Premium Economy,0.85,Off-Peak,111,98.72,6488.97,7372.35
+BLR-DEL,IndiSky,Economy,0.67,Regular,41,97.26,9498.44,6154.89
+HYD-BOM,BharatAir,Economy,0.83,Regular,79,127.58,11881.7,5889.66
+HYD-BOM,AirVista,Economy,0.77,Off-Peak,68,80.15,9587.76,5191.24
+HYD-BOM,IndiSky,Premium Economy,1.01,Holiday,134,119.96,10766.95,9283.69
+HYD-BOM,SkyJet,Economy,0.7,Holiday,38,125.6,6704.84,7280.49
+HYD-BOM,IndiSky,Premium Economy,0.73,Off-Peak,23,86.33,4109.61,8027.88
+CHN-KOL,SkyJet,Economy,1.23,Regular,117,128.12,5187.97,8332.94
+BLR-DEL,BharatAir,Premium Economy,0.61,Regular,11,104.34,4068.77,7636.73
+BLR-DEL,BharatAir,Economy,1.08,Regular,66,129.75,9310.89,9115.18
+PUNE-BLR,BharatAir,Economy,1.16,Peak,157,93.71,10399.41,7881.87
+BLR-DEL,IndiSky,Economy,1.03,Peak,167,121.08,5382.01,8147.4
+DEL-MUM,IndiSky,Premium Economy,0.92,Off-Peak,56,118.69,7730.51,9941.75
+HYD-BOM,SkyJet,Premium Economy,1.03,Regular,173,109.93,8142.31,6416.22
+GOA-DEL,FlyIndia,Premium Economy,0.83,Peak,56,96.64,9164.73,13082.47
+GOA-DEL,IndiSky,Premium Economy,0.83,Peak,38,101.32,7605.94,13385.56
+BLR-DEL,SkyJet,Economy,1.36,Peak,9,92.58,8974.17,17238.37
+BLR-DEL,FlyIndia,Economy,1.09,Regular,61,124.33,10167.88,9530.49
+PUNE-BLR,BharatAir,Economy,1.44,Peak,151,125.99,6806.56,9304.92
+BLR-DEL,AirVista,Economy,1.27,Holiday,6,89.96,2860.92,15064.72
+GOA-DEL,IndiSky,Economy,1.3,Off-Peak,87,126.08,5103.33,10990.96
+CHN-KOL,AirVista,Premium Economy,1.19,Peak,104,86.16,5056.57,13693.2
+GOA-DEL,FlyIndia,Business,1.17,Regular,125,98.55,6319.85,15856.48
+HYD-BOM,SkyJet,Economy,0.83,Holiday,104,103.97,10955.1,5767.66
+DEL-MUM,SkyJet,Premium Economy,0.86,Peak,11,110.04,4457.86,12372.16
+BLR-DEL,SkyJet,Economy,1.31,Peak,145,95.31,11779.6,10207.95
+BLR-DEL,FlyIndia,Economy,0.79,Off-Peak,177,102.37,9323.2,4070.51
+GOA-DEL,BharatAir,Economy,0.73,Off-Peak,43,106.19,3127.7,6874.2
+CHN-KOL,IndiSky,Premium Economy,1.42,Peak,86,111.74,3265.18,18101.36
+PUNE-BLR,SkyJet,Economy,1.41,Holiday,38,80.36,10488.34,10668.26
+BLR-DEL,IndiSky,Business,1.37,Regular,173,82.38,2974.57,14837.7
+CHN-KOL,FlyIndia,Economy,1.16,Holiday,78,85.72,9726.35,9717.2
+PUNE-BLR,FlyIndia,Business,0.86,Off-Peak,9,100.14,11052.12,12561.53
+DEL-MUM,SkyJet,Premium Economy,1.25,Holiday,83,94.45,6646.43,13394.36
+PUNE-BLR,BharatAir,Economy,1.37,Off-Peak,5,122.64,6558.09,12011.22
+BLR-DEL,SkyJet,Economy,0.65,Peak,53,127.51,11817.27,6794.44
+GOA-DEL,SkyJet,Economy,0.73,Peak,37,108.56,6478.04,9829.16
+BLR-DEL,BharatAir,Economy,1.13,Peak,61,107.01,8074.69,12317.69
+HYD-BOM,IndiSky,Premium Economy,1.34,Regular,119,94.96,8675.1,10758.58
+HYD-BOM,IndiSky,Economy,0.88,Off-Peak,8,120.68,10476.5,6609.1
+DEL-MUM,FlyIndia,Premium Economy,0.98,Peak,112,83.93,3247.38,9487.54
+DEL-MUM,AirVista,Economy,1.23,Peak,32,111.27,8508.09,13448.29
+BLR-DEL,BharatAir,Premium Economy,1.1,Off-Peak,119,122.93,5251.94,9860.63
+BLR-DEL,IndiSky,Economy,1.46,Regular,162,100.02,5369.11,8797.41
+DEL-MUM,AirVista,Economy,0.74,Peak,31,82.72,10207.31,8028.38
+GOA-DEL,AirVista,Premium Economy,0.98,Holiday,48,127.86,10697.48,15113.59
+HYD-BOM,SkyJet,Premium Economy,1.13,Regular,165,125.5,6312.42,7334.24
+BLR-DEL,FlyIndia,Economy,1.03,Regular,44,111.12,4238.94,9320.18
+PUNE-BLR,AirVista,Economy,1.5,Off-Peak,98,117.58,7239.29,8846.75
+BLR-DEL,FlyIndia,Economy,1.13,Holiday,31,121.96,5140.41,11918.46
+DEL-MUM,AirVista,Economy,0.75,Regular,57,121.48,6202.51,5868.45
+PUNE-BLR,IndiSky,Economy,0.97,Holiday,166,106.43,6224.17,5360.48
+BLR-DEL,IndiSky,Economy,0.71,Off-Peak,1,95.7,7347.48,7381.38
+BLR-DEL,SkyJet,Business,1.45,Holiday,125,88.5,2649.78,21325.98
+CHN-KOL,IndiSky,Premium Economy,1.12,Peak,9,123.03,8178.46,18402.89
+HYD-BOM,IndiSky,Economy,1.28,Peak,115,107.85,2751.87,10208.79
+DEL-MUM,AirVista,Economy,1.24,Regular,92,109.22,10451.41,8905.96
+PUNE-BLR,FlyIndia,Economy,0.64,Regular,21,107.72,11993.34,4486.65
+DEL-MUM,FlyIndia,Premium Economy,1.09,Peak,119,118.33,3643.34,11822.0
+HYD-BOM,AirVista,Premium Economy,1.06,Holiday,41,116.67,8330.75,12226.62
+DEL-MUM,BharatAir,Economy,1.35,Peak,57,127.65,9442.16,14492.24
+CHN-KOL,SkyJet,Premium Economy,0.61,Peak,31,107.89,3524.04,8329.04
+GOA-DEL,FlyIndia,Economy,1.03,Regular,27,92.0,8896.63,10459.41
+DEL-MUM,BharatAir,Economy,0.64,Regular,70,95.1,4442.59,4954.64
+DEL-MUM,FlyIndia,Economy,1.15,Peak,7,107.36,4140.19,13207.1
+DEL-MUM,SkyJet,Business,1.24,Off-Peak,63,126.07,6449.99,17986.27
+HYD-BOM,SkyJet,Premium Economy,0.98,Regular,174,108.92,10513.22,5960.73
+BLR-DEL,AirVista,Economy,0.73,Regular,108,98.33,7668.52,4770.32
+DEL-MUM,FlyIndia,Business,1.05,Holiday,64,118.35,9777.45,18113.16
+DEL-MUM,AirVista,Premium Economy,0.94,Regular,130,84.98,9476.51,7079.38
+GOA-DEL,AirVista,Economy,0.83,Peak,139,89.2,11865.48,6710.58
+DEL-MUM,IndiSky,Business,0.83,Off-Peak,56,129.39,6465.79,11259.27
+GOA-DEL,SkyJet,Economy,0.99,Regular,25,105.66,6826.43,9334.81
+PUNE-BLR,FlyIndia,Economy,0.9,Regular,128,81.05,9409.48,4798.49
+PUNE-BLR,FlyIndia,Premium Economy,1.01,Peak,131,123.7,8901.71,9090.01
+BLR-DEL,AirVista,Economy,1.23,Off-Peak,146,91.46,3833.09,8240.5
+HYD-BOM,IndiSky,Economy,1.24,Off-Peak,86,98.68,8533.74,9033.22
+PUNE-BLR,SkyJet,Premium Economy,0.73,Holiday,55,110.07,10721.07,8627.65
+GOA-DEL,BharatAir,Economy,1.41,Peak,145,93.81,11537.52,11548.75
+HYD-BOM,BharatAir,Economy,0.94,Peak,148,116.16,5271.22,5979.2
+CHN-KOL,AirVista,Economy,1.06,Off-Peak,12,97.22,8187.29,10460.45
+CHN-KOL,BharatAir,Economy,1.48,Regular,80,119.33,10852.66,11346.35
+GOA-DEL,SkyJet,Economy,0.83,Regular,33,93.81,10393.45,8483.58
+HYD-BOM,IndiSky,Economy,0.74,Holiday,26,113.94,11596.63,5589.16
+BLR-DEL,AirVista,Economy,1.37,Peak,20,84.22,7726.36,16995.24
+DEL-MUM,BharatAir,Economy,0.95,Off-Peak,170,129.52,10993.17,4938.25
+PUNE-BLR,SkyJet,Business,1.1,Peak,112,124.06,11813.44,14698.24
+DEL-MUM,AirVista,Economy,0.93,Holiday,111,84.12,5606.85,8123.62
+DEL-MUM,FlyIndia,Economy,0.97,Regular,40,124.68,10073.04,7648.77
+DEL-MUM,FlyIndia,Economy,1.35,Holiday,111,125.42,10642.95,9973.66
+PUNE-BLR,SkyJet,Economy,1.25,Regular,143,82.09,4304.83,6324.07
+PUNE-BLR,AirVista,Premium Economy,1.27,Holiday,81,88.97,10564.42,12220.22
+BLR-DEL,FlyIndia,Economy,1.35,Regular,15,116.54,8016.11,13643.73
+CHN-KOL,SkyJet,Economy,1.27,Holiday,175,102.93,4408.25,7522.79
+BLR-DEL,FlyIndia,Premium Economy,0.99,Off-Peak,23,123.34,10146.62,12932.06
+BLR-DEL,FlyIndia,Economy,0.82,Off-Peak,75,127.36,4416.38,6448.74
+DEL-MUM,SkyJet,Economy,1.31,Peak,169,128.2,4056.73,8889.68
+GOA-DEL,IndiSky,Economy,1.34,Peak,168,110.26,6186.78,10739.42
+BLR-DEL,FlyIndia,Economy,0.7,Off-Peak,49,89.73,6844.08,7154.54
+CHN-KOL,SkyJet,Economy,0.64,Regular,94,109.05,9283.24,4855.2
+PUNE-BLR,IndiSky,Economy,0.67,Holiday,31,86.66,8576.55,5678.17
+BLR-DEL,IndiSky,Premium Economy,0.95,Regular,53,89.37,7985.89,10645.73
+CHN-KOL,AirVista,Economy,1.22,Holiday,97,93.55,6604.82,11349.26
+BLR-DEL,BharatAir,Premium Economy,1.29,Off-Peak,88,109.65,3517.88,13682.65
+BLR-DEL,SkyJet,Economy,0.93,Holiday,176,112.21,3623.7,6089.41
+HYD-BOM,IndiSky,Economy,1.11,Peak,51,127.37,10751.37,10442.15
+CHN-KOL,FlyIndia,Economy,1.44,Regular,62,108.68,9209.87,11609.45
+BLR-DEL,IndiSky,Economy,1.27,Regular,135,104.13,3704.51,8526.7
+HYD-BOM,SkyJet,Economy,1.33,Peak,101,94.36,6377.15,9837.11
+DEL-MUM,BharatAir,Economy,0.86,Off-Peak,17,106.04,2592.05,7971.47
+DEL-MUM,IndiSky,Economy,1.39,Peak,60,87.42,3172.68,13728.95
+CHN-KOL,SkyJet,Economy,0.71,Off-Peak,116,89.07,4983.23,5172.29
+CHN-KOL,BharatAir,Economy,0.99,Off-Peak,97,116.81,8947.22,8357.19
+DEL-MUM,FlyIndia,Economy,1.06,Off-Peak,39,115.08,7187.5,8724.17
+PUNE-BLR,FlyIndia,Economy,0.64,Peak,149,87.02,4280.87,3964.62
+GOA-DEL,IndiSky,Economy,0.98,Off-Peak,37,118.99,4349.29,9972.6
+HYD-BOM,AirVista,Economy,0.88,Regular,55,117.25,9237.26,5697.52
+DEL-MUM,IndiSky,Economy,1.17,Off-Peak,51,86.05,10800.34,8707.26
+DEL-MUM,SkyJet,Business,1.35,Peak,167,86.87,7534.75,15553.36
+CHN-KOL,IndiSky,Economy,0.77,Peak,42,90.58,6924.57,8737.7
+DEL-MUM,IndiSky,Economy,1.14,Off-Peak,101,96.12,10512.35,7358.83
+GOA-DEL,SkyJet,Economy,0.85,Holiday,39,94.94,5421.24,9888.81
+BLR-DEL,FlyIndia,Premium Economy,1.34,Peak,96,100.6,7045.87,17787.63
+GOA-DEL,BharatAir,Economy,1.46,Regular,73,85.27,9812.09,11780.07
+DEL-MUM,SkyJet,Economy,1.24,Peak,109,112.51,7056.01,10919.75
+CHN-KOL,AirVista,Economy,0.88,Off-Peak,27,96.44,8373.85,8605.85
+CHN-KOL,IndiSky,Economy,1.12,Off-Peak,95,105.57,4052.2,9341.82
+PUNE-BLR,AirVista,Premium Economy,1.25,Holiday,17,111.22,11789.09,15874.7
+PUNE-BLR,BharatAir,Economy,1.36,Off-Peak,54,86.03,2595.44,10106.45
+DEL-MUM,IndiSky,Economy,1.08,Off-Peak,105,117.53,4585.01,8356.61
+HYD-BOM,BharatAir,Economy,1.11,Peak,174,112.59,4125.4,6773.32
+BLR-DEL,AirVista,Economy,1.22,Off-Peak,142,97.92,6084.66,8166.89
+DEL-MUM,AirVista,Economy,1.14,Peak,77,122.54,2511.16,11003.33
+PUNE-BLR,IndiSky,Economy,1.3,Holiday,143,100.06,6065.78,8679.81
+HYD-BOM,IndiSky,Economy,1.23,Peak,78,119.04,2605.8,11130.31
+DEL-MUM,FlyIndia,Premium Economy,1.38,Regular,174,120.58,5888.41,9458.22
+PUNE-BLR,IndiSky,Premium Economy,1.32,Regular,151,105.3,3678.03,9092.43
+PUNE-BLR,AirVista,Economy,0.73,Holiday,145,103.16,9701.45,5604.61
+DEL-MUM,SkyJet,Premium Economy,1.06,Off-Peak,157,118.72,8485.43,7503.15
+HYD-BOM,SkyJet,Premium Economy,0.79,Regular,6,108.74,9176.5,8893.03
+CHN-KOL,BharatAir,Premium Economy,1.2,Off-Peak,117,112.18,2537.08,11432.39
+PUNE-BLR,SkyJet,Premium Economy,0.75,Holiday,144,89.0,6004.66,5205.56
+CHN-KOL,AirVista,Business,1.14,Peak,58,104.9,3706.16,22285.81
+DEL-MUM,SkyJet,Premium Economy,0.71,Regular,137,84.33,10147.46,5060.83
+BLR-DEL,BharatAir,Economy,0.61,Peak,65,112.75,7068.82,6884.57
+PUNE-BLR,IndiSky,Economy,1.11,Regular,101,108.12,8688.86,7135.35
+CHN-KOL,FlyIndia,Economy,1.05,Holiday,102,88.96,7655.7,8894.86
+DEL-MUM,IndiSky,Economy,1.35,Holiday,5,106.07,7003.55,14621.24
+DEL-MUM,AirVista,Economy,1.19,Regular,3,91.01,4243.74,10931.99
+BLR-DEL,AirVista,Economy,1.17,Holiday,75,121.26,9339.6,11007.66
+HYD-BOM,BharatAir,Business,1.21,Peak,110,84.96,10314.45,16720.15
+BLR-DEL,SkyJet,Business,1.33,Off-Peak,50,98.33,4528.98,22572.45
+PUNE-BLR,BharatAir,Economy,0.78,Holiday,112,109.16,4176.14,5439.8
+PUNE-BLR,IndiSky,Economy,0.91,Peak,155,83.14,7576.48,5718.62
+PUNE-BLR,AirVista,Economy,0.69,Off-Peak,134,87.58,11525.83,4171.52
+PUNE-BLR,BharatAir,Economy,1.23,Off-Peak,136,84.27,9651.7,6801.98
+GOA-DEL,FlyIndia,Premium Economy,1.35,Off-Peak,31,125.12,9085.58,17952.7
+GOA-DEL,AirVista,Business,1.14,Holiday,142,120.72,5782.06,17245.29
+BLR-DEL,FlyIndia,Economy,1.2,Peak,157,117.58,7814.69,9070.25
+BLR-DEL,FlyIndia,Economy,1.28,Off-Peak,161,83.3,5035.47,7530.46
+PUNE-BLR,BharatAir,Economy,0.63,Peak,27,110.59,6004.12,6577.95
+DEL-MUM,IndiSky,Economy,1.39,Holiday,117,90.27,10103.24,10038.26
+HYD-BOM,SkyJet,Economy,0.8,Peak,146,112.71,10589.87,5934.28
+GOA-DEL,FlyIndia,Economy,0.77,Peak,61,94.42,4906.15,8425.46
+HYD-BOM,AirVista,Economy,1.38,Off-Peak,3,101.57,7401.45,11495.62
+PUNE-BLR,IndiSky,Economy,0.83,Off-Peak,121,112.72,8094.46,4919.99
+BLR-DEL,AirVista,Business,1.49,Peak,134,117.8,9383.97,22513.43
+GOA-DEL,SkyJet,Premium Economy,1.23,Peak,148,90.44,6883.49,12740.25
+PUNE-BLR,SkyJet,Premium Economy,1.29,Regular,39,100.2,3475.06,12942.44
+DEL-MUM,FlyIndia,Premium Economy,1.2,Off-Peak,178,109.93,9223.5,8873.24
+BLR-DEL,SkyJet,Economy,0.99,Holiday,103,105.17,7830.56,8530.26
+DEL-MUM,AirVista,Economy,1.47,Holiday,84,97.75,7282.69,12498.46
+CHN-KOL,SkyJet,Economy,0.98,Holiday,172,128.11,10175.61,6855.67
+BLR-DEL,IndiSky,Economy,1.41,Off-Peak,16,113.41,2879.67,15131.56
+DEL-MUM,BharatAir,Economy,0.96,Regular,111,107.73,3754.8,6721.0
+GOA-DEL,IndiSky,Economy,1.24,Regular,123,96.77,9973.78,9736.34
+GOA-DEL,FlyIndia,Business,1.13,Regular,170,115.56,6640.38,12462.13
+PUNE-BLR,IndiSky,Economy,0.93,Regular,40,101.82,8118.03,7069.07
+GOA-DEL,IndiSky,Economy,0.99,Peak,38,81.8,5568.17,12726.91
+HYD-BOM,SkyJet,Premium Economy,0.77,Regular,109,81.38,4934.9,7228.01
+HYD-BOM,AirVista,Premium Economy,0.98,Holiday,50,107.89,6893.3,11368.8
+PUNE-BLR,SkyJet,Economy,1.13,Regular,4,108.58,9372.39,9338.21
+CHN-KOL,IndiSky,Economy,0.72,Off-Peak,170,118.52,10227.82,3828.11
+PUNE-BLR,FlyIndia,Premium Economy,0.95,Regular,34,99.92,7383.01,9271.03
+PUNE-BLR,AirVista,Business,0.72,Regular,3,119.52,11751.91,11319.99
+DEL-MUM,SkyJet,Economy,1.07,Holiday,97,125.42,5589.56,9429.93
+GOA-DEL,BharatAir,Economy,1.18,Peak,93,89.65,9991.71,12129.61
+GOA-DEL,IndiSky,Premium Economy,1.41,Peak,78,108.87,9064.73,20730.19
+GOA-DEL,IndiSky,Economy,0.9,Regular,128,112.91,3908.54,6603.53
+CHN-KOL,FlyIndia,Economy,1.14,Off-Peak,26,107.36,5991.82,10929.88
+HYD-BOM,SkyJet,Business,0.69,Off-Peak,140,116.19,4874.94,6743.15
+PUNE-BLR,IndiSky,Economy,1.14,Off-Peak,98,88.25,8180.86,6514.94
+PUNE-BLR,IndiSky,Economy,0.94,Holiday,173,96.47,3270.57,5044.73
+HYD-BOM,IndiSky,Economy,0.72,Holiday,60,90.7,7967.09,6409.22
+PUNE-BLR,IndiSky,Economy,1.41,Regular,68,107.75,9880.13,10203.87
+DEL-MUM,SkyJet,Economy,1.36,Peak,137,101.99,11636.87,9786.22
+PUNE-BLR,IndiSky,Economy,1.49,Off-Peak,169,107.49,11269.36,7168.46
+BLR-DEL,AirVista,Business,0.67,Regular,3,87.68,6084.52,13768.41
+GOA-DEL,IndiSky,Economy,0.78,Off-Peak,7,112.6,8528.97,8552.13
+HYD-BOM,BharatAir,Economy,1.1,Regular,10,128.17,3901.41,10432.52
+PUNE-BLR,SkyJet,Economy,1.18,Peak,140,84.84,6061.51,7699.15
+GOA-DEL,FlyIndia,Economy,1.01,Regular,55,95.85,8358.2,10288.14
+DEL-MUM,AirVista,Economy,1.39,Holiday,118,99.29,11166.55,10900.73
+PUNE-BLR,BharatAir,Economy,1.15,Peak,79,125.26,9397.29,9979.01
+PUNE-BLR,FlyIndia,Economy,0.78,Peak,45,96.26,10164.23,7262.09
+DEL-MUM,BharatAir,Economy,1.49,Peak,72,97.43,9077.22,15097.39
+PUNE-BLR,SkyJet,Economy,1.36,Peak,70,99.92,5389.67,11251.37
+PUNE-BLR,FlyIndia,Business,1.24,Peak,51,80.22,11302.69,19426.72
+HYD-BOM,BharatAir,Premium Economy,1.26,Peak,103,118.4,9862.43,13332.74
+HYD-BOM,FlyIndia,Premium Economy,0.86,Off-Peak,75,119.09,4777.98,7653.96
+DEL-MUM,FlyIndia,Economy,0.92,Regular,107,93.16,3245.28,5757.19
+HYD-BOM,BharatAir,Economy,1.47,Off-Peak,130,121.62,11612.2,8726.14
+PUNE-BLR,BharatAir,Economy,0.96,Off-Peak,75,107.34,4604.41,6826.22
+DEL-MUM,AirVista,Economy,1.4,Regular,0,95.29,4081.39,12851.77
+GOA-DEL,AirVista,Premium Economy,0.94,Peak,163,93.48,6778.59,9888.27
+GOA-DEL,FlyIndia,Premium Economy,1.48,Regular,22,115.42,5003.59,20111.6
+HYD-BOM,IndiSky,Economy,0.8,Holiday,169,108.34,10860.26,3998.88
+HYD-BOM,BharatAir,Premium Economy,1.39,Off-Peak,32,104.57,3246.43,15318.29
+PUNE-BLR,IndiSky,Economy,1.2,Off-Peak,155,86.95,4770.47,5836.22
+PUNE-BLR,FlyIndia,Economy,0.64,Holiday,4,113.2,3503.42,6161.11
+BLR-DEL,FlyIndia,Economy,0.66,Peak,77,106.96,11482.4,6928.25
+BLR-DEL,FlyIndia,Premium Economy,1.29,Regular,178,104.04,7403.06,9477.57
+PUNE-BLR,AirVista,Economy,0.8,Peak,115,124.35,4277.78,7059.58
+GOA-DEL,SkyJet,Business,0.87,Peak,158,112.7,10809.19,12940.38
+CHN-KOL,SkyJet,Business,0.91,Off-Peak,92,93.42,6109.37,12755.53
+HYD-BOM,BharatAir,Economy,1.19,Regular,61,127.89,6441.05,8516.47
+GOA-DEL,SkyJet,Economy,1.25,Off-Peak,52,111.25,5253.16,11697.57
+DEL-MUM,BharatAir,Economy,0.89,Holiday,145,119.29,3738.51,6677.17
+GOA-DEL,SkyJet,Economy,1.31,Peak,147,86.06,7253.92,10660.06
+DEL-MUM,AirVista,Economy,1.21,Peak,33,110.64,3276.44,13076.84
+CHN-KOL,SkyJet,Business,1.48,Holiday,133,112.8,3916.04,20000.94
+CHN-KOL,IndiSky,Economy,0.75,Peak,169,80.23,9015.64,5153.9
+CHN-KOL,AirVista,Economy,1.26,Holiday,175,105.48,11187.78,7936.89
+CHN-KOL,BharatAir,Business,1.4,Holiday,72,100.23,6268.34,23444.85
+PUNE-BLR,IndiSky,Economy,0.65,Off-Peak,128,113.68,3532.64,3094.08
+PUNE-BLR,BharatAir,Economy,1.4,Holiday,8,102.48,9776.45,12919.25
+BLR-DEL,AirVista,Premium Economy,1.42,Peak,125,112.57,9047.84,16147.74
+HYD-BOM,IndiSky,Economy,0.61,Regular,68,99.34,7497.24,4767.35
+BLR-DEL,AirVista,Business,0.91,Holiday,123,96.73,11976.03,12403.07
+BLR-DEL,IndiSky,Premium Economy,0.9,Regular,28,87.56,2861.88,11452.21
+BLR-DEL,IndiSky,Economy,1.22,Regular,62,98.51,8582.24,10425.75
+GOA-DEL,AirVista,Economy,1.47,Regular,60,90.07,3193.91,13877.21
+BLR-DEL,AirVista,Economy,1.04,Off-Peak,5,129.94,4620.66,10933.76
+PUNE-BLR,IndiSky,Premium Economy,0.9,Holiday,164,126.71,6704.07,5360.09
+DEL-MUM,IndiSky,Economy,1.06,Off-Peak,21,129.1,3567.5,9866.94
+HYD-BOM,IndiSky,Business,0.77,Peak,63,98.33,3741.85,13478.68
+BLR-DEL,AirVista,Economy,1.01,Regular,31,101.41,9762.66,9489.53
+GOA-DEL,FlyIndia,Economy,1.26,Peak,82,109.81,10958.09,14564.47
+PUNE-BLR,SkyJet,Economy,0.65,Off-Peak,19,119.33,5555.32,5341.52
+PUNE-BLR,AirVista,Economy,1.1,Off-Peak,157,110.8,5903.9,5619.23
+BLR-DEL,FlyIndia,Business,1.24,Holiday,156,98.26,9096.54,16671.49
+PUNE-BLR,BharatAir,Premium Economy,1.5,Peak,103,96.29,4100.86,14980.43
+GOA-DEL,AirVista,Economy,0.67,Regular,109,93.98,9845.21,4573.34
+DEL-MUM,SkyJet,Economy,1.04,Holiday,39,109.73,3425.92,10305.95
+DEL-MUM,BharatAir,Business,0.94,Regular,18,117.58,3398.68,14280.52
+HYD-BOM,BharatAir,Economy,0.83,Off-Peak,68,99.05,11472.2,6288.42
+HYD-BOM,SkyJet,Economy,1.5,Holiday,94,83.6,9436.65,10371.6
+GOA-DEL,IndiSky,Economy,1.19,Regular,1,93.48,10534.81,13370.91
+CHN-KOL,AirVista,Economy,0.63,Off-Peak,45,101.28,10393.7,5603.79
+CHN-KOL,FlyIndia,Business,1.22,Off-Peak,15,94.75,5143.52,20433.18
+HYD-BOM,BharatAir,Premium Economy,0.94,Peak,78,112.86,3804.53,10560.6
+GOA-DEL,IndiSky,Economy,1.3,Regular,174,123.79,5105.1,8339.63
+DEL-MUM,FlyIndia,Economy,1.11,Holiday,94,87.44,6370.97,9340.7
+GOA-DEL,FlyIndia,Premium Economy,1.38,Holiday,118,100.43,11946.86,15799.67
+CHN-KOL,IndiSky,Economy,1.46,Off-Peak,172,99.88,4304.93,7975.96
+CHN-KOL,AirVista,Premium Economy,0.65,Peak,76,113.44,5136.28,8142.45
+GOA-DEL,AirVista,Economy,1.21,Peak,104,88.42,4151.04,12118.33
+PUNE-BLR,AirVista,Economy,1.05,Holiday,137,82.36,4328.13,5510.63
+BLR-DEL,AirVista,Economy,1.0,Peak,121,82.39,10052.18,9838.34
+DEL-MUM,IndiSky,Economy,0.76,Holiday,179,128.29,11106.97,4364.69
+PUNE-BLR,AirVista,Economy,0.94,Peak,97,110.62,6430.39,7051.59
+BLR-DEL,BharatAir,Economy,1.05,Peak,149,114.37,7575.62,9124.11
+DEL-MUM,BharatAir,Economy,0.96,Holiday,82,121.72,10677.62,7513.84
+HYD-BOM,BharatAir,Economy,1.41,Regular,153,106.7,4004.79,8532.76
+HYD-BOM,AirVista,Economy,0.93,Off-Peak,163,97.34,3875.97,4143.42
+BLR-DEL,AirVista,Premium Economy,0.94,Regular,147,99.6,9657.92,8052.28
+GOA-DEL,AirVista,Economy,1.01,Holiday,125,108.01,11614.74,7939.73
+CHN-KOL,AirVista,Economy,0.81,Peak,96,109.16,5786.36,9098.34
+BLR-DEL,SkyJet,Business,0.61,Holiday,98,129.77,9103.86,10575.82
+GOA-DEL,AirVista,Premium Economy,0.8,Regular,59,102.64,5615.75,9310.62
+CHN-KOL,AirVista,Economy,0.8,Peak,114,89.76,9727.66,7186.58
+CHN-KOL,FlyIndia,Premium Economy,0.92,Peak,169,118.45,11078.62,8820.51
+GOA-DEL,FlyIndia,Premium Economy,1.12,Holiday,138,96.48,10690.8,10925.37
+PUNE-BLR,BharatAir,Business,0.98,Peak,13,104.59,6698.51,17733.26
+BLR-DEL,AirVista,Premium Economy,0.87,Holiday,76,105.92,8663.71,10206.01
+DEL-MUM,BharatAir,Business,1.34,Off-Peak,112,104.86,5530.84,15826.73
+CHN-KOL,FlyIndia,Economy,0.89,Holiday,74,117.78,5999.1,8191.26
+CHN-KOL,IndiSky,Premium Economy,0.79,Off-Peak,90,86.7,4153.77,7985.63
+BLR-DEL,SkyJet,Economy,1.32,Off-Peak,92,80.63,6603.81,10450.76
+HYD-BOM,IndiSky,Economy,1.15,Off-Peak,11,91.57,5988.65,10668.23
+GOA-DEL,FlyIndia,Economy,1.3,Peak,141,113.79,8549.38,11587.76
+HYD-BOM,FlyIndia,Economy,0.68,Off-Peak,71,96.65,4504.73,4891.08
+HYD-BOM,FlyIndia,Economy,1.17,Peak,127,83.73,10547.49,8677.51
+CHN-KOL,BharatAir,Premium Economy,1.02,Off-Peak,70,93.74,10592.83,11318.39
+BLR-DEL,BharatAir,Economy,1.13,Peak,110,85.89,3551.34,10254.27
+DEL-MUM,SkyJet,Economy,0.84,Regular,131,104.68,4028.68,5171.72
+BLR-DEL,IndiSky,Premium Economy,1.14,Off-Peak,103,118.04,8387.01,11831.64
+GOA-DEL,AirVista,Economy,0.91,Peak,114,109.72,7235.61,8632.09
+DEL-MUM,SkyJet,Premium Economy,0.68,Peak,73,92.71,11270.09,8255.11
+CHN-KOL,SkyJet,Economy,0.99,Regular,39,121.87,11577.39,9220.95
+PUNE-BLR,AirVista,Economy,0.64,Off-Peak,51,119.38,8053.08,4640.42
+HYD-BOM,BharatAir,Economy,0.9,Holiday,179,108.68,5168.46,4823.79
+PUNE-BLR,AirVista,Economy,0.73,Holiday,90,111.15,6094.83,5297.24
+PUNE-BLR,IndiSky,Premium Economy,0.84,Off-Peak,174,110.13,5061.58,4838.91
+BLR-DEL,SkyJet,Economy,1.1,Holiday,16,113.06,9998.19,13002.96
+PUNE-BLR,SkyJet,Economy,1.36,Peak,0,110.33,8605.2,14981.08
+HYD-BOM,IndiSky,Economy,1.0,Regular,109,99.43,9982.14,6721.19
+PUNE-BLR,FlyIndia,Economy,0.7,Off-Peak,156,114.3,3301.44,3574.07
+PUNE-BLR,IndiSky,Economy,1.13,Holiday,160,92.88,11180.44,6844.41
+GOA-DEL,FlyIndia,Economy,0.68,Off-Peak,166,97.76,9404.77,4399.21
+BLR-DEL,FlyIndia,Premium Economy,1.41,Peak,7,121.57,2824.7,23820.38
+BLR-DEL,IndiSky,Premium Economy,1.05,Regular,35,118.34,5310.56,13383.3
+PUNE-BLR,FlyIndia,Economy,0.78,Holiday,134,96.86,4809.1,4213.13
+HYD-BOM,IndiSky,Economy,0.77,Regular,88,95.48,10829.2,4709.25
+PUNE-BLR,BharatAir,Economy,0.9,Off-Peak,31,98.32,8125.06,6163.59
+BLR-DEL,SkyJet,Economy,0.71,Off-Peak,53,114.41,2728.2,6107.97
+GOA-DEL,BharatAir,Economy,1.12,Peak,49,103.35,3755.14,14026.81
+CHN-KOL,SkyJet,Economy,1.42,Peak,103,120.8,3234.76,13121.34
+HYD-BOM,IndiSky,Premium Economy,1.45,Regular,170,86.14,5060.49,9185.61
+DEL-MUM,IndiSky,Economy,1.17,Holiday,150,82.36,5110.72,7617.58
+DEL-MUM,SkyJet,Economy,1.06,Off-Peak,137,107.04,5093.02,6325.09
+DEL-MUM,SkyJet,Economy,0.94,Holiday,45,88.18,3847.88,9604.83
+BLR-DEL,FlyIndia,Economy,0.62,Holiday,108,82.84,6173.72,4985.39
+DEL-MUM,IndiSky,Economy,0.93,Off-Peak,60,129.56,11296.5,7980.55
+GOA-DEL,FlyIndia,Economy,1.42,Peak,75,104.93,7575.77,15902.41
+DEL-MUM,AirVista,Economy,1.42,Off-Peak,138,128.71,6294.7,8315.58
+CHN-KOL,SkyJet,Economy,1.47,Holiday,162,92.3,10326.09,9441.1
+GOA-DEL,AirVista,Economy,0.6,Peak,160,118.34,10169.66,5052.98
+BLR-DEL,IndiSky,Premium Economy,1.27,Regular,77,85.02,10282.97,13545.88
+HYD-BOM,AirVista,Premium Economy,1.46,Holiday,40,99.33,8923.58,16547.69
+BLR-DEL,AirVista,Premium Economy,1.18,Holiday,162,87.9,4859.98,10913.32
+PUNE-BLR,FlyIndia,Premium Economy,1.07,Off-Peak,26,120.83,4306.67,11820.0
+PUNE-BLR,BharatAir,Premium Economy,1.3,Peak,99,116.93,6302.99,13883.85
+CHN-KOL,IndiSky,Premium Economy,1.21,Off-Peak,66,99.29,7629.66,12857.79
+PUNE-BLR,FlyIndia,Economy,1.01,Off-Peak,19,113.7,5433.35,7447.9
+HYD-BOM,FlyIndia,Economy,1.34,Peak,85,98.85,7859.84,11680.11
+BLR-DEL,FlyIndia,Economy,1.0,Peak,9,108.5,11969.71,13189.18
+DEL-MUM,IndiSky,Economy,0.83,Peak,69,104.53,5721.61,7637.64
+CHN-KOL,AirVista,Economy,1.23,Peak,79,109.31,2923.84,12175.42
+GOA-DEL,IndiSky,Premium Economy,0.76,Off-Peak,144,93.61,11982.57,6361.83
+CHN-KOL,IndiSky,Economy,0.88,Regular,92,86.41,8829.97,6724.16
+CHN-KOL,IndiSky,Economy,0.74,Holiday,137,111.1,5120.76,5787.88
+PUNE-BLR,SkyJet,Economy,0.72,Holiday,137,118.96,2506.26,4555.07
+HYD-BOM,FlyIndia,Premium Economy,1.44,Off-Peak,159,128.58,4415.84,10249.41
+CHN-KOL,AirVista,Economy,1.27,Regular,24,125.22,2942.85,12166.36
+DEL-MUM,SkyJet,Economy,0.61,Holiday,140,85.37,10340.17,3184.07
+HYD-BOM,BharatAir,Business,0.96,Peak,25,99.08,5966.88,17918.32
+DEL-MUM,BharatAir,Business,1.22,Holiday,94,105.3,5300.49,17858.45
+DEL-MUM,AirVista,Economy,0.65,Off-Peak,96,103.85,10056.81,5258.61
+HYD-BOM,AirVista,Economy,1.16,Regular,14,125.69,4403.4,10462.41
+BLR-DEL,SkyJet,Economy,0.63,Peak,44,101.51,5464.16,7214.42
+DEL-MUM,IndiSky,Economy,0.69,Holiday,160,100.61,5147.36,4376.89
+GOA-DEL,IndiSky,Premium Economy,0.61,Holiday,20,96.33,3744.31,8763.77
+PUNE-BLR,AirVista,Economy,0.87,Peak,70,96.66,2837.17,6862.54
+BLR-DEL,SkyJet,Economy,1.29,Peak,113,80.64,8303.43,12396.66
+GOA-DEL,SkyJet,Economy,0.68,Peak,84,80.16,11389.83,6670.33
+CHN-KOL,FlyIndia,Premium Economy,0.71,Off-Peak,92,116.74,3366.64,6944.92
+HYD-BOM,AirVista,Economy,0.65,Regular,3,101.65,4888.7,6066.38
+DEL-MUM,BharatAir,Economy,1.17,Regular,58,119.47,9900.02,8660.74
+BLR-DEL,AirVista,Economy,0.86,Off-Peak,178,123.73,3496.65,4910.39
+DEL-MUM,FlyIndia,Economy,1.31,Off-Peak,56,108.65,10790.58,11027.43
+GOA-DEL,IndiSky,Economy,1.28,Regular,12,86.58,10213.35,13601.2
+BLR-DEL,SkyJet,Economy,0.67,Holiday,116,88.66,4224.66,6371.4
+GOA-DEL,BharatAir,Premium Economy,1.36,Regular,8,111.04,8479.45,19316.33
+HYD-BOM,SkyJet,Economy,1.33,Regular,65,126.75,11144.5,9764.89
+GOA-DEL,BharatAir,Economy,1.47,Peak,169,111.9,10035.38,11194.6
+DEL-MUM,AirVista,Economy,1.05,Holiday,171,82.04,6938.03,6410.55
+BLR-DEL,BharatAir,Economy,0.62,Holiday,60,124.21,2603.65,6195.97
+CHN-KOL,IndiSky,Economy,0.98,Holiday,168,109.24,2514.49,5931.94
+DEL-MUM,SkyJet,Economy,1.41,Regular,132,125.42,4377.11,9705.53
+CHN-KOL,SkyJet,Economy,0.79,Holiday,149,108.21,8891.32,6054.71
+PUNE-BLR,AirVista,Economy,1.23,Regular,110,109.29,4313.98,7566.32
+DEL-MUM,IndiSky,Premium Economy,0.91,Off-Peak,32,109.86,6703.65,10713.35
+CHN-KOL,BharatAir,Business,1.04,Peak,78,110.3,5931.42,18644.7
+DEL-MUM,AirVista,Economy,1.27,Regular,68,128.16,5905.82,10944.31
+CHN-KOL,SkyJet,Economy,0.89,Holiday,103,86.65,7055.15,6815.37
+HYD-BOM,IndiSky,Economy,0.8,Off-Peak,166,126.88,11787.0,4710.37
+CHN-KOL,IndiSky,Business,1.45,Regular,167,107.45,11260.85,15337.66
+DEL-MUM,AirVista,Economy,0.72,Regular,122,114.36,10986.2,4864.7
+PUNE-BLR,SkyJet,Business,0.96,Off-Peak,16,84.0,9247.13,14316.47
+CHN-KOL,BharatAir,Economy,1.16,Off-Peak,124,123.35,6796.17,7947.22
+GOA-DEL,AirVista,Economy,1.2,Regular,75,107.19,4631.98,11122.7
+GOA-DEL,FlyIndia,Economy,1.15,Off-Peak,21,129.37,7013.93,12340.12
+CHN-KOL,SkyJet,Premium Economy,1.07,Peak,68,123.75,4408.14,15031.05
+GOA-DEL,BharatAir,Economy,1.17,Holiday,147,117.54,7283.15,9245.15
+HYD-BOM,AirVista,Economy,1.2,Holiday,80,94.59,4919.26,9508.15
+GOA-DEL,FlyIndia,Economy,0.87,Peak,58,111.52,9878.6,8964.43
+CHN-KOL,AirVista,Economy,1.09,Regular,101,100.1,9845.81,9684.19
+BLR-DEL,AirVista,Premium Economy,1.25,Off-Peak,13,85.56,9793.54,15746.58
+CHN-KOL,IndiSky,Economy,0.82,Regular,97,81.49,11293.97,5926.44
+PUNE-BLR,BharatAir,Economy,1.48,Holiday,19,87.06,9640.32,13154.26
+GOA-DEL,FlyIndia,Economy,1.13,Peak,3,103.53,9855.16,15934.3
+BLR-DEL,SkyJet,Premium Economy,0.75,Off-Peak,46,95.26,9757.61,7881.03
+HYD-BOM,AirVista,Economy,0.71,Holiday,169,93.1,7840.06,4251.49
+GOA-DEL,FlyIndia,Economy,0.63,Holiday,124,101.67,6788.42,5687.29
+CHN-KOL,BharatAir,Premium Economy,0.63,Off-Peak,78,113.81,4664.35,6966.6
+GOA-DEL,FlyIndia,Economy,0.64,Peak,9,117.75,7973.14,10087.85
+HYD-BOM,FlyIndia,Economy,1.25,Holiday,90,86.35,8413.29,9831.71
+CHN-KOL,FlyIndia,Economy,1.11,Holiday,166,95.42,6411.5,7170.89
+CHN-KOL,IndiSky,Economy,1.42,Off-Peak,142,86.68,3574.81,7900.3
+PUNE-BLR,BharatAir,Economy,1.41,Regular,37,108.81,9141.03,9991.83
+GOA-DEL,AirVista,Economy,0.88,Off-Peak,120,111.42,2924.14,6455.08
+GOA-DEL,SkyJet,Economy,0.99,Peak,117,100.28,10854.87,8316.08
+GOA-DEL,SkyJet,Premium Economy,0.97,Peak,168,117.99,5079.51,9596.28
+GOA-DEL,FlyIndia,Premium Economy,0.91,Peak,176,121.58,10076.74,8927.1
+CHN-KOL,IndiSky,Business,0.63,Holiday,29,126.37,3723.32,12992.52
+DEL-MUM,AirVista,Economy,1.31,Off-Peak,58,120.25,5747.38,10197.56
+GOA-DEL,SkyJet,Economy,1.48,Off-Peak,17,109.79,7060.16,15953.01
+HYD-BOM,AirVista,Business,1.22,Off-Peak,2,128.48,11638.88,19415.24
+DEL-MUM,IndiSky,Premium Economy,0.88,Regular,68,116.77,7535.1,8637.29
+BLR-DEL,AirVista,Economy,1.19,Holiday,128,112.04,7135.29,9785.13
+CHN-KOL,FlyIndia,Business,0.73,Peak,121,118.3,5464.65,10946.05
+DEL-MUM,IndiSky,Economy,1.49,Peak,119,119.83,7175.87,11749.39
+GOA-DEL,SkyJet,Economy,1.05,Holiday,81,86.5,10624.61,9680.95
+GOA-DEL,SkyJet,Economy,0.62,Holiday,61,84.45,6968.68,6138.4
+PUNE-BLR,BharatAir,Premium Economy,1.03,Peak,11,102.03,4988.91,13230.13
+GOA-DEL,SkyJet,Economy,0.98,Holiday,6,128.26,4866.25,12242.78
+CHN-KOL,AirVista,Economy,1.25,Off-Peak,126,106.73,3238.28,9766.79
+CHN-KOL,IndiSky,Economy,1.1,Peak,167,127.98,7914.46,8016.15
+DEL-MUM,BharatAir,Economy,1.09,Off-Peak,117,118.02,8926.93,7021.28
+CHN-KOL,IndiSky,Economy,1.22,Peak,124,88.24,10920.58,10209.34
+HYD-BOM,BharatAir,Economy,0.85,Peak,27,99.77,3345.11,8511.32
+GOA-DEL,IndiSky,Economy,0.6,Off-Peak,157,99.29,4937.7,3477.84
+GOA-DEL,IndiSky,Economy,0.97,Peak,3,120.97,2676.38,13257.89
+PUNE-BLR,AirVista,Economy,1.23,Regular,162,102.96,6061.08,6214.03
+HYD-BOM,FlyIndia,Economy,1.48,Peak,80,81.13,2590.79,11938.99
+GOA-DEL,BharatAir,Business,1.24,Regular,49,122.49,5390.21,22480.34
+BLR-DEL,AirVista,Economy,1.18,Off-Peak,30,99.93,11765.45,10893.28
+DEL-MUM,SkyJet,Economy,1.07,Holiday,122,104.12,8578.12,8837.06
+BLR-DEL,SkyJet,Premium Economy,0.64,Regular,135,93.42,11550.98,5618.64
+PUNE-BLR,SkyJet,Business,1.08,Peak,112,91.47,3280.15,14417.78
+BLR-DEL,AirVista,Business,1.44,Regular,77,126.06,7604.19,21846.97
+CHN-KOL,BharatAir,Economy,0.96,Regular,51,110.73,11396.24,8721.94
+CHN-KOL,BharatAir,Business,1.04,Off-Peak,169,101.17,4035.88,10213.01
+CHN-KOL,SkyJet,Economy,0.62,Off-Peak,59,85.06,5183.21,5068.86
+HYD-BOM,BharatAir,Economy,0.96,Peak,17,107.07,9989.24,9690.24
+HYD-BOM,FlyIndia,Economy,0.69,Off-Peak,51,104.3,7089.69,5364.2
+GOA-DEL,IndiSky,Economy,0.98,Regular,160,95.29,8167.23,7115.64
+BLR-DEL,SkyJet,Economy,1.41,Regular,135,84.18,5705.16,9044.28
+DEL-MUM,FlyIndia,Economy,0.84,Peak,84,114.57,9841.92,8315.09
+PUNE-BLR,SkyJet,Economy,1.05,Peak,113,126.68,6350.56,7688.93
+CHN-KOL,FlyIndia,Economy,1.46,Holiday,51,88.5,9688.53,14462.74
+BLR-DEL,FlyIndia,Premium Economy,1.28,Regular,54,83.29,10606.17,14088.0
+GOA-DEL,AirVista,Premium Economy,1.45,Peak,7,123.01,9610.55,25000.0
+DEL-MUM,AirVista,Economy,1.35,Holiday,77,95.3,6295.48,11425.02
+CHN-KOL,BharatAir,Business,0.96,Peak,77,116.04,9016.54,18007.37
+CHN-KOL,BharatAir,Economy,1.39,Off-Peak,117,92.54,7035.99,9303.21
+BLR-DEL,SkyJet,Economy,0.82,Holiday,60,115.16,8877.87,8141.88
+DEL-MUM,FlyIndia,Economy,0.97,Off-Peak,175,121.6,3116.47,4923.29
+DEL-MUM,BharatAir,Economy,0.71,Off-Peak,169,113.12,3607.25,4764.85
+DEL-MUM,AirVista,Economy,0.61,Off-Peak,123,120.96,10258.39,3612.53
+PUNE-BLR,SkyJet,Premium Economy,0.96,Regular,124,99.44,9890.21,6149.34
+GOA-DEL,AirVista,Economy,0.95,Off-Peak,151,116.18,4839.2,6112.39
+DEL-MUM,IndiSky,Premium Economy,1.23,Regular,42,86.45,6034.88,13103.85
+PUNE-BLR,BharatAir,Economy,0.87,Peak,171,112.58,8589.29,5174.69
+PUNE-BLR,IndiSky,Economy,1.25,Holiday,89,115.24,2707.31,10305.57
+BLR-DEL,SkyJet,Premium Economy,1.5,Regular,156,110.67,8118.54,11877.99
+GOA-DEL,BharatAir,Economy,0.98,Holiday,150,110.99,11428.71,7196.61
+GOA-DEL,AirVista,Premium Economy,0.61,Peak,107,117.35,6010.66,8876.84
+HYD-BOM,AirVista,Economy,0.66,Regular,30,99.87,6288.77,5047.31
+DEL-MUM,BharatAir,Premium Economy,0.96,Holiday,94,129.31,5908.09,10133.97
+HYD-BOM,BharatAir,Premium Economy,0.66,Holiday,107,124.37,5306.19,6421.67
+CHN-KOL,SkyJet,Economy,0.84,Off-Peak,171,89.15,5429.25,5370.0
+HYD-BOM,AirVista,Economy,1.31,Holiday,177,88.55,11498.21,7237.23
+HYD-BOM,AirVista,Economy,1.49,Peak,57,105.27,10610.12,13814.21
+CHN-KOL,IndiSky,Economy,1.3,Off-Peak,101,113.22,3227.67,9665.74
+HYD-BOM,FlyIndia,Economy,0.74,Off-Peak,16,82.16,4471.0,6794.63
+GOA-DEL,BharatAir,Economy,0.93,Regular,157,96.68,8063.24,5992.5
+BLR-DEL,SkyJet,Economy,1.1,Regular,58,125.24,2602.7,10326.34
+DEL-MUM,BharatAir,Economy,1.35,Off-Peak,105,128.72,9432.22,9761.55
+BLR-DEL,SkyJet,Economy,1.08,Off-Peak,19,94.29,3343.48,11350.33
+DEL-MUM,FlyIndia,Economy,1.37,Peak,144,129.22,4331.31,10005.53
+GOA-DEL,SkyJet,Economy,0.95,Holiday,95,125.35,8390.7,9255.14
+HYD-BOM,SkyJet,Premium Economy,0.75,Holiday,41,100.45,8235.21,8777.01
+GOA-DEL,AirVista,Economy,0.9,Holiday,165,101.35,7954.4,5479.95
+GOA-DEL,BharatAir,Premium Economy,1.21,Holiday,129,93.36,11817.15,13841.79
+PUNE-BLR,FlyIndia,Premium Economy,1.09,Holiday,152,97.08,8214.95,7892.97
+DEL-MUM,FlyIndia,Economy,1.08,Peak,155,120.54,6938.71,7301.57
+HYD-BOM,BharatAir,Economy,0.67,Regular,43,107.72,4375.39,5847.44
+GOA-DEL,FlyIndia,Premium Economy,1.13,Off-Peak,178,103.75,5385.96,8600.46
+CHN-KOL,FlyIndia,Premium Economy,1.46,Off-Peak,141,85.39,9363.76,12210.88
+PUNE-BLR,BharatAir,Business,1.07,Regular,87,127.48,10131.12,12698.06
+PUNE-BLR,IndiSky,Economy,1.26,Peak,47,121.14,11203.35,12382.21
+HYD-BOM,IndiSky,Economy,1.3,Regular,155,115.12,11261.72,6000.76
+DEL-MUM,FlyIndia,Economy,1.22,Holiday,79,87.63,11894.78,10165.26
+HYD-BOM,AirVista,Economy,0.65,Off-Peak,89,100.42,5430.89,4101.77
+PUNE-BLR,AirVista,Economy,1.21,Holiday,66,94.06,7426.74,10537.57
+GOA-DEL,AirVista,Economy,0.73,Holiday,121,80.7,9850.87,7543.28
+CHN-KOL,FlyIndia,Economy,1.14,Holiday,41,98.82,8072.18,11645.2
+BLR-DEL,AirVista,Premium Economy,0.92,Regular,120,108.48,5251.72,8117.21
+CHN-KOL,BharatAir,Economy,0.67,Peak,11,103.66,8443.8,8468.71
+HYD-BOM,BharatAir,Economy,1.08,Off-Peak,116,84.42,5055.6,6261.79
+DEL-MUM,SkyJet,Premium Economy,1.11,Regular,57,91.19,10566.1,12510.11
+HYD-BOM,AirVista,Premium Economy,0.61,Peak,90,100.07,4627.17,7126.53
+HYD-BOM,FlyIndia,Economy,1.17,Off-Peak,115,106.25,8303.52,7347.26
+PUNE-BLR,FlyIndia,Premium Economy,1.27,Peak,117,84.42,5414.27,10770.29
+CHN-KOL,BharatAir,Economy,1.23,Off-Peak,115,106.21,3721.74,8835.59
+HYD-BOM,BharatAir,Economy,1.22,Off-Peak,141,91.98,3934.45,6341.6
+DEL-MUM,BharatAir,Premium Economy,0.93,Regular,141,88.63,2577.27,7732.3
+GOA-DEL,FlyIndia,Economy,1.42,Regular,60,101.88,8341.44,12950.42
+CHN-KOL,IndiSky,Economy,0.88,Regular,173,83.96,10607.6,4364.37
+DEL-MUM,AirVista,Economy,0.87,Regular,165,114.22,8887.09,5418.47
+HYD-BOM,SkyJet,Economy,0.65,Holiday,39,118.81,3243.22,5637.09
+CHN-KOL,IndiSky,Economy,1.26,Off-Peak,110,103.48,7996.34,9719.73
+CHN-KOL,AirVista,Premium Economy,1.49,Peak,148,103.77,10980.22,15300.89
+PUNE-BLR,IndiSky,Premium Economy,0.96,Regular,129,125.01,8147.64,7436.03
+GOA-DEL,SkyJet,Premium Economy,0.87,Peak,148,103.92,9343.93,9264.77
+DEL-MUM,IndiSky,Business,0.88,Holiday,86,99.46,3374.37,12771.14
+GOA-DEL,IndiSky,Premium Economy,1.02,Peak,137,84.64,6719.08,11455.96
+GOA-DEL,IndiSky,Economy,0.68,Peak,50,123.71,3718.16,7999.76
+DEL-MUM,AirVista,Premium Economy,1.15,Off-Peak,145,96.43,6366.71,8372.29
+BLR-DEL,IndiSky,Economy,1.07,Holiday,164,116.86,11061.48,7784.85
+BLR-DEL,SkyJet,Premium Economy,1.38,Holiday,3,96.54,11273.96,20902.03
+PUNE-BLR,BharatAir,Economy,1.04,Peak,155,114.26,7045.34,7164.12
+DEL-MUM,BharatAir,Economy,1.24,Holiday,92,125.58,4163.38,10112.22
+CHN-KOL,BharatAir,Economy,0.64,Peak,163,111.11,8793.11,4582.94
+PUNE-BLR,FlyIndia,Economy,1.18,Holiday,175,98.64,6101.35,6165.09
+DEL-MUM,IndiSky,Economy,1.13,Regular,123,112.74,3502.04,7763.77
+GOA-DEL,IndiSky,Economy,0.67,Holiday,87,108.57,11598.58,7028.3
+CHN-KOL,FlyIndia,Economy,1.09,Peak,3,119.33,8519.27,13857.16
+CHN-KOL,IndiSky,Economy,0.75,Holiday,108,95.81,8837.4,5721.44
+PUNE-BLR,BharatAir,Premium Economy,0.72,Holiday,0,113.01,5201.07,9099.32
+CHN-KOL,AirVista,Economy,1.47,Off-Peak,154,87.93,11857.97,8239.46
+BLR-DEL,IndiSky,Premium Economy,1.14,Off-Peak,130,114.1,6805.66,10673.92
+PUNE-BLR,FlyIndia,Economy,1.34,Off-Peak,46,121.49,2825.8,10857.3
+CHN-KOL,BharatAir,Economy,0.61,Peak,83,89.38,8561.58,5506.54
+HYD-BOM,BharatAir,Business,1.16,Holiday,59,112.49,7448.47,18690.76
+DEL-MUM,BharatAir,Premium Economy,0.79,Holiday,107,87.82,2641.17,7366.07
+GOA-DEL,IndiSky,Business,1.34,Holiday,83,116.77,9553.14,24101.67
+PUNE-BLR,BharatAir,Premium Economy,1.12,Regular,18,107.74,8420.63,11240.04
+CHN-KOL,IndiSky,Business,1.0,Peak,50,83.6,11396.13,20545.23
+PUNE-BLR,IndiSky,Economy,1.38,Holiday,2,84.71,3234.13,12876.67
+HYD-BOM,FlyIndia,Premium Economy,0.91,Regular,43,104.5,6709.03,9451.38
+BLR-DEL,SkyJet,Economy,1.18,Peak,89,123.82,11315.05,12596.22
+PUNE-BLR,BharatAir,Premium Economy,1.49,Regular,16,112.06,8357.01,15621.77
+PUNE-BLR,BharatAir,Premium Economy,1.21,Regular,128,129.3,4257.38,8411.41
+CHN-KOL,BharatAir,Economy,0.97,Holiday,132,129.43,8591.56,7485.73
+DEL-MUM,BharatAir,Premium Economy,0.64,Holiday,1,85.66,7863.73,8099.64
+CHN-KOL,SkyJet,Economy,1.06,Holiday,107,102.58,9445.82,8871.8
+CHN-KOL,BharatAir,Economy,0.78,Regular,61,91.72,11659.89,6162.46
+GOA-DEL,IndiSky,Economy,1.2,Off-Peak,66,80.99,4481.83,10806.05
+PUNE-BLR,BharatAir,Economy,1.31,Off-Peak,92,125.8,5745.17,8960.9
+HYD-BOM,SkyJet,Economy,1.41,Holiday,105,100.32,7740.67,10081.0
+GOA-DEL,BharatAir,Premium Economy,1.43,Off-Peak,26,105.6,10392.1,18714.09
+PUNE-BLR,IndiSky,Economy,1.44,Regular,48,85.31,5809.96,9816.24
+DEL-MUM,IndiSky,Premium Economy,1.32,Regular,158,101.13,11436.8,9393.46
+PUNE-BLR,FlyIndia,Economy,1.34,Peak,2,106.03,10087.76,14380.16
+DEL-MUM,SkyJet,Premium Economy,0.97,Peak,70,114.9,9672.27,13031.23
+DEL-MUM,BharatAir,Business,1.09,Peak,133,119.93,8192.7,15094.09
+DEL-MUM,FlyIndia,Economy,1.3,Holiday,94,118.17,10464.73,10264.22
+PUNE-BLR,AirVista,Economy,1.44,Peak,81,129.28,4367.94,12119.24
+DEL-MUM,AirVista,Business,1.08,Regular,16,110.45,7956.75,17174.29
+BLR-DEL,FlyIndia,Economy,0.92,Holiday,177,99.92,9719.56,6138.98
+DEL-MUM,BharatAir,Business,0.95,Peak,96,80.8,3409.81,14099.4
+CHN-KOL,SkyJet,Economy,0.74,Off-Peak,2,107.87,6689.16,7371.86
+BLR-DEL,AirVista,Business,1.0,Off-Peak,119,127.51,5420.21,12950.54
+DEL-MUM,SkyJet,Economy,0.79,Holiday,30,89.2,3136.22,7804.37
+PUNE-BLR,IndiSky,Economy,0.74,Peak,159,89.7,4790.37,4302.15
+CHN-KOL,BharatAir,Economy,1.28,Regular,7,89.93,4803.57,12079.29
+PUNE-BLR,IndiSky,Business,1.46,Holiday,22,91.44,10622.04,24127.03
+BLR-DEL,AirVista,Economy,1.05,Peak,115,101.78,10127.73,8842.7
+DEL-MUM,SkyJet,Economy,1.13,Holiday,94,86.16,5166.82,9092.74
+DEL-MUM,SkyJet,Premium Economy,0.75,Peak,143,84.32,5803.06,6911.04
+CHN-KOL,AirVista,Economy,1.22,Peak,158,109.81,5809.73,9219.03
+DEL-MUM,AirVista,Economy,1.22,Holiday,133,121.41,10892.21,8511.78
+BLR-DEL,SkyJet,Premium Economy,1.16,Holiday,77,126.31,8509.98,15149.79
+DEL-MUM,BharatAir,Economy,1.28,Peak,170,101.29,10399.32,9075.69
+DEL-MUM,AirVista,Economy,1.41,Off-Peak,159,101.48,5043.3,8818.03
+DEL-MUM,AirVista,Economy,1.11,Holiday,126,91.1,6617.7,8517.25
+PUNE-BLR,BharatAir,Economy,1.04,Off-Peak,171,118.78,11259.74,4734.66
+PUNE-BLR,SkyJet,Economy,1.01,Regular,97,127.47,11324.92,7069.79
+PUNE-BLR,FlyIndia,Economy,0.63,Off-Peak,60,107.56,10139.61,3995.89
+BLR-DEL,IndiSky,Economy,1.13,Peak,25,109.65,7088.79,13973.64
+BLR-DEL,BharatAir,Economy,1.15,Holiday,96,97.08,4492.12,10080.77
+PUNE-BLR,SkyJet,Economy,1.12,Peak,153,94.05,5807.25,6779.98
+BLR-DEL,FlyIndia,Premium Economy,1.4,Off-Peak,125,110.1,7846.49,12656.19
+DEL-MUM,SkyJet,Economy,1.08,Regular,146,83.75,3621.25,5978.0
+CHN-KOL,AirVista,Business,1.43,Off-Peak,18,86.92,5322.23,24511.38
+DEL-MUM,FlyIndia,Economy,1.08,Holiday,112,109.21,5462.74,8756.53
+CHN-KOL,SkyJet,Economy,1.49,Holiday,96,84.03,4765.73,13323.01
+DEL-MUM,AirVista,Economy,0.82,Peak,52,85.95,8883.59,7236.05
+CHN-KOL,AirVista,Premium Economy,0.7,Peak,97,103.22,8012.31,7979.72
+DEL-MUM,AirVista,Economy,1.3,Regular,139,110.59,9838.87,8362.46
+CHN-KOL,FlyIndia,Economy,1.16,Holiday,47,126.25,8384.54,12145.69
+GOA-DEL,AirVista,Economy,0.81,Off-Peak,40,104.02,8593.5,7998.27
+CHN-KOL,SkyJet,Economy,0.64,Off-Peak,98,87.02,6633.58,4904.86
+GOA-DEL,FlyIndia,Economy,0.64,Regular,0,119.7,3168.22,7486.46
+HYD-BOM,AirVista,Premium Economy,0.87,Holiday,18,115.28,3678.95,10276.71
+HYD-BOM,BharatAir,Premium Economy,1.25,Off-Peak,164,110.62,10161.13,9089.91
+DEL-MUM,FlyIndia,Economy,1.07,Peak,127,127.69,9880.37,7512.32
+BLR-DEL,IndiSky,Economy,1.01,Peak,92,110.5,6269.37,9841.72
+PUNE-BLR,FlyIndia,Economy,0.85,Holiday,11,83.61,10465.26,8618.19
+HYD-BOM,FlyIndia,Premium Economy,1.4,Holiday,110,107.42,3208.66,12979.85
+CHN-KOL,FlyIndia,Economy,0.75,Off-Peak,133,90.18,8103.41,5019.97
+HYD-BOM,FlyIndia,Economy,0.61,Regular,115,127.31,11083.45,3942.85
+HYD-BOM,IndiSky,Economy,0.77,Off-Peak,160,109.0,10270.12,4507.31
+DEL-MUM,IndiSky,Economy,1.32,Peak,24,95.36,3778.68,14658.07
+DEL-MUM,IndiSky,Economy,1.19,Holiday,19,93.21,5959.01,11451.89
+CHN-KOL,FlyIndia,Economy,1.18,Holiday,131,105.19,5808.75,8533.67
+CHN-KOL,AirVista,Business,1.32,Regular,93,119.1,7892.37,18325.38
+PUNE-BLR,FlyIndia,Premium Economy,0.94,Off-Peak,10,90.04,7969.26,10349.34
+DEL-MUM,FlyIndia,Economy,1.47,Peak,105,82.0,6248.57,11322.93
+BLR-DEL,SkyJet,Economy,1.4,Off-Peak,33,95.82,11866.43,13275.98
+HYD-BOM,BharatAir,Economy,1.16,Regular,110,101.72,3998.21,7359.54
+BLR-DEL,BharatAir,Economy,1.01,Regular,75,87.74,5606.36,8576.32
+HYD-BOM,SkyJet,Economy,0.6,Off-Peak,156,104.62,9460.29,2500.0
+CHN-KOL,IndiSky,Economy,0.79,Regular,175,91.93,6289.87,3860.97
+CHN-KOL,FlyIndia,Economy,0.98,Holiday,77,117.92,4309.74,9000.58
+GOA-DEL,IndiSky,Business,1.4,Off-Peak,30,104.91,4649.11,25000.0
+BLR-DEL,SkyJet,Economy,0.94,Regular,138,96.3,3235.59,6580.07
+GOA-DEL,FlyIndia,Economy,1.26,Regular,168,93.67,11722.61,8663.12
+CHN-KOL,FlyIndia,Economy,0.95,Holiday,170,117.48,5567.79,6052.8
+CHN-KOL,BharatAir,Economy,0.77,Regular,78,98.71,3851.15,6529.56
+PUNE-BLR,FlyIndia,Economy,1.21,Peak,22,88.69,3890.3,11913.17
+HYD-BOM,IndiSky,Economy,1.06,Off-Peak,98,111.32,11587.06,6527.16
+BLR-DEL,AirVista,Economy,0.7,Peak,24,124.89,4952.73,9111.55
+CHN-KOL,FlyIndia,Premium Economy,1.36,Peak,52,125.65,7832.97,19944.94
+PUNE-BLR,FlyIndia,Economy,0.63,Holiday,130,115.94,11103.76,3788.34
+HYD-BOM,AirVista,Economy,1.05,Off-Peak,98,96.4,2700.06,6643.6
+BLR-DEL,IndiSky,Economy,1.36,Regular,10,86.47,3683.32,13522.1
+PUNE-BLR,IndiSky,Premium Economy,0.81,Holiday,53,119.16,4431.67,8724.86
+HYD-BOM,IndiSky,Economy,1.27,Peak,165,80.43,11181.85,8568.86
+BLR-DEL,IndiSky,Economy,0.96,Regular,155,129.53,11813.85,6411.75
+GOA-DEL,SkyJet,Economy,1.47,Regular,154,101.35,4638.32,9309.05
+DEL-MUM,IndiSky,Economy,0.67,Peak,123,98.48,11241.19,5920.87
+BLR-DEL,FlyIndia,Premium Economy,1.33,Off-Peak,1,99.92,11705.86,18090.86
+HYD-BOM,FlyIndia,Economy,1.38,Peak,157,84.38,9887.45,8332.87
+CHN-KOL,SkyJet,Premium Economy,0.84,Peak,124,87.48,4456.91,9629.91
+CHN-KOL,BharatAir,Economy,1.4,Peak,97,115.09,10070.22,14192.58
+PUNE-BLR,IndiSky,Economy,0.82,Holiday,46,104.12,4858.08,7137.61
+GOA-DEL,BharatAir,Economy,1.11,Off-Peak,59,103.73,2771.26,10372.43
+BLR-DEL,AirVista,Premium Economy,1.15,Regular,46,81.86,7278.01,13798.49
+HYD-BOM,BharatAir,Economy,0.64,Peak,54,102.18,4573.64,5910.68
+DEL-MUM,IndiSky,Economy,0.85,Peak,61,88.76,5403.65,8349.05
+DEL-MUM,BharatAir,Economy,1.05,Regular,134,95.91,6597.4,6371.01
+HYD-BOM,AirVista,Economy,1.11,Holiday,111,122.65,2659.07,7833.22
+CHN-KOL,BharatAir,Business,1.37,Regular,129,93.5,4384.72,16385.9
+GOA-DEL,BharatAir,Economy,0.96,Off-Peak,24,94.57,10828.44,9709.45
+HYD-BOM,IndiSky,Economy,0.63,Off-Peak,38,92.02,3171.58,4877.5
+CHN-KOL,BharatAir,Premium Economy,1.13,Off-Peak,12,84.66,6740.34,13902.28
+HYD-BOM,SkyJet,Economy,1.17,Regular,121,109.04,4994.14,6931.03
+GOA-DEL,IndiSky,Economy,1.29,Peak,109,128.95,11214.69,12911.98
+BLR-DEL,FlyIndia,Economy,1.43,Peak,61,93.92,2914.17,15500.57
+PUNE-BLR,BharatAir,Economy,0.94,Peak,139,100.06,10669.83,6562.98
+GOA-DEL,FlyIndia,Economy,0.65,Holiday,149,118.8,8208.3,5313.99
+CHN-KOL,BharatAir,Economy,0.96,Off-Peak,127,102.83,9928.74,5451.76
+DEL-MUM,IndiSky,Economy,0.6,Regular,24,112.44,10918.66,6364.9
+PUNE-BLR,IndiSky,Economy,0.75,Peak,121,87.71,10439.24,5323.84
+GOA-DEL,IndiSky,Economy,0.9,Holiday,69,125.31,6639.76,9425.25
+DEL-MUM,BharatAir,Economy,1.47,Peak,135,88.82,5023.85,12223.18
+CHN-KOL,AirVista,Business,0.73,Regular,170,107.75,6797.19,7548.19
+CHN-KOL,BharatAir,Economy,0.96,Holiday,8,101.08,9733.24,10584.0
+PUNE-BLR,IndiSky,Economy,1.48,Holiday,136,83.18,5904.89,8665.35
+DEL-MUM,FlyIndia,Economy,0.6,Off-Peak,39,92.17,4611.15,4743.05
+DEL-MUM,SkyJet,Economy,0.66,Off-Peak,12,92.32,10786.44,5274.28
+CHN-KOL,SkyJet,Economy,1.41,Peak,2,96.15,3291.25,16262.64
+GOA-DEL,IndiSky,Economy,1.37,Off-Peak,120,126.12,5841.6,10804.58
+BLR-DEL,IndiSky,Economy,0.91,Holiday,44,122.36,10168.97,10352.29
+DEL-MUM,BharatAir,Economy,1.32,Regular,63,86.54,11496.07,9985.25
+GOA-DEL,AirVista,Business,0.68,Holiday,34,93.09,4130.48,13476.7
+PUNE-BLR,AirVista,Economy,1.26,Regular,49,80.19,11870.72,8749.49
+BLR-DEL,FlyIndia,Premium Economy,0.96,Peak,128,115.84,11840.85,10918.23
+PUNE-BLR,SkyJet,Economy,1.36,Holiday,64,129.41,11018.62,11283.62
+GOA-DEL,AirVista,Premium Economy,0.6,Regular,159,92.34,5100.87,5058.48
+PUNE-BLR,AirVista,Economy,0.76,Holiday,74,80.69,10459.44,6614.3
+GOA-DEL,FlyIndia,Economy,1.39,Regular,127,105.94,6973.91,9789.57
+DEL-MUM,SkyJet,Economy,1.15,Regular,77,116.12,3678.43,8958.58
+PUNE-BLR,AirVista,Premium Economy,1.47,Holiday,125,87.33,9020.57,12511.77
