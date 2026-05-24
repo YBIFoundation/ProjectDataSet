@@ -1,0 +1,1001 @@
+industry,job_role,years_experience,education_level,location,performance_score,certifications_count,remote_option,predicted_annual_salary_inr
+IT,Data Analyst,18,Diploma,Tier 1 City,4.89,0,No,803421.0
+Healthcare,Accountant,7,Postgraduate,Metro,4.37,1,No,668547.0
+Manufacturing,Software Engineer,4,Graduate,Tier 1 City,2.71,1,No,484003.0
+Manufacturing,Data Analyst,17,Diploma,Metro,1.34,1,No,760418.0
+IT,Data Analyst,13,Diploma,Metro,2.75,0,No,602010.0
+Manufacturing,Software Engineer,1,PhD,Tier 1 City,3.9,1,No,521735.0
+IT,HR Manager,7,Postgraduate,Tier 1 City,2.89,2,No,608364.0
+Education,Software Engineer,7,Graduate,Tier 1 City,1.59,1,Yes,527760.0
+Healthcare,Accountant,16,Diploma,Tier 2 City,1.74,4,No,719998.0
+Finance,Marketing Executive,5,PhD,Metro,3.64,0,No,659591.0
+IT,HR Manager,7,Postgraduate,Metro,4.17,0,No,631816.0
+Finance,Software Engineer,11,Diploma,Metro,1.86,0,Yes,643337.0
+IT,Accountant,0,PhD,Metro,3.85,0,No,536181.0
+Healthcare,Data Analyst,8,Graduate,Tier 1 City,3.9,0,No,605023.0
+Education,Software Engineer,15,Graduate,Tier 1 City,3.14,1,No,721775.0
+Manufacturing,Software Engineer,10,PhD,Tier 1 City,4.97,0,Yes,759112.0
+Healthcare,Accountant,12,Graduate,Metro,3.82,5,Yes,731021.0
+Manufacturing,Data Analyst,2,Diploma,Tier 2 City,2.8,1,No,320434.0
+Healthcare,HR Manager,8,PhD,Tier 1 City,1.97,1,No,633536.0
+Education,HR Manager,3,Postgraduate,Tier 2 City,4.75,0,No,534917.0
+Healthcare,Accountant,6,Graduate,Tier 2 City,3.21,0,No,522560.0
+Education,Accountant,13,Postgraduate,Tier 1 City,2.65,2,Yes,717960.0
+Manufacturing,Accountant,9,Diploma,Metro,1.31,1,No,577450.0
+Healthcare,Data Analyst,12,PhD,Tier 1 City,1.34,0,No,745804.0
+IT,Data Analyst,8,Postgraduate,Tier 1 City,1.96,0,No,632461.0
+Finance,Marketing Executive,6,Postgraduate,Tier 1 City,3.24,0,No,590189.0
+Finance,Marketing Executive,13,Graduate,Tier 1 City,2.0,0,Yes,627766.0
+Finance,Marketing Executive,3,Postgraduate,Tier 1 City,1.72,0,No,494931.0
+Education,Data Analyst,17,Graduate,Tier 1 City,3.15,2,No,788451.0
+IT,Accountant,17,Graduate,Tier 1 City,2.69,1,No,801484.0
+Healthcare,HR Manager,14,Graduate,Metro,4.93,1,No,857705.0
+Finance,Marketing Executive,19,Graduate,Tier 2 City,2.64,1,No,769104.0
+Manufacturing,Software Engineer,2,Graduate,Tier 2 City,1.18,1,No,318240.0
+Finance,HR Manager,19,Graduate,Tier 2 City,3.18,0,No,763257.0
+IT,Software Engineer,12,Diploma,Tier 1 City,3.52,2,No,595291.0
+Finance,Marketing Executive,9,Postgraduate,Metro,4.77,1,No,698689.0
+Education,Data Analyst,0,Graduate,Metro,1.15,0,Yes,347768.0
+IT,Marketing Executive,13,Postgraduate,Tier 1 City,2.12,1,Yes,686180.0
+Finance,Marketing Executive,13,Graduate,Tier 2 City,4.79,1,No,696346.0
+Education,Software Engineer,3,Postgraduate,Metro,3.67,2,No,557512.0
+Education,Software Engineer,4,Graduate,Tier 2 City,2.04,0,No,396694.0
+Healthcare,Marketing Executive,7,Postgraduate,Metro,3.32,1,No,661540.0
+Education,Accountant,17,PhD,Tier 1 City,1.73,0,No,854626.0
+Finance,Data Analyst,19,Graduate,Metro,4.7,0,No,912554.0
+IT,HR Manager,17,Postgraduate,Tier 2 City,2.22,3,No,834606.0
+IT,Marketing Executive,10,Graduate,Tier 2 City,2.48,4,Yes,575372.0
+Finance,Software Engineer,13,Diploma,Tier 1 City,1.8,0,Yes,582178.0
+Finance,Accountant,7,Graduate,Tier 1 City,4.81,2,No,585751.0
+Finance,Marketing Executive,13,Postgraduate,Tier 2 City,3.41,0,Yes,726747.0
+Education,Data Analyst,5,Graduate,Tier 2 City,1.83,0,Yes,455762.0
+IT,Accountant,4,Graduate,Tier 2 City,2.0,2,Yes,432743.0
+IT,Software Engineer,0,PhD,Tier 2 City,3.69,0,No,443508.0
+Manufacturing,Data Analyst,11,Postgraduate,Tier 1 City,3.57,0,No,683186.0
+Manufacturing,HR Manager,7,Postgraduate,Tier 1 City,3.63,2,No,637461.0
+Healthcare,HR Manager,10,Graduate,Tier 1 City,3.79,2,No,654028.0
+IT,Data Analyst,12,Postgraduate,Tier 1 City,2.87,0,No,686819.0
+Education,HR Manager,9,Graduate,Tier 2 City,3.32,1,Yes,540446.0
+Education,Data Analyst,10,Diploma,Metro,1.26,1,No,606105.0
+Education,Software Engineer,14,Postgraduate,Tier 2 City,1.39,0,No,699798.0
+IT,Marketing Executive,2,Graduate,Metro,3.33,2,No,472213.0
+Manufacturing,Data Analyst,11,Graduate,Tier 1 City,3.36,1,No,647521.0
+Manufacturing,Marketing Executive,14,Postgraduate,Metro,3.78,1,Yes,806847.0
+Education,Software Engineer,8,Postgraduate,Tier 1 City,3.46,0,Yes,663853.0
+Manufacturing,Data Analyst,16,Graduate,Tier 1 City,3.72,0,No,770279.0
+Healthcare,Marketing Executive,6,Postgraduate,Metro,1.75,1,No,538002.0
+Manufacturing,Software Engineer,17,Postgraduate,Tier 1 City,4.94,1,No,912042.0
+IT,Accountant,18,Postgraduate,Tier 1 City,1.06,0,Yes,840950.0
+IT,HR Manager,19,Graduate,Tier 1 City,2.1,0,No,819020.0
+Healthcare,Software Engineer,19,Postgraduate,Metro,3.92,3,Yes,959487.0
+Healthcare,Software Engineer,17,Postgraduate,Metro,4.92,3,No,970833.0
+Manufacturing,Marketing Executive,2,Postgraduate,Tier 2 City,3.67,4,No,464311.0
+Education,Software Engineer,0,Postgraduate,Metro,3.23,1,Yes,557055.0
+Manufacturing,HR Manager,0,Graduate,Tier 1 City,1.06,0,No,306178.0
+Manufacturing,Software Engineer,19,Graduate,Tier 2 City,4.68,0,No,848716.0
+Education,Marketing Executive,13,PhD,Tier 1 City,4.46,2,No,811072.0
+IT,Marketing Executive,18,Graduate,Tier 1 City,2.41,2,No,780564.0
+Healthcare,Accountant,3,Graduate,Metro,4.96,0,No,511096.0
+Manufacturing,Data Analyst,1,Graduate,Tier 1 City,1.31,0,Yes,353428.0
+Finance,Accountant,17,Graduate,Tier 2 City,1.43,2,No,758064.0
+Finance,HR Manager,12,Graduate,Tier 2 City,3.81,4,No,681350.0
+Finance,Data Analyst,18,Graduate,Tier 1 City,4.39,1,No,853596.0
+Education,Marketing Executive,15,Postgraduate,Tier 1 City,2.59,2,No,782661.0
+Healthcare,Data Analyst,7,Graduate,Metro,3.07,1,Yes,599098.0
+IT,Data Analyst,16,Diploma,Tier 2 City,2.97,1,No,711405.0
+Finance,Data Analyst,3,Graduate,Tier 1 City,2.93,0,No,436535.0
+Education,Accountant,3,Graduate,Tier 2 City,2.98,2,No,383114.0
+IT,Accountant,17,Graduate,Tier 1 City,1.33,1,No,728213.0
+Finance,Software Engineer,10,Diploma,Metro,3.24,0,No,572939.0
+Education,HR Manager,13,Postgraduate,Tier 1 City,4.14,1,No,786395.0
+Education,Software Engineer,16,PhD,Tier 1 City,1.95,1,Yes,865111.0
+Education,HR Manager,15,Postgraduate,Tier 1 City,3.55,2,No,817631.0
+IT,Marketing Executive,11,Graduate,Tier 1 City,1.15,2,No,630799.0
+Education,HR Manager,1,Postgraduate,Tier 1 City,2.87,0,No,432709.0
+Manufacturing,HR Manager,2,Postgraduate,Tier 1 City,3.57,2,No,504796.0
+IT,Software Engineer,0,Graduate,Tier 1 City,1.89,1,No,355054.0
+IT,Marketing Executive,18,Graduate,Tier 1 City,3.31,0,Yes,857394.0
+Healthcare,Marketing Executive,14,Graduate,Tier 2 City,4.01,1,No,735699.0
+Healthcare,Software Engineer,1,Graduate,Tier 2 City,4.3,2,Yes,419825.0
+Manufacturing,Accountant,7,PhD,Metro,3.68,0,Yes,719333.0
+IT,HR Manager,1,Graduate,Tier 2 City,3.52,0,Yes,428260.0
+Finance,HR Manager,7,Graduate,Metro,4.5,2,No,650678.0
+Education,Data Analyst,6,Postgraduate,Metro,4.52,2,Yes,672569.0
+IT,Data Analyst,6,Postgraduate,Tier 1 City,3.77,1,No,547414.0
+Finance,HR Manager,3,Graduate,Tier 1 City,4.88,1,No,465013.0
+Education,Software Engineer,13,Graduate,Tier 1 City,3.25,1,Yes,672965.0
+Healthcare,Accountant,5,Graduate,Tier 1 City,1.46,0,Yes,455212.0
+Finance,Data Analyst,11,Diploma,Metro,3.23,1,Yes,687743.0
+IT,HR Manager,3,Graduate,Tier 1 City,4.19,0,Yes,425661.0
+IT,HR Manager,11,Graduate,Tier 2 City,4.64,3,No,705775.0
+Education,HR Manager,6,Graduate,Tier 1 City,4.7,0,Yes,578471.0
+Manufacturing,Accountant,7,PhD,Tier 2 City,3.71,0,No,649527.0
+Finance,Data Analyst,2,Graduate,Tier 2 City,4.54,1,No,441133.0
+IT,Accountant,6,Postgraduate,Tier 2 City,4.91,1,No,587452.0
+Healthcare,Data Analyst,19,Diploma,Tier 1 City,1.87,1,No,754995.0
+Finance,Marketing Executive,10,Postgraduate,Metro,2.5,1,Yes,733173.0
+Healthcare,HR Manager,12,Postgraduate,Tier 1 City,1.5,1,Yes,727105.0
+IT,HR Manager,9,Graduate,Tier 2 City,4.2,1,Yes,627049.0
+Healthcare,Accountant,15,Postgraduate,Tier 2 City,2.26,1,No,759929.0
+Manufacturing,Accountant,1,Graduate,Metro,4.39,0,Yes,450705.0
+Manufacturing,Software Engineer,1,Graduate,Metro,1.17,0,Yes,356994.0
+Finance,Software Engineer,12,Graduate,Metro,3.64,1,Yes,752156.0
+Finance,HR Manager,18,Graduate,Tier 2 City,4.42,0,No,822814.0
+Finance,Marketing Executive,0,Graduate,Metro,1.12,2,No,384150.0
+Manufacturing,Accountant,4,Postgraduate,Metro,2.18,1,Yes,558543.0
+Education,HR Manager,16,Graduate,Tier 1 City,4.05,1,No,786706.0
+Manufacturing,Accountant,12,PhD,Tier 2 City,4.47,0,No,802110.0
+Finance,HR Manager,11,PhD,Metro,2.08,1,No,755573.0
+Healthcare,Marketing Executive,17,Postgraduate,Metro,3.03,0,No,897736.0
+Education,HR Manager,8,Postgraduate,Metro,2.61,0,No,623239.0
+Healthcare,Marketing Executive,13,Postgraduate,Metro,2.31,0,No,747896.0
+Healthcare,Accountant,9,Diploma,Metro,2.41,2,No,609454.0
+Finance,HR Manager,19,Postgraduate,Tier 2 City,4.73,1,No,931186.0
+Healthcare,Accountant,10,Graduate,Tier 2 City,2.81,0,No,583327.0
+Healthcare,Accountant,8,Postgraduate,Tier 2 City,2.56,1,Yes,588058.0
+Finance,HR Manager,10,Graduate,Tier 1 City,4.53,0,No,615100.0
+IT,HR Manager,14,Postgraduate,Tier 1 City,4.58,0,Yes,785665.0
+IT,Marketing Executive,19,Graduate,Metro,4.61,2,No,954710.0
+Manufacturing,HR Manager,19,Diploma,Metro,3.2,2,Yes,814189.0
+Education,HR Manager,19,Graduate,Metro,1.53,1,Yes,868630.0
+Manufacturing,Data Analyst,9,Graduate,Metro,4.03,1,No,651330.0
+Education,Software Engineer,19,Postgraduate,Tier 1 City,4.72,1,No,885753.0
+Healthcare,Accountant,19,Postgraduate,Metro,1.26,3,Yes,917899.0
+Healthcare,Accountant,4,Graduate,Tier 1 City,3.93,1,Yes,498131.0
+Finance,Data Analyst,19,Graduate,Metro,3.41,2,No,918092.0
+Finance,Accountant,18,Graduate,Tier 1 City,1.43,1,No,772892.0
+Manufacturing,Accountant,17,Graduate,Tier 1 City,2.97,2,Yes,762774.0
+Education,Data Analyst,3,Graduate,Metro,2.18,0,Yes,469923.0
+Education,Data Analyst,8,Graduate,Tier 2 City,2.68,2,No,578571.0
+Healthcare,HR Manager,8,Postgraduate,Tier 2 City,2.6,0,No,597631.0
+Healthcare,HR Manager,11,Graduate,Tier 1 City,3.22,1,Yes,644830.0
+Manufacturing,Marketing Executive,0,Diploma,Tier 1 City,1.7,1,No,267299.0
+Manufacturing,Data Analyst,18,Postgraduate,Metro,1.45,1,No,885514.0
+Manufacturing,Software Engineer,11,Postgraduate,Tier 2 City,1.36,0,No,651807.0
+Finance,Data Analyst,5,PhD,Metro,2.68,2,No,666238.0
+Education,Marketing Executive,5,Graduate,Metro,3.95,0,No,573423.0
+Manufacturing,Data Analyst,8,Graduate,Tier 2 City,4.95,0,No,616144.0
+IT,Data Analyst,5,PhD,Metro,3.98,0,No,628949.0
+IT,Software Engineer,4,Postgraduate,Tier 1 City,4.48,1,No,534280.0
+Healthcare,Marketing Executive,7,Postgraduate,Tier 2 City,2.77,1,No,589638.0
+Finance,Marketing Executive,0,Diploma,Metro,1.68,1,No,355242.0
+Manufacturing,HR Manager,14,Graduate,Tier 2 City,2.13,1,No,690040.0
+Manufacturing,Software Engineer,11,Graduate,Tier 1 City,1.66,1,No,598322.0
+Finance,HR Manager,5,Graduate,Tier 2 City,3.87,1,Yes,442831.0
+IT,Data Analyst,8,Diploma,Metro,4.33,0,No,563157.0
+Manufacturing,Marketing Executive,16,Postgraduate,Tier 2 City,2.21,0,No,802884.0
+Healthcare,Software Engineer,8,PhD,Tier 1 City,3.2,0,Yes,646515.0
+Education,Data Analyst,17,Graduate,Tier 1 City,3.38,0,Yes,774632.0
+Manufacturing,Data Analyst,7,Graduate,Metro,3.81,2,No,627153.0
+Finance,HR Manager,11,Graduate,Tier 1 City,3.15,2,Yes,622705.0
+Manufacturing,HR Manager,9,Postgraduate,Metro,3.73,2,Yes,713279.0
+Finance,HR Manager,18,Graduate,Tier 2 City,4.23,0,No,843828.0
+Education,Marketing Executive,14,Graduate,Tier 2 City,2.81,0,Yes,673600.0
+Education,Marketing Executive,4,PhD,Metro,1.15,0,No,592900.0
+Manufacturing,Data Analyst,6,Postgraduate,Tier 2 City,2.1,2,No,590099.0
+Healthcare,Software Engineer,5,Postgraduate,Metro,2.08,3,Yes,640772.0
+IT,Software Engineer,2,Graduate,Metro,2.61,2,Yes,489261.0
+Manufacturing,HR Manager,14,Diploma,Tier 1 City,4.56,2,Yes,725315.0
+Manufacturing,Data Analyst,7,Graduate,Tier 1 City,1.82,1,Yes,506237.0
+Manufacturing,HR Manager,12,Graduate,Metro,4.91,2,No,771056.0
+IT,Marketing Executive,11,Graduate,Tier 1 City,3.87,3,No,693820.0
+IT,Software Engineer,1,Postgraduate,Tier 1 City,1.26,2,No,430475.0
+IT,Accountant,9,Graduate,Tier 1 City,1.32,2,Yes,555625.0
+Education,Data Analyst,17,Graduate,Metro,4.36,1,Yes,864946.0
+Manufacturing,Accountant,6,Postgraduate,Metro,1.2,2,No,627852.0
+Manufacturing,Marketing Executive,4,Graduate,Metro,4.04,1,No,568823.0
+Finance,Data Analyst,17,Graduate,Tier 1 City,4.6,3,No,843954.0
+IT,Marketing Executive,3,Postgraduate,Metro,2.75,2,No,533001.0
+Manufacturing,Marketing Executive,6,Postgraduate,Tier 2 City,2.71,0,Yes,536845.0
+Healthcare,HR Manager,2,Graduate,Tier 2 City,4.92,0,No,412733.0
+Finance,Marketing Executive,13,PhD,Tier 1 City,2.67,2,No,819792.0
+Healthcare,HR Manager,3,Postgraduate,Tier 1 City,3.35,2,No,535437.0
+Finance,HR Manager,2,Graduate,Metro,3.6,2,Yes,451777.0
+Education,Data Analyst,4,Graduate,Tier 2 City,4.36,1,No,553098.0
+IT,Accountant,14,Postgraduate,Metro,1.31,0,No,745354.0
+Healthcare,Accountant,12,Graduate,Tier 1 City,3.53,1,No,698075.0
+IT,Software Engineer,6,PhD,Tier 2 City,2.16,1,No,624846.0
+Manufacturing,Data Analyst,2,Graduate,Tier 1 City,2.21,2,Yes,428766.0
+Finance,Data Analyst,19,Graduate,Metro,4.25,1,No,890685.0
+Healthcare,Accountant,3,Postgraduate,Tier 2 City,4.45,0,No,496911.0
+Education,Data Analyst,11,Graduate,Tier 2 City,2.61,0,Yes,573937.0
+Finance,Data Analyst,19,Graduate,Tier 1 City,1.73,0,No,803608.0
+IT,Accountant,17,Postgraduate,Tier 1 City,3.0,2,No,864014.0
+Finance,Marketing Executive,13,Graduate,Tier 2 City,2.11,1,No,682931.0
+Finance,Software Engineer,10,Postgraduate,Tier 2 City,2.56,0,No,635061.0
+Healthcare,Data Analyst,4,Postgraduate,Tier 1 City,2.57,0,No,502201.0
+Manufacturing,Software Engineer,6,Graduate,Metro,3.04,2,Yes,564261.0
+Healthcare,Marketing Executive,18,Graduate,Metro,1.06,0,No,804093.0
+IT,Marketing Executive,16,Graduate,Tier 2 City,3.39,2,No,812532.0
+Finance,Software Engineer,9,Graduate,Tier 1 City,1.11,1,No,562222.0
+IT,Data Analyst,1,Graduate,Tier 1 City,4.35,1,Yes,405979.0
+Education,Marketing Executive,18,Graduate,Tier 1 City,5.0,0,No,818600.0
+IT,Marketing Executive,15,Graduate,Tier 1 City,1.48,0,No,723442.0
+Healthcare,Data Analyst,12,Graduate,Tier 1 City,3.46,2,No,721210.0
+IT,Software Engineer,0,Postgraduate,Tier 2 City,3.92,0,Yes,411680.0
+Education,Marketing Executive,3,Graduate,Tier 1 City,1.43,2,No,413825.0
+Finance,Software Engineer,1,Graduate,Metro,3.69,1,No,457636.0
+Finance,Software Engineer,1,Graduate,Metro,1.82,0,No,421804.0
+Healthcare,HR Manager,19,Graduate,Tier 1 City,1.69,2,No,866099.0
+IT,Software Engineer,10,Postgraduate,Tier 2 City,2.66,2,No,610551.0
+Finance,Software Engineer,18,Graduate,Tier 1 City,4.37,1,No,837133.0
+Healthcare,Data Analyst,14,Postgraduate,Metro,3.18,2,No,803430.0
+Education,Accountant,8,Graduate,Tier 1 City,4.06,0,No,592158.0
+Finance,HR Manager,9,Graduate,Metro,3.94,1,No,711493.0
+Education,Software Engineer,0,PhD,Metro,4.94,0,Yes,541719.0
+Education,Accountant,9,Graduate,Tier 2 City,2.67,2,No,609827.0
+Healthcare,Accountant,19,Postgraduate,Tier 1 City,2.82,0,Yes,948741.0
+IT,Data Analyst,17,Diploma,Metro,3.91,3,Yes,844681.0
+Healthcare,Software Engineer,3,Diploma,Tier 2 City,3.7,1,Yes,395322.0
+IT,HR Manager,14,PhD,Metro,1.56,0,Yes,856284.0
+Healthcare,Accountant,6,Graduate,Metro,3.54,0,No,564724.0
+Education,Data Analyst,19,Graduate,Tier 1 City,4.46,2,No,830683.0
+Finance,HR Manager,2,Postgraduate,Metro,4.81,0,Yes,542932.0
+Manufacturing,Software Engineer,16,Postgraduate,Tier 1 City,2.17,1,No,807603.0
+Education,Data Analyst,12,PhD,Metro,3.39,0,No,810678.0
+Finance,Data Analyst,6,Graduate,Tier 1 City,4.52,0,Yes,559292.0
+Finance,Accountant,19,Postgraduate,Metro,4.32,3,Yes,995348.0
+Manufacturing,Software Engineer,2,Diploma,Tier 1 City,4.83,2,Yes,415807.0
+Manufacturing,Software Engineer,5,Postgraduate,Metro,3.2,1,No,630202.0
+IT,Marketing Executive,1,Graduate,Tier 2 City,4.58,0,No,402873.0
+IT,Accountant,11,Graduate,Tier 2 City,4.92,2,No,654344.0
+Healthcare,Marketing Executive,18,Graduate,Metro,2.31,2,No,855340.0
+Manufacturing,HR Manager,17,Graduate,Tier 2 City,4.19,0,No,767756.0
+Finance,Software Engineer,11,Diploma,Tier 2 City,4.43,1,No,660887.0
+Manufacturing,Software Engineer,2,PhD,Metro,1.76,1,No,554030.0
+Manufacturing,Marketing Executive,5,Postgraduate,Metro,4.4,1,No,618519.0
+Finance,HR Manager,11,Graduate,Tier 1 City,3.32,1,No,695445.0
+Healthcare,Accountant,5,Diploma,Tier 1 City,1.8,1,No,426718.0
+Manufacturing,Data Analyst,19,Graduate,Tier 2 City,4.22,1,No,820654.0
+Healthcare,Marketing Executive,2,Graduate,Tier 2 City,1.81,2,Yes,376569.0
+Finance,HR Manager,15,Graduate,Tier 2 City,1.66,3,No,713117.0
+IT,Marketing Executive,3,Diploma,Tier 1 City,2.55,2,No,390597.0
+IT,Software Engineer,15,Postgraduate,Metro,2.83,3,Yes,828004.0
+Education,Software Engineer,8,Postgraduate,Tier 1 City,3.86,0,No,645085.0
+Manufacturing,Software Engineer,14,Postgraduate,Metro,3.56,0,Yes,801787.0
+IT,HR Manager,7,Graduate,Metro,3.31,0,No,578722.0
+Education,HR Manager,15,Postgraduate,Metro,2.73,4,Yes,807946.0
+Education,Data Analyst,0,Postgraduate,Tier 1 City,1.43,1,No,325951.0
+IT,HR Manager,15,Postgraduate,Tier 1 City,1.47,1,Yes,699291.0
+Healthcare,Software Engineer,4,Graduate,Tier 2 City,4.47,1,No,472053.0
+Manufacturing,Accountant,17,PhD,Tier 1 City,3.83,1,No,890476.0
+Manufacturing,Marketing Executive,15,Graduate,Tier 1 City,1.51,1,No,713447.0
+Finance,Accountant,17,Postgraduate,Metro,2.63,1,Yes,913380.0
+Education,Accountant,13,Graduate,Tier 1 City,1.04,0,No,638628.0
+Manufacturing,HR Manager,17,Graduate,Metro,1.28,2,No,795995.0
+IT,HR Manager,5,Graduate,Metro,2.05,0,No,505622.0
+Manufacturing,Marketing Executive,8,Postgraduate,Tier 1 City,3.71,1,Yes,640842.0
+IT,Software Engineer,8,Diploma,Tier 1 City,2.97,0,No,495889.0
+Education,Data Analyst,1,Postgraduate,Metro,1.75,2,Yes,472052.0
+Manufacturing,Accountant,2,Postgraduate,Tier 1 City,1.78,3,Yes,502878.0
+Education,Accountant,8,Postgraduate,Tier 1 City,3.84,1,Yes,603515.0
+IT,Software Engineer,3,Postgraduate,Metro,4.49,1,No,585491.0
+Manufacturing,Marketing Executive,13,Graduate,Metro,3.12,1,Yes,721007.0
+Finance,Data Analyst,6,Graduate,Metro,2.86,2,No,580003.0
+Manufacturing,HR Manager,17,Graduate,Metro,4.37,1,Yes,860838.0
+IT,HR Manager,9,Postgraduate,Metro,2.23,0,No,642983.0
+Healthcare,Data Analyst,0,Graduate,Tier 1 City,2.91,1,No,334173.0
+Finance,Accountant,7,Graduate,Metro,4.08,1,Yes,599685.0
+IT,Software Engineer,11,Postgraduate,Tier 1 City,2.92,0,No,661451.0
+IT,Accountant,6,Graduate,Metro,3.47,1,Yes,596246.0
+IT,Software Engineer,10,Graduate,Tier 1 City,1.65,0,Yes,579945.0
+Healthcare,HR Manager,3,Graduate,Tier 1 City,4.91,1,No,489626.0
+IT,Accountant,5,Graduate,Metro,1.04,1,Yes,460266.0
+Education,Accountant,1,Diploma,Tier 1 City,1.88,0,No,339949.0
+IT,Accountant,2,Graduate,Tier 1 City,1.68,1,No,452720.0
+Manufacturing,Software Engineer,11,Graduate,Metro,2.51,4,No,704129.0
+Education,Marketing Executive,18,Graduate,Tier 2 City,1.0,0,No,723445.0
+Finance,Marketing Executive,0,Graduate,Tier 1 City,2.5,1,No,349903.0
+Finance,Data Analyst,18,Graduate,Tier 1 City,1.04,0,No,758415.0
+Manufacturing,Marketing Executive,4,Diploma,Tier 2 City,2.43,0,No,359259.0
+IT,Accountant,1,Graduate,Tier 1 City,1.5,2,No,402636.0
+Education,HR Manager,2,Graduate,Tier 1 City,4.03,4,No,475467.0
+Manufacturing,Data Analyst,4,Postgraduate,Tier 1 City,3.52,1,No,546982.0
+Manufacturing,Software Engineer,2,PhD,Tier 1 City,3.81,1,No,557077.0
+Manufacturing,Data Analyst,0,Diploma,Tier 1 City,1.02,0,Yes,289639.0
+IT,Software Engineer,19,Graduate,Metro,2.48,1,No,903972.0
+Manufacturing,Data Analyst,8,Graduate,Tier 1 City,1.51,1,No,554909.0
+Finance,HR Manager,12,Graduate,Metro,4.22,2,Yes,706169.0
+Finance,Software Engineer,14,Diploma,Tier 1 City,2.92,1,No,702900.0
+Finance,Data Analyst,11,Diploma,Tier 1 City,3.61,1,No,601281.0
+Healthcare,Marketing Executive,18,Diploma,Metro,3.17,0,No,825486.0
+Finance,HR Manager,8,Diploma,Tier 1 City,2.9,1,No,541350.0
+Education,HR Manager,12,Graduate,Metro,1.73,3,No,759624.0
+Healthcare,HR Manager,9,Graduate,Tier 2 City,3.88,1,Yes,594567.0
+Finance,Software Engineer,9,Postgraduate,Metro,4.29,0,No,698603.0
+IT,Marketing Executive,2,Diploma,Metro,1.85,0,No,343072.0
+Education,HR Manager,2,Graduate,Tier 1 City,1.71,0,No,337460.0
+Finance,Marketing Executive,9,Postgraduate,Metro,3.14,3,No,717651.0
+IT,Software Engineer,5,PhD,Metro,4.8,2,No,664913.0
+Education,Software Engineer,13,Postgraduate,Metro,4.01,1,Yes,819548.0
+Healthcare,HR Manager,10,Diploma,Tier 2 City,3.77,0,No,563552.0
+Healthcare,Accountant,19,Postgraduate,Tier 2 City,2.38,1,Yes,869162.0
+Healthcare,Accountant,5,Postgraduate,Tier 1 City,3.24,0,No,553440.0
+IT,Accountant,11,Diploma,Metro,2.07,2,No,600275.0
+Finance,Software Engineer,12,Graduate,Tier 1 City,2.48,1,Yes,673179.0
+Manufacturing,Data Analyst,17,Diploma,Metro,4.2,2,No,858203.0
+Manufacturing,Accountant,16,Postgraduate,Tier 1 City,4.41,1,No,912064.0
+IT,Accountant,19,Graduate,Metro,2.01,1,No,884403.0
+IT,Marketing Executive,7,Graduate,Tier 1 City,3.06,3,Yes,563333.0
+Healthcare,HR Manager,3,Postgraduate,Tier 1 City,3.36,1,No,480835.0
+Healthcare,Accountant,8,Postgraduate,Tier 1 City,3.9,0,Yes,621637.0
+Manufacturing,Software Engineer,10,Diploma,Metro,2.85,0,No,611484.0
+Healthcare,Marketing Executive,10,Postgraduate,Tier 1 City,1.41,1,No,636431.0
+Education,Software Engineer,6,Postgraduate,Tier 1 City,3.83,2,No,595910.0
+Manufacturing,Accountant,17,Graduate,Tier 1 City,3.24,1,No,810858.0
+IT,Software Engineer,13,Graduate,Metro,3.01,0,No,740574.0
+Education,Data Analyst,2,Postgraduate,Tier 2 City,4.23,1,No,499097.0
+Manufacturing,HR Manager,8,Graduate,Tier 1 City,1.16,0,No,523190.0
+Education,Data Analyst,1,Diploma,Tier 1 City,1.53,3,Yes,311580.0
+Finance,Accountant,19,Graduate,Metro,4.15,2,Yes,915918.0
+IT,HR Manager,17,Postgraduate,Tier 1 City,2.74,1,No,796886.0
+IT,Marketing Executive,15,Postgraduate,Tier 1 City,3.37,2,No,790082.0
+Manufacturing,Data Analyst,10,Postgraduate,Metro,2.29,1,No,749378.0
+Healthcare,Software Engineer,19,Postgraduate,Metro,2.03,0,No,865233.0
+Healthcare,HR Manager,11,Postgraduate,Tier 1 City,2.85,2,No,689003.0
+Education,Accountant,12,Graduate,Tier 1 City,3.89,2,No,679431.0
+Healthcare,Marketing Executive,17,Postgraduate,Tier 1 City,4.25,2,No,898124.0
+IT,Marketing Executive,12,Graduate,Metro,3.06,1,Yes,728871.0
+Healthcare,Data Analyst,5,Diploma,Tier 1 City,4.9,0,No,465171.0
+Healthcare,Accountant,9,Postgraduate,Tier 2 City,2.3,0,Yes,578367.0
+Education,Software Engineer,9,Graduate,Metro,4.15,0,No,715120.0
+Finance,Marketing Executive,18,Graduate,Tier 1 City,3.76,0,No,832370.0
+Education,HR Manager,1,Graduate,Tier 1 City,1.59,0,No,364847.0
+IT,Accountant,9,Postgraduate,Tier 1 City,2.47,1,No,618239.0
+IT,Software Engineer,10,Graduate,Tier 1 City,2.0,3,No,643735.0
+Education,HR Manager,16,PhD,Metro,3.39,0,No,897433.0
+IT,Data Analyst,16,Postgraduate,Metro,1.32,0,No,814422.0
+Education,Software Engineer,8,Postgraduate,Metro,3.3,0,No,697063.0
+Manufacturing,HR Manager,14,Graduate,Tier 1 City,4.11,0,No,741775.0
+Manufacturing,Marketing Executive,16,Diploma,Tier 1 City,4.85,0,Yes,779478.0
+Finance,Accountant,7,Postgraduate,Tier 1 City,4.69,0,Yes,586618.0
+Manufacturing,Marketing Executive,15,Graduate,Metro,2.51,1,No,785234.0
+IT,Accountant,8,Graduate,Tier 1 City,3.54,2,No,580059.0
+Manufacturing,Data Analyst,11,Postgraduate,Tier 2 City,1.59,2,No,637408.0
+IT,Accountant,15,Graduate,Metro,2.5,1,Yes,782328.0
+IT,HR Manager,18,Graduate,Metro,3.47,1,No,844776.0
+Education,Data Analyst,13,Graduate,Metro,4.65,1,No,806236.0
+IT,Data Analyst,14,Diploma,Tier 2 City,3.9,1,No,682653.0
+Education,Software Engineer,16,Graduate,Metro,4.23,0,No,821076.0
+Manufacturing,Accountant,18,PhD,Metro,3.77,1,No,982777.0
+Manufacturing,HR Manager,14,Postgraduate,Metro,2.22,2,Yes,785038.0
+IT,Data Analyst,13,Postgraduate,Metro,4.71,0,No,854244.0
+Manufacturing,HR Manager,9,Postgraduate,Tier 1 City,4.1,1,No,672958.0
+Education,HR Manager,14,Graduate,Tier 1 City,1.96,1,Yes,728104.0
+Manufacturing,Marketing Executive,6,Graduate,Metro,1.31,1,No,480007.0
+Healthcare,Software Engineer,16,Graduate,Tier 2 City,4.84,0,Yes,799341.0
+Manufacturing,Accountant,13,Graduate,Tier 1 City,1.89,1,Yes,655087.0
+Manufacturing,HR Manager,7,Postgraduate,Metro,1.67,0,No,619050.0
+IT,Software Engineer,6,Diploma,Metro,2.8,3,No,530447.0
+IT,Marketing Executive,3,Graduate,Tier 1 City,2.05,2,Yes,425275.0
+Manufacturing,Marketing Executive,4,Graduate,Tier 1 City,4.52,0,No,520579.0
+IT,Accountant,14,Graduate,Tier 1 City,1.31,1,No,655114.0
+Manufacturing,Accountant,12,PhD,Metro,1.96,2,No,797587.0
+Education,Marketing Executive,15,Diploma,Tier 1 City,1.42,0,No,632436.0
+Manufacturing,Accountant,9,Diploma,Tier 1 City,4.78,1,No,628161.0
+IT,HR Manager,7,Postgraduate,Tier 1 City,3.06,0,Yes,589829.0
+IT,Data Analyst,13,Graduate,Tier 2 City,1.75,2,No,720922.0
+Manufacturing,Data Analyst,18,PhD,Tier 1 City,4.5,0,Yes,935889.0
+IT,Marketing Executive,10,Postgraduate,Metro,2.52,2,No,714713.0
+Healthcare,Data Analyst,8,Graduate,Tier 2 City,2.66,1,Yes,531222.0
+Education,Data Analyst,10,Diploma,Tier 1 City,2.16,0,No,536001.0
+Finance,HR Manager,6,Graduate,Tier 1 City,1.52,1,Yes,494541.0
+IT,Marketing Executive,3,Postgraduate,Metro,3.0,0,No,543244.0
+Finance,Software Engineer,6,Postgraduate,Tier 1 City,1.33,1,No,521343.0
+IT,Marketing Executive,3,Graduate,Tier 1 City,1.6,3,No,461724.0
+IT,Marketing Executive,4,Diploma,Metro,3.74,2,No,490689.0
+Manufacturing,Marketing Executive,5,Graduate,Tier 1 City,4.66,0,Yes,499232.0
+Healthcare,Accountant,7,Graduate,Tier 1 City,2.59,0,No,497067.0
+IT,HR Manager,11,Graduate,Tier 1 City,1.43,1,Yes,611112.0
+Finance,Marketing Executive,8,Graduate,Tier 1 City,4.06,0,No,596767.0
+Manufacturing,Software Engineer,13,Graduate,Tier 1 City,3.76,0,No,686684.0
+Education,Marketing Executive,1,Postgraduate,Metro,3.1,4,No,527332.0
+IT,Marketing Executive,6,Graduate,Metro,4.99,1,No,614462.0
+IT,Accountant,12,Graduate,Metro,1.15,1,No,674230.0
+Education,Marketing Executive,10,PhD,Metro,3.56,2,No,765915.0
+Finance,Data Analyst,7,Graduate,Metro,1.29,1,No,580198.0
+Education,Software Engineer,3,Postgraduate,Tier 2 City,1.89,4,Yes,514680.0
+Finance,Marketing Executive,3,Postgraduate,Tier 2 City,2.77,0,No,469200.0
+IT,HR Manager,1,PhD,Tier 2 City,1.45,1,No,444343.0
+IT,HR Manager,16,Postgraduate,Metro,1.52,1,No,822509.0
+Healthcare,Marketing Executive,12,Graduate,Tier 1 City,4.06,0,No,649237.0
+Education,Data Analyst,6,Graduate,Tier 1 City,4.56,2,No,545432.0
+IT,Software Engineer,15,Postgraduate,Tier 1 City,2.29,0,No,762227.0
+IT,Accountant,17,Graduate,Tier 1 City,2.43,0,No,753082.0
+IT,Marketing Executive,17,Graduate,Metro,3.78,1,No,882070.0
+Finance,HR Manager,17,Postgraduate,Metro,1.67,0,Yes,834312.0
+Finance,HR Manager,1,Graduate,Metro,4.09,0,Yes,460229.0
+Education,Software Engineer,1,PhD,Tier 1 City,1.39,0,Yes,463888.0
+Manufacturing,HR Manager,7,Diploma,Tier 1 City,1.38,3,No,487188.0
+Education,Data Analyst,12,Diploma,Metro,4.78,1,No,696552.0
+Manufacturing,HR Manager,14,Postgraduate,Metro,3.92,0,No,847962.0
+Finance,Marketing Executive,0,Graduate,Metro,4.38,0,Yes,447831.0
+Education,Accountant,15,Graduate,Tier 1 City,4.32,0,No,780914.0
+Finance,HR Manager,1,Graduate,Metro,2.11,0,No,404709.0
+IT,Software Engineer,6,Postgraduate,Tier 1 City,1.55,2,Yes,532070.0
+Finance,HR Manager,15,PhD,Tier 2 City,2.1,1,Yes,828829.0
+IT,Accountant,7,PhD,Metro,2.63,0,No,681885.0
+Finance,Marketing Executive,13,Graduate,Tier 1 City,4.98,1,Yes,765045.0
+Healthcare,Accountant,5,Postgraduate,Metro,1.76,2,No,585565.0
+IT,Software Engineer,19,Graduate,Tier 1 City,2.11,0,No,839673.0
+Education,Data Analyst,1,PhD,Metro,1.7,2,No,530068.0
+IT,Accountant,14,Graduate,Metro,1.77,0,No,759785.0
+Education,Software Engineer,10,Diploma,Metro,4.18,0,No,650937.0
+Healthcare,Data Analyst,0,Graduate,Tier 2 City,4.62,1,No,350837.0
+Manufacturing,Accountant,16,Postgraduate,Tier 1 City,2.65,1,No,860683.0
+Finance,HR Manager,6,Graduate,Tier 1 City,3.14,1,Yes,509141.0
+Healthcare,HR Manager,2,Graduate,Tier 2 City,4.44,1,No,472014.0
+Manufacturing,Accountant,0,Postgraduate,Tier 1 City,1.63,0,Yes,365770.0
+Education,Software Engineer,3,Graduate,Metro,1.58,1,Yes,459988.0
+Education,Data Analyst,8,Postgraduate,Metro,4.01,1,No,689926.0
+IT,Software Engineer,7,Postgraduate,Tier 1 City,4.84,0,No,654250.0
+IT,Marketing Executive,4,Graduate,Tier 1 City,2.38,1,No,415892.0
+IT,Accountant,9,Graduate,Tier 2 City,3.78,1,Yes,570077.0
+Healthcare,Software Engineer,1,PhD,Tier 1 City,2.31,2,Yes,471987.0
+Education,Software Engineer,0,Postgraduate,Metro,4.04,0,No,513504.0
+Healthcare,HR Manager,11,Postgraduate,Tier 1 City,4.61,2,No,712110.0
+Finance,Marketing Executive,15,PhD,Metro,4.45,1,No,914537.0
+Education,Accountant,4,Postgraduate,Tier 1 City,2.77,1,No,492465.0
+Manufacturing,Data Analyst,6,Postgraduate,Tier 1 City,3.6,2,No,652363.0
+Healthcare,Marketing Executive,17,Postgraduate,Tier 1 City,2.28,3,No,816732.0
+Education,HR Manager,9,Postgraduate,Tier 1 City,2.47,1,No,634784.0
+Education,HR Manager,3,Graduate,Metro,1.7,1,No,456325.0
+Finance,Marketing Executive,16,Diploma,Metro,2.73,2,No,764129.0
+Healthcare,HR Manager,13,Postgraduate,Metro,2.47,2,No,814875.0
+Healthcare,Data Analyst,2,Postgraduate,Tier 1 City,3.55,2,No,535229.0
+IT,Marketing Executive,0,Postgraduate,Metro,1.84,1,Yes,445836.0
+IT,Marketing Executive,2,Graduate,Metro,4.39,1,Yes,516186.0
+Education,Accountant,16,Graduate,Metro,4.41,1,No,858006.0
+Education,HR Manager,2,Graduate,Metro,1.44,1,No,433040.0
+Finance,HR Manager,2,Graduate,Tier 1 City,1.64,1,No,400083.0
+IT,HR Manager,6,Graduate,Tier 1 City,3.48,0,No,555985.0
+Education,Software Engineer,16,Graduate,Tier 1 City,2.99,2,No,743861.0
+Manufacturing,Software Engineer,15,Graduate,Metro,4.69,1,No,817638.0
+Healthcare,Software Engineer,19,Graduate,Tier 2 City,4.82,1,No,860055.0
+Education,HR Manager,11,Diploma,Tier 1 City,3.34,2,No,661271.0
+Finance,Software Engineer,0,Graduate,Tier 1 City,2.12,2,Yes,365623.0
+Healthcare,Software Engineer,0,Postgraduate,Tier 1 City,2.51,0,No,426791.0
+Healthcare,Software Engineer,6,Graduate,Tier 1 City,2.08,0,Yes,445804.0
+Finance,Accountant,11,Graduate,Tier 1 City,4.16,1,Yes,662643.0
+Healthcare,Marketing Executive,7,Postgraduate,Tier 1 City,3.57,0,No,556222.0
+IT,Software Engineer,0,Postgraduate,Metro,4.15,0,Yes,503942.0
+Finance,Data Analyst,18,Postgraduate,Tier 1 City,1.34,0,No,856281.0
+Education,Accountant,9,Graduate,Metro,4.65,0,No,669571.0
+Manufacturing,Accountant,16,Graduate,Metro,3.91,0,No,841095.0
+Healthcare,Accountant,12,Postgraduate,Tier 2 City,1.14,4,No,658738.0
+Manufacturing,Accountant,13,Postgraduate,Tier 1 City,2.18,1,No,755742.0
+Manufacturing,Marketing Executive,16,Postgraduate,Metro,1.97,2,Yes,848270.0
+Manufacturing,Data Analyst,9,Postgraduate,Metro,4.51,2,No,699391.0
+Manufacturing,HR Manager,17,Graduate,Metro,3.37,1,No,900267.0
+Healthcare,HR Manager,12,Postgraduate,Tier 1 City,1.1,3,No,701441.0
+Education,Marketing Executive,3,Graduate,Tier 1 City,1.53,1,Yes,370208.0
+Education,Data Analyst,10,Postgraduate,Tier 2 City,1.31,1,No,625158.0
+Finance,Accountant,1,Graduate,Metro,2.08,0,Yes,405332.0
+IT,Software Engineer,5,Postgraduate,Metro,2.1,1,No,593513.0
+IT,Data Analyst,6,Diploma,Tier 1 City,2.09,2,No,491767.0
+Manufacturing,Software Engineer,8,Postgraduate,Metro,1.57,0,No,624617.0
+Manufacturing,Software Engineer,18,Postgraduate,Metro,2.55,2,No,907530.0
+Healthcare,Software Engineer,9,Postgraduate,Tier 2 City,4.7,1,No,666740.0
+Finance,Software Engineer,11,PhD,Tier 1 City,3.14,0,No,716596.0
+Education,Data Analyst,9,Graduate,Tier 2 City,2.6,2,No,592179.0
+Healthcare,Accountant,14,Graduate,Metro,4.3,1,No,792948.0
+Healthcare,Marketing Executive,17,PhD,Tier 1 City,4.23,1,Yes,895408.0
+Manufacturing,Accountant,8,PhD,Metro,4.28,1,No,717075.0
+Healthcare,HR Manager,3,Postgraduate,Metro,3.7,2,No,556441.0
+IT,HR Manager,8,Graduate,Metro,1.99,1,No,622881.0
+Education,Marketing Executive,9,Postgraduate,Tier 2 City,1.76,0,Yes,622268.0
+Healthcare,Accountant,2,PhD,Tier 1 City,2.6,1,No,491516.0
+IT,Marketing Executive,10,Postgraduate,Metro,3.16,1,No,720712.0
+Education,Software Engineer,12,Graduate,Tier 1 City,2.24,1,No,643155.0
+IT,Accountant,7,Postgraduate,Metro,3.26,0,Yes,651429.0
+Manufacturing,HR Manager,7,Postgraduate,Tier 1 City,4.99,2,No,621222.0
+Healthcare,Accountant,8,Diploma,Tier 1 City,2.36,1,No,538152.0
+Manufacturing,Data Analyst,6,PhD,Tier 1 City,1.18,0,No,568242.0
+Education,HR Manager,4,Postgraduate,Metro,4.99,0,No,553734.0
+Manufacturing,Marketing Executive,10,Graduate,Metro,3.67,1,No,629540.0
+Finance,HR Manager,16,Diploma,Tier 1 City,2.1,1,No,720491.0
+IT,Data Analyst,10,Diploma,Tier 1 City,1.0,2,No,527802.0
+IT,Marketing Executive,12,Postgraduate,Tier 2 City,1.81,2,Yes,669325.0
+Finance,Marketing Executive,0,Graduate,Tier 2 City,1.19,0,Yes,293795.0
+Finance,Marketing Executive,6,Diploma,Metro,4.3,0,Yes,526482.0
+Manufacturing,Accountant,9,Graduate,Metro,2.46,0,No,627662.0
+Healthcare,Marketing Executive,0,Postgraduate,Tier 1 City,2.18,0,Yes,383692.0
+Education,Data Analyst,9,PhD,Tier 1 City,4.18,1,No,742103.0
+Healthcare,Software Engineer,10,Postgraduate,Tier 2 City,1.8,2,No,624593.0
+IT,Data Analyst,5,Postgraduate,Tier 1 City,2.25,3,No,560229.0
+Education,Marketing Executive,3,Diploma,Tier 1 City,2.11,0,Yes,337584.0
+Healthcare,Marketing Executive,7,Postgraduate,Metro,1.52,0,No,621872.0
+Manufacturing,Software Engineer,14,Graduate,Metro,1.14,1,No,749859.0
+Education,Accountant,3,Diploma,Metro,3.44,0,Yes,437893.0
+Education,Software Engineer,0,Graduate,Metro,4.74,1,Yes,439354.0
+Healthcare,Accountant,14,Postgraduate,Tier 1 City,1.36,2,No,737329.0
+Finance,Software Engineer,10,Graduate,Tier 1 City,2.01,1,No,544629.0
+Manufacturing,Software Engineer,5,Diploma,Tier 1 City,4.12,2,Yes,501113.0
+Education,Marketing Executive,13,Graduate,Tier 2 City,1.42,1,No,641004.0
+IT,Data Analyst,13,PhD,Tier 1 City,4.49,0,No,815455.0
+Education,Marketing Executive,17,Graduate,Metro,4.25,0,No,865922.0
+IT,Data Analyst,19,Postgraduate,Metro,1.73,1,No,967970.0
+Education,Marketing Executive,9,Graduate,Tier 1 City,3.52,0,No,589701.0
+Healthcare,Marketing Executive,18,Graduate,Tier 2 City,4.64,1,No,833306.0
+Manufacturing,HR Manager,12,Postgraduate,Tier 1 City,4.17,1,Yes,749447.0
+Finance,Data Analyst,14,Graduate,Metro,2.87,1,No,736138.0
+Education,Data Analyst,0,Graduate,Tier 2 City,1.04,1,Yes,297096.0
+Healthcare,Marketing Executive,6,Graduate,Tier 1 City,1.01,2,No,533806.0
+Healthcare,Data Analyst,4,PhD,Tier 2 City,1.79,2,Yes,530263.0
+Manufacturing,Software Engineer,18,Postgraduate,Tier 1 City,3.69,3,No,911527.0
+Manufacturing,Software Engineer,13,Diploma,Tier 1 City,1.76,0,No,582299.0
+Healthcare,HR Manager,3,Diploma,Tier 1 City,2.77,0,No,392309.0
+Healthcare,Accountant,0,Diploma,Tier 1 City,2.44,3,Yes,295206.0
+Education,Software Engineer,6,Graduate,Tier 2 City,2.43,0,No,451252.0
+Manufacturing,Software Engineer,13,PhD,Metro,2.92,0,Yes,820354.0
+Education,Accountant,18,Graduate,Tier 2 City,4.91,0,Yes,785490.0
+Manufacturing,Marketing Executive,15,Graduate,Tier 1 City,4.69,1,No,783283.0
+Manufacturing,Data Analyst,18,Postgraduate,Tier 1 City,4.57,4,Yes,937117.0
+Education,HR Manager,2,Graduate,Metro,3.84,0,Yes,452794.0
+IT,Software Engineer,17,Graduate,Tier 2 City,2.81,1,No,819567.0
+Healthcare,HR Manager,8,Postgraduate,Tier 1 City,1.9,2,No,625056.0
+Finance,Software Engineer,7,PhD,Tier 2 City,2.9,0,No,620932.0
+IT,Marketing Executive,19,Graduate,Tier 2 City,1.8,0,Yes,764327.0
+Finance,Marketing Executive,8,Graduate,Tier 1 City,3.01,3,Yes,617037.0
+Finance,Marketing Executive,0,PhD,Metro,2.02,1,Yes,524775.0
+Education,Software Engineer,14,Graduate,Tier 1 City,4.11,0,No,721918.0
+IT,HR Manager,13,Diploma,Tier 1 City,4.09,1,Yes,645154.0
+IT,HR Manager,5,Postgraduate,Metro,4.07,2,No,586845.0
+Education,Accountant,10,Graduate,Metro,4.7,0,Yes,697977.0
+Manufacturing,Software Engineer,10,PhD,Metro,4.01,0,Yes,806672.0
+Healthcare,Accountant,13,Graduate,Tier 1 City,4.1,1,No,671761.0
+IT,Software Engineer,8,Graduate,Metro,4.06,1,No,635528.0
+Healthcare,Software Engineer,13,Graduate,Metro,3.25,2,No,809342.0
+Manufacturing,Data Analyst,0,Postgraduate,Tier 1 City,2.81,2,Yes,452925.0
+Finance,Data Analyst,11,Graduate,Tier 1 City,1.91,1,No,610744.0
+Finance,HR Manager,3,Postgraduate,Tier 1 City,3.3,1,Yes,532426.0
+Manufacturing,Accountant,4,PhD,Metro,3.49,0,Yes,615992.0
+IT,Marketing Executive,7,Graduate,Metro,2.65,1,No,619740.0
+Finance,Software Engineer,1,Graduate,Metro,1.45,0,No,392254.0
+Education,HR Manager,8,Graduate,Tier 1 City,3.8,0,No,585957.0
+Education,Marketing Executive,15,Postgraduate,Tier 1 City,1.18,3,Yes,799889.0
+Education,Accountant,7,Postgraduate,Tier 1 City,4.52,0,Yes,588216.0
+Healthcare,Accountant,1,Graduate,Tier 1 City,2.09,3,No,380505.0
+Education,Marketing Executive,16,Graduate,Tier 2 City,4.19,1,No,779397.0
+Manufacturing,HR Manager,17,PhD,Tier 2 City,1.52,2,No,860187.0
+Education,Software Engineer,13,Graduate,Tier 2 City,2.37,0,No,661125.0
+IT,Marketing Executive,16,Postgraduate,Tier 1 City,2.92,2,Yes,822821.0
+IT,Marketing Executive,12,Diploma,Tier 2 City,4.85,2,No,646894.0
+Manufacturing,Data Analyst,17,PhD,Tier 1 City,3.12,2,Yes,907947.0
+Education,Software Engineer,19,Graduate,Tier 1 City,2.95,1,No,828529.0
+Healthcare,Software Engineer,18,Graduate,Tier 1 City,2.25,3,No,869630.0
+Education,Accountant,16,Postgraduate,Tier 1 City,2.97,2,Yes,795659.0
+IT,Marketing Executive,5,Postgraduate,Metro,4.42,0,No,609694.0
+IT,HR Manager,18,Graduate,Metro,2.88,1,No,849990.0
+Healthcare,Software Engineer,15,Postgraduate,Tier 1 City,2.05,0,No,768243.0
+Education,HR Manager,11,PhD,Tier 2 City,2.0,1,No,685526.0
+Manufacturing,Data Analyst,12,Graduate,Tier 1 City,1.31,0,No,642023.0
+IT,Accountant,14,Postgraduate,Tier 2 City,3.28,1,No,785262.0
+Finance,Software Engineer,10,Graduate,Tier 1 City,3.71,0,No,615811.0
+Education,HR Manager,11,Graduate,Metro,4.55,1,Yes,712424.0
+Education,HR Manager,11,Diploma,Metro,1.36,0,Yes,631618.0
+Finance,Marketing Executive,9,Postgraduate,Metro,2.03,0,No,667535.0
+Finance,Software Engineer,2,Graduate,Tier 2 City,1.07,0,Yes,325624.0
+IT,Data Analyst,14,Postgraduate,Tier 1 City,2.5,1,No,788208.0
+IT,Marketing Executive,13,Graduate,Metro,1.04,1,No,689952.0
+Finance,Marketing Executive,1,Postgraduate,Tier 2 City,2.22,2,Yes,413902.0
+Education,Marketing Executive,9,Postgraduate,Metro,4.9,0,No,725271.0
+Education,Marketing Executive,17,Graduate,Tier 1 City,3.56,0,Yes,808918.0
+Healthcare,Software Engineer,12,Postgraduate,Metro,4.81,2,No,799227.0
+Manufacturing,Accountant,3,Diploma,Metro,1.33,3,No,444273.0
+IT,Accountant,17,Postgraduate,Tier 2 City,3.15,2,No,827201.0
+Finance,HR Manager,17,Graduate,Tier 1 City,4.75,1,Yes,806998.0
+IT,Accountant,1,Postgraduate,Tier 1 City,1.65,0,No,409742.0
+Manufacturing,HR Manager,1,Postgraduate,Metro,2.13,2,Yes,447166.0
+Education,Accountant,4,Postgraduate,Tier 1 City,4.15,0,Yes,535929.0
+Finance,Marketing Executive,12,Postgraduate,Tier 1 City,2.93,1,No,715868.0
+IT,Data Analyst,16,Postgraduate,Metro,3.39,0,No,909298.0
+Healthcare,Accountant,13,Diploma,Metro,2.35,0,No,655435.0
+Finance,Data Analyst,14,Graduate,Tier 1 City,4.09,0,No,748311.0
+Finance,HR Manager,2,Graduate,Tier 2 City,2.62,1,No,380254.0
+Healthcare,HR Manager,13,Graduate,Metro,4.03,1,Yes,753276.0
+Healthcare,Software Engineer,16,Graduate,Metro,4.41,0,Yes,840125.0
+Healthcare,HR Manager,14,Graduate,Tier 2 City,3.99,2,Yes,755825.0
+Healthcare,Data Analyst,17,Graduate,Metro,2.6,0,No,861446.0
+IT,Accountant,16,Graduate,Tier 1 City,3.74,1,Yes,764174.0
+Manufacturing,HR Manager,2,Postgraduate,Metro,2.91,2,No,500427.0
+Finance,Software Engineer,8,Graduate,Tier 1 City,3.69,1,No,559188.0
+Manufacturing,HR Manager,3,Graduate,Tier 2 City,1.26,6,No,470039.0
+Healthcare,Data Analyst,10,PhD,Tier 1 City,1.47,2,No,722807.0
+Healthcare,Data Analyst,16,Postgraduate,Tier 2 City,4.27,1,Yes,799766.0
+Healthcare,Accountant,6,Postgraduate,Metro,4.11,1,Yes,665495.0
+Healthcare,Accountant,17,Graduate,Tier 1 City,1.98,0,No,763878.0
+IT,Software Engineer,15,Postgraduate,Metro,2.49,2,Yes,855387.0
+Education,Marketing Executive,11,Graduate,Tier 1 City,3.56,2,No,624457.0
+IT,HR Manager,13,Postgraduate,Tier 1 City,1.09,1,No,672787.0
+Healthcare,Marketing Executive,18,Graduate,Tier 1 City,3.37,1,No,865061.0
+IT,Marketing Executive,1,Graduate,Tier 1 City,4.76,2,Yes,413348.0
+Finance,Data Analyst,17,Graduate,Tier 1 City,2.48,1,No,745285.0
+Manufacturing,Accountant,10,PhD,Metro,2.6,1,No,721711.0
+Healthcare,HR Manager,6,Graduate,Tier 2 City,2.43,1,No,556276.0
+Finance,HR Manager,8,Diploma,Tier 2 City,2.18,0,Yes,441030.0
+Manufacturing,HR Manager,11,Diploma,Metro,2.23,0,No,637665.0
+IT,Accountant,3,Postgraduate,Metro,4.79,0,Yes,547925.0
+Manufacturing,Accountant,2,Graduate,Tier 1 City,4.41,1,No,401520.0
+IT,Software Engineer,11,Graduate,Tier 1 City,1.31,3,No,579540.0
+Manufacturing,Software Engineer,11,Graduate,Metro,1.83,0,No,638954.0
+Healthcare,Data Analyst,9,PhD,Metro,3.34,0,No,708726.0
+Healthcare,HR Manager,6,Postgraduate,Tier 2 City,1.04,0,No,518951.0
+IT,Accountant,4,Diploma,Tier 2 City,3.92,1,No,393074.0
+Manufacturing,Marketing Executive,14,Graduate,Metro,1.36,1,No,731789.0
+IT,Accountant,2,Postgraduate,Tier 2 City,1.77,1,Yes,441728.0
+Healthcare,Marketing Executive,3,Postgraduate,Tier 2 City,3.48,3,Yes,543576.0
+Education,Data Analyst,15,Postgraduate,Tier 1 City,3.41,1,No,794484.0
+Healthcare,Marketing Executive,10,Graduate,Tier 1 City,3.3,0,Yes,598794.0
+Education,HR Manager,18,Postgraduate,Metro,4.92,2,No,919052.0
+Education,HR Manager,8,Graduate,Metro,3.41,1,No,589816.0
+IT,HR Manager,4,PhD,Tier 2 City,2.87,0,Yes,565418.0
+Education,Data Analyst,12,Postgraduate,Tier 1 City,1.79,0,No,669552.0
+Finance,Marketing Executive,19,PhD,Tier 1 City,2.22,0,No,938241.0
+Education,Marketing Executive,8,Graduate,Metro,3.89,0,No,634767.0
+Healthcare,Marketing Executive,12,Graduate,Tier 2 City,4.21,2,No,688004.0
+IT,HR Manager,5,Postgraduate,Tier 2 City,4.66,3,Yes,541343.0
+Healthcare,Accountant,16,Graduate,Tier 1 City,4.69,0,No,752603.0
+Manufacturing,Marketing Executive,2,Diploma,Metro,4.96,0,Yes,448679.0
+Healthcare,Data Analyst,9,Graduate,Tier 1 City,2.23,0,No,591425.0
+Finance,Marketing Executive,9,PhD,Metro,3.07,0,No,754351.0
+Manufacturing,Data Analyst,0,Graduate,Metro,4.1,1,No,413903.0
+Education,Accountant,9,Postgraduate,Metro,3.35,0,No,699575.0
+Manufacturing,Marketing Executive,8,Diploma,Tier 1 City,2.16,2,No,516301.0
+Education,Software Engineer,8,Postgraduate,Tier 1 City,3.5,1,Yes,648057.0
+Healthcare,Accountant,18,Graduate,Metro,2.08,0,No,811691.0
+IT,Data Analyst,1,Diploma,Metro,4.4,2,No,374116.0
+IT,Data Analyst,9,Graduate,Tier 1 City,1.9,0,No,519531.0
+Healthcare,Accountant,8,Graduate,Tier 1 City,3.44,0,Yes,615724.0
+Finance,Accountant,14,Graduate,Metro,2.23,2,No,768651.0
+Education,Software Engineer,5,Graduate,Tier 1 City,1.51,2,No,480945.0
+Healthcare,Marketing Executive,1,Graduate,Metro,1.6,1,No,441050.0
+IT,Software Engineer,10,Postgraduate,Metro,1.03,1,No,659837.0
+Manufacturing,Software Engineer,5,Diploma,Tier 1 City,3.46,1,Yes,436932.0
+Healthcare,HR Manager,14,Postgraduate,Metro,4.41,1,No,867774.0
+Education,Marketing Executive,6,Postgraduate,Tier 1 City,3.69,2,Yes,589418.0
+Education,Data Analyst,15,Graduate,Tier 1 City,1.31,0,No,673172.0
+Healthcare,Marketing Executive,0,Postgraduate,Tier 1 City,3.31,1,No,423197.0
+IT,Accountant,3,Postgraduate,Tier 1 City,4.57,0,No,466695.0
+Healthcare,Accountant,11,PhD,Tier 2 City,3.38,0,No,727504.0
+Education,Accountant,5,Postgraduate,Tier 1 City,3.88,1,No,552384.0
+Manufacturing,HR Manager,11,Graduate,Metro,1.37,2,No,684060.0
+Finance,Software Engineer,17,Graduate,Metro,2.78,0,No,829935.0
+Manufacturing,Data Analyst,5,Graduate,Tier 2 City,1.51,1,No,413676.0
+Education,Accountant,12,Postgraduate,Metro,2.63,1,Yes,730564.0
+Finance,Accountant,18,PhD,Tier 1 City,4.6,3,Yes,968871.0
+Education,Software Engineer,19,Graduate,Metro,4.69,0,No,931602.0
+Education,HR Manager,2,Graduate,Tier 1 City,2.91,1,No,400061.0
+Healthcare,Data Analyst,8,Graduate,Tier 2 City,1.7,1,No,548649.0
+IT,Software Engineer,17,Graduate,Tier 1 City,3.65,0,No,757141.0
+Finance,Data Analyst,19,Graduate,Metro,2.52,2,No,923111.0
+Healthcare,Accountant,6,Postgraduate,Tier 1 City,1.42,1,No,565314.0
+Manufacturing,Software Engineer,19,Postgraduate,Tier 1 City,4.83,2,No,973396.0
+Finance,HR Manager,7,Postgraduate,Tier 1 City,3.53,1,No,584793.0
+IT,Marketing Executive,7,Postgraduate,Metro,3.67,0,No,651497.0
+IT,Software Engineer,16,Graduate,Tier 1 City,2.14,1,No,750066.0
+Finance,Software Engineer,9,PhD,Metro,4.94,0,No,748580.0
+IT,Data Analyst,10,Graduate,Tier 1 City,2.81,1,No,625196.0
+Manufacturing,Marketing Executive,1,Graduate,Tier 2 City,1.14,1,No,348242.0
+Education,Software Engineer,9,Postgraduate,Metro,3.55,2,No,733414.0
+Education,Software Engineer,7,Graduate,Tier 1 City,3.08,1,Yes,561432.0
+Finance,Software Engineer,17,Postgraduate,Metro,1.06,3,Yes,845130.0
+Healthcare,Data Analyst,11,Postgraduate,Tier 1 City,3.97,1,Yes,707479.0
+Manufacturing,Marketing Executive,1,Diploma,Tier 1 City,3.49,1,No,332134.0
+Manufacturing,Data Analyst,17,Graduate,Metro,4.75,2,No,879005.0
+Education,Software Engineer,12,Postgraduate,Metro,1.31,0,No,729820.0
+Education,Data Analyst,14,Graduate,Tier 1 City,2.77,3,No,723738.0
+IT,Data Analyst,9,Graduate,Tier 2 City,4.71,2,Yes,596909.0
+Finance,Software Engineer,1,Diploma,Tier 1 City,3.47,0,Yes,315092.0
+Finance,HR Manager,18,Graduate,Tier 2 City,1.74,1,No,732686.0
+Finance,Accountant,17,Postgraduate,Tier 2 City,3.56,1,No,804170.0
+IT,Software Engineer,7,Graduate,Metro,3.26,0,No,571219.0
+Healthcare,Marketing Executive,16,Graduate,Tier 1 City,3.92,0,No,797010.0
+Healthcare,Accountant,5,Graduate,Metro,4.86,1,Yes,587033.0
+Healthcare,Software Engineer,12,Graduate,Metro,1.83,1,No,695946.0
+Education,HR Manager,14,Graduate,Tier 2 City,2.37,2,No,683214.0
+Education,Marketing Executive,2,Graduate,Tier 1 City,3.21,1,No,434746.0
+IT,HR Manager,4,Graduate,Tier 1 City,4.32,1,No,483019.0
+Finance,Marketing Executive,19,Graduate,Metro,2.39,0,No,900397.0
+IT,Software Engineer,19,Graduate,Tier 1 City,4.76,1,Yes,885230.0
+Healthcare,Data Analyst,11,Postgraduate,Tier 1 City,4.19,2,No,691895.0
+IT,HR Manager,6,Graduate,Tier 1 City,4.02,0,Yes,541843.0
+Education,Accountant,18,Postgraduate,Tier 1 City,3.4,1,No,905277.0
+Education,Software Engineer,0,Graduate,Tier 1 City,4.35,0,No,432952.0
+IT,Accountant,9,Graduate,Tier 2 City,1.79,0,Yes,525844.0
+Finance,Marketing Executive,5,Graduate,Tier 1 City,3.3,0,Yes,466803.0
+Finance,Marketing Executive,12,Graduate,Metro,4.04,1,No,743054.0
+Education,Software Engineer,7,Graduate,Metro,1.38,1,No,538146.0
+Finance,Marketing Executive,10,Graduate,Tier 1 City,2.76,0,No,620012.0
+Manufacturing,Marketing Executive,15,Graduate,Tier 2 City,2.23,1,No,692046.0
+Manufacturing,Data Analyst,3,Postgraduate,Metro,1.27,0,No,500563.0
+IT,Data Analyst,11,Postgraduate,Metro,1.96,3,No,721424.0
+Manufacturing,Data Analyst,17,Postgraduate,Metro,1.97,1,No,824321.0
+Manufacturing,Data Analyst,8,Postgraduate,Metro,4.42,0,No,668572.0
+Manufacturing,Accountant,10,Graduate,Tier 1 City,4.21,0,No,650394.0
+IT,Software Engineer,16,Diploma,Metro,2.12,1,No,748736.0
+IT,Marketing Executive,1,Graduate,Metro,2.39,2,No,447299.0
+Healthcare,HR Manager,18,Graduate,Tier 1 City,2.39,0,No,776979.0
+Education,Data Analyst,1,Graduate,Tier 2 City,4.53,2,No,378411.0
+IT,Data Analyst,15,Postgraduate,Tier 2 City,3.53,0,No,733594.0
+Finance,Data Analyst,11,Graduate,Tier 1 City,4.33,2,No,688016.0
+IT,Accountant,4,Postgraduate,Tier 1 City,2.07,0,No,491951.0
+Finance,Software Engineer,9,Diploma,Metro,2.73,1,No,594740.0
+Healthcare,Data Analyst,12,Diploma,Tier 1 City,4.69,0,Yes,718706.0
+Finance,Software Engineer,12,Graduate,Tier 2 City,4.72,1,No,708385.0
+Manufacturing,HR Manager,15,Postgraduate,Tier 1 City,4.22,2,No,820156.0
+Education,Software Engineer,2,Diploma,Tier 1 City,2.93,0,No,346485.0
+Education,HR Manager,8,Graduate,Metro,1.84,1,No,569202.0
+Manufacturing,Software Engineer,19,Graduate,Metro,2.39,0,Yes,882054.0
+Finance,Software Engineer,10,Diploma,Tier 1 City,3.25,0,Yes,576748.0
+Education,Marketing Executive,1,Postgraduate,Metro,1.47,1,Yes,471562.0
+Healthcare,HR Manager,8,Graduate,Metro,2.19,1,No,562518.0
+Finance,HR Manager,3,Postgraduate,Tier 1 City,2.25,1,No,446322.0
+Finance,Accountant,9,Graduate,Metro,1.95,0,No,591443.0
+Healthcare,Accountant,12,Postgraduate,Metro,3.69,0,Yes,795348.0
+Manufacturing,HR Manager,12,PhD,Tier 1 City,3.32,1,Yes,767263.0
+Manufacturing,Data Analyst,12,Postgraduate,Tier 1 City,4.09,0,No,746990.0
+Finance,Software Engineer,17,Postgraduate,Tier 2 City,3.48,1,Yes,867440.0
+Finance,Software Engineer,16,Postgraduate,Tier 1 City,3.57,0,No,839725.0
+Manufacturing,Software Engineer,1,Graduate,Metro,2.74,1,No,445457.0
+Finance,Marketing Executive,11,Postgraduate,Tier 1 City,1.28,0,No,665335.0
+Healthcare,HR Manager,10,Graduate,Tier 1 City,1.5,0,Yes,545117.0
+Manufacturing,Marketing Executive,19,Postgraduate,Tier 1 City,4.23,2,Yes,921752.0
+Manufacturing,Data Analyst,7,Graduate,Tier 2 City,4.11,2,No,537960.0
+Finance,Accountant,5,Graduate,Tier 1 City,2.59,2,No,496050.0
+Education,Data Analyst,10,Graduate,Metro,4.35,0,No,708048.0
+Finance,Marketing Executive,18,Postgraduate,Tier 1 City,1.3,1,Yes,845236.0
+Finance,Data Analyst,16,Graduate,Metro,3.36,1,No,819052.0
+IT,Accountant,19,PhD,Tier 2 City,4.61,2,Yes,960049.0
+Healthcare,Marketing Executive,11,Graduate,Tier 1 City,4.27,1,No,660343.0
+Manufacturing,Marketing Executive,6,Graduate,Metro,1.54,1,Yes,538426.0
+Healthcare,Accountant,12,PhD,Metro,2.46,0,No,789429.0
+Healthcare,Marketing Executive,8,Graduate,Tier 1 City,2.39,1,No,528510.0
+Finance,Marketing Executive,11,Postgraduate,Tier 1 City,3.27,0,Yes,625565.0
+Finance,Marketing Executive,16,Postgraduate,Metro,3.3,0,Yes,907587.0
+Manufacturing,Software Engineer,1,PhD,Metro,2.58,2,No,576345.0
+Manufacturing,Accountant,19,Graduate,Metro,4.94,1,No,965987.0
+Manufacturing,Software Engineer,7,Postgraduate,Tier 1 City,1.63,1,No,550193.0
+IT,Accountant,14,Postgraduate,Metro,2.31,0,No,773843.0
+Manufacturing,Accountant,8,Postgraduate,Tier 1 City,3.93,1,No,637614.0
+Finance,Accountant,9,Graduate,Metro,2.6,0,No,671630.0
+Healthcare,Software Engineer,11,Diploma,Tier 1 City,1.76,2,No,524304.0
+IT,Data Analyst,11,Graduate,Tier 1 City,1.9,0,No,620575.0
+Education,Marketing Executive,12,Graduate,Metro,1.31,2,No,660091.0
+Finance,Software Engineer,17,Graduate,Metro,4.88,0,No,846063.0
+IT,HR Manager,4,PhD,Tier 1 City,2.29,0,No,511849.0
+Education,Data Analyst,3,Postgraduate,Metro,1.57,0,No,533680.0
+Manufacturing,Data Analyst,8,Graduate,Metro,1.59,1,Yes,550756.0
+IT,Data Analyst,1,Graduate,Tier 1 City,4.83,0,No,422788.0
+Finance,Marketing Executive,4,Graduate,Tier 2 City,2.03,0,No,440095.0
+Education,HR Manager,19,Postgraduate,Tier 2 City,3.25,1,No,861054.0
+Finance,Marketing Executive,18,Postgraduate,Tier 1 City,4.62,3,Yes,954947.0
+Manufacturing,Data Analyst,18,Graduate,Metro,1.08,0,No,846373.0
+Finance,HR Manager,3,PhD,Metro,1.5,1,No,556851.0
+IT,Data Analyst,18,Graduate,Tier 1 City,1.81,1,No,823015.0
+Education,Accountant,17,Graduate,Metro,4.66,4,Yes,921964.0
+Healthcare,Marketing Executive,12,Graduate,Tier 2 City,4.92,0,Yes,698604.0
+IT,HR Manager,4,Diploma,Tier 1 City,1.9,0,No,399142.0
+Education,HR Manager,15,Graduate,Metro,4.68,1,No,792360.0
+IT,Software Engineer,2,Graduate,Metro,4.88,0,No,517274.0
+Finance,Accountant,1,Postgraduate,Metro,4.11,3,No,550688.0
+Manufacturing,Software Engineer,18,Postgraduate,Metro,1.82,0,Yes,853588.0
+Finance,Software Engineer,4,Postgraduate,Tier 1 City,4.19,0,Yes,491304.0
+Finance,Accountant,19,Graduate,Tier 1 City,1.99,1,Yes,866619.0
+Healthcare,Data Analyst,16,Graduate,Tier 1 City,1.11,2,No,768169.0
+Finance,HR Manager,17,PhD,Metro,3.01,3,No,956463.0
+Manufacturing,Software Engineer,17,Graduate,Tier 1 City,1.87,0,Yes,774595.0
+IT,Marketing Executive,16,Graduate,Metro,2.22,1,No,838423.0
+Finance,Accountant,13,Diploma,Metro,2.73,1,No,677686.0
+Healthcare,HR Manager,11,Postgraduate,Tier 2 City,1.07,0,Yes,625190.0
+Education,Marketing Executive,12,Graduate,Metro,1.79,0,No,682447.0
+IT,HR Manager,4,Graduate,Metro,4.51,1,Yes,548813.0
+Manufacturing,Marketing Executive,5,Graduate,Metro,1.28,0,No,487948.0
+Healthcare,Accountant,4,Graduate,Metro,2.79,0,Yes,468186.0
+Education,HR Manager,0,Postgraduate,Tier 1 City,2.05,1,Yes,386807.0
+Healthcare,Marketing Executive,13,PhD,Tier 2 City,4.67,3,No,842718.0
+Finance,HR Manager,1,Postgraduate,Metro,1.17,0,No,425711.0
+Education,Accountant,9,Graduate,Tier 1 City,4.44,1,No,630840.0
+Education,Accountant,5,Graduate,Tier 1 City,3.4,1,No,492144.0
+IT,HR Manager,0,Graduate,Tier 1 City,4.13,1,No,411482.0
+Healthcare,Software Engineer,1,Graduate,Tier 1 City,4.54,2,Yes,397581.0
+Manufacturing,Accountant,14,Graduate,Metro,4.34,0,Yes,819481.0
+Healthcare,Accountant,16,PhD,Tier 2 City,2.74,0,No,842349.0
+Education,Data Analyst,7,PhD,Metro,2.06,1,No,689279.0
+Education,Software Engineer,1,Graduate,Tier 1 City,2.81,2,No,394434.0
+Education,Software Engineer,19,PhD,Tier 1 City,4.05,0,No,972231.0
+Manufacturing,Marketing Executive,13,Postgraduate,Metro,2.43,0,No,816091.0
+IT,Marketing Executive,2,Postgraduate,Metro,1.89,1,Yes,505641.0
+Manufacturing,Accountant,4,Graduate,Metro,4.49,1,No,550602.0
+Education,Accountant,7,Postgraduate,Metro,1.33,1,Yes,622103.0
+Finance,Marketing Executive,19,Diploma,Tier 2 City,2.41,2,No,728877.0
+Manufacturing,Data Analyst,18,Diploma,Tier 2 City,4.23,1,Yes,785999.0
+Education,Software Engineer,10,Graduate,Metro,4.79,0,Yes,689322.0
+Finance,Software Engineer,16,Diploma,Metro,1.69,2,Yes,786346.0
+Finance,Accountant,1,Postgraduate,Metro,4.95,1,No,540245.0
+Education,Accountant,4,Graduate,Tier 1 City,4.93,3,Yes,554296.0
+Education,Data Analyst,5,Diploma,Tier 2 City,4.59,1,No,470765.0
+Healthcare,Marketing Executive,5,Graduate,Metro,2.1,0,No,575717.0
+Healthcare,Accountant,17,Graduate,Metro,4.35,3,No,900404.0
+Healthcare,Accountant,10,Graduate,Tier 1 City,2.88,1,No,646916.0
+Education,Data Analyst,9,Graduate,Tier 1 City,1.5,0,Yes,581394.0
+Manufacturing,Data Analyst,6,Graduate,Metro,3.75,1,No,587269.0
+Manufacturing,HR Manager,4,Graduate,Tier 2 City,2.16,3,Yes,448363.0
+IT,Accountant,3,Postgraduate,Tier 1 City,1.79,0,No,432778.0
+Healthcare,Accountant,13,Graduate,Tier 1 City,3.96,0,No,715389.0
+Healthcare,Data Analyst,10,PhD,Tier 1 City,2.38,1,No,756910.0
+Healthcare,Marketing Executive,18,Graduate,Tier 1 City,3.22,1,Yes,821421.0
+IT,HR Manager,6,Graduate,Metro,2.4,3,Yes,620884.0
+IT,Accountant,7,Graduate,Tier 1 City,1.27,0,Yes,492272.0
+Finance,HR Manager,3,Diploma,Metro,1.25,2,No,459790.0
+Healthcare,Software Engineer,8,Graduate,Tier 1 City,2.84,1,Yes,586821.0
+IT,Marketing Executive,19,Graduate,Tier 1 City,1.14,1,Yes,829765.0
+Manufacturing,Accountant,18,Postgraduate,Tier 2 City,2.76,1,No,812982.0
+Finance,Data Analyst,11,Diploma,Metro,3.09,2,No,670311.0
+Manufacturing,Data Analyst,1,Diploma,Metro,1.66,1,No,377292.0
+Education,Accountant,3,Graduate,Tier 2 City,1.73,0,No,357671.0
+IT,Data Analyst,19,Graduate,Tier 1 City,4.48,1,No,900146.0
+Education,Software Engineer,16,Graduate,Metro,3.32,0,Yes,804429.0
+Finance,Accountant,4,PhD,Metro,2.33,2,Yes,632558.0
+Finance,Software Engineer,19,Postgraduate,Metro,3.45,1,Yes,932408.0
+IT,Software Engineer,9,Postgraduate,Metro,2.46,0,No,694246.0
+Education,Data Analyst,17,Graduate,Metro,1.61,0,Yes,772910.0
+IT,HR Manager,5,Diploma,Metro,1.9,0,Yes,436871.0
+IT,Software Engineer,18,Graduate,Tier 1 City,4.23,0,No,791410.0
+Finance,Data Analyst,6,Postgraduate,Tier 1 City,2.65,1,Yes,559138.0
+IT,Software Engineer,3,Graduate,Metro,1.01,1,Yes,488200.0
+Education,Software Engineer,13,Graduate,Tier 1 City,2.67,3,Yes,727704.0
+IT,Software Engineer,7,Graduate,Tier 1 City,1.38,0,No,446872.0
+Manufacturing,HR Manager,11,Graduate,Metro,1.98,1,Yes,696323.0
+Education,Software Engineer,2,Diploma,Tier 2 City,3.24,0,Yes,342486.0
+Education,Data Analyst,8,Diploma,Tier 1 City,1.89,1,Yes,487202.0
+Manufacturing,Accountant,16,Graduate,Tier 1 City,1.75,1,No,768266.0
+Education,Data Analyst,8,Postgraduate,Metro,1.67,0,Yes,660143.0
+Education,HR Manager,16,Postgraduate,Tier 1 City,2.97,2,No,842422.0
+Education,Data Analyst,4,Graduate,Tier 2 City,4.53,1,No,526283.0
+Education,Data Analyst,5,Diploma,Tier 1 City,1.74,2,No,415966.0
+IT,Accountant,17,Diploma,Metro,1.49,0,Yes,772848.0
+Manufacturing,Software Engineer,7,Graduate,Metro,3.03,1,No,603249.0
+Healthcare,Marketing Executive,4,Graduate,Tier 1 City,4.73,0,No,520034.0
+IT,Accountant,7,Graduate,Tier 2 City,3.35,1,No,495308.0
+Finance,Marketing Executive,10,PhD,Tier 2 City,3.63,1,Yes,733291.0
+Manufacturing,Marketing Executive,17,Postgraduate,Tier 2 City,1.96,1,Yes,808610.0
+Manufacturing,Accountant,4,Graduate,Metro,4.19,0,No,542111.0
+Education,Software Engineer,12,Diploma,Tier 1 City,4.76,0,Yes,598795.0
+Healthcare,Software Engineer,17,Graduate,Tier 1 City,3.88,0,Yes,824063.0
+Manufacturing,Marketing Executive,7,Postgraduate,Tier 1 City,3.67,0,Yes,572991.0
+IT,Software Engineer,13,Postgraduate,Metro,4.86,2,No,807746.0
+Education,HR Manager,14,Graduate,Metro,1.62,0,No,742166.0
+Manufacturing,Accountant,4,PhD,Tier 2 City,1.59,3,No,555487.0
+Education,Data Analyst,2,Graduate,Metro,3.41,2,Yes,488512.0
+IT,Marketing Executive,12,Diploma,Tier 2 City,4.86,0,Yes,641832.0
+IT,HR Manager,18,Graduate,Metro,4.18,1,Yes,903732.0
+Education,Software Engineer,4,Graduate,Metro,2.38,0,Yes,476149.0
+IT,Software Engineer,10,Postgraduate,Tier 2 City,4.28,1,No,656377.0
+IT,Marketing Executive,3,Postgraduate,Metro,4.94,1,No,561005.0
+IT,Accountant,15,Graduate,Metro,3.48,2,No,765464.0
+Healthcare,Marketing Executive,1,Graduate,Tier 2 City,2.61,1,No,380402.0
+Education,Marketing Executive,1,Graduate,Tier 2 City,2.23,1,No,316547.0
+Manufacturing,HR Manager,16,Graduate,Metro,4.46,0,No,865875.0
+Finance,Marketing Executive,7,Diploma,Tier 1 City,3.15,1,No,531847.0
+Healthcare,Accountant,9,Postgraduate,Tier 1 City,2.06,2,No,578763.0
+Education,HR Manager,18,Graduate,Tier 1 City,1.46,0,No,820284.0
+Education,HR Manager,3,Diploma,Tier 2 City,2.03,2,No,357314.0
+Education,HR Manager,2,Postgraduate,Tier 1 City,3.89,3,No,521877.0
+Finance,Data Analyst,17,Graduate,Metro,4.97,3,No,889977.0
+Education,Marketing Executive,19,Graduate,Tier 1 City,3.09,1,Yes,864063.0
+IT,Software Engineer,5,Graduate,Tier 1 City,3.42,1,No,492622.0
+Healthcare,Software Engineer,8,Graduate,Tier 2 City,3.14,2,Yes,567127.0
+Finance,Data Analyst,7,PhD,Metro,3.73,0,No,753666.0
+Healthcare,Data Analyst,6,Graduate,Tier 2 City,4.5,1,No,526582.0
+Manufacturing,Accountant,2,PhD,Metro,4.01,0,Yes,561251.0
+IT,Software Engineer,17,PhD,Tier 1 City,1.79,1,No,873288.0
+Healthcare,HR Manager,4,Postgraduate,Tier 1 City,3.77,0,Yes,548177.0
+IT,Data Analyst,8,PhD,Metro,1.7,0,No,680523.0
+Manufacturing,Accountant,16,Graduate,Tier 1 City,3.88,1,Yes,704694.0
+Education,Software Engineer,10,PhD,Tier 1 City,3.05,0,Yes,687810.0
+Manufacturing,Marketing Executive,11,Graduate,Tier 1 City,2.02,2,No,616955.0
+IT,Marketing Executive,18,Postgraduate,Tier 1 City,4.08,1,No,890584.0
+IT,Accountant,8,Graduate,Tier 1 City,4.9,0,No,596492.0
+Education,Data Analyst,10,Postgraduate,Metro,3.54,2,No,696657.0
+Education,Accountant,3,Postgraduate,Tier 2 City,4.2,0,Yes,484788.0
+Education,Marketing Executive,0,Diploma,Tier 2 City,2.59,2,Yes,307323.0
+Manufacturing,Accountant,16,Graduate,Tier 2 City,3.37,1,No,757237.0
+Finance,Software Engineer,6,Graduate,Tier 1 City,1.38,2,No,495184.0
+Education,Software Engineer,6,Graduate,Tier 1 City,3.74,1,No,532023.0
+IT,Software Engineer,5,Postgraduate,Tier 1 City,3.75,0,No,553780.0
+Finance,Accountant,9,Postgraduate,Tier 1 City,2.14,2,Yes,650850.0
+Manufacturing,Marketing Executive,17,Graduate,Metro,4.24,1,Yes,838651.0
+Education,HR Manager,4,Diploma,Tier 1 City,3.51,0,No,402483.0
+Healthcare,HR Manager,9,Postgraduate,Metro,3.01,0,No,685910.0
+Healthcare,Data Analyst,16,Postgraduate,Metro,3.32,0,No,885734.0
+Education,Data Analyst,7,Postgraduate,Tier 1 City,4.91,0,Yes,643115.0
+Education,Software Engineer,4,Graduate,Tier 1 City,1.51,0,No,392394.0
+Education,Accountant,3,PhD,Metro,3.7,1,No,594377.0
+Finance,Marketing Executive,5,Graduate,Tier 2 City,3.22,0,Yes,494474.0
+Education,Data Analyst,2,Postgraduate,Metro,1.63,0,No,496083.0
+Manufacturing,HR Manager,5,Graduate,Metro,2.15,0,No,487827.0
+IT,Accountant,18,Graduate,Metro,2.28,0,Yes,833313.0
+IT,Accountant,8,Graduate,Metro,4.66,1,No,674356.0
+IT,HR Manager,9,PhD,Metro,1.69,0,No,700801.0
+Manufacturing,Accountant,15,Graduate,Tier 1 City,1.48,2,No,701039.0
+Healthcare,Software Engineer,6,Graduate,Tier 1 City,2.34,2,No,487968.0
+Manufacturing,Software Engineer,5,Postgraduate,Tier 1 City,2.89,1,No,549806.0
+Manufacturing,HR Manager,13,Postgraduate,Metro,4.11,2,No,774998.0
+Manufacturing,HR Manager,4,Graduate,Metro,3.17,0,No,534716.0
+Healthcare,Accountant,15,Postgraduate,Tier 1 City,2.41,1,No,786300.0
+IT,Marketing Executive,18,Graduate,Metro,3.09,2,No,922735.0
+Education,Data Analyst,13,Graduate,Tier 1 City,4.71,1,Yes,750271.0
+Education,Marketing Executive,10,Graduate,Tier 2 City,4.06,2,No,617444.0
+Finance,Software Engineer,17,Postgraduate,Metro,1.52,2,No,869301.0
+Manufacturing,Accountant,0,Diploma,Tier 1 City,4.09,0,No,307135.0
+Healthcare,Accountant,5,Postgraduate,Tier 2 City,4.53,3,No,592509.0
+Healthcare,HR Manager,2,Postgraduate,Metro,2.26,0,No,528459.0
+Finance,Data Analyst,7,Graduate,Tier 1 City,4.14,0,Yes,561740.0
+Education,Software Engineer,14,PhD,Metro,3.59,2,No,862450.0
+Education,Software Engineer,12,Graduate,Metro,2.19,0,No,736718.0
+Finance,Software Engineer,5,Graduate,Tier 2 City,4.27,0,Yes,499313.0
+Manufacturing,Software Engineer,13,Graduate,Tier 2 City,1.41,6,Yes,752183.0
+Education,Data Analyst,12,PhD,Tier 1 City,1.81,2,No,721546.0
+Healthcare,HR Manager,4,PhD,Tier 1 City,1.29,1,No,547447.0
+IT,Data Analyst,8,PhD,Tier 2 City,4.86,1,Yes,669012.0
+IT,Marketing Executive,13,Graduate,Tier 1 City,3.95,1,No,715839.0
+Healthcare,Accountant,3,Graduate,Tier 2 City,4.58,1,Yes,461058.0
+IT,Data Analyst,11,Diploma,Tier 1 City,3.16,3,No,635732.0
+IT,HR Manager,13,Graduate,Metro,4.0,1,No,790997.0
+Manufacturing,Marketing Executive,11,Diploma,Metro,1.34,0,No,576444.0
+Education,Accountant,6,Graduate,Tier 1 City,3.05,1,No,501683.0
+Manufacturing,Marketing Executive,16,Postgraduate,Tier 1 City,4.98,2,No,890173.0
+IT,Accountant,19,Diploma,Tier 1 City,4.23,0,No,827231.0
+Finance,Marketing Executive,15,Postgraduate,Metro,3.53,1,No,799076.0
+Education,HR Manager,5,Postgraduate,Tier 1 City,3.94,0,Yes,553950.0
+IT,Data Analyst,1,PhD,Tier 1 City,4.43,0,Yes,544166.0
+Healthcare,Accountant,3,Postgraduate,Tier 1 City,4.59,0,Yes,521931.0
+Manufacturing,Data Analyst,0,PhD,Tier 1 City,2.52,2,No,421254.0
+Manufacturing,Accountant,14,Graduate,Metro,4.17,2,No,813979.0
+IT,Software Engineer,10,PhD,Tier 1 City,1.68,1,No,734037.0
+Healthcare,Data Analyst,3,Postgraduate,Tier 1 City,4.85,2,No,490929.0
+Education,Data Analyst,14,Graduate,Tier 1 City,1.25,2,No,714074.0
+Finance,Software Engineer,7,PhD,Metro,1.94,0,No,641494.0
+Manufacturing,HR Manager,10,Graduate,Metro,3.21,0,No,685302.0
+Healthcare,HR Manager,3,Graduate,Metro,2.45,2,No,522594.0
+IT,Data Analyst,5,Graduate,Metro,1.0,2,No,519622.0
+Healthcare,Marketing Executive,4,PhD,Tier 1 City,2.59,2,No,536183.0
+IT,Data Analyst,6,Graduate,Tier 1 City,3.02,2,No,532539.0
+Manufacturing,Marketing Executive,15,Postgraduate,Tier 1 City,4.78,2,No,861976.0
+Finance,Marketing Executive,3,Graduate,Tier 1 City,2.03,1,Yes,429919.0
+Manufacturing,HR Manager,8,Graduate,Tier 1 City,4.93,0,No,541294.0
+Healthcare,Marketing Executive,17,Graduate,Metro,4.97,1,No,863979.0
+Finance,Marketing Executive,18,PhD,Tier 1 City,3.89,0,No,905429.0
+Healthcare,Data Analyst,18,Postgraduate,Tier 1 City,2.73,2,No,866384.0
+Finance,HR Manager,9,Graduate,Tier 1 City,3.59,4,No,629384.0
+Manufacturing,Data Analyst,4,Postgraduate,Tier 1 City,4.25,0,No,527448.0
+Finance,Software Engineer,2,Graduate,Tier 1 City,4.33,0,Yes,437111.0
+Education,Software Engineer,18,Graduate,Metro,2.91,1,No,874135.0
+IT,Software Engineer,7,Graduate,Tier 1 City,3.3,2,No,527190.0
+Manufacturing,Software Engineer,16,Graduate,Metro,4.87,0,No,862884.0
+Finance,HR Manager,4,Postgraduate,Metro,2.12,4,No,576268.0
+Finance,Data Analyst,9,Graduate,Tier 2 City,3.32,1,No,598025.0
+Finance,HR Manager,11,Graduate,Tier 1 City,4.82,1,No,672991.0
+Manufacturing,Marketing Executive,14,PhD,Tier 1 City,4.2,1,No,892979.0
+Healthcare,Marketing Executive,12,Graduate,Tier 1 City,2.81,0,No,647386.0
+Manufacturing,Software Engineer,10,Postgraduate,Metro,2.03,0,No,674262.0
+IT,HR Manager,12,Graduate,Metro,1.17,1,No,718481.0
+Education,Marketing Executive,18,Graduate,Tier 1 City,4.59,1,No,841250.0
+IT,HR Manager,9,Graduate,Tier 1 City,1.45,1,No,574314.0
+Manufacturing,Data Analyst,9,Diploma,Metro,2.71,2,No,610398.0
+IT,HR Manager,0,Postgraduate,Metro,2.38,2,No,484186.0
+Healthcare,HR Manager,4,Postgraduate,Metro,2.39,0,No,553330.0
+IT,Accountant,3,Postgraduate,Tier 1 City,3.29,1,Yes,508836.0
+Manufacturing,Marketing Executive,1,Graduate,Metro,4.46,0,Yes,462446.0
+Education,Accountant,19,Postgraduate,Tier 1 City,4.33,0,No,910143.0
+Finance,Data Analyst,16,PhD,Tier 1 City,3.14,1,No,860963.0
+Finance,Data Analyst,11,PhD,Tier 1 City,2.82,2,No,741174.0
+Manufacturing,HR Manager,13,PhD,Metro,3.4,1,Yes,833825.0
+Finance,Marketing Executive,11,PhD,Metro,1.46,0,No,693915.0
+Education,HR Manager,0,Graduate,Tier 2 City,1.27,0,No,345175.0
+Education,HR Manager,4,Diploma,Tier 2 City,3.1,3,No,443390.0
+Education,Data Analyst,6,Diploma,Metro,2.8,2,No,502837.0
+IT,Marketing Executive,12,Postgraduate,Tier 2 City,1.86,2,No,668616.0
+Healthcare,Software Engineer,17,Graduate,Tier 1 City,1.61,3,No,788525.0
+Education,Marketing Executive,9,Diploma,Metro,2.04,1,Yes,546510.0
