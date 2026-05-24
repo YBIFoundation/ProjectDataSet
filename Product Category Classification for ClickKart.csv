@@ -1,0 +1,1001 @@
+ProductID,ProductName,Category,Description,Keywords,Price,UnitsSoldLast30Days
+10001,smartphone,Electronics,This smartphone from our Electronics collection is best in quality and value.,"smartphone, Electronics, buy smartphone online",4591.59,19
+10002,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",1642.89,19
+10003,moisturizer,Beauty,This moisturizer from our Beauty collection is best in quality and value.,"moisturizer, Beauty, buy moisturizer online",714.78,13
+10004,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",2191.12,28
+10005,smartphone,Electronics,This smartphone from our Electronics collection is best in quality and value.,"smartphone, Electronics, buy smartphone online",1578.17,16
+10006,moisturizer,Beauty,This moisturizer from our Beauty collection is best in quality and value.,"moisturizer, Beauty, buy moisturizer online",675.07,20
+10007,laptop,Electronics,This laptop from our Electronics collection is best in quality and value.,"laptop, Electronics, buy laptop online",1763.65,19
+10008,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",164.63,23
+10009,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",3610.56,13
+10010,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",158.7,19
+10011,laptop,Electronics,This laptop from our Electronics collection is best in quality and value.,"laptop, Electronics, buy laptop online",4086.19,11
+10012,jeans,Fashion,This jeans from our Fashion collection is best in quality and value.,"jeans, Fashion, buy jeans online",1369.63,24
+10013,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",4403.67,15
+10014,knife,Home & Kitchen,This knife from our Home & Kitchen collection is best in quality and value.,"knife, Home & Kitchen, buy knife online",2305.03,18
+10015,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",1482.67,15
+10016,moisturizer,Beauty,This moisturizer from our Beauty collection is best in quality and value.,"moisturizer, Beauty, buy moisturizer online",1924.99,21
+10017,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",1236.42,18
+10018,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",3089.37,24
+10019,curtain,Home & Kitchen,This curtain from our Home & Kitchen collection is best in quality and value.,"curtain, Home & Kitchen, buy curtain online",2543.82,24
+10020,biography,Books,This biography from our Books collection is best in quality and value.,"biography, Books, buy biography online",2053.03,16
+10021,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",602.5,22
+10022,guide,Books,This guide from our Books collection is best in quality and value.,"guide, Books, buy guide online",2236.33,17
+10023,conditioner,Beauty,This conditioner from our Beauty collection is best in quality and value.,"conditioner, Beauty, buy conditioner online",2289.55,19
+10024,knife,Home & Kitchen,This knife from our Home & Kitchen collection is best in quality and value.,"knife, Home & Kitchen, buy knife online",1692.81,19
+10025,smartphone,Electronics,This smartphone from our Electronics collection is best in quality and value.,"smartphone, Electronics, buy smartphone online",4418.49,16
+10026,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",4445.75,20
+10027,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",2123.99,21
+10028,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",2095.43,29
+10029,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",235.06,20
+10030,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",1659.53,19
+10031,curtain,Home & Kitchen,This curtain from our Home & Kitchen collection is best in quality and value.,"curtain, Home & Kitchen, buy curtain online",4705.75,10
+10032,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",3551.64,13
+10033,moisturizer,Beauty,This moisturizer from our Beauty collection is best in quality and value.,"moisturizer, Beauty, buy moisturizer online",365.89,20
+10034,sneakers,Fashion,This sneakers from our Fashion collection is best in quality and value.,"sneakers, Fashion, buy sneakers online",2365.04,23
+10035,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",476.33,21
+10036,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",4972.69,22
+10037,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",3060.04,13
+10038,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",4198.78,25
+10039,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",2861.87,14
+10040,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",4506.69,14
+10041,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",1412.3,17
+10042,mattress,Home & Kitchen,This mattress from our Home & Kitchen collection is best in quality and value.,"mattress, Home & Kitchen, buy mattress online",2595.38,22
+10043,guide,Books,This guide from our Books collection is best in quality and value.,"guide, Books, buy guide online",3893.6,24
+10044,t-shirt,Fashion,This t-shirt from our Fashion collection is best in quality and value.,"t-shirt, Fashion, buy t-shirt online",1851.78,15
+10045,laptop,Electronics,This laptop from our Electronics collection is best in quality and value.,"laptop, Electronics, buy laptop online",3393.61,17
+10046,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",2313.33,23
+10047,jeans,Fashion,This jeans from our Fashion collection is best in quality and value.,"jeans, Fashion, buy jeans online",181.56,13
+10048,scarf,Fashion,This scarf from our Fashion collection is best in quality and value.,"scarf, Fashion, buy scarf online",4031.33,27
+10049,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",3479.11,29
+10050,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",4523.49,25
+10051,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",1992.6,14
+10052,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",616.56,21
+10053,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",752.19,17
+10054,shampoo,Beauty,This shampoo from our Beauty collection is best in quality and value.,"shampoo, Beauty, buy shampoo online",3209.29,27
+10055,curtain,Home & Kitchen,This curtain from our Home & Kitchen collection is best in quality and value.,"curtain, Home & Kitchen, buy curtain online",2478.48,25
+10056,smartphone,Electronics,This smartphone from our Electronics collection is best in quality and value.,"smartphone, Electronics, buy smartphone online",2322.26,18
+10057,biography,Books,This biography from our Books collection is best in quality and value.,"biography, Books, buy biography online",2505.86,19
+10058,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",3973.11,24
+10059,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",1880.41,17
+10060,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",3230.53,18
+10061,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",1369.24,25
+10062,perfume,Beauty,This perfume from our Beauty collection is best in quality and value.,"perfume, Beauty, buy perfume online",1781.49,28
+10063,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",654.42,18
+10064,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",4795.68,19
+10065,mattress,Home & Kitchen,This mattress from our Home & Kitchen collection is best in quality and value.,"mattress, Home & Kitchen, buy mattress online",4682.7,22
+10066,moisturizer,Beauty,This moisturizer from our Beauty collection is best in quality and value.,"moisturizer, Beauty, buy moisturizer online",4344.09,13
+10067,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",887.32,18
+10068,laptop,Electronics,This laptop from our Electronics collection is best in quality and value.,"laptop, Electronics, buy laptop online",2346.69,18
+10069,blender,Home & Kitchen,This blender from our Home & Kitchen collection is best in quality and value.,"blender, Home & Kitchen, buy blender online",2533.33,27
+10070,blender,Home & Kitchen,This blender from our Home & Kitchen collection is best in quality and value.,"blender, Home & Kitchen, buy blender online",3053.03,18
+10071,perfume,Beauty,This perfume from our Beauty collection is best in quality and value.,"perfume, Beauty, buy perfume online",182.83,24
+10072,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",628.1,14
+10073,shampoo,Beauty,This shampoo from our Beauty collection is best in quality and value.,"shampoo, Beauty, buy shampoo online",2352.11,15
+10074,moisturizer,Beauty,This moisturizer from our Beauty collection is best in quality and value.,"moisturizer, Beauty, buy moisturizer online",927.3,23
+10075,dictionary,Books,This dictionary from our Books collection is best in quality and value.,"dictionary, Books, buy dictionary online",2030.7,33
+10076,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",424.33,21
+10077,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",2866.37,17
+10078,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",871.62,19
+10079,scarf,Fashion,This scarf from our Fashion collection is best in quality and value.,"scarf, Fashion, buy scarf online",2891.69,17
+10080,sneakers,Fashion,This sneakers from our Fashion collection is best in quality and value.,"sneakers, Fashion, buy sneakers online",686.72,18
+10081,t-shirt,Fashion,This t-shirt from our Fashion collection is best in quality and value.,"t-shirt, Fashion, buy t-shirt online",3454.92,18
+10082,dictionary,Books,This dictionary from our Books collection is best in quality and value.,"dictionary, Books, buy dictionary online",863.82,25
+10083,knife,Home & Kitchen,This knife from our Home & Kitchen collection is best in quality and value.,"knife, Home & Kitchen, buy knife online",475.2,22
+10084,smartphone,Electronics,This smartphone from our Electronics collection is best in quality and value.,"smartphone, Electronics, buy smartphone online",4844.19,15
+10085,t-shirt,Fashion,This t-shirt from our Fashion collection is best in quality and value.,"t-shirt, Fashion, buy t-shirt online",1411.92,29
+10086,guide,Books,This guide from our Books collection is best in quality and value.,"guide, Books, buy guide online",932.54,22
+10087,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",1008.29,25
+10088,jeans,Fashion,This jeans from our Fashion collection is best in quality and value.,"jeans, Fashion, buy jeans online",1144.51,20
+10089,biography,Books,This biography from our Books collection is best in quality and value.,"biography, Books, buy biography online",4815.62,21
+10090,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",2028.73,26
+10091,biography,Books,This biography from our Books collection is best in quality and value.,"biography, Books, buy biography online",2658.25,13
+10092,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",1204.53,16
+10093,biography,Books,This biography from our Books collection is best in quality and value.,"biography, Books, buy biography online",2851.24,16
+10094,shampoo,Beauty,This shampoo from our Beauty collection is best in quality and value.,"shampoo, Beauty, buy shampoo online",2803.81,19
+10095,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",1108.83,15
+10096,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",863.43,14
+10097,mattress,Home & Kitchen,This mattress from our Home & Kitchen collection is best in quality and value.,"mattress, Home & Kitchen, buy mattress online",3208.8,23
+10098,blender,Home & Kitchen,This blender from our Home & Kitchen collection is best in quality and value.,"blender, Home & Kitchen, buy blender online",3573.77,21
+10099,conditioner,Beauty,This conditioner from our Beauty collection is best in quality and value.,"conditioner, Beauty, buy conditioner online",2994.9,22
+10100,laptop,Electronics,This laptop from our Electronics collection is best in quality and value.,"laptop, Electronics, buy laptop online",2412.72,22
+10101,sneakers,Fashion,This sneakers from our Fashion collection is best in quality and value.,"sneakers, Fashion, buy sneakers online",809.63,23
+10102,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",3632.28,25
+10103,smartphone,Electronics,This smartphone from our Electronics collection is best in quality and value.,"smartphone, Electronics, buy smartphone online",985.23,21
+10104,sneakers,Fashion,This sneakers from our Fashion collection is best in quality and value.,"sneakers, Fashion, buy sneakers online",1381.83,20
+10105,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",799.01,23
+10106,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",1259.43,22
+10107,t-shirt,Fashion,This t-shirt from our Fashion collection is best in quality and value.,"t-shirt, Fashion, buy t-shirt online",2011.16,23
+10108,laptop,Electronics,This laptop from our Electronics collection is best in quality and value.,"laptop, Electronics, buy laptop online",1572.02,26
+10109,laptop,Electronics,This laptop from our Electronics collection is best in quality and value.,"laptop, Electronics, buy laptop online",1206.4,13
+10110,biography,Books,This biography from our Books collection is best in quality and value.,"biography, Books, buy biography online",1500.09,24
+10111,conditioner,Beauty,This conditioner from our Beauty collection is best in quality and value.,"conditioner, Beauty, buy conditioner online",3513.18,21
+10112,t-shirt,Fashion,This t-shirt from our Fashion collection is best in quality and value.,"t-shirt, Fashion, buy t-shirt online",651.34,17
+10113,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",3322.74,15
+10114,knife,Home & Kitchen,This knife from our Home & Kitchen collection is best in quality and value.,"knife, Home & Kitchen, buy knife online",2054.36,19
+10115,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",4322.66,16
+10116,curtain,Home & Kitchen,This curtain from our Home & Kitchen collection is best in quality and value.,"curtain, Home & Kitchen, buy curtain online",4532.4,24
+10117,laptop,Electronics,This laptop from our Electronics collection is best in quality and value.,"laptop, Electronics, buy laptop online",3316.52,18
+10118,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",2771.42,13
+10119,conditioner,Beauty,This conditioner from our Beauty collection is best in quality and value.,"conditioner, Beauty, buy conditioner online",2571.33,13
+10120,moisturizer,Beauty,This moisturizer from our Beauty collection is best in quality and value.,"moisturizer, Beauty, buy moisturizer online",3480.32,27
+10121,jeans,Fashion,This jeans from our Fashion collection is best in quality and value.,"jeans, Fashion, buy jeans online",1726.66,17
+10122,sneakers,Fashion,This sneakers from our Fashion collection is best in quality and value.,"sneakers, Fashion, buy sneakers online",1366.52,20
+10123,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",4124.08,20
+10124,conditioner,Beauty,This conditioner from our Beauty collection is best in quality and value.,"conditioner, Beauty, buy conditioner online",534.95,32
+10125,biography,Books,This biography from our Books collection is best in quality and value.,"biography, Books, buy biography online",1922.15,20
+10126,conditioner,Beauty,This conditioner from our Beauty collection is best in quality and value.,"conditioner, Beauty, buy conditioner online",3187.95,19
+10127,sneakers,Fashion,This sneakers from our Fashion collection is best in quality and value.,"sneakers, Fashion, buy sneakers online",1426.35,17
+10128,mattress,Home & Kitchen,This mattress from our Home & Kitchen collection is best in quality and value.,"mattress, Home & Kitchen, buy mattress online",4127.57,29
+10129,biography,Books,This biography from our Books collection is best in quality and value.,"biography, Books, buy biography online",1918.81,19
+10130,mattress,Home & Kitchen,This mattress from our Home & Kitchen collection is best in quality and value.,"mattress, Home & Kitchen, buy mattress online",3987.83,15
+10131,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",1502.83,25
+10132,sneakers,Fashion,This sneakers from our Fashion collection is best in quality and value.,"sneakers, Fashion, buy sneakers online",3641.19,27
+10133,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",4380.94,18
+10134,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",1627.35,24
+10135,sneakers,Fashion,This sneakers from our Fashion collection is best in quality and value.,"sneakers, Fashion, buy sneakers online",2056.09,20
+10136,laptop,Electronics,This laptop from our Electronics collection is best in quality and value.,"laptop, Electronics, buy laptop online",4004.52,20
+10137,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",4092.16,17
+10138,shampoo,Beauty,This shampoo from our Beauty collection is best in quality and value.,"shampoo, Beauty, buy shampoo online",2511.41,20
+10139,biography,Books,This biography from our Books collection is best in quality and value.,"biography, Books, buy biography online",2558.45,24
+10140,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",1850.31,25
+10141,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",902.07,22
+10142,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",613.0,24
+10143,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",1273.4,23
+10144,t-shirt,Fashion,This t-shirt from our Fashion collection is best in quality and value.,"t-shirt, Fashion, buy t-shirt online",1900.94,25
+10145,scarf,Fashion,This scarf from our Fashion collection is best in quality and value.,"scarf, Fashion, buy scarf online",2552.77,19
+10146,conditioner,Beauty,This conditioner from our Beauty collection is best in quality and value.,"conditioner, Beauty, buy conditioner online",1623.03,16
+10147,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",3726.68,17
+10148,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",3902.27,19
+10149,curtain,Home & Kitchen,This curtain from our Home & Kitchen collection is best in quality and value.,"curtain, Home & Kitchen, buy curtain online",1431.36,19
+10150,curtain,Home & Kitchen,This curtain from our Home & Kitchen collection is best in quality and value.,"curtain, Home & Kitchen, buy curtain online",1416.99,30
+10151,perfume,Beauty,This perfume from our Beauty collection is best in quality and value.,"perfume, Beauty, buy perfume online",1019.25,25
+10152,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",2380.42,22
+10153,moisturizer,Beauty,This moisturizer from our Beauty collection is best in quality and value.,"moisturizer, Beauty, buy moisturizer online",2715.67,23
+10154,t-shirt,Fashion,This t-shirt from our Fashion collection is best in quality and value.,"t-shirt, Fashion, buy t-shirt online",3414.4,16
+10155,dictionary,Books,This dictionary from our Books collection is best in quality and value.,"dictionary, Books, buy dictionary online",3331.08,12
+10156,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",514.83,22
+10157,smartphone,Electronics,This smartphone from our Electronics collection is best in quality and value.,"smartphone, Electronics, buy smartphone online",3400.85,19
+10158,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",3350.4,27
+10159,mattress,Home & Kitchen,This mattress from our Home & Kitchen collection is best in quality and value.,"mattress, Home & Kitchen, buy mattress online",273.22,12
+10160,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",1386.77,22
+10161,shampoo,Beauty,This shampoo from our Beauty collection is best in quality and value.,"shampoo, Beauty, buy shampoo online",1322.49,24
+10162,moisturizer,Beauty,This moisturizer from our Beauty collection is best in quality and value.,"moisturizer, Beauty, buy moisturizer online",479.9,24
+10163,sneakers,Fashion,This sneakers from our Fashion collection is best in quality and value.,"sneakers, Fashion, buy sneakers online",3625.51,27
+10164,smartphone,Electronics,This smartphone from our Electronics collection is best in quality and value.,"smartphone, Electronics, buy smartphone online",2582.03,16
+10165,perfume,Beauty,This perfume from our Beauty collection is best in quality and value.,"perfume, Beauty, buy perfume online",4529.2,17
+10166,blender,Home & Kitchen,This blender from our Home & Kitchen collection is best in quality and value.,"blender, Home & Kitchen, buy blender online",3714.53,17
+10167,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",1433.23,18
+10168,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",2097.86,15
+10169,sneakers,Fashion,This sneakers from our Fashion collection is best in quality and value.,"sneakers, Fashion, buy sneakers online",3166.41,19
+10170,shampoo,Beauty,This shampoo from our Beauty collection is best in quality and value.,"shampoo, Beauty, buy shampoo online",4594.07,22
+10171,sneakers,Fashion,This sneakers from our Fashion collection is best in quality and value.,"sneakers, Fashion, buy sneakers online",3256.71,23
+10172,dictionary,Books,This dictionary from our Books collection is best in quality and value.,"dictionary, Books, buy dictionary online",1038.5,18
+10173,dictionary,Books,This dictionary from our Books collection is best in quality and value.,"dictionary, Books, buy dictionary online",1011.43,15
+10174,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",3443.85,33
+10175,blender,Home & Kitchen,This blender from our Home & Kitchen collection is best in quality and value.,"blender, Home & Kitchen, buy blender online",790.6,18
+10176,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",3085.14,17
+10177,shampoo,Beauty,This shampoo from our Beauty collection is best in quality and value.,"shampoo, Beauty, buy shampoo online",1118.28,25
+10178,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",4456.11,23
+10179,shampoo,Beauty,This shampoo from our Beauty collection is best in quality and value.,"shampoo, Beauty, buy shampoo online",2852.53,19
+10180,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",821.74,19
+10181,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",3150.13,23
+10182,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",1118.0,22
+10183,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",3197.34,11
+10184,conditioner,Beauty,This conditioner from our Beauty collection is best in quality and value.,"conditioner, Beauty, buy conditioner online",1274.65,23
+10185,perfume,Beauty,This perfume from our Beauty collection is best in quality and value.,"perfume, Beauty, buy perfume online",1604.37,18
+10186,t-shirt,Fashion,This t-shirt from our Fashion collection is best in quality and value.,"t-shirt, Fashion, buy t-shirt online",3655.18,15
+10187,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",3758.11,14
+10188,perfume,Beauty,This perfume from our Beauty collection is best in quality and value.,"perfume, Beauty, buy perfume online",2646.25,15
+10189,curtain,Home & Kitchen,This curtain from our Home & Kitchen collection is best in quality and value.,"curtain, Home & Kitchen, buy curtain online",406.96,16
+10190,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",4245.56,19
+10191,curtain,Home & Kitchen,This curtain from our Home & Kitchen collection is best in quality and value.,"curtain, Home & Kitchen, buy curtain online",2736.76,15
+10192,sneakers,Fashion,This sneakers from our Fashion collection is best in quality and value.,"sneakers, Fashion, buy sneakers online",2277.09,20
+10193,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",670.69,15
+10194,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",858.23,16
+10195,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",4665.96,19
+10196,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",4268.36,18
+10197,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",4381.19,23
+10198,t-shirt,Fashion,This t-shirt from our Fashion collection is best in quality and value.,"t-shirt, Fashion, buy t-shirt online",1505.75,25
+10199,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",3548.05,13
+10200,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",1879.53,19
+10201,t-shirt,Fashion,This t-shirt from our Fashion collection is best in quality and value.,"t-shirt, Fashion, buy t-shirt online",4526.75,26
+10202,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",3327.4,25
+10203,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",4851.41,10
+10204,jeans,Fashion,This jeans from our Fashion collection is best in quality and value.,"jeans, Fashion, buy jeans online",2555.63,26
+10205,knife,Home & Kitchen,This knife from our Home & Kitchen collection is best in quality and value.,"knife, Home & Kitchen, buy knife online",347.91,19
+10206,moisturizer,Beauty,This moisturizer from our Beauty collection is best in quality and value.,"moisturizer, Beauty, buy moisturizer online",4942.18,16
+10207,mattress,Home & Kitchen,This mattress from our Home & Kitchen collection is best in quality and value.,"mattress, Home & Kitchen, buy mattress online",1826.48,21
+10208,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",1394.61,25
+10209,jeans,Fashion,This jeans from our Fashion collection is best in quality and value.,"jeans, Fashion, buy jeans online",1014.93,18
+10210,smartphone,Electronics,This smartphone from our Electronics collection is best in quality and value.,"smartphone, Electronics, buy smartphone online",4883.81,14
+10211,dictionary,Books,This dictionary from our Books collection is best in quality and value.,"dictionary, Books, buy dictionary online",4377.47,16
+10212,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",3894.67,20
+10213,knife,Home & Kitchen,This knife from our Home & Kitchen collection is best in quality and value.,"knife, Home & Kitchen, buy knife online",1865.64,20
+10214,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",1553.1,17
+10215,dictionary,Books,This dictionary from our Books collection is best in quality and value.,"dictionary, Books, buy dictionary online",3182.88,28
+10216,jeans,Fashion,This jeans from our Fashion collection is best in quality and value.,"jeans, Fashion, buy jeans online",1200.87,25
+10217,jeans,Fashion,This jeans from our Fashion collection is best in quality and value.,"jeans, Fashion, buy jeans online",3477.94,29
+10218,curtain,Home & Kitchen,This curtain from our Home & Kitchen collection is best in quality and value.,"curtain, Home & Kitchen, buy curtain online",532.68,27
+10219,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",3873.17,16
+10220,jeans,Fashion,This jeans from our Fashion collection is best in quality and value.,"jeans, Fashion, buy jeans online",2147.18,27
+10221,knife,Home & Kitchen,This knife from our Home & Kitchen collection is best in quality and value.,"knife, Home & Kitchen, buy knife online",3050.19,17
+10222,guide,Books,This guide from our Books collection is best in quality and value.,"guide, Books, buy guide online",4302.63,25
+10223,sneakers,Fashion,This sneakers from our Fashion collection is best in quality and value.,"sneakers, Fashion, buy sneakers online",3907.81,30
+10224,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",2032.75,17
+10225,guide,Books,This guide from our Books collection is best in quality and value.,"guide, Books, buy guide online",2131.35,18
+10226,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",2620.12,18
+10227,smartphone,Electronics,This smartphone from our Electronics collection is best in quality and value.,"smartphone, Electronics, buy smartphone online",497.32,13
+10228,blender,Home & Kitchen,This blender from our Home & Kitchen collection is best in quality and value.,"blender, Home & Kitchen, buy blender online",104.53,21
+10229,laptop,Electronics,This laptop from our Electronics collection is best in quality and value.,"laptop, Electronics, buy laptop online",1501.81,17
+10230,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",374.43,16
+10231,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",4035.94,17
+10232,sneakers,Fashion,This sneakers from our Fashion collection is best in quality and value.,"sneakers, Fashion, buy sneakers online",4643.64,21
+10233,moisturizer,Beauty,This moisturizer from our Beauty collection is best in quality and value.,"moisturizer, Beauty, buy moisturizer online",4528.55,27
+10234,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",690.09,21
+10235,t-shirt,Fashion,This t-shirt from our Fashion collection is best in quality and value.,"t-shirt, Fashion, buy t-shirt online",2986.54,22
+10236,scarf,Fashion,This scarf from our Fashion collection is best in quality and value.,"scarf, Fashion, buy scarf online",4314.26,12
+10237,moisturizer,Beauty,This moisturizer from our Beauty collection is best in quality and value.,"moisturizer, Beauty, buy moisturizer online",3817.42,20
+10238,moisturizer,Beauty,This moisturizer from our Beauty collection is best in quality and value.,"moisturizer, Beauty, buy moisturizer online",4491.88,17
+10239,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",2641.0,20
+10240,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",3024.68,18
+10241,mattress,Home & Kitchen,This mattress from our Home & Kitchen collection is best in quality and value.,"mattress, Home & Kitchen, buy mattress online",4302.83,22
+10242,shampoo,Beauty,This shampoo from our Beauty collection is best in quality and value.,"shampoo, Beauty, buy shampoo online",614.61,16
+10243,jeans,Fashion,This jeans from our Fashion collection is best in quality and value.,"jeans, Fashion, buy jeans online",2171.91,18
+10244,moisturizer,Beauty,This moisturizer from our Beauty collection is best in quality and value.,"moisturizer, Beauty, buy moisturizer online",1543.79,11
+10245,perfume,Beauty,This perfume from our Beauty collection is best in quality and value.,"perfume, Beauty, buy perfume online",1380.21,18
+10246,sneakers,Fashion,This sneakers from our Fashion collection is best in quality and value.,"sneakers, Fashion, buy sneakers online",1948.68,23
+10247,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",3800.62,20
+10248,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",4742.87,17
+10249,mattress,Home & Kitchen,This mattress from our Home & Kitchen collection is best in quality and value.,"mattress, Home & Kitchen, buy mattress online",4278.72,16
+10250,sneakers,Fashion,This sneakers from our Fashion collection is best in quality and value.,"sneakers, Fashion, buy sneakers online",894.85,16
+10251,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",3401.45,20
+10252,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",352.95,24
+10253,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",4144.75,20
+10254,moisturizer,Beauty,This moisturizer from our Beauty collection is best in quality and value.,"moisturizer, Beauty, buy moisturizer online",3431.86,25
+10255,laptop,Electronics,This laptop from our Electronics collection is best in quality and value.,"laptop, Electronics, buy laptop online",621.61,12
+10256,biography,Books,This biography from our Books collection is best in quality and value.,"biography, Books, buy biography online",1700.47,25
+10257,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",2340.88,13
+10258,laptop,Electronics,This laptop from our Electronics collection is best in quality and value.,"laptop, Electronics, buy laptop online",4506.27,18
+10259,blender,Home & Kitchen,This blender from our Home & Kitchen collection is best in quality and value.,"blender, Home & Kitchen, buy blender online",4031.18,22
+10260,conditioner,Beauty,This conditioner from our Beauty collection is best in quality and value.,"conditioner, Beauty, buy conditioner online",4238.2,20
+10261,perfume,Beauty,This perfume from our Beauty collection is best in quality and value.,"perfume, Beauty, buy perfume online",1895.27,20
+10262,scarf,Fashion,This scarf from our Fashion collection is best in quality and value.,"scarf, Fashion, buy scarf online",2718.21,13
+10263,guide,Books,This guide from our Books collection is best in quality and value.,"guide, Books, buy guide online",2894.11,19
+10264,shampoo,Beauty,This shampoo from our Beauty collection is best in quality and value.,"shampoo, Beauty, buy shampoo online",1170.6,23
+10265,laptop,Electronics,This laptop from our Electronics collection is best in quality and value.,"laptop, Electronics, buy laptop online",1105.42,14
+10266,perfume,Beauty,This perfume from our Beauty collection is best in quality and value.,"perfume, Beauty, buy perfume online",2228.42,21
+10267,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",2413.16,25
+10268,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",2712.72,23
+10269,conditioner,Beauty,This conditioner from our Beauty collection is best in quality and value.,"conditioner, Beauty, buy conditioner online",1757.46,21
+10270,guide,Books,This guide from our Books collection is best in quality and value.,"guide, Books, buy guide online",2616.96,25
+10271,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",836.6,14
+10272,perfume,Beauty,This perfume from our Beauty collection is best in quality and value.,"perfume, Beauty, buy perfume online",4644.76,24
+10273,t-shirt,Fashion,This t-shirt from our Fashion collection is best in quality and value.,"t-shirt, Fashion, buy t-shirt online",2168.34,23
+10274,shampoo,Beauty,This shampoo from our Beauty collection is best in quality and value.,"shampoo, Beauty, buy shampoo online",3240.03,25
+10275,laptop,Electronics,This laptop from our Electronics collection is best in quality and value.,"laptop, Electronics, buy laptop online",887.79,16
+10276,knife,Home & Kitchen,This knife from our Home & Kitchen collection is best in quality and value.,"knife, Home & Kitchen, buy knife online",3728.59,17
+10277,scarf,Fashion,This scarf from our Fashion collection is best in quality and value.,"scarf, Fashion, buy scarf online",279.83,23
+10278,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",4284.01,22
+10279,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",1367.65,18
+10280,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",1831.27,26
+10281,curtain,Home & Kitchen,This curtain from our Home & Kitchen collection is best in quality and value.,"curtain, Home & Kitchen, buy curtain online",2400.43,21
+10282,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",1795.67,14
+10283,guide,Books,This guide from our Books collection is best in quality and value.,"guide, Books, buy guide online",4902.37,11
+10284,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",2515.0,22
+10285,moisturizer,Beauty,This moisturizer from our Beauty collection is best in quality and value.,"moisturizer, Beauty, buy moisturizer online",4811.0,28
+10286,dictionary,Books,This dictionary from our Books collection is best in quality and value.,"dictionary, Books, buy dictionary online",1053.8,27
+10287,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",714.38,27
+10288,t-shirt,Fashion,This t-shirt from our Fashion collection is best in quality and value.,"t-shirt, Fashion, buy t-shirt online",3247.09,17
+10289,perfume,Beauty,This perfume from our Beauty collection is best in quality and value.,"perfume, Beauty, buy perfume online",3147.03,15
+10290,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",2841.43,19
+10291,biography,Books,This biography from our Books collection is best in quality and value.,"biography, Books, buy biography online",1769.39,22
+10292,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",148.1,23
+10293,moisturizer,Beauty,This moisturizer from our Beauty collection is best in quality and value.,"moisturizer, Beauty, buy moisturizer online",4689.46,17
+10294,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",3343.26,20
+10295,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",2566.19,33
+10296,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",4763.42,24
+10297,sneakers,Fashion,This sneakers from our Fashion collection is best in quality and value.,"sneakers, Fashion, buy sneakers online",1045.24,15
+10298,jeans,Fashion,This jeans from our Fashion collection is best in quality and value.,"jeans, Fashion, buy jeans online",4890.35,12
+10299,t-shirt,Fashion,This t-shirt from our Fashion collection is best in quality and value.,"t-shirt, Fashion, buy t-shirt online",2082.86,16
+10300,mattress,Home & Kitchen,This mattress from our Home & Kitchen collection is best in quality and value.,"mattress, Home & Kitchen, buy mattress online",1683.67,14
+10301,sneakers,Fashion,This sneakers from our Fashion collection is best in quality and value.,"sneakers, Fashion, buy sneakers online",3949.29,14
+10302,biography,Books,This biography from our Books collection is best in quality and value.,"biography, Books, buy biography online",1558.71,21
+10303,curtain,Home & Kitchen,This curtain from our Home & Kitchen collection is best in quality and value.,"curtain, Home & Kitchen, buy curtain online",1768.76,22
+10304,jeans,Fashion,This jeans from our Fashion collection is best in quality and value.,"jeans, Fashion, buy jeans online",4271.25,14
+10305,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",4606.65,22
+10306,biography,Books,This biography from our Books collection is best in quality and value.,"biography, Books, buy biography online",4874.4,25
+10307,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",233.38,17
+10308,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",3101.94,19
+10309,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",1469.11,18
+10310,curtain,Home & Kitchen,This curtain from our Home & Kitchen collection is best in quality and value.,"curtain, Home & Kitchen, buy curtain online",1934.07,20
+10311,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",2330.05,26
+10312,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",1263.34,16
+10313,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",1776.62,21
+10314,jeans,Fashion,This jeans from our Fashion collection is best in quality and value.,"jeans, Fashion, buy jeans online",1036.91,24
+10315,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",3098.98,23
+10316,conditioner,Beauty,This conditioner from our Beauty collection is best in quality and value.,"conditioner, Beauty, buy conditioner online",3422.91,22
+10317,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",1844.41,14
+10318,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",521.52,25
+10319,curtain,Home & Kitchen,This curtain from our Home & Kitchen collection is best in quality and value.,"curtain, Home & Kitchen, buy curtain online",4628.26,27
+10320,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",2724.75,19
+10321,moisturizer,Beauty,This moisturizer from our Beauty collection is best in quality and value.,"moisturizer, Beauty, buy moisturizer online",4193.83,20
+10322,mattress,Home & Kitchen,This mattress from our Home & Kitchen collection is best in quality and value.,"mattress, Home & Kitchen, buy mattress online",1543.46,23
+10323,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",4949.88,24
+10324,conditioner,Beauty,This conditioner from our Beauty collection is best in quality and value.,"conditioner, Beauty, buy conditioner online",3927.27,27
+10325,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",1292.46,25
+10326,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",327.63,20
+10327,shampoo,Beauty,This shampoo from our Beauty collection is best in quality and value.,"shampoo, Beauty, buy shampoo online",4932.77,22
+10328,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",1893.66,14
+10329,scarf,Fashion,This scarf from our Fashion collection is best in quality and value.,"scarf, Fashion, buy scarf online",3685.01,23
+10330,laptop,Electronics,This laptop from our Electronics collection is best in quality and value.,"laptop, Electronics, buy laptop online",1011.37,13
+10331,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",2354.19,28
+10332,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",419.54,21
+10333,blender,Home & Kitchen,This blender from our Home & Kitchen collection is best in quality and value.,"blender, Home & Kitchen, buy blender online",4744.16,21
+10334,curtain,Home & Kitchen,This curtain from our Home & Kitchen collection is best in quality and value.,"curtain, Home & Kitchen, buy curtain online",4376.34,24
+10335,guide,Books,This guide from our Books collection is best in quality and value.,"guide, Books, buy guide online",4549.44,19
+10336,mattress,Home & Kitchen,This mattress from our Home & Kitchen collection is best in quality and value.,"mattress, Home & Kitchen, buy mattress online",2156.21,19
+10337,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",3596.71,22
+10338,knife,Home & Kitchen,This knife from our Home & Kitchen collection is best in quality and value.,"knife, Home & Kitchen, buy knife online",2998.3,21
+10339,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",2138.36,24
+10340,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",2410.96,16
+10341,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",849.32,21
+10342,biography,Books,This biography from our Books collection is best in quality and value.,"biography, Books, buy biography online",2676.85,21
+10343,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",1406.99,18
+10344,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",340.27,28
+10345,biography,Books,This biography from our Books collection is best in quality and value.,"biography, Books, buy biography online",4820.92,28
+10346,smartphone,Electronics,This smartphone from our Electronics collection is best in quality and value.,"smartphone, Electronics, buy smartphone online",4998.8,16
+10347,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",1959.09,17
+10348,shampoo,Beauty,This shampoo from our Beauty collection is best in quality and value.,"shampoo, Beauty, buy shampoo online",701.95,19
+10349,perfume,Beauty,This perfume from our Beauty collection is best in quality and value.,"perfume, Beauty, buy perfume online",1709.34,13
+10350,scarf,Fashion,This scarf from our Fashion collection is best in quality and value.,"scarf, Fashion, buy scarf online",2418.64,14
+10351,perfume,Beauty,This perfume from our Beauty collection is best in quality and value.,"perfume, Beauty, buy perfume online",4410.83,24
+10352,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",1639.87,10
+10353,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",1887.31,16
+10354,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",3517.99,22
+10355,laptop,Electronics,This laptop from our Electronics collection is best in quality and value.,"laptop, Electronics, buy laptop online",3659.88,21
+10356,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",962.83,22
+10357,smartphone,Electronics,This smartphone from our Electronics collection is best in quality and value.,"smartphone, Electronics, buy smartphone online",3186.49,22
+10358,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",4678.25,26
+10359,conditioner,Beauty,This conditioner from our Beauty collection is best in quality and value.,"conditioner, Beauty, buy conditioner online",3829.63,18
+10360,shampoo,Beauty,This shampoo from our Beauty collection is best in quality and value.,"shampoo, Beauty, buy shampoo online",2057.72,27
+10361,smartphone,Electronics,This smartphone from our Electronics collection is best in quality and value.,"smartphone, Electronics, buy smartphone online",2944.23,32
+10362,shampoo,Beauty,This shampoo from our Beauty collection is best in quality and value.,"shampoo, Beauty, buy shampoo online",3611.01,21
+10363,biography,Books,This biography from our Books collection is best in quality and value.,"biography, Books, buy biography online",4674.19,19
+10364,perfume,Beauty,This perfume from our Beauty collection is best in quality and value.,"perfume, Beauty, buy perfume online",2396.79,16
+10365,blender,Home & Kitchen,This blender from our Home & Kitchen collection is best in quality and value.,"blender, Home & Kitchen, buy blender online",1492.72,14
+10366,conditioner,Beauty,This conditioner from our Beauty collection is best in quality and value.,"conditioner, Beauty, buy conditioner online",3264.9,20
+10367,shampoo,Beauty,This shampoo from our Beauty collection is best in quality and value.,"shampoo, Beauty, buy shampoo online",1011.52,17
+10368,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",3458.69,20
+10369,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",3550.26,14
+10370,perfume,Beauty,This perfume from our Beauty collection is best in quality and value.,"perfume, Beauty, buy perfume online",1810.58,17
+10371,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",3822.93,30
+10372,conditioner,Beauty,This conditioner from our Beauty collection is best in quality and value.,"conditioner, Beauty, buy conditioner online",115.54,20
+10373,dictionary,Books,This dictionary from our Books collection is best in quality and value.,"dictionary, Books, buy dictionary online",2130.43,25
+10374,conditioner,Beauty,This conditioner from our Beauty collection is best in quality and value.,"conditioner, Beauty, buy conditioner online",117.34,22
+10375,laptop,Electronics,This laptop from our Electronics collection is best in quality and value.,"laptop, Electronics, buy laptop online",1036.19,19
+10376,smartphone,Electronics,This smartphone from our Electronics collection is best in quality and value.,"smartphone, Electronics, buy smartphone online",2177.09,22
+10377,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",3641.69,20
+10378,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",2787.46,21
+10379,knife,Home & Kitchen,This knife from our Home & Kitchen collection is best in quality and value.,"knife, Home & Kitchen, buy knife online",4483.12,21
+10380,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",3736.4,21
+10381,sneakers,Fashion,This sneakers from our Fashion collection is best in quality and value.,"sneakers, Fashion, buy sneakers online",4792.97,17
+10382,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",1845.92,28
+10383,jeans,Fashion,This jeans from our Fashion collection is best in quality and value.,"jeans, Fashion, buy jeans online",2537.96,18
+10384,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",1276.88,13
+10385,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",3198.5,16
+10386,perfume,Beauty,This perfume from our Beauty collection is best in quality and value.,"perfume, Beauty, buy perfume online",2531.84,21
+10387,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",4799.92,23
+10388,laptop,Electronics,This laptop from our Electronics collection is best in quality and value.,"laptop, Electronics, buy laptop online",4150.37,24
+10389,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",2240.2,22
+10390,moisturizer,Beauty,This moisturizer from our Beauty collection is best in quality and value.,"moisturizer, Beauty, buy moisturizer online",4910.95,27
+10391,dictionary,Books,This dictionary from our Books collection is best in quality and value.,"dictionary, Books, buy dictionary online",2469.89,15
+10392,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",2459.37,19
+10393,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",4908.31,21
+10394,dictionary,Books,This dictionary from our Books collection is best in quality and value.,"dictionary, Books, buy dictionary online",4771.99,21
+10395,t-shirt,Fashion,This t-shirt from our Fashion collection is best in quality and value.,"t-shirt, Fashion, buy t-shirt online",3679.76,15
+10396,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",1691.8,21
+10397,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",662.95,30
+10398,laptop,Electronics,This laptop from our Electronics collection is best in quality and value.,"laptop, Electronics, buy laptop online",2489.45,20
+10399,laptop,Electronics,This laptop from our Electronics collection is best in quality and value.,"laptop, Electronics, buy laptop online",2822.25,20
+10400,mattress,Home & Kitchen,This mattress from our Home & Kitchen collection is best in quality and value.,"mattress, Home & Kitchen, buy mattress online",4206.83,15
+10401,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",2595.35,23
+10402,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",3249.19,24
+10403,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",719.59,14
+10404,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",2761.1,16
+10405,sneakers,Fashion,This sneakers from our Fashion collection is best in quality and value.,"sneakers, Fashion, buy sneakers online",1892.23,17
+10406,sneakers,Fashion,This sneakers from our Fashion collection is best in quality and value.,"sneakers, Fashion, buy sneakers online",1801.04,13
+10407,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",1538.0,18
+10408,shampoo,Beauty,This shampoo from our Beauty collection is best in quality and value.,"shampoo, Beauty, buy shampoo online",1089.71,22
+10409,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",4005.64,23
+10410,shampoo,Beauty,This shampoo from our Beauty collection is best in quality and value.,"shampoo, Beauty, buy shampoo online",2539.77,18
+10411,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",2328.72,19
+10412,guide,Books,This guide from our Books collection is best in quality and value.,"guide, Books, buy guide online",2206.34,25
+10413,sneakers,Fashion,This sneakers from our Fashion collection is best in quality and value.,"sneakers, Fashion, buy sneakers online",1179.88,19
+10414,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",3122.56,21
+10415,sneakers,Fashion,This sneakers from our Fashion collection is best in quality and value.,"sneakers, Fashion, buy sneakers online",1991.02,15
+10416,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",764.33,13
+10417,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",2585.14,21
+10418,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",4289.34,20
+10419,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",1652.8,25
+10420,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",309.21,18
+10421,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",1370.9,11
+10422,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",4589.44,16
+10423,knife,Home & Kitchen,This knife from our Home & Kitchen collection is best in quality and value.,"knife, Home & Kitchen, buy knife online",3346.71,17
+10424,conditioner,Beauty,This conditioner from our Beauty collection is best in quality and value.,"conditioner, Beauty, buy conditioner online",1410.22,22
+10425,sneakers,Fashion,This sneakers from our Fashion collection is best in quality and value.,"sneakers, Fashion, buy sneakers online",2412.96,16
+10426,curtain,Home & Kitchen,This curtain from our Home & Kitchen collection is best in quality and value.,"curtain, Home & Kitchen, buy curtain online",2188.98,21
+10427,conditioner,Beauty,This conditioner from our Beauty collection is best in quality and value.,"conditioner, Beauty, buy conditioner online",1338.1,22
+10428,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",4520.3,18
+10429,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",1061.42,19
+10430,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",2622.68,21
+10431,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",470.28,19
+10432,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",3141.42,27
+10433,blender,Home & Kitchen,This blender from our Home & Kitchen collection is best in quality and value.,"blender, Home & Kitchen, buy blender online",4664.12,21
+10434,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",4753.56,21
+10435,curtain,Home & Kitchen,This curtain from our Home & Kitchen collection is best in quality and value.,"curtain, Home & Kitchen, buy curtain online",2233.53,15
+10436,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",3412.42,16
+10437,guide,Books,This guide from our Books collection is best in quality and value.,"guide, Books, buy guide online",154.23,19
+10438,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",1343.97,15
+10439,mattress,Home & Kitchen,This mattress from our Home & Kitchen collection is best in quality and value.,"mattress, Home & Kitchen, buy mattress online",146.24,32
+10440,biography,Books,This biography from our Books collection is best in quality and value.,"biography, Books, buy biography online",4672.6,17
+10441,biography,Books,This biography from our Books collection is best in quality and value.,"biography, Books, buy biography online",3556.94,27
+10442,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",1038.74,18
+10443,curtain,Home & Kitchen,This curtain from our Home & Kitchen collection is best in quality and value.,"curtain, Home & Kitchen, buy curtain online",3287.13,24
+10444,knife,Home & Kitchen,This knife from our Home & Kitchen collection is best in quality and value.,"knife, Home & Kitchen, buy knife online",2226.86,25
+10445,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",3210.52,17
+10446,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",422.13,23
+10447,guide,Books,This guide from our Books collection is best in quality and value.,"guide, Books, buy guide online",4891.53,20
+10448,biography,Books,This biography from our Books collection is best in quality and value.,"biography, Books, buy biography online",1157.06,22
+10449,sneakers,Fashion,This sneakers from our Fashion collection is best in quality and value.,"sneakers, Fashion, buy sneakers online",501.36,20
+10450,laptop,Electronics,This laptop from our Electronics collection is best in quality and value.,"laptop, Electronics, buy laptop online",2171.51,22
+10451,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",4484.4,31
+10452,moisturizer,Beauty,This moisturizer from our Beauty collection is best in quality and value.,"moisturizer, Beauty, buy moisturizer online",1908.8,24
+10453,blender,Home & Kitchen,This blender from our Home & Kitchen collection is best in quality and value.,"blender, Home & Kitchen, buy blender online",1802.35,21
+10454,biography,Books,This biography from our Books collection is best in quality and value.,"biography, Books, buy biography online",592.51,19
+10455,jeans,Fashion,This jeans from our Fashion collection is best in quality and value.,"jeans, Fashion, buy jeans online",1084.34,19
+10456,blender,Home & Kitchen,This blender from our Home & Kitchen collection is best in quality and value.,"blender, Home & Kitchen, buy blender online",669.14,18
+10457,blender,Home & Kitchen,This blender from our Home & Kitchen collection is best in quality and value.,"blender, Home & Kitchen, buy blender online",4522.23,15
+10458,scarf,Fashion,This scarf from our Fashion collection is best in quality and value.,"scarf, Fashion, buy scarf online",432.91,28
+10459,mattress,Home & Kitchen,This mattress from our Home & Kitchen collection is best in quality and value.,"mattress, Home & Kitchen, buy mattress online",3618.48,18
+10460,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",4675.6,21
+10461,t-shirt,Fashion,This t-shirt from our Fashion collection is best in quality and value.,"t-shirt, Fashion, buy t-shirt online",1849.9,21
+10462,guide,Books,This guide from our Books collection is best in quality and value.,"guide, Books, buy guide online",2645.69,18
+10463,conditioner,Beauty,This conditioner from our Beauty collection is best in quality and value.,"conditioner, Beauty, buy conditioner online",4145.31,21
+10464,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",1808.36,18
+10465,conditioner,Beauty,This conditioner from our Beauty collection is best in quality and value.,"conditioner, Beauty, buy conditioner online",1306.16,17
+10466,perfume,Beauty,This perfume from our Beauty collection is best in quality and value.,"perfume, Beauty, buy perfume online",3375.71,17
+10467,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",1893.54,26
+10468,shampoo,Beauty,This shampoo from our Beauty collection is best in quality and value.,"shampoo, Beauty, buy shampoo online",3674.97,19
+10469,curtain,Home & Kitchen,This curtain from our Home & Kitchen collection is best in quality and value.,"curtain, Home & Kitchen, buy curtain online",1726.44,22
+10470,dictionary,Books,This dictionary from our Books collection is best in quality and value.,"dictionary, Books, buy dictionary online",4378.03,10
+10471,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",1174.87,20
+10472,scarf,Fashion,This scarf from our Fashion collection is best in quality and value.,"scarf, Fashion, buy scarf online",1973.91,18
+10473,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",870.36,19
+10474,smartphone,Electronics,This smartphone from our Electronics collection is best in quality and value.,"smartphone, Electronics, buy smartphone online",2280.23,24
+10475,moisturizer,Beauty,This moisturizer from our Beauty collection is best in quality and value.,"moisturizer, Beauty, buy moisturizer online",4404.28,20
+10476,moisturizer,Beauty,This moisturizer from our Beauty collection is best in quality and value.,"moisturizer, Beauty, buy moisturizer online",4297.47,20
+10477,blender,Home & Kitchen,This blender from our Home & Kitchen collection is best in quality and value.,"blender, Home & Kitchen, buy blender online",2470.55,14
+10478,jeans,Fashion,This jeans from our Fashion collection is best in quality and value.,"jeans, Fashion, buy jeans online",2060.47,16
+10479,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",1811.97,18
+10480,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",2015.63,17
+10481,mattress,Home & Kitchen,This mattress from our Home & Kitchen collection is best in quality and value.,"mattress, Home & Kitchen, buy mattress online",1812.64,20
+10482,conditioner,Beauty,This conditioner from our Beauty collection is best in quality and value.,"conditioner, Beauty, buy conditioner online",501.68,21
+10483,curtain,Home & Kitchen,This curtain from our Home & Kitchen collection is best in quality and value.,"curtain, Home & Kitchen, buy curtain online",1520.61,21
+10484,laptop,Electronics,This laptop from our Electronics collection is best in quality and value.,"laptop, Electronics, buy laptop online",626.31,21
+10485,dictionary,Books,This dictionary from our Books collection is best in quality and value.,"dictionary, Books, buy dictionary online",1850.55,21
+10486,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",3861.38,22
+10487,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",3561.61,18
+10488,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",842.26,24
+10489,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",1799.97,17
+10490,shampoo,Beauty,This shampoo from our Beauty collection is best in quality and value.,"shampoo, Beauty, buy shampoo online",3028.0,23
+10491,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",1333.78,25
+10492,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",638.6,10
+10493,biography,Books,This biography from our Books collection is best in quality and value.,"biography, Books, buy biography online",409.53,15
+10494,perfume,Beauty,This perfume from our Beauty collection is best in quality and value.,"perfume, Beauty, buy perfume online",580.57,24
+10495,sneakers,Fashion,This sneakers from our Fashion collection is best in quality and value.,"sneakers, Fashion, buy sneakers online",1587.84,18
+10496,smartphone,Electronics,This smartphone from our Electronics collection is best in quality and value.,"smartphone, Electronics, buy smartphone online",203.47,18
+10497,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",3616.64,18
+10498,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",968.72,20
+10499,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",2567.71,17
+10500,conditioner,Beauty,This conditioner from our Beauty collection is best in quality and value.,"conditioner, Beauty, buy conditioner online",4606.31,22
+10501,mattress,Home & Kitchen,This mattress from our Home & Kitchen collection is best in quality and value.,"mattress, Home & Kitchen, buy mattress online",1420.55,13
+10502,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",2185.78,20
+10503,blender,Home & Kitchen,This blender from our Home & Kitchen collection is best in quality and value.,"blender, Home & Kitchen, buy blender online",1366.09,27
+10504,smartphone,Electronics,This smartphone from our Electronics collection is best in quality and value.,"smartphone, Electronics, buy smartphone online",1604.47,19
+10505,dictionary,Books,This dictionary from our Books collection is best in quality and value.,"dictionary, Books, buy dictionary online",3415.56,18
+10506,mattress,Home & Kitchen,This mattress from our Home & Kitchen collection is best in quality and value.,"mattress, Home & Kitchen, buy mattress online",276.15,19
+10507,moisturizer,Beauty,This moisturizer from our Beauty collection is best in quality and value.,"moisturizer, Beauty, buy moisturizer online",1401.9,26
+10508,guide,Books,This guide from our Books collection is best in quality and value.,"guide, Books, buy guide online",4855.13,14
+10509,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",1533.14,22
+10510,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",2915.22,26
+10511,jeans,Fashion,This jeans from our Fashion collection is best in quality and value.,"jeans, Fashion, buy jeans online",4457.56,27
+10512,moisturizer,Beauty,This moisturizer from our Beauty collection is best in quality and value.,"moisturizer, Beauty, buy moisturizer online",2920.37,21
+10513,dictionary,Books,This dictionary from our Books collection is best in quality and value.,"dictionary, Books, buy dictionary online",2112.86,21
+10514,smartphone,Electronics,This smartphone from our Electronics collection is best in quality and value.,"smartphone, Electronics, buy smartphone online",1534.02,26
+10515,dictionary,Books,This dictionary from our Books collection is best in quality and value.,"dictionary, Books, buy dictionary online",4695.12,17
+10516,smartphone,Electronics,This smartphone from our Electronics collection is best in quality and value.,"smartphone, Electronics, buy smartphone online",2493.14,19
+10517,dictionary,Books,This dictionary from our Books collection is best in quality and value.,"dictionary, Books, buy dictionary online",3850.0,20
+10518,mattress,Home & Kitchen,This mattress from our Home & Kitchen collection is best in quality and value.,"mattress, Home & Kitchen, buy mattress online",2899.35,17
+10519,shampoo,Beauty,This shampoo from our Beauty collection is best in quality and value.,"shampoo, Beauty, buy shampoo online",2661.84,22
+10520,t-shirt,Fashion,This t-shirt from our Fashion collection is best in quality and value.,"t-shirt, Fashion, buy t-shirt online",2629.56,14
+10521,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",2781.24,14
+10522,mattress,Home & Kitchen,This mattress from our Home & Kitchen collection is best in quality and value.,"mattress, Home & Kitchen, buy mattress online",1816.76,22
+10523,knife,Home & Kitchen,This knife from our Home & Kitchen collection is best in quality and value.,"knife, Home & Kitchen, buy knife online",4612.52,28
+10524,moisturizer,Beauty,This moisturizer from our Beauty collection is best in quality and value.,"moisturizer, Beauty, buy moisturizer online",4241.14,23
+10525,moisturizer,Beauty,This moisturizer from our Beauty collection is best in quality and value.,"moisturizer, Beauty, buy moisturizer online",2728.73,14
+10526,curtain,Home & Kitchen,This curtain from our Home & Kitchen collection is best in quality and value.,"curtain, Home & Kitchen, buy curtain online",2055.38,24
+10527,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",3548.99,19
+10528,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",4061.31,25
+10529,moisturizer,Beauty,This moisturizer from our Beauty collection is best in quality and value.,"moisturizer, Beauty, buy moisturizer online",4493.79,19
+10530,guide,Books,This guide from our Books collection is best in quality and value.,"guide, Books, buy guide online",2462.95,17
+10531,perfume,Beauty,This perfume from our Beauty collection is best in quality and value.,"perfume, Beauty, buy perfume online",2785.12,28
+10532,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",120.95,19
+10533,biography,Books,This biography from our Books collection is best in quality and value.,"biography, Books, buy biography online",2990.09,20
+10534,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",2687.34,17
+10535,curtain,Home & Kitchen,This curtain from our Home & Kitchen collection is best in quality and value.,"curtain, Home & Kitchen, buy curtain online",3330.11,15
+10536,jeans,Fashion,This jeans from our Fashion collection is best in quality and value.,"jeans, Fashion, buy jeans online",2615.15,26
+10537,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",2421.82,23
+10538,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",1751.54,22
+10539,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",1489.66,18
+10540,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",102.32,14
+10541,laptop,Electronics,This laptop from our Electronics collection is best in quality and value.,"laptop, Electronics, buy laptop online",904.2,23
+10542,laptop,Electronics,This laptop from our Electronics collection is best in quality and value.,"laptop, Electronics, buy laptop online",3435.46,22
+10543,guide,Books,This guide from our Books collection is best in quality and value.,"guide, Books, buy guide online",763.49,26
+10544,moisturizer,Beauty,This moisturizer from our Beauty collection is best in quality and value.,"moisturizer, Beauty, buy moisturizer online",4603.49,15
+10545,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",1813.66,22
+10546,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",945.84,18
+10547,blender,Home & Kitchen,This blender from our Home & Kitchen collection is best in quality and value.,"blender, Home & Kitchen, buy blender online",1532.36,19
+10548,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",1593.54,17
+10549,t-shirt,Fashion,This t-shirt from our Fashion collection is best in quality and value.,"t-shirt, Fashion, buy t-shirt online",4555.47,25
+10550,sneakers,Fashion,This sneakers from our Fashion collection is best in quality and value.,"sneakers, Fashion, buy sneakers online",3162.82,20
+10551,conditioner,Beauty,This conditioner from our Beauty collection is best in quality and value.,"conditioner, Beauty, buy conditioner online",3337.45,23
+10552,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",4657.02,19
+10553,jeans,Fashion,This jeans from our Fashion collection is best in quality and value.,"jeans, Fashion, buy jeans online",1799.53,21
+10554,biography,Books,This biography from our Books collection is best in quality and value.,"biography, Books, buy biography online",3339.16,13
+10555,dictionary,Books,This dictionary from our Books collection is best in quality and value.,"dictionary, Books, buy dictionary online",3829.59,19
+10556,guide,Books,This guide from our Books collection is best in quality and value.,"guide, Books, buy guide online",717.41,13
+10557,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",284.33,16
+10558,dictionary,Books,This dictionary from our Books collection is best in quality and value.,"dictionary, Books, buy dictionary online",1278.96,19
+10559,shampoo,Beauty,This shampoo from our Beauty collection is best in quality and value.,"shampoo, Beauty, buy shampoo online",4855.88,22
+10560,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",934.47,20
+10561,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",4318.12,27
+10562,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",2416.95,18
+10563,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",3934.47,26
+10564,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",1559.76,23
+10565,blender,Home & Kitchen,This blender from our Home & Kitchen collection is best in quality and value.,"blender, Home & Kitchen, buy blender online",3829.69,22
+10566,guide,Books,This guide from our Books collection is best in quality and value.,"guide, Books, buy guide online",4719.61,22
+10567,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",2749.13,24
+10568,laptop,Electronics,This laptop from our Electronics collection is best in quality and value.,"laptop, Electronics, buy laptop online",487.58,22
+10569,blender,Home & Kitchen,This blender from our Home & Kitchen collection is best in quality and value.,"blender, Home & Kitchen, buy blender online",3270.2,22
+10570,biography,Books,This biography from our Books collection is best in quality and value.,"biography, Books, buy biography online",1328.13,15
+10571,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",1002.5,15
+10572,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",456.45,21
+10573,jeans,Fashion,This jeans from our Fashion collection is best in quality and value.,"jeans, Fashion, buy jeans online",1310.76,13
+10574,biography,Books,This biography from our Books collection is best in quality and value.,"biography, Books, buy biography online",3623.67,26
+10575,biography,Books,This biography from our Books collection is best in quality and value.,"biography, Books, buy biography online",4839.28,14
+10576,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",3997.09,16
+10577,jeans,Fashion,This jeans from our Fashion collection is best in quality and value.,"jeans, Fashion, buy jeans online",4598.17,27
+10578,smartphone,Electronics,This smartphone from our Electronics collection is best in quality and value.,"smartphone, Electronics, buy smartphone online",1863.89,20
+10579,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",4381.72,19
+10580,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",620.98,21
+10581,dictionary,Books,This dictionary from our Books collection is best in quality and value.,"dictionary, Books, buy dictionary online",4342.6,30
+10582,dictionary,Books,This dictionary from our Books collection is best in quality and value.,"dictionary, Books, buy dictionary online",122.36,15
+10583,blender,Home & Kitchen,This blender from our Home & Kitchen collection is best in quality and value.,"blender, Home & Kitchen, buy blender online",3837.36,16
+10584,conditioner,Beauty,This conditioner from our Beauty collection is best in quality and value.,"conditioner, Beauty, buy conditioner online",1332.01,14
+10585,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",4568.23,21
+10586,sneakers,Fashion,This sneakers from our Fashion collection is best in quality and value.,"sneakers, Fashion, buy sneakers online",3564.65,28
+10587,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",4733.47,19
+10588,shampoo,Beauty,This shampoo from our Beauty collection is best in quality and value.,"shampoo, Beauty, buy shampoo online",2915.79,21
+10589,guide,Books,This guide from our Books collection is best in quality and value.,"guide, Books, buy guide online",1456.55,18
+10590,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",3548.26,21
+10591,smartphone,Electronics,This smartphone from our Electronics collection is best in quality and value.,"smartphone, Electronics, buy smartphone online",1819.13,14
+10592,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",4494.48,12
+10593,t-shirt,Fashion,This t-shirt from our Fashion collection is best in quality and value.,"t-shirt, Fashion, buy t-shirt online",3510.58,19
+10594,sneakers,Fashion,This sneakers from our Fashion collection is best in quality and value.,"sneakers, Fashion, buy sneakers online",1003.71,28
+10595,curtain,Home & Kitchen,This curtain from our Home & Kitchen collection is best in quality and value.,"curtain, Home & Kitchen, buy curtain online",3653.32,23
+10596,blender,Home & Kitchen,This blender from our Home & Kitchen collection is best in quality and value.,"blender, Home & Kitchen, buy blender online",2373.11,30
+10597,curtain,Home & Kitchen,This curtain from our Home & Kitchen collection is best in quality and value.,"curtain, Home & Kitchen, buy curtain online",2963.52,12
+10598,knife,Home & Kitchen,This knife from our Home & Kitchen collection is best in quality and value.,"knife, Home & Kitchen, buy knife online",2741.08,21
+10599,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",1412.02,17
+10600,shampoo,Beauty,This shampoo from our Beauty collection is best in quality and value.,"shampoo, Beauty, buy shampoo online",897.86,24
+10601,jeans,Fashion,This jeans from our Fashion collection is best in quality and value.,"jeans, Fashion, buy jeans online",1538.43,9
+10602,shampoo,Beauty,This shampoo from our Beauty collection is best in quality and value.,"shampoo, Beauty, buy shampoo online",747.44,19
+10603,knife,Home & Kitchen,This knife from our Home & Kitchen collection is best in quality and value.,"knife, Home & Kitchen, buy knife online",860.83,20
+10604,knife,Home & Kitchen,This knife from our Home & Kitchen collection is best in quality and value.,"knife, Home & Kitchen, buy knife online",708.55,24
+10605,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",3732.19,18
+10606,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",4535.13,23
+10607,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",1719.33,15
+10608,dictionary,Books,This dictionary from our Books collection is best in quality and value.,"dictionary, Books, buy dictionary online",2532.14,23
+10609,laptop,Electronics,This laptop from our Electronics collection is best in quality and value.,"laptop, Electronics, buy laptop online",1396.3,14
+10610,mattress,Home & Kitchen,This mattress from our Home & Kitchen collection is best in quality and value.,"mattress, Home & Kitchen, buy mattress online",2671.01,19
+10611,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",1054.21,19
+10612,t-shirt,Fashion,This t-shirt from our Fashion collection is best in quality and value.,"t-shirt, Fashion, buy t-shirt online",1177.38,14
+10613,conditioner,Beauty,This conditioner from our Beauty collection is best in quality and value.,"conditioner, Beauty, buy conditioner online",2525.08,20
+10614,curtain,Home & Kitchen,This curtain from our Home & Kitchen collection is best in quality and value.,"curtain, Home & Kitchen, buy curtain online",3869.95,15
+10615,sneakers,Fashion,This sneakers from our Fashion collection is best in quality and value.,"sneakers, Fashion, buy sneakers online",4264.88,25
+10616,shampoo,Beauty,This shampoo from our Beauty collection is best in quality and value.,"shampoo, Beauty, buy shampoo online",4619.17,17
+10617,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",2106.32,13
+10618,conditioner,Beauty,This conditioner from our Beauty collection is best in quality and value.,"conditioner, Beauty, buy conditioner online",1384.53,19
+10619,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",4151.33,19
+10620,moisturizer,Beauty,This moisturizer from our Beauty collection is best in quality and value.,"moisturizer, Beauty, buy moisturizer online",930.92,15
+10621,knife,Home & Kitchen,This knife from our Home & Kitchen collection is best in quality and value.,"knife, Home & Kitchen, buy knife online",2467.13,15
+10622,curtain,Home & Kitchen,This curtain from our Home & Kitchen collection is best in quality and value.,"curtain, Home & Kitchen, buy curtain online",4700.89,19
+10623,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",3720.33,16
+10624,perfume,Beauty,This perfume from our Beauty collection is best in quality and value.,"perfume, Beauty, buy perfume online",4006.78,25
+10625,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",4132.16,17
+10626,mattress,Home & Kitchen,This mattress from our Home & Kitchen collection is best in quality and value.,"mattress, Home & Kitchen, buy mattress online",2811.87,16
+10627,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",564.74,20
+10628,mattress,Home & Kitchen,This mattress from our Home & Kitchen collection is best in quality and value.,"mattress, Home & Kitchen, buy mattress online",294.17,21
+10629,biography,Books,This biography from our Books collection is best in quality and value.,"biography, Books, buy biography online",2398.31,22
+10630,biography,Books,This biography from our Books collection is best in quality and value.,"biography, Books, buy biography online",2987.41,16
+10631,laptop,Electronics,This laptop from our Electronics collection is best in quality and value.,"laptop, Electronics, buy laptop online",876.12,13
+10632,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",3909.77,19
+10633,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",4775.98,25
+10634,dictionary,Books,This dictionary from our Books collection is best in quality and value.,"dictionary, Books, buy dictionary online",1538.08,15
+10635,mattress,Home & Kitchen,This mattress from our Home & Kitchen collection is best in quality and value.,"mattress, Home & Kitchen, buy mattress online",2177.51,17
+10636,laptop,Electronics,This laptop from our Electronics collection is best in quality and value.,"laptop, Electronics, buy laptop online",4896.8,19
+10637,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",2794.92,18
+10638,perfume,Beauty,This perfume from our Beauty collection is best in quality and value.,"perfume, Beauty, buy perfume online",3894.2,24
+10639,knife,Home & Kitchen,This knife from our Home & Kitchen collection is best in quality and value.,"knife, Home & Kitchen, buy knife online",2799.39,20
+10640,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",2933.52,24
+10641,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",135.76,13
+10642,guide,Books,This guide from our Books collection is best in quality and value.,"guide, Books, buy guide online",414.92,28
+10643,perfume,Beauty,This perfume from our Beauty collection is best in quality and value.,"perfume, Beauty, buy perfume online",1426.4,22
+10644,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",520.96,24
+10645,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",1396.36,16
+10646,smartphone,Electronics,This smartphone from our Electronics collection is best in quality and value.,"smartphone, Electronics, buy smartphone online",4268.31,27
+10647,smartphone,Electronics,This smartphone from our Electronics collection is best in quality and value.,"smartphone, Electronics, buy smartphone online",1844.25,17
+10648,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",3239.05,25
+10649,scarf,Fashion,This scarf from our Fashion collection is best in quality and value.,"scarf, Fashion, buy scarf online",1200.52,19
+10650,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",4983.98,23
+10651,mattress,Home & Kitchen,This mattress from our Home & Kitchen collection is best in quality and value.,"mattress, Home & Kitchen, buy mattress online",2045.51,23
+10652,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",4395.55,19
+10653,moisturizer,Beauty,This moisturizer from our Beauty collection is best in quality and value.,"moisturizer, Beauty, buy moisturizer online",2869.57,24
+10654,curtain,Home & Kitchen,This curtain from our Home & Kitchen collection is best in quality and value.,"curtain, Home & Kitchen, buy curtain online",121.4,26
+10655,dictionary,Books,This dictionary from our Books collection is best in quality and value.,"dictionary, Books, buy dictionary online",4371.95,24
+10656,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",3164.53,16
+10657,mattress,Home & Kitchen,This mattress from our Home & Kitchen collection is best in quality and value.,"mattress, Home & Kitchen, buy mattress online",2059.07,21
+10658,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",4375.89,23
+10659,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",2436.79,18
+10660,guide,Books,This guide from our Books collection is best in quality and value.,"guide, Books, buy guide online",4891.52,22
+10661,shampoo,Beauty,This shampoo from our Beauty collection is best in quality and value.,"shampoo, Beauty, buy shampoo online",4034.02,22
+10662,jeans,Fashion,This jeans from our Fashion collection is best in quality and value.,"jeans, Fashion, buy jeans online",3900.06,17
+10663,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",3239.69,17
+10664,guide,Books,This guide from our Books collection is best in quality and value.,"guide, Books, buy guide online",710.42,23
+10665,scarf,Fashion,This scarf from our Fashion collection is best in quality and value.,"scarf, Fashion, buy scarf online",4541.73,18
+10666,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",411.38,12
+10667,biography,Books,This biography from our Books collection is best in quality and value.,"biography, Books, buy biography online",1700.54,12
+10668,knife,Home & Kitchen,This knife from our Home & Kitchen collection is best in quality and value.,"knife, Home & Kitchen, buy knife online",2726.74,15
+10669,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",2858.11,20
+10670,t-shirt,Fashion,This t-shirt from our Fashion collection is best in quality and value.,"t-shirt, Fashion, buy t-shirt online",1023.97,15
+10671,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",4281.82,22
+10672,moisturizer,Beauty,This moisturizer from our Beauty collection is best in quality and value.,"moisturizer, Beauty, buy moisturizer online",4945.39,19
+10673,sneakers,Fashion,This sneakers from our Fashion collection is best in quality and value.,"sneakers, Fashion, buy sneakers online",796.79,28
+10674,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",2739.66,20
+10675,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",260.44,28
+10676,jeans,Fashion,This jeans from our Fashion collection is best in quality and value.,"jeans, Fashion, buy jeans online",3329.86,20
+10677,smartphone,Electronics,This smartphone from our Electronics collection is best in quality and value.,"smartphone, Electronics, buy smartphone online",532.83,19
+10678,perfume,Beauty,This perfume from our Beauty collection is best in quality and value.,"perfume, Beauty, buy perfume online",2370.72,16
+10679,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",3133.45,19
+10680,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",3969.37,18
+10681,jeans,Fashion,This jeans from our Fashion collection is best in quality and value.,"jeans, Fashion, buy jeans online",4216.43,23
+10682,knife,Home & Kitchen,This knife from our Home & Kitchen collection is best in quality and value.,"knife, Home & Kitchen, buy knife online",1665.68,24
+10683,perfume,Beauty,This perfume from our Beauty collection is best in quality and value.,"perfume, Beauty, buy perfume online",3653.17,19
+10684,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",327.03,19
+10685,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",1604.9,18
+10686,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",3784.2,17
+10687,smartphone,Electronics,This smartphone from our Electronics collection is best in quality and value.,"smartphone, Electronics, buy smartphone online",503.04,23
+10688,jeans,Fashion,This jeans from our Fashion collection is best in quality and value.,"jeans, Fashion, buy jeans online",224.61,22
+10689,sneakers,Fashion,This sneakers from our Fashion collection is best in quality and value.,"sneakers, Fashion, buy sneakers online",3131.9,18
+10690,scarf,Fashion,This scarf from our Fashion collection is best in quality and value.,"scarf, Fashion, buy scarf online",3897.39,19
+10691,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",257.21,24
+10692,mattress,Home & Kitchen,This mattress from our Home & Kitchen collection is best in quality and value.,"mattress, Home & Kitchen, buy mattress online",4785.07,15
+10693,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",4335.35,15
+10694,blender,Home & Kitchen,This blender from our Home & Kitchen collection is best in quality and value.,"blender, Home & Kitchen, buy blender online",2719.45,24
+10695,biography,Books,This biography from our Books collection is best in quality and value.,"biography, Books, buy biography online",3850.5,18
+10696,dictionary,Books,This dictionary from our Books collection is best in quality and value.,"dictionary, Books, buy dictionary online",4081.29,22
+10697,laptop,Electronics,This laptop from our Electronics collection is best in quality and value.,"laptop, Electronics, buy laptop online",2089.14,12
+10698,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",3391.04,14
+10699,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",585.62,20
+10700,knife,Home & Kitchen,This knife from our Home & Kitchen collection is best in quality and value.,"knife, Home & Kitchen, buy knife online",2878.39,13
+10701,laptop,Electronics,This laptop from our Electronics collection is best in quality and value.,"laptop, Electronics, buy laptop online",4102.64,17
+10702,guide,Books,This guide from our Books collection is best in quality and value.,"guide, Books, buy guide online",4462.85,23
+10703,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",4427.54,19
+10704,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",3156.34,19
+10705,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",385.27,20
+10706,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",188.66,15
+10707,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",2436.99,24
+10708,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",2062.55,23
+10709,perfume,Beauty,This perfume from our Beauty collection is best in quality and value.,"perfume, Beauty, buy perfume online",4465.05,23
+10710,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",3211.89,21
+10711,smartphone,Electronics,This smartphone from our Electronics collection is best in quality and value.,"smartphone, Electronics, buy smartphone online",728.72,12
+10712,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",4782.25,16
+10713,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",1634.86,16
+10714,conditioner,Beauty,This conditioner from our Beauty collection is best in quality and value.,"conditioner, Beauty, buy conditioner online",3214.74,20
+10715,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",904.98,29
+10716,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",2779.09,17
+10717,curtain,Home & Kitchen,This curtain from our Home & Kitchen collection is best in quality and value.,"curtain, Home & Kitchen, buy curtain online",155.6,17
+10718,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",1805.86,21
+10719,smartphone,Electronics,This smartphone from our Electronics collection is best in quality and value.,"smartphone, Electronics, buy smartphone online",1602.2,16
+10720,t-shirt,Fashion,This t-shirt from our Fashion collection is best in quality and value.,"t-shirt, Fashion, buy t-shirt online",2543.3,22
+10721,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",716.39,23
+10722,jeans,Fashion,This jeans from our Fashion collection is best in quality and value.,"jeans, Fashion, buy jeans online",811.44,21
+10723,knife,Home & Kitchen,This knife from our Home & Kitchen collection is best in quality and value.,"knife, Home & Kitchen, buy knife online",1427.88,13
+10724,jeans,Fashion,This jeans from our Fashion collection is best in quality and value.,"jeans, Fashion, buy jeans online",4521.84,21
+10725,shampoo,Beauty,This shampoo from our Beauty collection is best in quality and value.,"shampoo, Beauty, buy shampoo online",2852.94,21
+10726,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",488.84,22
+10727,biography,Books,This biography from our Books collection is best in quality and value.,"biography, Books, buy biography online",2806.95,26
+10728,moisturizer,Beauty,This moisturizer from our Beauty collection is best in quality and value.,"moisturizer, Beauty, buy moisturizer online",1537.81,13
+10729,jeans,Fashion,This jeans from our Fashion collection is best in quality and value.,"jeans, Fashion, buy jeans online",3477.57,25
+10730,dictionary,Books,This dictionary from our Books collection is best in quality and value.,"dictionary, Books, buy dictionary online",1608.45,20
+10731,curtain,Home & Kitchen,This curtain from our Home & Kitchen collection is best in quality and value.,"curtain, Home & Kitchen, buy curtain online",292.86,20
+10732,sneakers,Fashion,This sneakers from our Fashion collection is best in quality and value.,"sneakers, Fashion, buy sneakers online",3778.86,12
+10733,scarf,Fashion,This scarf from our Fashion collection is best in quality and value.,"scarf, Fashion, buy scarf online",4696.73,24
+10734,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",180.15,22
+10735,shampoo,Beauty,This shampoo from our Beauty collection is best in quality and value.,"shampoo, Beauty, buy shampoo online",436.54,19
+10736,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",4622.53,16
+10737,jeans,Fashion,This jeans from our Fashion collection is best in quality and value.,"jeans, Fashion, buy jeans online",2019.4,22
+10738,jeans,Fashion,This jeans from our Fashion collection is best in quality and value.,"jeans, Fashion, buy jeans online",846.94,21
+10739,moisturizer,Beauty,This moisturizer from our Beauty collection is best in quality and value.,"moisturizer, Beauty, buy moisturizer online",2230.79,21
+10740,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",2937.68,22
+10741,curtain,Home & Kitchen,This curtain from our Home & Kitchen collection is best in quality and value.,"curtain, Home & Kitchen, buy curtain online",612.63,18
+10742,perfume,Beauty,This perfume from our Beauty collection is best in quality and value.,"perfume, Beauty, buy perfume online",1066.56,24
+10743,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",2595.68,25
+10744,scarf,Fashion,This scarf from our Fashion collection is best in quality and value.,"scarf, Fashion, buy scarf online",3284.79,22
+10745,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",1091.15,17
+10746,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",200.23,19
+10747,t-shirt,Fashion,This t-shirt from our Fashion collection is best in quality and value.,"t-shirt, Fashion, buy t-shirt online",4047.64,18
+10748,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",4348.24,19
+10749,mattress,Home & Kitchen,This mattress from our Home & Kitchen collection is best in quality and value.,"mattress, Home & Kitchen, buy mattress online",4966.82,27
+10750,perfume,Beauty,This perfume from our Beauty collection is best in quality and value.,"perfume, Beauty, buy perfume online",4491.95,14
+10751,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",1874.75,28
+10752,mattress,Home & Kitchen,This mattress from our Home & Kitchen collection is best in quality and value.,"mattress, Home & Kitchen, buy mattress online",4561.09,23
+10753,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",4098.17,13
+10754,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",2902.99,17
+10755,moisturizer,Beauty,This moisturizer from our Beauty collection is best in quality and value.,"moisturizer, Beauty, buy moisturizer online",2461.81,19
+10756,conditioner,Beauty,This conditioner from our Beauty collection is best in quality and value.,"conditioner, Beauty, buy conditioner online",193.42,15
+10757,moisturizer,Beauty,This moisturizer from our Beauty collection is best in quality and value.,"moisturizer, Beauty, buy moisturizer online",3630.35,13
+10758,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",1609.38,19
+10759,conditioner,Beauty,This conditioner from our Beauty collection is best in quality and value.,"conditioner, Beauty, buy conditioner online",2835.44,17
+10760,scarf,Fashion,This scarf from our Fashion collection is best in quality and value.,"scarf, Fashion, buy scarf online",1500.6,17
+10761,blender,Home & Kitchen,This blender from our Home & Kitchen collection is best in quality and value.,"blender, Home & Kitchen, buy blender online",3727.19,21
+10762,smartphone,Electronics,This smartphone from our Electronics collection is best in quality and value.,"smartphone, Electronics, buy smartphone online",2089.47,20
+10763,dictionary,Books,This dictionary from our Books collection is best in quality and value.,"dictionary, Books, buy dictionary online",1442.56,24
+10764,jeans,Fashion,This jeans from our Fashion collection is best in quality and value.,"jeans, Fashion, buy jeans online",4773.33,17
+10765,laptop,Electronics,This laptop from our Electronics collection is best in quality and value.,"laptop, Electronics, buy laptop online",2639.15,26
+10766,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",914.22,11
+10767,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",710.79,25
+10768,smartphone,Electronics,This smartphone from our Electronics collection is best in quality and value.,"smartphone, Electronics, buy smartphone online",4194.94,19
+10769,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",2727.39,21
+10770,biography,Books,This biography from our Books collection is best in quality and value.,"biography, Books, buy biography online",848.79,25
+10771,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",2896.18,22
+10772,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",1309.2,17
+10773,sneakers,Fashion,This sneakers from our Fashion collection is best in quality and value.,"sneakers, Fashion, buy sneakers online",1489.6,26
+10774,smartphone,Electronics,This smartphone from our Electronics collection is best in quality and value.,"smartphone, Electronics, buy smartphone online",4240.2,15
+10775,guide,Books,This guide from our Books collection is best in quality and value.,"guide, Books, buy guide online",4835.65,17
+10776,mattress,Home & Kitchen,This mattress from our Home & Kitchen collection is best in quality and value.,"mattress, Home & Kitchen, buy mattress online",3190.87,18
+10777,laptop,Electronics,This laptop from our Electronics collection is best in quality and value.,"laptop, Electronics, buy laptop online",1994.13,21
+10778,biography,Books,This biography from our Books collection is best in quality and value.,"biography, Books, buy biography online",507.09,13
+10779,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",151.02,16
+10780,scarf,Fashion,This scarf from our Fashion collection is best in quality and value.,"scarf, Fashion, buy scarf online",3111.79,19
+10781,moisturizer,Beauty,This moisturizer from our Beauty collection is best in quality and value.,"moisturizer, Beauty, buy moisturizer online",1227.44,21
+10782,jeans,Fashion,This jeans from our Fashion collection is best in quality and value.,"jeans, Fashion, buy jeans online",301.62,19
+10783,scarf,Fashion,This scarf from our Fashion collection is best in quality and value.,"scarf, Fashion, buy scarf online",322.51,23
+10784,knife,Home & Kitchen,This knife from our Home & Kitchen collection is best in quality and value.,"knife, Home & Kitchen, buy knife online",4643.22,14
+10785,sneakers,Fashion,This sneakers from our Fashion collection is best in quality and value.,"sneakers, Fashion, buy sneakers online",3780.96,17
+10786,moisturizer,Beauty,This moisturizer from our Beauty collection is best in quality and value.,"moisturizer, Beauty, buy moisturizer online",1709.88,31
+10787,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",391.32,18
+10788,scarf,Fashion,This scarf from our Fashion collection is best in quality and value.,"scarf, Fashion, buy scarf online",4717.94,26
+10789,curtain,Home & Kitchen,This curtain from our Home & Kitchen collection is best in quality and value.,"curtain, Home & Kitchen, buy curtain online",3792.08,25
+10790,dictionary,Books,This dictionary from our Books collection is best in quality and value.,"dictionary, Books, buy dictionary online",531.34,16
+10791,laptop,Electronics,This laptop from our Electronics collection is best in quality and value.,"laptop, Electronics, buy laptop online",4626.03,16
+10792,perfume,Beauty,This perfume from our Beauty collection is best in quality and value.,"perfume, Beauty, buy perfume online",784.46,18
+10793,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",2648.53,23
+10794,biography,Books,This biography from our Books collection is best in quality and value.,"biography, Books, buy biography online",4531.99,21
+10795,mattress,Home & Kitchen,This mattress from our Home & Kitchen collection is best in quality and value.,"mattress, Home & Kitchen, buy mattress online",2993.58,13
+10796,sneakers,Fashion,This sneakers from our Fashion collection is best in quality and value.,"sneakers, Fashion, buy sneakers online",200.22,26
+10797,guide,Books,This guide from our Books collection is best in quality and value.,"guide, Books, buy guide online",4527.52,14
+10798,guide,Books,This guide from our Books collection is best in quality and value.,"guide, Books, buy guide online",4111.0,17
+10799,laptop,Electronics,This laptop from our Electronics collection is best in quality and value.,"laptop, Electronics, buy laptop online",2789.79,20
+10800,blender,Home & Kitchen,This blender from our Home & Kitchen collection is best in quality and value.,"blender, Home & Kitchen, buy blender online",3990.06,15
+10801,conditioner,Beauty,This conditioner from our Beauty collection is best in quality and value.,"conditioner, Beauty, buy conditioner online",137.94,26
+10802,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",4902.12,19
+10803,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",4485.48,17
+10804,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",3732.39,24
+10805,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",2230.74,22
+10806,perfume,Beauty,This perfume from our Beauty collection is best in quality and value.,"perfume, Beauty, buy perfume online",4284.88,36
+10807,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",602.71,16
+10808,conditioner,Beauty,This conditioner from our Beauty collection is best in quality and value.,"conditioner, Beauty, buy conditioner online",2535.8,18
+10809,guide,Books,This guide from our Books collection is best in quality and value.,"guide, Books, buy guide online",1495.49,18
+10810,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",1961.05,18
+10811,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",2841.95,24
+10812,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",1471.18,23
+10813,jeans,Fashion,This jeans from our Fashion collection is best in quality and value.,"jeans, Fashion, buy jeans online",316.65,18
+10814,scarf,Fashion,This scarf from our Fashion collection is best in quality and value.,"scarf, Fashion, buy scarf online",3129.43,24
+10815,guide,Books,This guide from our Books collection is best in quality and value.,"guide, Books, buy guide online",1867.75,22
+10816,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",3834.55,20
+10817,mattress,Home & Kitchen,This mattress from our Home & Kitchen collection is best in quality and value.,"mattress, Home & Kitchen, buy mattress online",2172.48,16
+10818,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",3136.52,24
+10819,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",888.35,18
+10820,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",4100.86,17
+10821,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",4623.87,16
+10822,shampoo,Beauty,This shampoo from our Beauty collection is best in quality and value.,"shampoo, Beauty, buy shampoo online",1677.29,21
+10823,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",3496.24,19
+10824,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",1694.46,23
+10825,knife,Home & Kitchen,This knife from our Home & Kitchen collection is best in quality and value.,"knife, Home & Kitchen, buy knife online",332.62,20
+10826,mattress,Home & Kitchen,This mattress from our Home & Kitchen collection is best in quality and value.,"mattress, Home & Kitchen, buy mattress online",836.69,9
+10827,laptop,Electronics,This laptop from our Electronics collection is best in quality and value.,"laptop, Electronics, buy laptop online",4050.3,24
+10828,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",1738.18,21
+10829,sneakers,Fashion,This sneakers from our Fashion collection is best in quality and value.,"sneakers, Fashion, buy sneakers online",1209.79,16
+10830,blender,Home & Kitchen,This blender from our Home & Kitchen collection is best in quality and value.,"blender, Home & Kitchen, buy blender online",4998.15,23
+10831,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",3378.78,18
+10832,conditioner,Beauty,This conditioner from our Beauty collection is best in quality and value.,"conditioner, Beauty, buy conditioner online",3623.78,23
+10833,t-shirt,Fashion,This t-shirt from our Fashion collection is best in quality and value.,"t-shirt, Fashion, buy t-shirt online",1696.3,18
+10834,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",3127.27,21
+10835,guide,Books,This guide from our Books collection is best in quality and value.,"guide, Books, buy guide online",2759.41,21
+10836,smartphone,Electronics,This smartphone from our Electronics collection is best in quality and value.,"smartphone, Electronics, buy smartphone online",280.61,18
+10837,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",4150.23,14
+10838,scarf,Fashion,This scarf from our Fashion collection is best in quality and value.,"scarf, Fashion, buy scarf online",955.94,23
+10839,jeans,Fashion,This jeans from our Fashion collection is best in quality and value.,"jeans, Fashion, buy jeans online",2812.36,23
+10840,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",3919.77,28
+10841,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",3576.33,16
+10842,laptop,Electronics,This laptop from our Electronics collection is best in quality and value.,"laptop, Electronics, buy laptop online",1663.25,31
+10843,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",3871.96,15
+10844,t-shirt,Fashion,This t-shirt from our Fashion collection is best in quality and value.,"t-shirt, Fashion, buy t-shirt online",3411.19,17
+10845,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",4401.42,12
+10846,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",1710.53,20
+10847,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",4312.25,26
+10848,shampoo,Beauty,This shampoo from our Beauty collection is best in quality and value.,"shampoo, Beauty, buy shampoo online",4300.44,19
+10849,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",4296.73,14
+10850,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",3113.16,12
+10851,conditioner,Beauty,This conditioner from our Beauty collection is best in quality and value.,"conditioner, Beauty, buy conditioner online",2631.96,19
+10852,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",2762.0,24
+10853,biography,Books,This biography from our Books collection is best in quality and value.,"biography, Books, buy biography online",4603.07,12
+10854,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",841.54,19
+10855,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",1286.18,14
+10856,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",733.6,26
+10857,moisturizer,Beauty,This moisturizer from our Beauty collection is best in quality and value.,"moisturizer, Beauty, buy moisturizer online",1975.26,18
+10858,mattress,Home & Kitchen,This mattress from our Home & Kitchen collection is best in quality and value.,"mattress, Home & Kitchen, buy mattress online",1675.82,15
+10859,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",2392.68,13
+10860,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",3935.1,29
+10861,perfume,Beauty,This perfume from our Beauty collection is best in quality and value.,"perfume, Beauty, buy perfume online",1260.06,17
+10862,conditioner,Beauty,This conditioner from our Beauty collection is best in quality and value.,"conditioner, Beauty, buy conditioner online",150.0,17
+10863,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",2691.43,17
+10864,blender,Home & Kitchen,This blender from our Home & Kitchen collection is best in quality and value.,"blender, Home & Kitchen, buy blender online",1609.84,27
+10865,perfume,Beauty,This perfume from our Beauty collection is best in quality and value.,"perfume, Beauty, buy perfume online",2911.0,20
+10866,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",411.35,15
+10867,biography,Books,This biography from our Books collection is best in quality and value.,"biography, Books, buy biography online",3721.48,18
+10868,conditioner,Beauty,This conditioner from our Beauty collection is best in quality and value.,"conditioner, Beauty, buy conditioner online",4969.03,18
+10869,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",4336.48,19
+10870,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",1435.89,17
+10871,laptop,Electronics,This laptop from our Electronics collection is best in quality and value.,"laptop, Electronics, buy laptop online",3916.49,15
+10872,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",3657.77,18
+10873,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",1706.13,16
+10874,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",973.1,25
+10875,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",938.17,15
+10876,mattress,Home & Kitchen,This mattress from our Home & Kitchen collection is best in quality and value.,"mattress, Home & Kitchen, buy mattress online",2549.63,20
+10877,dictionary,Books,This dictionary from our Books collection is best in quality and value.,"dictionary, Books, buy dictionary online",4763.85,31
+10878,shampoo,Beauty,This shampoo from our Beauty collection is best in quality and value.,"shampoo, Beauty, buy shampoo online",1869.93,17
+10879,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",2119.18,17
+10880,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",3273.74,22
+10881,biography,Books,This biography from our Books collection is best in quality and value.,"biography, Books, buy biography online",3655.22,23
+10882,biography,Books,This biography from our Books collection is best in quality and value.,"biography, Books, buy biography online",2253.61,17
+10883,biography,Books,This biography from our Books collection is best in quality and value.,"biography, Books, buy biography online",2962.97,26
+10884,t-shirt,Fashion,This t-shirt from our Fashion collection is best in quality and value.,"t-shirt, Fashion, buy t-shirt online",1801.29,12
+10885,dictionary,Books,This dictionary from our Books collection is best in quality and value.,"dictionary, Books, buy dictionary online",354.73,17
+10886,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",2897.07,14
+10887,blender,Home & Kitchen,This blender from our Home & Kitchen collection is best in quality and value.,"blender, Home & Kitchen, buy blender online",1153.93,28
+10888,t-shirt,Fashion,This t-shirt from our Fashion collection is best in quality and value.,"t-shirt, Fashion, buy t-shirt online",775.02,19
+10889,knife,Home & Kitchen,This knife from our Home & Kitchen collection is best in quality and value.,"knife, Home & Kitchen, buy knife online",4636.37,24
+10890,conditioner,Beauty,This conditioner from our Beauty collection is best in quality and value.,"conditioner, Beauty, buy conditioner online",2797.01,22
+10891,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",3186.25,15
+10892,curtain,Home & Kitchen,This curtain from our Home & Kitchen collection is best in quality and value.,"curtain, Home & Kitchen, buy curtain online",253.74,20
+10893,smartphone,Electronics,This smartphone from our Electronics collection is best in quality and value.,"smartphone, Electronics, buy smartphone online",3309.26,18
+10894,conditioner,Beauty,This conditioner from our Beauty collection is best in quality and value.,"conditioner, Beauty, buy conditioner online",3106.99,17
+10895,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",1253.42,16
+10896,perfume,Beauty,This perfume from our Beauty collection is best in quality and value.,"perfume, Beauty, buy perfume online",3512.37,25
+10897,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",2565.76,17
+10898,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",1870.72,16
+10899,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",2346.83,17
+10900,guide,Books,This guide from our Books collection is best in quality and value.,"guide, Books, buy guide online",2877.97,29
+10901,dictionary,Books,This dictionary from our Books collection is best in quality and value.,"dictionary, Books, buy dictionary online",1507.66,16
+10902,conditioner,Beauty,This conditioner from our Beauty collection is best in quality and value.,"conditioner, Beauty, buy conditioner online",3980.96,25
+10903,jeans,Fashion,This jeans from our Fashion collection is best in quality and value.,"jeans, Fashion, buy jeans online",2333.1,24
+10904,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",4549.25,15
+10905,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",4915.44,15
+10906,scarf,Fashion,This scarf from our Fashion collection is best in quality and value.,"scarf, Fashion, buy scarf online",3711.07,18
+10907,perfume,Beauty,This perfume from our Beauty collection is best in quality and value.,"perfume, Beauty, buy perfume online",4050.13,23
+10908,biography,Books,This biography from our Books collection is best in quality and value.,"biography, Books, buy biography online",4256.67,16
+10909,curtain,Home & Kitchen,This curtain from our Home & Kitchen collection is best in quality and value.,"curtain, Home & Kitchen, buy curtain online",579.35,16
+10910,knife,Home & Kitchen,This knife from our Home & Kitchen collection is best in quality and value.,"knife, Home & Kitchen, buy knife online",4014.1,16
+10911,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",1147.56,28
+10912,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",4450.28,21
+10913,guide,Books,This guide from our Books collection is best in quality and value.,"guide, Books, buy guide online",931.37,16
+10914,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",3268.11,22
+10915,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",2186.0,14
+10916,shampoo,Beauty,This shampoo from our Beauty collection is best in quality and value.,"shampoo, Beauty, buy shampoo online",494.98,17
+10917,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",2930.22,14
+10918,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",2123.23,20
+10919,laptop,Electronics,This laptop from our Electronics collection is best in quality and value.,"laptop, Electronics, buy laptop online",4258.86,17
+10920,conditioner,Beauty,This conditioner from our Beauty collection is best in quality and value.,"conditioner, Beauty, buy conditioner online",3524.16,25
+10921,blender,Home & Kitchen,This blender from our Home & Kitchen collection is best in quality and value.,"blender, Home & Kitchen, buy blender online",2849.52,17
+10922,moisturizer,Beauty,This moisturizer from our Beauty collection is best in quality and value.,"moisturizer, Beauty, buy moisturizer online",2824.59,12
+10923,shampoo,Beauty,This shampoo from our Beauty collection is best in quality and value.,"shampoo, Beauty, buy shampoo online",1399.46,22
+10924,shampoo,Beauty,This shampoo from our Beauty collection is best in quality and value.,"shampoo, Beauty, buy shampoo online",2848.36,13
+10925,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",2086.28,30
+10926,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",1167.24,20
+10927,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",3348.1,15
+10928,dictionary,Books,This dictionary from our Books collection is best in quality and value.,"dictionary, Books, buy dictionary online",1055.34,24
+10929,jeans,Fashion,This jeans from our Fashion collection is best in quality and value.,"jeans, Fashion, buy jeans online",339.59,21
+10930,conditioner,Beauty,This conditioner from our Beauty collection is best in quality and value.,"conditioner, Beauty, buy conditioner online",3624.77,24
+10931,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",3513.24,23
+10932,curtain,Home & Kitchen,This curtain from our Home & Kitchen collection is best in quality and value.,"curtain, Home & Kitchen, buy curtain online",4839.64,22
+10933,t-shirt,Fashion,This t-shirt from our Fashion collection is best in quality and value.,"t-shirt, Fashion, buy t-shirt online",1387.6,22
+10934,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",679.75,14
+10935,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",4957.22,24
+10936,jeans,Fashion,This jeans from our Fashion collection is best in quality and value.,"jeans, Fashion, buy jeans online",3902.15,18
+10937,moisturizer,Beauty,This moisturizer from our Beauty collection is best in quality and value.,"moisturizer, Beauty, buy moisturizer online",3790.34,29
+10938,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",392.37,19
+10939,curtain,Home & Kitchen,This curtain from our Home & Kitchen collection is best in quality and value.,"curtain, Home & Kitchen, buy curtain online",704.5,17
+10940,smartphone,Electronics,This smartphone from our Electronics collection is best in quality and value.,"smartphone, Electronics, buy smartphone online",2165.87,12
+10941,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",2900.91,21
+10942,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",568.57,23
+10943,smartphone,Electronics,This smartphone from our Electronics collection is best in quality and value.,"smartphone, Electronics, buy smartphone online",3308.76,15
+10944,laptop,Electronics,This laptop from our Electronics collection is best in quality and value.,"laptop, Electronics, buy laptop online",4571.21,21
+10945,perfume,Beauty,This perfume from our Beauty collection is best in quality and value.,"perfume, Beauty, buy perfume online",1396.96,19
+10946,guide,Books,This guide from our Books collection is best in quality and value.,"guide, Books, buy guide online",2393.37,17
+10947,perfume,Beauty,This perfume from our Beauty collection is best in quality and value.,"perfume, Beauty, buy perfume online",2599.46,17
+10948,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",3087.87,24
+10949,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",1304.83,17
+10950,biography,Books,This biography from our Books collection is best in quality and value.,"biography, Books, buy biography online",604.03,17
+10951,smartphone,Electronics,This smartphone from our Electronics collection is best in quality and value.,"smartphone, Electronics, buy smartphone online",4837.4,16
+10952,lamp,Home & Kitchen,This lamp from our Home & Kitchen collection is best in quality and value.,"lamp, Home & Kitchen, buy lamp online",4393.72,17
+10953,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",3965.44,15
+10954,conditioner,Beauty,This conditioner from our Beauty collection is best in quality and value.,"conditioner, Beauty, buy conditioner online",2361.6,21
+10955,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",179.59,22
+10956,knife,Home & Kitchen,This knife from our Home & Kitchen collection is best in quality and value.,"knife, Home & Kitchen, buy knife online",2243.38,21
+10957,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",2944.72,21
+10958,jeans,Fashion,This jeans from our Fashion collection is best in quality and value.,"jeans, Fashion, buy jeans online",1263.47,13
+10959,shampoo,Beauty,This shampoo from our Beauty collection is best in quality and value.,"shampoo, Beauty, buy shampoo online",3241.51,14
+10960,curtain,Home & Kitchen,This curtain from our Home & Kitchen collection is best in quality and value.,"curtain, Home & Kitchen, buy curtain online",2334.65,20
+10961,smartphone,Electronics,This smartphone from our Electronics collection is best in quality and value.,"smartphone, Electronics, buy smartphone online",1275.68,22
+10962,mattress,Home & Kitchen,This mattress from our Home & Kitchen collection is best in quality and value.,"mattress, Home & Kitchen, buy mattress online",4175.3,22
+10963,smartphone,Electronics,This smartphone from our Electronics collection is best in quality and value.,"smartphone, Electronics, buy smartphone online",756.52,19
+10964,perfume,Beauty,This perfume from our Beauty collection is best in quality and value.,"perfume, Beauty, buy perfume online",2101.12,22
+10965,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",3282.47,12
+10966,shampoo,Beauty,This shampoo from our Beauty collection is best in quality and value.,"shampoo, Beauty, buy shampoo online",3550.42,28
+10967,mattress,Home & Kitchen,This mattress from our Home & Kitchen collection is best in quality and value.,"mattress, Home & Kitchen, buy mattress online",2002.88,15
+10968,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",4802.55,21
+10969,knife,Home & Kitchen,This knife from our Home & Kitchen collection is best in quality and value.,"knife, Home & Kitchen, buy knife online",3444.3,32
+10970,sneakers,Fashion,This sneakers from our Fashion collection is best in quality and value.,"sneakers, Fashion, buy sneakers online",1538.53,18
+10971,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",1382.49,25
+10972,jeans,Fashion,This jeans from our Fashion collection is best in quality and value.,"jeans, Fashion, buy jeans online",3126.57,29
+10973,textbook,Books,This textbook from our Books collection is best in quality and value.,"textbook, Books, buy textbook online",2031.29,24
+10974,charger,Electronics,This charger from our Electronics collection is best in quality and value.,"charger, Electronics, buy charger online",4883.32,25
+10975,moisturizer,Beauty,This moisturizer from our Beauty collection is best in quality and value.,"moisturizer, Beauty, buy moisturizer online",2000.5,21
+10976,sneakers,Fashion,This sneakers from our Fashion collection is best in quality and value.,"sneakers, Fashion, buy sneakers online",2593.05,13
+10977,t-shirt,Fashion,This t-shirt from our Fashion collection is best in quality and value.,"t-shirt, Fashion, buy t-shirt online",4500.77,17
+10978,sneakers,Fashion,This sneakers from our Fashion collection is best in quality and value.,"sneakers, Fashion, buy sneakers online",1446.98,16
+10979,perfume,Beauty,This perfume from our Beauty collection is best in quality and value.,"perfume, Beauty, buy perfume online",1550.8,25
+10980,mattress,Home & Kitchen,This mattress from our Home & Kitchen collection is best in quality and value.,"mattress, Home & Kitchen, buy mattress online",3062.64,17
+10981,moisturizer,Beauty,This moisturizer from our Beauty collection is best in quality and value.,"moisturizer, Beauty, buy moisturizer online",1929.14,18
+10982,laptop,Electronics,This laptop from our Electronics collection is best in quality and value.,"laptop, Electronics, buy laptop online",3521.34,22
+10983,dictionary,Books,This dictionary from our Books collection is best in quality and value.,"dictionary, Books, buy dictionary online",3616.08,17
+10984,laptop,Electronics,This laptop from our Electronics collection is best in quality and value.,"laptop, Electronics, buy laptop online",851.29,24
+10985,lipstick,Beauty,This lipstick from our Beauty collection is best in quality and value.,"lipstick, Beauty, buy lipstick online",2756.16,16
+10986,laptop,Electronics,This laptop from our Electronics collection is best in quality and value.,"laptop, Electronics, buy laptop online",2665.53,21
+10987,curtain,Home & Kitchen,This curtain from our Home & Kitchen collection is best in quality and value.,"curtain, Home & Kitchen, buy curtain online",1962.49,17
+10988,battery,Electronics,This battery from our Electronics collection is best in quality and value.,"battery, Electronics, buy battery online",1849.08,16
+10989,perfume,Beauty,This perfume from our Beauty collection is best in quality and value.,"perfume, Beauty, buy perfume online",1476.3,21
+10990,guide,Books,This guide from our Books collection is best in quality and value.,"guide, Books, buy guide online",2119.81,22
+10991,t-shirt,Fashion,This t-shirt from our Fashion collection is best in quality and value.,"t-shirt, Fashion, buy t-shirt online",1260.6,19
+10992,t-shirt,Fashion,This t-shirt from our Fashion collection is best in quality and value.,"t-shirt, Fashion, buy t-shirt online",3703.72,14
+10993,shampoo,Beauty,This shampoo from our Beauty collection is best in quality and value.,"shampoo, Beauty, buy shampoo online",2078.06,24
+10994,jacket,Fashion,This jacket from our Fashion collection is best in quality and value.,"jacket, Fashion, buy jacket online",2376.65,25
+10995,biography,Books,This biography from our Books collection is best in quality and value.,"biography, Books, buy biography online",973.32,21
+10996,biography,Books,This biography from our Books collection is best in quality and value.,"biography, Books, buy biography online",2950.0,25
+10997,novel,Books,This novel from our Books collection is best in quality and value.,"novel, Books, buy novel online",3744.89,18
+10998,headphones,Electronics,This headphones from our Electronics collection is best in quality and value.,"headphones, Electronics, buy headphones online",2988.2,21
+10999,blender,Home & Kitchen,This blender from our Home & Kitchen collection is best in quality and value.,"blender, Home & Kitchen, buy blender online",4414.74,15
+11000,dictionary,Books,This dictionary from our Books collection is best in quality and value.,"dictionary, Books, buy dictionary online",716.23,23
