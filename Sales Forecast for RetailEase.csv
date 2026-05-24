@@ -1,0 +1,1001 @@
+product_category,store_location,historical_avg_monthly_sales,promo_active,season,economic_index,competitor_activity_index,local_event_impact,predicted_next_month_sales
+Grocery,Tier 1 City,49173.84,No,Winter,0.84,0.98,0,46472.14
+Apparel,Tier 2 City,106891.01,No,Summer,1.0,1.38,0,81305.19
+Pharmacy,Metro,59544.75,No,Summer,0.92,0.87,0,64098.48
+Pharmacy,Tier 2 City,70228.41,No,Back to School,0.97,1.38,0,47324.19
+Grocery,Metro,78686.68,No,Winter,0.96,1.14,1,85596.37
+Pharmacy,Tier 1 City,71559.17,No,Regular,1.02,1.07,0,63750.6
+Grocery,Metro,39406.36,No,Festive,0.87,0.66,0,52592.89
+Home Decor,Tier 2 City,60877.89,No,Summer,0.84,0.84,1,80632.54
+Apparel,Metro,35808.62,No,Regular,0.84,1.14,0,31251.28
+Electronics,Tier 1 City,44402.82,Yes,Winter,0.97,1.18,0,45358.99
+Grocery,Tier 2 City,67237.49,No,Summer,1.09,0.55,0,135952.09
+Electronics,Tier 1 City,59906.48,Yes,Winter,1.2,1.49,0,62215.5
+Grocery,Metro,83341.24,No,Back to School,1.1,1.09,0,88217.51
+Apparel,Tier 2 City,69697.85,No,Back to School,1.15,1.34,1,64784.32
+Home Decor,Tier 1 City,44053.08,Yes,Regular,0.98,1.36,0,32421.87
+Pharmacy,Tier 1 City,58177.17,Yes,Winter,0.87,0.98,0,57674.73
+Apparel,Tier 1 City,55559.65,No,Back to School,0.91,0.88,0,61532.64
+Pharmacy,Metro,45197.21,No,Festive,0.87,0.76,0,50784.32
+Apparel,Metro,70190.06,Yes,Regular,1.09,1.46,1,63634.64
+Home Decor,Tier 1 City,65450.66,Yes,Back to School,1.13,1.18,0,75643.57
+Apparel,Tier 1 City,34350.63,No,Summer,0.92,0.56,1,62823.02
+Home Decor,Metro,87204.42,Yes,Summer,1.02,1.02,0,95227.66
+Pharmacy,Metro,48387.78,No,Festive,1.04,0.51,1,110240.95
+Apparel,Tier 2 City,59992.08,Yes,Festive,1.08,1.03,0,70247.61
+Grocery,Tier 2 City,45633.8,Yes,Winter,1.01,0.95,0,53141.38
+Electronics,Metro,67060.9,Yes,Regular,1.07,0.8,0,102785.18
+Electronics,Metro,64101.7,No,Regular,1.12,0.98,0,74672.82
+Electronics,Metro,81941.21,No,Winter,0.98,1.36,1,62758.41
+Home Decor,Tier 1 City,29739.98,Yes,Festive,0.82,0.79,0,41654.77
+Grocery,Metro,11413.8,Yes,Winter,0.91,1.49,0,5000.0
+Apparel,Metro,43956.67,Yes,Winter,0.91,0.76,0,57037.05
+Electronics,Tier 2 City,24428.44,No,Back to School,0.96,0.56,1,53148.92
+Pharmacy,Tier 1 City,29019.57,No,Winter,1.16,1.46,1,13213.36
+Electronics,Tier 1 City,54879.8,Yes,Winter,0.88,0.69,0,85194.57
+Grocery,Metro,29840.97,Yes,Back to School,1.19,1.14,0,36540.82
+Electronics,Metro,43849.37,No,Summer,1.09,0.99,0,47075.89
+Home Decor,Tier 2 City,94003.54,Yes,Regular,0.83,1.19,0,83618.85
+Grocery,Tier 1 City,57152.45,No,Festive,0.83,1.08,0,50991.84
+Electronics,Tier 2 City,43972.36,No,Regular,1.14,0.8,0,60269.41
+Home Decor,Tier 1 City,64099.32,No,Regular,0.82,1.31,0,39935.39
+Home Decor,Metro,33238.08,Yes,Summer,1.1,1.31,1,19766.41
+Apparel,Tier 1 City,54302.68,No,Back to School,1.16,0.59,0,109854.61
+Home Decor,Tier 1 City,15863.94,No,Summer,0.97,0.58,0,31509.77
+Electronics,Tier 1 City,76407.51,No,Back to School,0.97,1.4,0,47693.74
+Grocery,Tier 1 City,90129.35,Yes,Regular,1.19,1.35,0,97431.56
+Grocery,Metro,66995.12,No,Festive,0.97,0.8,0,76347.78
+Electronics,Metro,70868.26,Yes,Regular,1.03,1.03,0,84701.0
+Electronics,Tier 2 City,47331.97,No,Festive,1.06,0.74,0,69417.31
+Electronics,Tier 2 City,24976.96,Yes,Summer,1.14,0.77,0,41303.64
+Home Decor,Tier 1 City,58758.97,Yes,Winter,0.83,1.37,1,39966.75
+Grocery,Tier 2 City,69828.8,Yes,Festive,1.05,0.66,0,135835.19
+Grocery,Metro,68386.75,Yes,Festive,0.92,1.13,0,70583.14
+Pharmacy,Metro,31816.81,No,Winter,0.92,1.23,0,23592.6
+Pharmacy,Tier 1 City,22684.46,Yes,Back to School,1.12,1.2,0,23002.19
+Apparel,Metro,48218.56,No,Back to School,1.15,0.56,1,111382.13
+Grocery,Tier 1 City,58514.72,No,Regular,0.96,0.74,1,94332.53
+Home Decor,Tier 1 City,44431.18,Yes,Winter,0.87,1.31,0,32765.91
+Home Decor,Metro,67234.05,No,Winter,1.0,1.0,0,62639.73
+Home Decor,Tier 2 City,57188.47,Yes,Festive,0.91,0.75,1,85789.37
+Grocery,Tier 2 City,65983.27,No,Summer,0.96,1.25,0,53962.34
+Pharmacy,Metro,34907.05,No,Festive,0.96,1.33,0,33352.91
+Pharmacy,Tier 1 City,64218.46,No,Regular,1.0,0.8,0,84751.39
+Home Decor,Tier 2 City,29247.46,Yes,Festive,0.81,1.11,0,30353.82
+Pharmacy,Metro,24117.47,No,Winter,1.04,0.91,0,23278.51
+Apparel,Tier 1 City,75571.71,No,Regular,0.81,1.25,0,48324.96
+Pharmacy,Tier 1 City,68053.79,Yes,Summer,1.13,0.76,1,119527.29
+Grocery,Metro,71105.73,No,Winter,1.2,0.87,1,104676.08
+Grocery,Tier 1 City,36864.32,No,Festive,0.85,1.21,1,25788.93
+Apparel,Metro,60229.41,Yes,Festive,1.05,0.8,1,95718.12
+Apparel,Tier 2 City,35174.2,No,Summer,1.09,1.34,1,29312.64
+Pharmacy,Tier 1 City,74190.44,Yes,Winter,0.84,0.78,1,93338.45
+Home Decor,Tier 2 City,27534.97,No,Regular,1.07,0.72,0,38180.29
+Pharmacy,Metro,49802.62,Yes,Summer,0.88,1.24,0,43224.32
+Pharmacy,Tier 2 City,60471.98,Yes,Winter,0.87,1.08,0,67403.29
+Home Decor,Tier 2 City,52248.37,Yes,Back to School,0.97,1.4,0,42615.36
+Grocery,Tier 1 City,8601.13,No,Back to School,1.14,0.51,0,7829.55
+Apparel,Tier 1 City,45723.45,No,Winter,1.02,0.62,0,81992.77
+Pharmacy,Tier 1 City,22841.69,No,Back to School,1.11,0.51,0,45223.91
+Electronics,Tier 2 City,84810.05,No,Summer,1.09,0.92,0,101315.44
+Electronics,Tier 1 City,59511.82,No,Regular,1.19,1.06,0,69373.09
+Electronics,Tier 2 City,5000.0,Yes,Back to School,0.97,1.02,0,5000.0
+Home Decor,Tier 2 City,43796.37,Yes,Winter,0.98,0.77,1,75713.41
+Apparel,Tier 1 City,46456.3,Yes,Regular,1.09,1.26,0,52577.29
+Grocery,Metro,51150.54,No,Summer,1.07,0.61,0,81104.06
+Electronics,Tier 2 City,30233.18,Yes,Festive,0.86,0.88,1,38050.35
+Home Decor,Metro,79820.53,Yes,Festive,1.05,1.03,0,85674.02
+Grocery,Metro,56863.56,No,Festive,1.15,1.36,0,50439.33
+Electronics,Tier 1 City,78768.01,Yes,Back to School,1.18,0.76,0,134573.02
+Home Decor,Tier 2 City,52787.98,No,Festive,0.92,1.15,0,47506.39
+Home Decor,Metro,43123.77,Yes,Festive,1.04,0.71,0,70782.43
+Home Decor,Tier 1 City,5000.0,Yes,Regular,1.15,1.43,0,5000.0
+Grocery,Metro,52606.36,No,Winter,1.13,0.71,0,78291.01
+Home Decor,Metro,41483.9,No,Regular,1.18,0.65,0,75062.62
+Pharmacy,Metro,27000.38,No,Summer,1.02,0.65,0,40137.47
+Grocery,Metro,5000.0,Yes,Summer,1.16,0.93,0,7839.04
+Grocery,Metro,51572.78,Yes,Festive,1.19,1.05,0,65741.89
+Apparel,Tier 1 City,44823.83,No,Back to School,0.93,0.78,0,45494.39
+Apparel,Tier 2 City,65795.53,Yes,Summer,1.12,0.94,0,89237.57
+Pharmacy,Tier 1 City,32041.97,Yes,Back to School,1.14,1.35,0,34861.22
+Grocery,Tier 2 City,6763.44,No,Festive,0.88,0.75,0,5000.0
+Electronics,Tier 2 City,36111.6,No,Regular,1.14,1.24,0,36682.04
+Home Decor,Tier 2 City,36435.97,No,Summer,1.03,0.9,0,39668.69
+Grocery,Tier 2 City,70531.08,No,Regular,0.88,1.02,1,73833.24
+Electronics,Tier 1 City,13399.51,No,Back to School,1.12,1.05,0,9890.18
+Home Decor,Tier 2 City,15193.29,No,Winter,0.88,0.7,0,18614.16
+Apparel,Tier 1 City,36700.63,Yes,Festive,0.87,0.94,1,44402.65
+Electronics,Tier 1 City,39641.48,Yes,Regular,0.96,0.56,0,77303.4
+Grocery,Metro,69274.89,No,Regular,0.98,0.74,0,98644.96
+Grocery,Tier 1 City,61756.42,Yes,Regular,1.09,0.78,0,110409.68
+Home Decor,Tier 2 City,38608.3,Yes,Winter,1.06,0.63,0,84037.81
+Pharmacy,Tier 2 City,76572.63,No,Winter,1.03,0.9,0,89081.64
+Electronics,Metro,60009.46,No,Winter,0.97,1.5,0,39086.57
+Grocery,Tier 2 City,55016.18,No,Winter,0.84,0.75,0,65639.12
+Apparel,Tier 2 City,35259.22,No,Regular,0.85,0.87,1,33920.36
+Electronics,Metro,97508.55,No,Festive,1.15,1.3,0,78845.54
+Apparel,Tier 2 City,31820.39,No,Festive,1.08,0.61,0,66301.32
+Grocery,Tier 1 City,62904.15,No,Summer,0.85,1.24,0,44498.53
+Apparel,Metro,19643.66,Yes,Festive,0.96,0.94,0,29359.27
+Pharmacy,Tier 1 City,36820.94,No,Festive,0.8,0.6,1,57541.03
+Pharmacy,Metro,44850.56,No,Regular,0.83,0.7,1,57303.05
+Electronics,Tier 1 City,39240.74,Yes,Back to School,0.9,1.25,0,24897.69
+Electronics,Tier 2 City,48455.86,No,Festive,1.07,1.4,0,34322.7
+Electronics,Tier 2 City,32126.38,No,Winter,1.0,0.65,0,52753.95
+Pharmacy,Tier 2 City,41871.51,No,Back to School,0.87,1.35,0,29895.1
+Home Decor,Metro,58088.72,No,Winter,0.88,1.03,1,58507.31
+Pharmacy,Tier 1 City,16247.72,No,Winter,1.08,0.95,1,15395.66
+Electronics,Metro,46348.56,Yes,Regular,1.15,0.93,0,68970.75
+Apparel,Metro,73517.26,Yes,Festive,1.01,0.51,1,173701.5
+Home Decor,Tier 1 City,54284.94,Yes,Festive,0.99,0.9,0,69097.36
+Apparel,Metro,30968.11,Yes,Winter,1.14,1.35,0,27062.13
+Apparel,Tier 2 City,21520.71,No,Winter,0.92,0.9,0,24992.49
+Electronics,Tier 2 City,50297.18,Yes,Regular,0.99,1.27,0,30883.9
+Apparel,Tier 2 City,38792.77,Yes,Summer,1.11,1.45,0,35759.0
+Apparel,Tier 2 City,29496.61,Yes,Back to School,0.99,1.34,1,35631.9
+Electronics,Tier 1 City,54143.39,Yes,Festive,1.05,0.97,0,63856.27
+Grocery,Metro,30572.71,No,Festive,0.87,0.65,0,47863.69
+Grocery,Metro,52322.06,No,Back to School,1.19,1.03,1,65576.58
+Pharmacy,Tier 2 City,96048.21,Yes,Regular,0.8,0.95,0,95218.99
+Home Decor,Tier 1 City,47380.61,No,Back to School,0.89,1.32,1,42376.06
+Pharmacy,Tier 1 City,49355.6,No,Back to School,0.87,0.97,1,43670.42
+Home Decor,Tier 2 City,63979.52,Yes,Winter,0.95,1.01,0,64443.08
+Apparel,Metro,45360.2,No,Festive,0.8,1.16,0,32674.93
+Apparel,Tier 1 City,52498.57,No,Winter,0.95,0.72,0,64571.25
+Electronics,Tier 2 City,57953.82,Yes,Regular,0.8,1.07,0,53324.32
+Electronics,Tier 2 City,80273.77,Yes,Back to School,0.94,1.27,1,81645.27
+Pharmacy,Tier 1 City,51900.05,No,Summer,0.85,1.01,0,35632.4
+Home Decor,Tier 1 City,40166.32,No,Back to School,1.1,0.64,0,74116.15
+Home Decor,Metro,88672.79,No,Summer,1.05,1.01,0,92268.4
+Apparel,Tier 2 City,45677.05,No,Festive,1.08,1.46,1,36465.44
+Apparel,Tier 1 City,75439.52,No,Winter,0.8,0.57,0,109208.57
+Pharmacy,Tier 2 City,66986.99,Yes,Regular,0.95,0.52,1,151326.67
+Pharmacy,Tier 2 City,28763.84,No,Winter,0.85,1.02,0,24516.75
+Pharmacy,Tier 1 City,38894.01,Yes,Festive,1.12,0.84,0,61827.89
+Electronics,Metro,31525.59,No,Festive,0.99,1.1,0,31437.68
+Home Decor,Tier 2 City,47813.53,No,Winter,1.06,1.0,0,50954.5
+Pharmacy,Tier 1 City,47956.85,Yes,Summer,1.02,0.91,1,66797.23
+Grocery,Metro,51780.5,No,Regular,0.99,0.91,0,57168.65
+Grocery,Tier 1 City,53232.5,No,Summer,0.87,0.59,0,79685.89
+Apparel,Metro,49230.71,Yes,Summer,1.09,0.96,0,65757.12
+Electronics,Tier 2 City,46173.29,Yes,Summer,1.13,1.39,0,43621.53
+Pharmacy,Tier 1 City,42599.87,Yes,Regular,0.89,1.23,0,33751.27
+Pharmacy,Tier 2 City,53186.18,Yes,Back to School,0.87,0.78,1,68482.06
+Electronics,Tier 1 City,43109.1,No,Regular,1.01,0.81,1,52697.06
+Grocery,Tier 2 City,51759.87,No,Winter,1.18,0.79,0,74572.91
+Pharmacy,Tier 2 City,70145.22,No,Summer,1.1,1.11,1,75909.5
+Apparel,Tier 2 City,34657.9,No,Festive,1.08,0.65,0,58137.7
+Home Decor,Metro,53068.83,No,Back to School,0.94,1.01,1,56145.59
+Pharmacy,Tier 1 City,40111.9,No,Back to School,1.02,1.11,0,31851.54
+Electronics,Tier 1 City,68791.8,Yes,Festive,0.91,1.43,0,51618.22
+Pharmacy,Metro,36210.98,No,Regular,0.95,0.78,0,57304.83
+Electronics,Metro,46246.46,No,Winter,1.12,1.04,0,45054.54
+Home Decor,Metro,52309.37,No,Summer,1.14,0.51,0,123197.9
+Home Decor,Metro,57680.06,No,Festive,0.9,1.13,1,47104.55
+Pharmacy,Metro,58548.75,Yes,Festive,1.01,0.69,0,99191.81
+Apparel,Metro,49952.98,No,Festive,1.04,1.3,0,33918.43
+Grocery,Metro,61315.12,No,Festive,1.09,0.91,0,75400.19
+Pharmacy,Tier 2 City,48925.25,Yes,Summer,0.98,0.63,0,92823.39
+Pharmacy,Tier 2 City,43513.95,Yes,Winter,0.84,0.59,0,74016.97
+Pharmacy,Tier 1 City,46429.11,Yes,Winter,1.08,0.64,0,90349.17
+Grocery,Tier 1 City,54939.31,Yes,Summer,1.02,0.7,0,97420.81
+Grocery,Metro,29569.94,Yes,Summer,1.0,1.11,0,33015.1
+Grocery,Tier 1 City,76346.01,No,Summer,1.12,1.13,1,79733.98
+Home Decor,Metro,83216.53,Yes,Back to School,0.82,0.58,0,132240.26
+Pharmacy,Tier 2 City,47951.23,No,Festive,0.85,1.1,1,38123.61
+Pharmacy,Metro,28780.57,No,Back to School,1.11,1.28,0,30320.06
+Electronics,Metro,36185.8,No,Regular,0.97,1.1,0,41089.04
+Grocery,Tier 1 City,84161.75,Yes,Back to School,1.04,1.17,0,89735.31
+Pharmacy,Tier 1 City,22864.04,No,Winter,0.93,1.2,0,24348.0
+Apparel,Tier 2 City,71357.63,No,Winter,0.9,0.53,1,136918.09
+Electronics,Tier 1 City,81370.53,No,Back to School,0.98,0.75,0,99896.38
+Apparel,Tier 2 City,94949.46,No,Winter,1.09,0.55,1,218193.88
+Electronics,Tier 2 City,58914.38,Yes,Back to School,1.13,0.74,0,93938.06
+Home Decor,Tier 1 City,25626.73,Yes,Festive,1.01,1.42,0,17982.24
+Grocery,Tier 1 City,71264.15,No,Regular,1.19,1.5,0,63909.04
+Apparel,Tier 2 City,84683.45,No,Regular,0.93,0.63,0,130358.44
+Grocery,Tier 2 City,57624.25,No,Back to School,1.12,1.45,0,42228.11
+Pharmacy,Tier 2 City,26623.77,Yes,Summer,1.08,1.34,0,21420.42
+Electronics,Tier 1 City,56621.93,No,Winter,0.86,1.37,0,35666.93
+Apparel,Metro,60171.03,Yes,Regular,0.95,0.71,0,89998.21
+Home Decor,Tier 1 City,83477.0,No,Summer,0.9,1.44,0,49325.52
+Electronics,Tier 2 City,36583.29,No,Winter,1.04,1.37,1,28695.69
+Grocery,Metro,13638.56,No,Summer,0.83,0.79,1,18158.84
+Electronics,Tier 2 City,14007.31,No,Summer,1.03,1.29,0,18148.97
+Electronics,Tier 2 City,30500.74,No,Summer,1.11,1.05,0,32602.49
+Apparel,Metro,71125.06,Yes,Regular,1.18,0.98,0,91621.38
+Pharmacy,Tier 2 City,23671.18,No,Summer,1.17,1.08,0,26226.8
+Apparel,Tier 2 City,40844.26,Yes,Back to School,0.95,0.75,1,71210.7
+Grocery,Tier 2 City,50037.14,Yes,Regular,1.05,1.45,0,40267.92
+Electronics,Tier 2 City,5000.0,Yes,Summer,0.86,1.23,0,5867.18
+Grocery,Tier 1 City,34927.96,Yes,Winter,0.95,0.75,0,56383.44
+Home Decor,Metro,58008.62,No,Festive,1.05,1.11,0,55841.34
+Grocery,Tier 1 City,84902.49,Yes,Back to School,1.16,1.39,0,88427.06
+Apparel,Tier 1 City,88384.37,No,Regular,1.09,1.19,0,79452.32
+Grocery,Tier 2 City,58253.2,No,Regular,1.12,0.91,0,67057.72
+Home Decor,Metro,82689.8,No,Regular,1.08,1.45,1,68105.13
+Electronics,Tier 2 City,35375.44,No,Winter,0.92,1.26,0,26741.99
+Electronics,Tier 1 City,55579.98,Yes,Regular,1.17,0.99,1,82772.61
+Apparel,Tier 2 City,94627.22,No,Regular,1.11,1.39,0,74666.06
+Grocery,Tier 1 City,50709.84,No,Back to School,0.9,1.14,0,30136.19
+Electronics,Tier 1 City,38503.4,Yes,Back to School,0.83,0.56,0,69484.73
+Apparel,Metro,46695.58,No,Summer,1.18,1.48,0,35971.15
+Home Decor,Metro,63764.67,No,Festive,0.89,0.5,1,112688.31
+Electronics,Tier 1 City,42168.21,No,Summer,0.87,1.11,0,34693.89
+Home Decor,Metro,49779.06,Yes,Back to School,0.98,1.19,0,40139.67
+Home Decor,Metro,32652.97,No,Festive,0.91,1.1,1,33270.84
+Apparel,Tier 2 City,45653.76,No,Festive,1.15,1.04,1,56040.44
+Grocery,Tier 2 City,67644.91,No,Winter,0.83,0.56,0,99938.9
+Apparel,Tier 2 City,46666.68,No,Summer,0.9,1.21,0,37224.84
+Grocery,Tier 1 City,49870.03,Yes,Back to School,0.84,1.45,1,33150.65
+Apparel,Tier 2 City,15282.67,No,Winter,1.18,1.23,0,13346.9
+Home Decor,Tier 2 City,69441.5,Yes,Back to School,1.01,0.72,0,107997.85
+Electronics,Tier 2 City,44798.57,Yes,Winter,0.87,1.28,0,37470.36
+Pharmacy,Tier 2 City,39249.07,Yes,Winter,1.15,1.32,0,39731.68
+Home Decor,Metro,20308.0,No,Winter,0.95,0.53,0,36155.83
+Electronics,Metro,17767.7,Yes,Festive,0.97,0.86,0,19939.03
+Electronics,Metro,19700.08,Yes,Winter,0.92,0.56,1,46609.68
+Pharmacy,Tier 1 City,28465.97,No,Regular,0.85,1.32,0,27164.58
+Pharmacy,Metro,71143.96,No,Festive,1.0,1.33,1,53722.75
+Grocery,Metro,44584.6,No,Regular,0.83,0.55,0,69668.41
+Grocery,Metro,49069.0,Yes,Winter,0.86,1.22,1,36786.31
+Apparel,Metro,46911.41,No,Winter,1.07,1.09,0,53394.44
+Pharmacy,Tier 2 City,36014.69,No,Regular,1.17,0.96,0,49319.39
+Electronics,Metro,48490.57,No,Festive,0.96,1.25,0,36351.33
+Pharmacy,Metro,47199.4,No,Festive,0.84,1.2,0,29040.81
+Pharmacy,Tier 1 City,39312.21,Yes,Summer,1.11,0.67,0,73612.8
+Electronics,Metro,58481.25,No,Back to School,1.08,1.36,0,32772.05
+Apparel,Tier 1 City,66525.05,No,Winter,1.01,0.51,0,131302.25
+Pharmacy,Tier 1 City,7777.74,Yes,Festive,1.2,0.78,0,15446.34
+Apparel,Metro,52206.44,No,Summer,0.82,1.06,0,45244.29
+Electronics,Metro,75171.98,Yes,Back to School,1.06,0.53,1,190831.49
+Grocery,Tier 1 City,43827.37,No,Winter,0.83,0.88,0,36602.52
+Grocery,Tier 2 City,70528.61,Yes,Festive,0.89,1.4,0,49620.49
+Home Decor,Tier 1 City,39901.2,No,Back to School,0.98,0.99,0,47019.78
+Pharmacy,Tier 1 City,30384.94,No,Festive,0.84,1.27,1,29266.88
+Grocery,Tier 2 City,58841.54,No,Regular,0.85,0.79,0,62128.06
+Home Decor,Tier 1 City,89096.58,No,Festive,1.11,0.96,0,102751.88
+Home Decor,Tier 1 City,33891.05,No,Regular,1.16,1.23,0,36770.47
+Grocery,Metro,51108.81,No,Festive,0.93,0.61,0,78196.58
+Apparel,Metro,60382.16,Yes,Back to School,0.94,0.81,0,74872.7
+Pharmacy,Tier 1 City,52048.79,Yes,Regular,1.08,0.68,0,96518.79
+Pharmacy,Tier 1 City,84053.24,No,Winter,0.87,1.33,0,45670.65
+Electronics,Tier 2 City,53692.39,Yes,Back to School,1.11,1.11,0,69210.68
+Home Decor,Tier 1 City,63858.71,Yes,Festive,0.84,0.82,0,86370.41
+Pharmacy,Tier 1 City,70961.43,Yes,Back to School,0.84,1.15,1,64609.83
+Grocery,Metro,52994.62,Yes,Summer,1.18,0.77,0,100440.97
+Pharmacy,Metro,42529.64,Yes,Back to School,1.09,0.85,0,55915.39
+Grocery,Metro,56009.99,No,Winter,1.14,0.63,0,96836.75
+Home Decor,Tier 2 City,29168.38,No,Festive,1.13,1.2,0,31674.55
+Pharmacy,Tier 1 City,36798.79,Yes,Regular,0.91,1.3,0,28047.86
+Home Decor,Tier 2 City,45417.38,No,Back to School,0.85,1.09,0,36266.7
+Grocery,Metro,100107.97,Yes,Festive,0.91,0.57,0,180150.97
+Pharmacy,Metro,73670.46,No,Regular,0.96,1.4,0,56914.16
+Electronics,Tier 2 City,67408.26,No,Back to School,1.2,1.08,0,67120.24
+Pharmacy,Tier 1 City,70792.34,No,Winter,0.88,0.97,0,61286.26
+Grocery,Tier 1 City,29357.75,No,Regular,0.91,0.96,0,26026.86
+Apparel,Tier 2 City,78932.44,No,Regular,0.87,0.66,0,108613.64
+Electronics,Tier 2 City,44794.61,Yes,Summer,0.88,1.43,0,28321.88
+Grocery,Tier 2 City,61534.97,No,Winter,1.12,0.88,0,74711.17
+Grocery,Tier 1 City,45094.69,No,Back to School,1.16,0.69,0,80789.01
+Grocery,Metro,47812.36,Yes,Back to School,0.97,0.83,0,68384.02
+Apparel,Metro,18199.1,No,Winter,1.01,0.99,0,19296.68
+Grocery,Metro,33842.26,No,Back to School,1.14,1.45,0,21514.32
+Home Decor,Tier 1 City,42624.75,Yes,Festive,0.86,1.2,1,43342.5
+Grocery,Tier 1 City,12012.26,No,Summer,0.86,0.6,0,21548.41
+Pharmacy,Metro,54356.25,No,Back to School,1.1,1.28,0,51182.65
+Home Decor,Tier 2 City,33918.01,No,Festive,1.18,1.34,0,33132.76
+Electronics,Tier 1 City,72137.2,No,Summer,0.94,0.67,0,98876.02
+Electronics,Tier 1 City,51119.09,No,Festive,1.08,1.18,0,49473.29
+Pharmacy,Tier 2 City,87022.56,No,Regular,0.93,0.55,0,141554.31
+Grocery,Tier 1 City,47754.16,Yes,Winter,1.1,0.77,0,83263.11
+Home Decor,Metro,52643.33,No,Summer,1.16,1.43,0,51024.36
+Pharmacy,Tier 2 City,41471.82,Yes,Back to School,1.14,0.97,0,50606.78
+Pharmacy,Tier 1 City,35146.94,No,Summer,0.98,1.09,0,30140.85
+Pharmacy,Metro,52956.86,Yes,Festive,1.06,0.91,0,70965.61
+Grocery,Tier 2 City,25237.53,No,Summer,0.93,1.49,1,13083.99
+Pharmacy,Tier 2 City,53176.11,No,Summer,0.95,0.73,0,70510.68
+Electronics,Tier 1 City,73546.34,Yes,Regular,0.87,1.2,0,64871.81
+Electronics,Tier 1 City,57228.66,No,Regular,0.97,0.82,0,77276.99
+Electronics,Tier 2 City,61074.9,No,Regular,0.95,1.39,1,37405.37
+Apparel,Tier 1 City,39889.35,Yes,Regular,1.05,0.97,0,52012.35
+Electronics,Tier 1 City,17661.16,Yes,Regular,0.88,1.03,0,13278.87
+Home Decor,Tier 1 City,90452.06,No,Back to School,1.14,0.83,0,118636.11
+Apparel,Tier 1 City,42451.56,Yes,Summer,1.14,1.43,0,32697.6
+Electronics,Tier 1 City,67256.72,No,Summer,0.84,0.6,0,92602.46
+Grocery,Tier 2 City,33764.87,No,Back to School,0.86,0.66,0,48314.67
+Home Decor,Tier 2 City,84682.09,No,Festive,1.05,1.23,1,71756.56
+Electronics,Metro,50210.8,Yes,Summer,1.0,1.04,0,62664.93
+Grocery,Tier 2 City,38319.07,No,Festive,1.17,0.59,0,84789.31
+Home Decor,Tier 1 City,61791.47,No,Summer,1.18,0.68,0,107120.88
+Apparel,Metro,28111.03,No,Summer,1.03,1.14,0,22426.94
+Apparel,Metro,52460.45,No,Winter,0.91,1.5,0,30772.61
+Apparel,Metro,51745.58,No,Summer,0.95,1.22,0,38635.17
+Grocery,Tier 2 City,60777.02,No,Winter,0.91,1.07,0,56001.07
+Electronics,Tier 2 City,60168.3,Yes,Festive,1.12,1.21,0,67926.07
+Pharmacy,Tier 1 City,75280.73,No,Summer,1.06,0.71,0,108409.68
+Pharmacy,Tier 2 City,5460.23,No,Back to School,1.12,0.78,1,10061.35
+Grocery,Tier 1 City,7092.6,No,Back to School,0.83,0.86,0,5687.28
+Grocery,Tier 1 City,58251.51,No,Regular,1.17,1.05,0,57134.24
+Apparel,Tier 2 City,28728.54,No,Winter,1.09,1.49,0,17190.7
+Apparel,Tier 2 City,43122.11,No,Summer,0.81,0.9,1,50507.0
+Pharmacy,Tier 1 City,21336.43,No,Summer,0.92,0.8,0,22498.84
+Apparel,Tier 1 City,44324.53,Yes,Summer,0.9,1.27,0,38394.77
+Home Decor,Tier 1 City,59255.43,Yes,Summer,1.15,0.64,0,127326.37
+Pharmacy,Metro,37391.29,Yes,Winter,1.04,0.54,0,83748.34
+Grocery,Tier 1 City,49879.25,No,Winter,0.81,0.64,0,66314.56
+Home Decor,Metro,62586.43,No,Winter,0.85,1.28,0,40892.79
+Pharmacy,Metro,26140.47,Yes,Back to School,0.83,1.35,0,9061.5
+Home Decor,Tier 1 City,56081.97,No,Festive,0.91,1.26,0,44659.95
+Electronics,Metro,72538.15,No,Back to School,0.91,0.85,0,75852.64
+Grocery,Tier 1 City,72568.13,No,Back to School,0.91,1.43,0,44555.31
+Grocery,Tier 2 City,76880.92,Yes,Back to School,0.86,0.96,0,74540.42
+Pharmacy,Tier 2 City,63466.58,No,Regular,0.95,1.12,0,52463.22
+Apparel,Tier 2 City,52838.28,Yes,Back to School,1.17,1.38,0,53611.97
+Apparel,Metro,67595.12,Yes,Winter,1.01,0.88,1,93038.8
+Home Decor,Metro,5000.0,No,Winter,0.96,0.82,1,5000.0
+Apparel,Tier 2 City,31498.22,No,Festive,1.13,1.03,0,30817.07
+Grocery,Tier 2 City,51520.54,Yes,Winter,1.12,1.4,0,39672.56
+Apparel,Tier 1 City,42190.01,No,Back to School,1.13,0.56,0,90776.78
+Apparel,Tier 2 City,78079.85,Yes,Festive,1.07,1.31,0,68434.41
+Home Decor,Tier 1 City,86268.91,No,Summer,0.9,1.12,0,61904.61
+Electronics,Metro,51846.48,No,Festive,0.88,0.69,0,61785.19
+Home Decor,Tier 1 City,69774.67,Yes,Back to School,0.96,0.69,0,112009.19
+Grocery,Tier 2 City,51394.66,Yes,Back to School,1.02,0.94,0,63186.76
+Grocery,Metro,65737.16,Yes,Back to School,0.92,0.92,1,95038.29
+Home Decor,Metro,55139.36,No,Winter,1.03,1.23,0,43796.25
+Grocery,Tier 1 City,42858.16,No,Regular,1.2,0.8,0,66856.07
+Home Decor,Metro,23456.48,No,Summer,0.94,1.11,0,17053.77
+Pharmacy,Tier 1 City,62447.67,Yes,Summer,0.82,0.95,0,61122.78
+Pharmacy,Tier 1 City,71362.4,No,Regular,1.2,1.27,1,76252.86
+Electronics,Tier 1 City,30940.11,No,Back to School,1.07,0.9,0,36506.52
+Pharmacy,Tier 1 City,5000.0,No,Regular,0.91,1.26,0,5000.0
+Grocery,Metro,72833.24,No,Back to School,0.8,0.58,0,103438.16
+Pharmacy,Metro,61100.87,No,Regular,0.88,1.31,0,35103.2
+Grocery,Tier 2 City,43584.54,Yes,Regular,0.82,0.71,0,56421.68
+Grocery,Metro,60968.59,No,Festive,1.13,1.34,0,39637.48
+Home Decor,Tier 1 City,38582.92,No,Back to School,0.95,1.14,0,31578.66
+Grocery,Metro,75103.34,Yes,Back to School,0.92,0.79,0,95349.92
+Home Decor,Tier 1 City,77102.62,No,Regular,1.12,1.16,0,66045.48
+Pharmacy,Metro,39941.69,No,Winter,0.88,1.17,0,23483.15
+Pharmacy,Tier 2 City,74612.41,Yes,Back to School,0.92,1.35,0,56861.2
+Grocery,Tier 1 City,33377.72,No,Regular,0.91,1.01,1,32754.98
+Pharmacy,Metro,92914.08,No,Back to School,0.85,1.18,0,66215.12
+Home Decor,Tier 2 City,69356.7,No,Festive,0.81,1.04,1,60685.55
+Pharmacy,Tier 2 City,46317.65,No,Summer,1.04,1.35,0,30797.15
+Apparel,Tier 1 City,79104.41,No,Winter,1.17,1.32,0,64477.89
+Pharmacy,Tier 2 City,35089.66,Yes,Back to School,0.84,1.09,0,33654.77
+Pharmacy,Tier 2 City,25659.24,Yes,Winter,0.9,1.31,0,23075.54
+Grocery,Tier 1 City,41752.87,No,Winter,1.11,1.23,0,44296.48
+Grocery,Tier 2 City,53773.45,Yes,Summer,0.84,0.71,0,62066.73
+Pharmacy,Tier 1 City,91009.01,No,Winter,1.15,0.61,0,170669.97
+Grocery,Tier 1 City,50011.08,No,Festive,1.12,0.56,0,99979.77
+Pharmacy,Tier 2 City,39912.71,No,Summer,0.87,1.47,1,22797.45
+Home Decor,Tier 1 City,40633.79,No,Festive,1.05,1.32,0,32778.25
+Pharmacy,Tier 1 City,61965.78,No,Summer,1.16,1.4,0,49724.21
+Grocery,Tier 1 City,38659.35,No,Festive,1.12,1.35,1,37868.35
+Grocery,Tier 1 City,79656.81,No,Regular,0.99,0.62,0,120615.11
+Pharmacy,Tier 2 City,56914.01,No,Back to School,0.8,0.88,0,61181.17
+Grocery,Tier 1 City,55829.2,No,Regular,0.8,0.79,0,52489.75
+Apparel,Tier 2 City,60228.23,Yes,Winter,0.88,1.48,0,40628.79
+Home Decor,Metro,43733.38,No,Regular,1.07,0.52,0,84172.11
+Electronics,Metro,58769.09,Yes,Summer,0.88,1.15,0,56398.51
+Grocery,Metro,19105.59,No,Back to School,0.98,0.52,0,37085.22
+Electronics,Tier 1 City,40120.44,Yes,Back to School,0.94,1.1,0,38225.49
+Grocery,Metro,52534.81,No,Back to School,0.94,0.51,0,97125.13
+Grocery,Metro,50533.07,No,Winter,0.99,0.94,0,41643.1
+Pharmacy,Metro,14118.62,No,Festive,1.19,0.75,0,22790.99
+Apparel,Tier 2 City,72462.61,Yes,Summer,1.17,1.01,0,93726.6
+Grocery,Tier 1 City,53912.9,No,Summer,1.16,0.61,1,118244.69
+Electronics,Metro,40970.92,No,Winter,1.08,0.59,1,82518.43
+Pharmacy,Tier 2 City,48111.53,Yes,Winter,0.98,1.18,0,47541.08
+Home Decor,Tier 1 City,86102.03,No,Back to School,0.89,1.13,0,68354.46
+Grocery,Tier 1 City,73603.3,No,Regular,0.99,0.79,0,98507.28
+Grocery,Tier 1 City,38863.02,Yes,Summer,0.88,0.87,0,55803.57
+Home Decor,Tier 1 City,46933.75,Yes,Winter,1.0,1.21,0,32893.89
+Electronics,Metro,40125.37,No,Summer,0.9,0.55,0,67022.36
+Home Decor,Tier 1 City,30206.66,Yes,Festive,1.11,0.53,0,73104.33
+Electronics,Metro,56716.07,No,Winter,1.11,1.13,0,58130.42
+Grocery,Tier 2 City,48598.96,Yes,Summer,1.11,1.31,1,57434.47
+Grocery,Metro,72113.24,Yes,Summer,1.17,1.09,1,90879.47
+Apparel,Tier 2 City,38062.41,Yes,Summer,1.1,1.25,0,33150.73
+Home Decor,Tier 1 City,54463.01,No,Summer,1.11,1.42,0,40017.6
+Grocery,Metro,42078.67,No,Festive,1.11,1.34,0,44358.68
+Grocery,Tier 2 City,72070.55,Yes,Summer,1.02,1.02,0,88732.49
+Grocery,Tier 2 City,43514.48,No,Back to School,0.98,1.3,1,31553.88
+Electronics,Tier 1 City,55609.01,Yes,Festive,0.89,0.77,0,72909.66
+Electronics,Metro,68994.71,No,Back to School,1.03,1.17,1,65709.64
+Home Decor,Tier 1 City,51069.52,No,Summer,1.05,0.5,1,117800.85
+Pharmacy,Tier 1 City,60604.57,No,Summer,0.96,1.49,0,38245.37
+Home Decor,Tier 2 City,51703.56,Yes,Regular,0.85,0.82,0,65639.38
+Pharmacy,Tier 2 City,52616.91,No,Festive,1.08,1.18,0,46191.99
+Electronics,Tier 2 City,22787.34,Yes,Winter,0.82,1.43,0,13283.18
+Home Decor,Tier 1 City,27079.4,Yes,Regular,1.15,1.03,0,37540.44
+Electronics,Tier 2 City,47477.71,No,Back to School,0.91,0.94,0,43838.97
+Grocery,Metro,48104.91,Yes,Festive,1.12,0.87,1,78950.3
+Electronics,Tier 2 City,44809.9,Yes,Regular,0.85,0.77,0,50309.61
+Grocery,Tier 2 City,38754.03,No,Summer,0.94,0.9,0,35322.99
+Electronics,Tier 2 City,101892.18,No,Summer,0.99,1.09,1,96156.36
+Apparel,Metro,51880.11,No,Back to School,1.18,0.98,0,55139.38
+Grocery,Metro,56007.83,Yes,Winter,1.01,0.55,1,125233.79
+Home Decor,Tier 1 City,74191.42,No,Winter,1.0,0.68,0,111166.98
+Grocery,Tier 2 City,46926.99,Yes,Winter,0.92,1.38,0,37723.27
+Home Decor,Metro,27673.96,Yes,Festive,1.0,0.66,0,47645.68
+Apparel,Tier 1 City,54053.29,No,Winter,1.14,0.54,0,110451.61
+Pharmacy,Tier 2 City,35772.04,No,Winter,0.99,0.94,0,35875.3
+Electronics,Tier 2 City,66958.84,No,Festive,0.9,0.53,0,121824.65
+Apparel,Tier 2 City,57835.51,Yes,Back to School,0.9,1.02,0,57817.38
+Pharmacy,Tier 2 City,34433.76,No,Winter,0.83,1.16,0,21046.43
+Home Decor,Tier 2 City,58155.47,No,Back to School,1.03,0.81,0,83907.47
+Home Decor,Metro,86731.37,No,Regular,1.07,1.06,0,92713.49
+Grocery,Tier 1 City,41277.99,No,Regular,1.15,0.55,0,88989.43
+Grocery,Tier 2 City,30463.86,Yes,Winter,0.84,1.33,0,21950.61
+Grocery,Tier 1 City,24619.13,No,Summer,0.9,1.23,0,21703.66
+Apparel,Metro,76084.41,Yes,Festive,0.81,1.4,0,55519.39
+Home Decor,Metro,70619.65,No,Back to School,0.95,1.34,1,46526.38
+Apparel,Tier 1 City,54923.5,Yes,Back to School,0.8,0.6,0,86553.54
+Electronics,Metro,26955.48,No,Back to School,0.92,0.86,1,39685.49
+Home Decor,Metro,35633.42,Yes,Winter,1.19,1.13,0,45369.24
+Pharmacy,Tier 2 City,73686.33,Yes,Regular,1.06,1.02,0,89286.55
+Apparel,Metro,53222.74,Yes,Back to School,1.18,0.58,1,133989.58
+Home Decor,Metro,60836.48,No,Festive,0.83,0.84,0,60911.31
+Home Decor,Tier 1 City,37394.74,No,Summer,1.01,1.5,0,23757.11
+Electronics,Metro,43965.52,Yes,Regular,1.17,0.89,0,73026.22
+Apparel,Tier 2 City,60595.5,Yes,Regular,0.86,1.42,0,42522.71
+Apparel,Tier 2 City,26223.62,Yes,Regular,0.91,1.45,0,20998.59
+Grocery,Tier 1 City,15580.92,Yes,Festive,1.12,1.31,0,19478.06
+Grocery,Tier 2 City,38653.7,No,Winter,0.99,1.38,1,29398.66
+Home Decor,Tier 1 City,34851.94,No,Regular,1.04,1.08,0,32232.93
+Home Decor,Metro,39136.92,Yes,Winter,0.93,1.03,0,39450.27
+Electronics,Tier 2 City,59581.64,Yes,Summer,1.11,1.22,0,60009.28
+Grocery,Tier 2 City,44277.64,Yes,Summer,0.96,0.84,0,60241.9
+Home Decor,Tier 1 City,46579.92,No,Back to School,1.1,1.43,0,32389.07
+Pharmacy,Metro,33766.88,No,Summer,1.14,0.59,0,58670.87
+Apparel,Tier 2 City,23661.03,Yes,Festive,1.1,0.82,0,41645.08
+Home Decor,Tier 1 City,60476.75,No,Summer,0.96,1.18,0,44216.56
+Electronics,Tier 2 City,20046.32,No,Regular,1.07,0.84,0,22304.04
+Apparel,Metro,56194.89,No,Winter,0.99,1.38,0,32911.55
+Apparel,Metro,70532.01,Yes,Regular,1.07,0.86,0,100930.01
+Electronics,Metro,12854.25,No,Regular,0.83,1.37,0,5000.0
+Apparel,Tier 2 City,13937.84,No,Festive,0.85,1.19,0,6540.21
+Grocery,Metro,59599.99,No,Summer,1.13,0.74,0,91822.6
+Electronics,Metro,74355.2,No,Festive,1.11,1.24,0,68536.19
+Home Decor,Metro,59640.22,No,Festive,0.9,0.82,0,61097.88
+Pharmacy,Metro,52208.31,No,Winter,0.95,1.32,0,42243.96
+Apparel,Tier 2 City,38751.42,No,Summer,1.06,0.71,0,46738.23
+Pharmacy,Tier 2 City,57852.59,No,Regular,0.81,0.79,0,61877.5
+Pharmacy,Tier 1 City,44400.38,No,Back to School,1.04,1.33,0,36183.36
+Pharmacy,Metro,78935.75,No,Regular,1.18,0.62,0,151734.49
+Pharmacy,Tier 2 City,23950.88,No,Winter,0.95,1.31,0,18288.61
+Apparel,Tier 2 City,17986.91,No,Festive,0.96,1.47,0,18354.05
+Home Decor,Tier 1 City,66740.1,Yes,Summer,0.94,1.38,1,55303.5
+Home Decor,Tier 1 City,54724.61,No,Summer,0.92,1.01,0,47108.17
+Electronics,Tier 2 City,71848.66,Yes,Summer,0.92,0.95,1,91062.63
+Grocery,Metro,30515.7,No,Regular,1.18,1.05,0,33684.91
+Grocery,Metro,13041.43,No,Summer,1.14,0.63,1,38736.41
+Pharmacy,Tier 1 City,39819.1,No,Back to School,0.83,0.68,1,50254.4
+Pharmacy,Tier 2 City,80153.08,No,Summer,0.88,0.52,0,135735.83
+Apparel,Tier 2 City,61214.42,Yes,Back to School,1.03,1.32,0,59503.18
+Electronics,Tier 2 City,92506.13,No,Regular,0.8,1.08,0,66517.98
+Home Decor,Metro,39901.62,Yes,Regular,1.09,1.48,1,27802.84
+Apparel,Tier 1 City,37819.67,Yes,Back to School,0.84,0.89,0,40531.91
+Apparel,Metro,55484.54,No,Summer,0.88,1.22,0,39391.3
+Pharmacy,Tier 2 City,45864.62,No,Winter,1.05,1.4,0,31958.82
+Apparel,Tier 2 City,74425.83,No,Regular,1.04,0.68,1,121776.98
+Grocery,Tier 1 City,49130.64,Yes,Regular,1.03,1.37,0,42283.27
+Home Decor,Tier 1 City,14703.95,No,Winter,1.19,0.69,0,27251.66
+Apparel,Tier 2 City,56860.75,No,Winter,1.04,0.85,0,78353.05
+Grocery,Metro,69009.07,Yes,Summer,0.99,0.89,0,84922.53
+Home Decor,Tier 2 City,45482.19,No,Festive,0.88,1.28,0,32490.42
+Grocery,Tier 1 City,75993.05,No,Summer,0.92,0.86,0,73816.38
+Pharmacy,Metro,66875.71,No,Back to School,1.09,0.92,1,90968.58
+Apparel,Tier 2 City,24161.85,No,Festive,1.12,1.41,0,13529.04
+Pharmacy,Tier 1 City,42902.17,Yes,Regular,1.17,0.96,0,56752.58
+Home Decor,Tier 1 City,70021.05,No,Festive,1.17,1.28,0,57755.37
+Pharmacy,Tier 2 City,51614.25,Yes,Back to School,1.2,0.73,0,89001.9
+Electronics,Metro,52023.69,No,Winter,0.92,1.38,0,41997.44
+Grocery,Metro,47251.36,No,Festive,1.01,1.42,0,29657.19
+Grocery,Tier 1 City,88126.47,No,Festive,1.11,0.53,0,177942.75
+Electronics,Tier 1 City,60475.94,Yes,Festive,1.03,1.35,1,63893.16
+Electronics,Tier 1 City,40890.24,No,Back to School,0.92,0.82,0,43106.61
+Pharmacy,Metro,48136.68,No,Winter,1.05,0.92,0,58364.65
+Apparel,Metro,33917.73,No,Summer,0.91,0.59,1,50623.29
+Home Decor,Tier 1 City,53657.14,No,Back to School,1.14,1.03,1,66620.09
+Apparel,Tier 2 City,62936.66,Yes,Back to School,0.89,1.35,0,40581.56
+Grocery,Tier 1 City,15715.35,No,Back to School,1.04,1.48,0,10976.79
+Home Decor,Metro,37870.75,No,Winter,0.92,1.28,0,24431.06
+Apparel,Metro,35174.09,No,Festive,0.85,1.05,1,28681.01
+Pharmacy,Tier 1 City,75533.44,Yes,Festive,0.86,0.85,0,79012.2
+Home Decor,Tier 2 City,60957.38,No,Back to School,0.8,0.51,0,95677.25
+Home Decor,Tier 2 City,53307.87,No,Winter,1.05,0.81,0,68180.92
+Apparel,Metro,5000.0,Yes,Winter,1.14,1.21,0,7801.21
+Electronics,Tier 1 City,33561.07,No,Winter,1.07,0.93,0,35699.19
+Pharmacy,Tier 2 City,95146.54,No,Winter,0.83,1.17,1,79203.43
+Home Decor,Tier 2 City,46769.21,No,Festive,1.03,1.1,0,41657.84
+Grocery,Metro,52983.55,Yes,Summer,1.16,1.37,1,52289.34
+Home Decor,Tier 1 City,40886.73,No,Winter,1.04,1.03,0,41245.31
+Grocery,Metro,35896.55,Yes,Summer,1.09,0.86,0,50012.77
+Home Decor,Tier 2 City,40227.52,No,Festive,0.84,0.78,0,42642.41
+Apparel,Tier 1 City,95598.7,No,Back to School,0.98,1.41,0,53825.86
+Pharmacy,Tier 1 City,56891.82,No,Winter,0.85,0.78,0,64886.42
+Electronics,Tier 2 City,34773.96,Yes,Back to School,0.96,0.79,1,51065.02
+Home Decor,Tier 1 City,63967.14,No,Festive,1.16,1.26,0,64338.52
+Apparel,Metro,52378.87,Yes,Summer,1.17,1.38,0,51184.35
+Apparel,Metro,44713.57,No,Summer,0.99,1.32,0,33666.89
+Pharmacy,Tier 2 City,30967.39,Yes,Festive,0.87,0.8,1,44726.19
+Pharmacy,Tier 2 City,40022.77,Yes,Winter,1.06,1.37,0,33571.72
+Apparel,Tier 2 City,47416.22,No,Summer,0.95,1.27,0,36732.57
+Apparel,Tier 2 City,54910.85,No,Winter,0.84,0.87,0,50405.75
+Home Decor,Tier 1 City,53579.54,Yes,Winter,1.18,1.01,0,70978.93
+Pharmacy,Tier 1 City,25498.97,No,Winter,1.05,1.21,0,15793.89
+Home Decor,Tier 1 City,18893.28,No,Summer,1.07,1.35,0,17850.61
+Pharmacy,Metro,62987.63,Yes,Regular,0.91,1.2,0,58841.14
+Pharmacy,Tier 2 City,64504.96,No,Winter,1.19,0.79,1,104862.01
+Home Decor,Tier 2 City,55542.11,Yes,Festive,0.98,0.9,0,68874.69
+Grocery,Metro,73051.74,No,Regular,0.81,1.26,0,45839.7
+Apparel,Tier 1 City,35050.13,Yes,Summer,1.06,0.82,0,53971.63
+Electronics,Tier 2 City,48875.21,No,Festive,1.01,1.47,0,32209.8
+Grocery,Tier 2 City,54829.3,No,Back to School,0.81,0.98,1,51291.24
+Electronics,Tier 2 City,99532.32,No,Summer,1.1,0.7,0,149783.31
+Electronics,Tier 1 City,56242.21,No,Back to School,1.05,1.45,0,44651.37
+Home Decor,Tier 1 City,17026.35,No,Regular,1.17,1.4,0,5000.0
+Grocery,Tier 1 City,55090.36,No,Regular,0.83,0.74,1,71328.33
+Grocery,Tier 1 City,52586.18,Yes,Summer,0.98,1.19,0,46133.92
+Home Decor,Tier 1 City,43299.06,Yes,Regular,1.17,1.1,0,59430.06
+Pharmacy,Tier 1 City,46534.66,No,Back to School,1.05,1.18,1,46557.96
+Apparel,Tier 2 City,68642.69,Yes,Summer,0.87,0.96,0,63074.93
+Grocery,Tier 2 City,71310.13,Yes,Winter,1.06,1.1,0,78926.79
+Apparel,Tier 1 City,45332.81,Yes,Festive,1.03,0.82,0,60164.26
+Pharmacy,Tier 2 City,16587.59,Yes,Summer,1.09,0.81,0,22044.05
+Electronics,Tier 1 City,40816.73,Yes,Regular,1.19,0.71,0,74867.09
+Electronics,Tier 1 City,57509.19,No,Festive,0.88,0.51,0,103902.04
+Pharmacy,Metro,60433.77,No,Festive,0.94,0.6,1,98087.31
+Grocery,Tier 1 City,5000.0,No,Festive,1.02,0.88,0,5000.0
+Electronics,Tier 2 City,71496.2,Yes,Summer,1.13,0.9,0,104364.94
+Home Decor,Metro,46062.14,No,Summer,0.94,1.09,0,33837.36
+Home Decor,Metro,5000.0,Yes,Winter,1.18,1.18,0,8315.58
+Home Decor,Metro,50924.85,Yes,Festive,1.12,1.46,1,49649.06
+Apparel,Metro,30374.3,No,Summer,1.1,1.45,0,25846.56
+Home Decor,Metro,48507.51,No,Regular,1.04,0.59,0,84619.19
+Pharmacy,Metro,48355.71,No,Festive,1.14,0.55,0,93148.97
+Home Decor,Tier 1 City,12271.5,Yes,Back to School,0.88,0.78,0,22417.7
+Grocery,Tier 2 City,42583.74,No,Festive,1.03,0.59,0,77735.5
+Grocery,Tier 2 City,41100.15,No,Regular,1.1,0.77,0,65099.82
+Pharmacy,Metro,6553.04,No,Festive,0.84,0.66,0,7328.24
+Home Decor,Metro,71324.62,Yes,Winter,0.98,1.47,0,54357.89
+Apparel,Tier 1 City,52028.39,Yes,Regular,0.92,0.55,0,95141.18
+Home Decor,Tier 1 City,77352.96,No,Summer,0.83,1.33,0,54110.36
+Grocery,Tier 2 City,48228.97,No,Winter,0.9,0.96,0,43501.36
+Grocery,Tier 2 City,48020.57,No,Back to School,0.9,0.65,0,62057.31
+Apparel,Tier 2 City,52544.67,No,Back to School,1.14,1.22,0,54195.82
+Home Decor,Metro,51459.37,Yes,Regular,1.12,1.37,0,45700.08
+Pharmacy,Tier 1 City,43166.55,Yes,Back to School,0.91,0.86,0,60213.37
+Grocery,Tier 1 City,77861.15,No,Back to School,0.94,1.24,1,65145.09
+Electronics,Tier 1 City,26994.69,No,Winter,0.94,0.58,0,39203.05
+Home Decor,Tier 2 City,40394.82,Yes,Winter,1.15,1.06,0,45974.86
+Home Decor,Tier 1 City,72370.74,No,Winter,1.05,0.91,0,85102.03
+Electronics,Metro,49752.04,Yes,Winter,1.13,1.07,1,67545.84
+Electronics,Metro,24942.55,No,Festive,0.91,0.74,0,30214.51
+Grocery,Metro,93352.33,No,Festive,0.97,1.06,0,84432.59
+Grocery,Tier 1 City,67663.25,Yes,Regular,1.17,1.03,0,87577.17
+Electronics,Tier 1 City,41227.18,No,Back to School,1.17,0.61,0,80992.8
+Home Decor,Tier 2 City,82788.65,No,Summer,1.12,1.2,0,87114.71
+Home Decor,Tier 2 City,25326.0,No,Back to School,0.99,0.52,0,44839.52
+Apparel,Tier 2 City,5000.0,No,Festive,0.88,1.41,0,5000.0
+Pharmacy,Metro,34630.98,No,Regular,0.94,1.19,0,22235.74
+Grocery,Tier 1 City,5000.0,Yes,Summer,1.03,0.66,0,5000.0
+Electronics,Tier 2 City,68862.17,No,Back to School,0.85,0.62,1,102097.07
+Grocery,Tier 1 City,60133.54,No,Back to School,0.92,1.42,0,40918.79
+Pharmacy,Metro,37400.16,No,Summer,0.92,0.64,0,42437.03
+Home Decor,Tier 2 City,44747.27,No,Summer,0.9,1.06,0,47912.53
+Electronics,Tier 2 City,51207.18,No,Back to School,1.07,0.64,1,97302.85
+Grocery,Metro,5097.67,No,Back to School,1.03,1.02,0,8412.01
+Apparel,Metro,47304.86,No,Festive,1.11,0.96,0,62181.0
+Electronics,Tier 2 City,104869.0,No,Back to School,1.05,0.62,0,176209.13
+Electronics,Tier 2 City,60653.99,Yes,Festive,1.06,0.91,0,86923.07
+Apparel,Tier 1 City,29460.86,Yes,Summer,0.97,0.97,0,32865.07
+Apparel,Metro,24519.14,No,Regular,0.83,0.6,0,34863.91
+Apparel,Tier 1 City,22033.33,No,Back to School,0.85,1.29,0,22098.42
+Apparel,Tier 1 City,62552.86,Yes,Regular,1.12,1.37,0,64495.67
+Grocery,Tier 1 City,22351.35,Yes,Festive,1.11,1.29,0,23954.44
+Pharmacy,Tier 2 City,30594.85,No,Winter,0.96,1.16,0,24840.65
+Electronics,Tier 2 City,31958.93,No,Regular,1.14,1.17,1,29114.72
+Pharmacy,Tier 1 City,41801.4,Yes,Winter,0.83,1.07,0,38768.63
+Apparel,Tier 1 City,67418.81,Yes,Regular,1.04,0.83,0,105387.15
+Apparel,Tier 2 City,63764.88,No,Regular,1.16,0.51,1,157425.12
+Apparel,Metro,48614.99,Yes,Festive,1.13,1.22,1,46017.66
+Apparel,Tier 1 City,56939.39,No,Festive,0.85,1.01,0,46049.36
+Grocery,Metro,34973.16,No,Festive,0.95,1.0,0,33392.18
+Home Decor,Tier 1 City,71625.33,Yes,Summer,0.94,1.27,1,64621.81
+Grocery,Metro,94637.91,No,Summer,1.03,0.87,0,118131.16
+Apparel,Tier 1 City,56514.42,Yes,Festive,1.03,0.59,0,120226.32
+Grocery,Tier 1 City,14193.54,No,Summer,0.96,0.9,0,15162.36
+Electronics,Metro,53997.46,No,Back to School,1.19,0.82,0,83293.11
+Pharmacy,Tier 1 City,59418.98,No,Winter,0.86,0.56,0,90586.25
+Apparel,Metro,34444.52,No,Winter,0.93,1.21,0,22602.5
+Electronics,Tier 1 City,24810.23,No,Festive,1.09,1.22,0,14736.7
+Pharmacy,Tier 1 City,67728.69,Yes,Festive,0.96,1.15,0,60117.25
+Grocery,Metro,33277.76,Yes,Winter,0.88,0.53,0,49554.67
+Pharmacy,Metro,89994.73,Yes,Back to School,0.89,1.29,0,75513.35
+Grocery,Tier 1 City,37355.35,No,Winter,0.83,1.03,0,31939.45
+Pharmacy,Tier 2 City,68483.01,No,Summer,1.19,0.9,0,94690.79
+Apparel,Tier 1 City,37970.62,No,Regular,0.93,1.15,0,35476.35
+Apparel,Metro,32053.44,No,Summer,0.86,0.99,0,24675.84
+Grocery,Tier 2 City,11783.64,No,Summer,0.86,0.76,0,10416.64
+Pharmacy,Metro,51112.74,Yes,Regular,1.18,1.37,0,55079.82
+Grocery,Metro,51132.89,Yes,Festive,0.9,0.8,0,71054.16
+Apparel,Tier 1 City,54374.74,No,Back to School,1.02,0.76,0,73716.3
+Home Decor,Tier 1 City,31028.68,No,Summer,1.16,1.37,0,31049.08
+Apparel,Tier 2 City,39533.68,No,Winter,0.81,0.79,0,40472.83
+Home Decor,Tier 2 City,30795.42,No,Winter,0.85,1.24,0,20269.23
+Home Decor,Metro,62691.02,No,Regular,0.88,1.44,0,32666.87
+Grocery,Tier 1 City,42458.45,No,Festive,1.17,1.37,0,34774.01
+Home Decor,Tier 1 City,57492.29,No,Winter,1.19,0.89,0,82136.44
+Electronics,Metro,41691.48,No,Back to School,0.89,1.29,1,33127.65
+Home Decor,Metro,52983.85,Yes,Summer,1.17,1.42,0,54077.47
+Apparel,Tier 2 City,40675.65,Yes,Back to School,1.19,0.63,0,97801.39
+Grocery,Tier 2 City,19728.73,Yes,Regular,1.11,0.69,0,27129.83
+Apparel,Tier 1 City,40379.34,No,Winter,0.88,0.84,0,29651.78
+Pharmacy,Tier 2 City,72547.12,No,Summer,1.12,1.01,0,83546.4
+Apparel,Tier 2 City,66346.34,Yes,Back to School,0.9,1.02,0,68023.99
+Electronics,Tier 1 City,29966.51,Yes,Festive,0.81,0.59,1,56729.75
+Pharmacy,Tier 1 City,43149.27,Yes,Winter,1.0,0.65,0,82419.81
+Home Decor,Tier 1 City,100358.93,Yes,Back to School,0.89,1.3,0,76666.98
+Pharmacy,Tier 2 City,25627.1,Yes,Summer,0.92,1.5,0,15531.31
+Home Decor,Tier 2 City,64220.0,Yes,Winter,0.97,1.22,0,56694.16
+Apparel,Tier 1 City,38287.65,Yes,Back to School,0.81,1.38,0,17394.23
+Grocery,Tier 2 City,68221.18,No,Back to School,0.88,1.14,0,51049.88
+Grocery,Metro,51990.92,Yes,Back to School,1.15,1.03,0,66080.09
+Apparel,Tier 1 City,47821.31,No,Festive,0.83,0.87,1,59332.35
+Electronics,Metro,29243.27,No,Regular,0.98,0.9,0,35027.27
+Home Decor,Tier 1 City,47204.51,Yes,Regular,0.91,1.22,0,43954.71
+Apparel,Tier 1 City,73197.67,No,Festive,1.17,1.24,0,72501.88
+Grocery,Tier 1 City,5000.0,Yes,Summer,0.82,1.16,0,5000.0
+Pharmacy,Metro,76307.36,No,Summer,1.14,1.25,0,65121.18
+Apparel,Metro,35407.26,No,Festive,1.04,1.29,1,27829.3
+Home Decor,Tier 2 City,35843.39,No,Back to School,1.11,0.92,0,43112.63
+Home Decor,Tier 2 City,48522.37,No,Summer,1.15,1.35,0,45935.18
+Apparel,Metro,47296.44,No,Festive,1.13,1.28,1,46103.27
+Grocery,Tier 1 City,39923.08,No,Back to School,0.97,1.43,0,31275.36
+Apparel,Tier 2 City,71343.63,Yes,Summer,0.91,1.29,0,61606.25
+Home Decor,Tier 1 City,58853.12,Yes,Back to School,0.98,0.75,0,87718.5
+Pharmacy,Tier 2 City,63788.4,No,Back to School,1.1,0.7,0,105122.21
+Electronics,Metro,55271.65,Yes,Regular,0.94,1.0,0,63626.35
+Pharmacy,Metro,5000.0,Yes,Winter,0.89,0.84,0,8522.39
+Home Decor,Tier 2 City,22504.01,No,Back to School,1.15,1.14,1,29250.35
+Electronics,Tier 1 City,55683.72,No,Winter,0.83,0.8,0,57432.28
+Home Decor,Metro,30653.82,No,Festive,0.94,0.76,0,37878.54
+Home Decor,Tier 1 City,32446.22,No,Winter,1.12,1.24,0,31263.39
+Apparel,Tier 1 City,54032.24,Yes,Festive,1.18,1.03,0,69161.83
+Grocery,Tier 1 City,46689.87,Yes,Festive,0.87,1.03,0,53011.35
+Electronics,Tier 1 City,71286.47,No,Summer,1.19,0.65,1,150327.6
+Apparel,Tier 1 City,77847.31,No,Back to School,1.19,0.53,0,174733.27
+Pharmacy,Tier 1 City,70577.1,No,Regular,1.16,0.87,0,87842.47
+Electronics,Metro,35142.22,Yes,Festive,0.91,0.62,0,65832.97
+Grocery,Tier 2 City,54195.19,Yes,Back to School,1.14,0.64,1,118592.7
+Grocery,Tier 1 City,54824.72,Yes,Back to School,0.99,0.72,0,79110.74
+Electronics,Tier 1 City,80048.8,No,Festive,0.85,0.73,1,98238.05
+Grocery,Tier 2 City,37943.07,Yes,Summer,1.07,1.37,0,39452.63
+Pharmacy,Metro,61517.17,No,Back to School,0.92,1.11,0,54036.53
+Home Decor,Metro,43625.35,Yes,Winter,0.88,1.26,0,37815.65
+Home Decor,Tier 1 City,54302.83,No,Summer,1.1,0.58,0,110007.18
+Electronics,Tier 1 City,24522.57,No,Regular,0.94,0.99,0,29045.03
+Apparel,Tier 2 City,20476.22,No,Summer,1.02,0.82,0,33331.2
+Pharmacy,Tier 1 City,24717.53,No,Back to School,0.94,0.59,0,46595.84
+Pharmacy,Tier 2 City,62690.95,No,Summer,0.83,0.55,0,89530.24
+Home Decor,Tier 1 City,64438.58,Yes,Summer,0.82,0.67,0,91035.07
+Home Decor,Metro,68210.0,No,Summer,0.98,0.62,0,101829.85
+Grocery,Tier 1 City,60417.58,No,Back to School,0.81,1.39,0,25851.7
+Electronics,Tier 2 City,27025.57,No,Winter,0.98,1.14,1,35567.5
+Electronics,Tier 1 City,31530.94,Yes,Summer,1.01,1.05,0,23170.31
+Electronics,Metro,48880.25,No,Back to School,0.87,1.26,0,28020.96
+Grocery,Metro,44652.82,Yes,Festive,0.87,0.68,0,58366.23
+Apparel,Tier 2 City,52586.27,Yes,Regular,1.15,0.69,0,94542.26
+Apparel,Metro,8044.6,No,Summer,1.03,0.88,0,5000.0
+Apparel,Tier 2 City,58217.78,No,Festive,0.93,1.07,0,48122.52
+Home Decor,Metro,28244.09,Yes,Regular,1.04,1.18,0,30743.1
+Home Decor,Metro,38414.52,Yes,Summer,0.95,1.09,1,37323.69
+Grocery,Tier 2 City,80942.71,No,Winter,0.86,0.75,0,89195.38
+Electronics,Tier 1 City,47088.18,Yes,Regular,0.89,0.85,0,52108.49
+Grocery,Metro,91441.55,No,Festive,1.12,1.27,0,68200.84
+Apparel,Metro,30863.17,No,Summer,0.97,1.09,0,32481.73
+Grocery,Tier 2 City,61689.52,No,Regular,0.8,0.73,1,70083.79
+Home Decor,Tier 2 City,46584.44,No,Festive,0.97,0.71,0,64542.32
+Home Decor,Tier 2 City,39395.76,No,Summer,0.84,0.61,0,57126.07
+Grocery,Tier 1 City,56971.02,No,Regular,0.9,1.32,0,36292.04
+Electronics,Tier 2 City,37449.1,Yes,Back to School,1.02,0.89,0,46612.14
+Electronics,Tier 1 City,74968.1,No,Summer,0.89,1.17,0,55013.56
+Home Decor,Tier 2 City,57304.39,No,Festive,0.87,0.92,0,55888.91
+Electronics,Metro,36537.94,Yes,Regular,0.87,1.23,0,24172.98
+Pharmacy,Metro,24967.9,Yes,Festive,1.0,0.92,0,27844.15
+Pharmacy,Tier 2 City,35825.31,Yes,Back to School,1.15,1.35,1,36937.96
+Grocery,Tier 1 City,30950.8,Yes,Festive,0.87,0.56,1,57423.13
+Pharmacy,Tier 2 City,77791.72,Yes,Back to School,0.85,0.64,1,128582.87
+Pharmacy,Metro,29526.31,No,Back to School,1.0,0.93,0,26863.67
+Pharmacy,Tier 1 City,27769.6,No,Back to School,1.17,1.23,1,15567.55
+Grocery,Metro,49367.13,Yes,Winter,1.03,1.1,1,60706.76
+Grocery,Tier 1 City,41244.09,Yes,Winter,1.06,0.66,0,85104.33
+Apparel,Metro,25147.0,Yes,Summer,0.9,0.83,0,36983.91
+Home Decor,Tier 1 City,48127.69,No,Summer,1.12,1.04,1,45463.36
+Grocery,Metro,52531.89,No,Summer,1.18,0.58,0,107321.7
+Electronics,Tier 1 City,22468.37,No,Regular,1.09,1.01,0,26319.29
+Grocery,Tier 2 City,50460.93,Yes,Winter,1.07,0.97,0,64372.14
+Electronics,Tier 2 City,32724.66,No,Back to School,1.19,1.43,0,19731.32
+Apparel,Tier 2 City,48846.36,Yes,Regular,0.86,0.99,0,57134.77
+Electronics,Tier 1 City,30748.37,No,Regular,0.86,0.82,0,13881.22
+Pharmacy,Tier 2 City,51767.31,No,Festive,1.04,0.68,0,78608.39
+Home Decor,Tier 2 City,30207.69,No,Winter,1.19,0.95,0,36982.53
+Home Decor,Tier 1 City,36990.7,No,Back to School,1.12,1.48,0,34076.29
+Pharmacy,Tier 2 City,88930.83,No,Regular,0.94,1.26,0,56621.91
+Electronics,Metro,79332.9,Yes,Back to School,1.13,1.04,0,95657.14
+Home Decor,Tier 1 City,61513.26,No,Festive,1.19,0.65,1,126139.66
+Apparel,Metro,48653.58,Yes,Winter,1.05,1.1,0,54567.58
+Electronics,Tier 2 City,22706.15,No,Festive,0.96,0.71,1,34214.58
+Electronics,Tier 2 City,79048.06,No,Festive,0.92,0.97,0,66884.88
+Apparel,Tier 2 City,52791.58,Yes,Summer,1.15,1.41,0,54371.72
+Pharmacy,Metro,65018.51,No,Regular,1.01,1.19,1,48995.05
+Pharmacy,Metro,33001.74,No,Winter,0.91,1.12,0,27686.03
+Electronics,Tier 1 City,99461.0,Yes,Winter,0.85,1.39,1,83921.38
+Electronics,Tier 1 City,6174.26,No,Winter,0.9,1.44,0,5000.0
+Pharmacy,Metro,10197.32,No,Summer,1.09,0.77,0,16905.37
+Electronics,Tier 2 City,20132.8,No,Festive,1.2,1.02,0,23934.77
+Apparel,Tier 2 City,50283.12,Yes,Summer,1.01,1.13,1,46850.19
+Pharmacy,Tier 1 City,53912.45,No,Regular,1.04,1.07,0,53136.48
+Pharmacy,Metro,57009.32,Yes,Summer,1.01,0.7,0,103625.07
+Electronics,Tier 1 City,57475.5,Yes,Festive,1.07,1.34,0,54677.61
+Home Decor,Metro,62052.27,No,Regular,1.15,1.13,0,64389.18
+Electronics,Tier 1 City,80034.68,No,Regular,1.1,0.7,1,142438.09
+Electronics,Metro,42622.9,Yes,Festive,0.88,1.36,0,24864.35
+Grocery,Tier 1 City,50780.14,Yes,Summer,1.08,1.28,0,50275.21
+Apparel,Tier 2 City,45767.48,Yes,Back to School,0.87,0.59,0,78939.17
+Pharmacy,Tier 2 City,57236.18,No,Regular,1.09,1.1,1,63488.48
+Apparel,Tier 2 City,71228.6,No,Regular,1.01,1.11,0,62777.78
+Apparel,Metro,30700.58,No,Regular,0.9,0.64,0,49099.82
+Electronics,Tier 2 City,65788.17,No,Winter,1.11,1.34,0,55028.84
+Electronics,Tier 1 City,77629.25,No,Back to School,1.19,0.57,0,170968.88
+Pharmacy,Tier 2 City,72626.68,Yes,Back to School,1.05,1.42,0,60437.14
+Pharmacy,Metro,44493.58,No,Back to School,1.12,0.54,0,86838.52
+Pharmacy,Tier 1 City,38077.02,No,Festive,0.96,0.94,1,49904.43
+Grocery,Tier 1 City,40732.06,No,Festive,1.04,1.16,1,45480.06
+Pharmacy,Tier 1 City,49330.37,Yes,Summer,0.84,1.12,0,49416.91
+Electronics,Metro,35264.45,No,Summer,1.07,0.71,0,58685.07
+Apparel,Metro,81496.99,No,Festive,1.07,1.24,0,67721.87
+Grocery,Metro,83653.19,No,Regular,0.91,0.73,1,115004.74
+Home Decor,Tier 1 City,33183.43,Yes,Regular,1.12,0.79,0,57990.76
+Electronics,Metro,50355.56,Yes,Winter,1.05,1.11,0,49875.56
+Grocery,Metro,26266.1,Yes,Back to School,1.0,1.19,1,27667.65
+Home Decor,Tier 1 City,5000.0,No,Festive,1.03,0.87,0,17729.78
+Pharmacy,Metro,43776.93,No,Summer,1.19,1.46,0,34070.13
+Grocery,Metro,32672.54,Yes,Winter,0.85,0.88,1,37203.98
+Electronics,Metro,59756.88,No,Regular,1.07,1.4,1,60061.33
+Home Decor,Tier 1 City,85206.22,No,Festive,1.02,0.54,0,153584.29
+Electronics,Tier 1 City,63966.51,No,Regular,0.86,1.08,0,47708.58
+Pharmacy,Tier 1 City,57555.33,No,Regular,0.92,1.46,1,39218.49
+Electronics,Tier 2 City,43352.28,Yes,Back to School,0.93,1.09,0,40263.61
+Grocery,Tier 1 City,57698.01,No,Back to School,1.17,1.43,0,42734.83
+Home Decor,Metro,39514.58,No,Winter,0.87,1.45,0,28056.97
+Apparel,Metro,16997.36,No,Regular,0.85,0.84,0,13919.9
+Grocery,Tier 1 City,37870.94,No,Summer,0.93,0.63,0,54922.67
+Home Decor,Tier 2 City,67970.01,No,Back to School,0.99,0.68,0,93333.6
+Grocery,Metro,62740.88,No,Back to School,1.11,1.27,0,53110.06
+Electronics,Tier 1 City,88794.92,No,Winter,1.02,0.8,0,108673.61
+Pharmacy,Metro,41880.74,Yes,Back to School,0.94,0.69,0,62857.88
+Electronics,Tier 2 City,70143.14,No,Winter,1.01,0.6,0,118669.43
+Electronics,Tier 1 City,50070.83,Yes,Festive,1.17,0.69,0,90845.88
+Apparel,Tier 1 City,70341.84,No,Festive,1.11,0.74,0,116043.67
+Electronics,Metro,39718.1,Yes,Back to School,0.85,0.71,0,59218.45
+Pharmacy,Metro,59266.52,No,Festive,1.11,1.4,1,46842.89
+Grocery,Tier 2 City,62010.66,No,Winter,1.15,1.4,1,55340.4
+Electronics,Tier 1 City,57114.81,No,Summer,0.93,1.46,1,41995.55
+Apparel,Metro,56616.29,No,Festive,1.11,1.42,1,53399.41
+Home Decor,Tier 1 City,33143.54,No,Back to School,1.06,0.92,0,37175.92
+Grocery,Tier 2 City,36355.14,No,Back to School,0.92,1.0,0,21809.67
+Pharmacy,Metro,63322.55,Yes,Summer,1.13,0.94,0,89343.89
+Apparel,Tier 1 City,51945.24,No,Winter,0.84,1.08,0,40085.14
+Home Decor,Metro,38703.57,Yes,Festive,0.88,1.33,0,33293.89
+Apparel,Tier 1 City,32631.93,Yes,Festive,0.83,0.62,1,57514.37
+Electronics,Tier 1 City,67199.11,No,Regular,1.19,1.45,0,57561.99
+Home Decor,Metro,64931.65,No,Regular,1.09,1.45,0,52685.78
+Home Decor,Tier 1 City,56352.27,Yes,Winter,1.16,0.56,0,139423.91
+Grocery,Tier 2 City,83539.28,No,Back to School,1.02,0.91,0,99094.6
+Apparel,Tier 2 City,53732.09,No,Festive,1.1,0.8,0,76585.78
+Pharmacy,Tier 2 City,62732.89,No,Regular,0.83,1.15,1,48677.0
+Apparel,Tier 1 City,54842.27,Yes,Festive,1.0,1.35,0,43886.68
+Home Decor,Tier 1 City,40031.84,No,Summer,1.2,1.49,0,35392.0
+Home Decor,Tier 1 City,67782.52,No,Festive,1.12,0.94,1,84260.14
+Home Decor,Tier 2 City,45425.35,Yes,Winter,1.05,1.3,0,39937.86
+Pharmacy,Metro,47361.04,No,Back to School,1.09,0.87,0,59954.16
+Grocery,Tier 1 City,34393.68,Yes,Back to School,1.14,1.03,0,43441.52
+Pharmacy,Tier 1 City,60163.55,No,Back to School,1.16,1.01,0,66292.59
+Home Decor,Tier 1 City,35624.96,No,Winter,0.95,0.81,0,34914.04
+Electronics,Tier 1 City,17168.44,No,Regular,1.12,1.02,0,12938.62
+Pharmacy,Tier 1 City,41369.96,No,Winter,0.87,0.67,0,54585.2
+Home Decor,Tier 1 City,57745.8,Yes,Winter,1.19,1.36,0,59829.82
+Electronics,Metro,99830.48,No,Winter,0.82,1.09,0,75160.73
+Electronics,Metro,68874.39,No,Winter,0.89,0.58,0,101294.64
+Home Decor,Tier 1 City,91130.07,No,Winter,1.02,0.81,0,113849.94
+Home Decor,Tier 2 City,41594.49,No,Back to School,0.94,1.46,0,24883.04
+Apparel,Tier 2 City,57735.05,No,Summer,0.8,1.21,0,40834.12
+Apparel,Tier 1 City,49216.91,No,Back to School,0.96,0.85,0,60990.48
+Apparel,Metro,57571.66,No,Festive,1.0,0.88,1,81504.02
+Home Decor,Tier 1 City,73463.57,Yes,Festive,1.18,1.14,0,96039.66
+Pharmacy,Metro,44247.25,No,Winter,0.9,0.56,0,66275.99
+Pharmacy,Tier 1 City,64340.17,No,Back to School,1.19,1.39,0,58214.53
+Grocery,Tier 1 City,19222.26,Yes,Summer,1.2,0.97,1,25043.35
+Apparel,Tier 2 City,88710.07,No,Regular,1.09,1.36,0,72577.64
+Apparel,Metro,68033.71,No,Winter,0.97,1.23,0,49538.71
+Apparel,Tier 1 City,63655.58,Yes,Regular,1.06,0.65,0,124143.13
+Grocery,Metro,57923.4,Yes,Festive,1.12,1.02,0,66597.41
+Grocery,Tier 1 City,5000.0,Yes,Winter,1.13,0.63,0,5000.0
+Electronics,Tier 2 City,28834.57,No,Summer,0.99,1.18,1,27677.71
+Apparel,Tier 1 City,41293.85,Yes,Back to School,1.03,0.88,0,61199.08
+Grocery,Tier 1 City,67089.72,No,Winter,1.19,1.09,0,68594.37
+Pharmacy,Tier 2 City,47649.56,No,Winter,0.91,1.25,0,28921.65
+Electronics,Tier 2 City,37916.72,No,Winter,1.03,0.57,0,67079.83
+Pharmacy,Tier 2 City,68891.44,Yes,Winter,1.18,1.2,0,90161.26
+Home Decor,Tier 1 City,44891.22,No,Festive,1.12,0.56,0,98363.75
+Grocery,Metro,65113.46,No,Regular,0.98,0.71,0,91807.82
+Home Decor,Tier 1 City,60527.29,No,Winter,0.9,0.94,0,51194.13
+Electronics,Tier 2 City,62884.13,No,Regular,0.82,0.92,0,57688.15
+Electronics,Tier 2 City,42136.13,Yes,Regular,1.16,1.17,1,47214.54
+Grocery,Metro,70219.78,No,Winter,0.84,0.89,1,76054.04
+Home Decor,Tier 1 City,55693.41,Yes,Summer,0.97,0.94,0,61729.57
+Grocery,Tier 2 City,74121.46,No,Winter,0.94,0.98,0,71020.34
+Grocery,Metro,46680.27,No,Winter,0.94,0.81,0,55450.3
+Electronics,Tier 2 City,19685.78,Yes,Summer,1.03,1.41,0,8865.2
+Grocery,Tier 1 City,66541.9,Yes,Regular,1.15,0.91,1,111760.05
+Home Decor,Tier 1 City,88963.4,No,Summer,1.13,1.14,0,88515.21
+Grocery,Tier 2 City,56985.4,No,Back to School,1.01,1.11,0,52692.05
+Pharmacy,Tier 1 City,58916.49,No,Festive,0.98,0.76,0,74618.11
+Home Decor,Tier 1 City,61864.44,No,Festive,1.04,0.74,0,83768.96
+Home Decor,Tier 1 City,58970.94,Yes,Festive,0.85,0.68,1,91727.85
+Pharmacy,Metro,20986.67,No,Regular,0.83,1.1,1,20844.91
+Home Decor,Metro,74393.67,No,Back to School,1.01,0.93,1,89525.4
+Home Decor,Tier 2 City,43726.22,Yes,Back to School,0.98,1.0,0,50539.78
+Home Decor,Tier 1 City,61600.38,Yes,Summer,0.89,0.8,1,95391.52
+Home Decor,Metro,52849.11,Yes,Summer,0.86,1.42,0,35787.09
+Grocery,Tier 2 City,51353.63,No,Winter,0.9,1.13,1,51412.58
+Pharmacy,Metro,58414.42,No,Regular,0.84,0.98,0,51214.56
+Apparel,Metro,51028.8,No,Summer,1.09,1.4,0,38220.18
+Grocery,Tier 1 City,79365.13,No,Festive,0.82,1.37,0,40115.99
+Electronics,Tier 2 City,79111.89,No,Winter,0.99,0.85,0,102995.29
+Pharmacy,Metro,60262.26,No,Festive,0.86,0.83,0,66197.7
+Pharmacy,Metro,67718.68,Yes,Regular,1.13,0.59,1,157932.55
+Home Decor,Tier 1 City,56965.43,Yes,Festive,0.86,0.73,0,76601.53
+Apparel,Metro,36852.06,No,Back to School,0.89,0.6,1,54454.48
+Pharmacy,Tier 2 City,36102.98,No,Summer,1.11,0.89,0,47108.67
+Grocery,Metro,34815.32,No,Summer,0.84,0.66,1,58171.61
+Home Decor,Tier 1 City,59361.44,No,Winter,1.07,1.04,1,75738.87
+Pharmacy,Tier 2 City,36126.88,Yes,Back to School,1.17,1.43,1,38433.32
+Home Decor,Metro,68158.59,Yes,Winter,0.82,1.13,0,54282.67
+Grocery,Tier 1 City,54029.23,No,Festive,0.96,1.42,0,29579.32
+Grocery,Tier 1 City,25989.68,No,Back to School,0.85,1.44,0,15174.84
+Home Decor,Tier 2 City,39467.4,No,Festive,1.17,0.99,0,52022.36
+Grocery,Tier 1 City,27060.29,Yes,Summer,1.15,1.25,1,28488.94
+Grocery,Tier 1 City,30737.69,Yes,Back to School,1.09,0.61,0,62175.93
+Grocery,Tier 2 City,18315.26,No,Winter,1.06,0.86,0,20074.95
+Apparel,Tier 2 City,47794.69,No,Regular,1.11,1.02,0,53585.94
+Home Decor,Tier 1 City,23205.24,No,Winter,0.81,1.2,1,18048.76
+Pharmacy,Tier 1 City,64824.73,Yes,Regular,0.83,0.55,0,108389.11
+Electronics,Tier 2 City,36198.88,Yes,Festive,0.87,1.05,0,29820.14
+Apparel,Tier 1 City,49225.08,No,Summer,0.94,0.61,0,75948.23
+Home Decor,Tier 2 City,73625.25,Yes,Back to School,0.87,1.45,1,50646.51
+Home Decor,Tier 2 City,52501.31,Yes,Winter,1.03,0.95,0,67205.93
+Home Decor,Tier 2 City,62886.46,Yes,Regular,1.03,0.64,1,128260.55
+Electronics,Metro,56053.34,No,Summer,0.88,1.06,0,36387.39
+Home Decor,Tier 1 City,49522.16,No,Festive,1.15,0.76,0,81890.16
+Grocery,Metro,65304.14,No,Summer,1.05,1.41,0,52525.91
+Apparel,Tier 2 City,74398.42,No,Festive,1.19,1.19,1,75671.01
+Electronics,Metro,86310.84,No,Back to School,1.18,0.92,0,110892.33
+Apparel,Tier 1 City,44226.08,Yes,Festive,1.16,1.22,0,40287.35
+Pharmacy,Tier 1 City,71174.68,Yes,Back to School,1.02,0.51,0,165145.62
+Grocery,Tier 1 City,9338.06,Yes,Winter,0.98,0.77,0,10323.77
+Apparel,Tier 2 City,64278.56,Yes,Regular,0.97,0.57,0,122768.39
+Grocery,Metro,25640.36,No,Festive,1.05,1.25,0,14038.19
+Pharmacy,Metro,31694.54,No,Winter,1.01,0.93,1,36632.59
+Home Decor,Metro,61258.55,No,Regular,0.86,0.51,0,101967.11
+Pharmacy,Tier 1 City,90058.46,No,Festive,0.85,0.94,0,88736.6
+Grocery,Metro,66832.61,Yes,Regular,1.18,0.9,1,100945.11
+Grocery,Tier 1 City,64315.76,No,Festive,0.96,1.26,0,34444.81
+Home Decor,Metro,71889.91,Yes,Summer,1.08,0.66,0,130131.91
+Home Decor,Tier 2 City,42209.73,Yes,Summer,1.11,1.17,0,46089.11
+Home Decor,Tier 2 City,64627.95,No,Back to School,0.98,0.65,0,102179.63
+Pharmacy,Tier 1 City,75753.11,No,Back to School,0.9,0.93,0,71771.77
+Electronics,Metro,104167.45,No,Regular,0.88,1.05,0,81639.86
+Home Decor,Tier 1 City,45366.82,Yes,Regular,0.85,1.27,0,34683.71
+Grocery,Tier 1 City,9311.46,No,Festive,0.92,1.25,0,13958.07
+Electronics,Metro,67644.89,Yes,Festive,0.82,1.08,0,56046.51
+Pharmacy,Tier 1 City,59290.69,No,Festive,1.08,1.09,0,55261.83
+Home Decor,Metro,51633.6,Yes,Festive,1.1,1.16,1,66015.81
+Apparel,Tier 1 City,68975.25,Yes,Festive,0.81,1.08,1,64055.41
+Apparel,Metro,51056.97,No,Summer,1.08,1.41,0,35105.16
+Home Decor,Metro,66741.22,No,Winter,0.82,1.25,1,42827.93
+Home Decor,Tier 1 City,75398.37,No,Winter,0.99,1.22,0,63667.85
+Home Decor,Tier 1 City,23999.63,Yes,Regular,1.07,1.03,0,26724.25
+Electronics,Metro,73979.91,Yes,Festive,1.1,0.5,0,187743.56
+Home Decor,Tier 1 City,53476.57,No,Winter,0.87,0.8,0,50668.62
+Pharmacy,Tier 1 City,33777.28,No,Back to School,1.1,1.24,0,34726.56
+Grocery,Tier 2 City,66523.77,Yes,Regular,0.9,1.41,0,42945.84
+Grocery,Tier 2 City,55550.34,No,Back to School,0.83,1.09,0,39758.87
+Grocery,Metro,67252.87,Yes,Back to School,1.17,1.03,0,86153.24
+Pharmacy,Metro,87340.52,No,Regular,1.16,0.82,0,123413.99
+Apparel,Metro,72660.13,No,Back to School,0.84,0.56,0,108026.53
+Pharmacy,Tier 2 City,8280.06,Yes,Festive,1.0,0.78,0,16334.44
+Pharmacy,Tier 1 City,76092.57,No,Festive,1.06,1.19,0,80297.21
+Pharmacy,Metro,35406.5,Yes,Winter,0.92,0.74,0,54866.11
+Apparel,Tier 1 City,64411.8,No,Back to School,1.01,1.23,0,47784.89
+Grocery,Tier 2 City,14161.82,Yes,Back to School,1.07,1.37,0,13160.73
+Home Decor,Metro,31785.57,No,Summer,1.02,1.25,0,20845.48
+Home Decor,Tier 1 City,5000.0,Yes,Summer,0.97,1.37,1,5000.0
+Electronics,Metro,74403.81,No,Back to School,1.1,1.3,0,66338.46
+Pharmacy,Tier 2 City,32205.96,Yes,Summer,1.03,0.62,0,57523.15
+Apparel,Tier 2 City,63750.02,No,Festive,0.83,0.94,0,58746.8
+Apparel,Tier 1 City,19963.11,No,Summer,0.83,1.22,0,12384.15
+Electronics,Tier 1 City,29089.13,Yes,Festive,1.13,0.99,0,34111.35
+Home Decor,Metro,63951.84,Yes,Winter,0.88,1.4,0,47212.04
+Home Decor,Tier 2 City,53474.35,Yes,Back to School,0.87,1.25,0,43566.06
+Electronics,Tier 1 City,114577.68,No,Summer,0.89,0.51,0,204269.95
+Pharmacy,Tier 2 City,57845.3,No,Festive,1.16,0.72,0,97031.75
+Home Decor,Tier 2 City,33492.02,Yes,Summer,1.15,1.19,0,41289.93
+Apparel,Tier 1 City,55107.85,No,Back to School,1.1,1.3,0,48269.71
+Grocery,Metro,80092.23,Yes,Winter,0.82,1.26,0,66172.31
+Grocery,Tier 1 City,54595.39,No,Winter,1.13,0.83,0,78583.48
+Apparel,Metro,23986.62,Yes,Summer,1.08,0.9,0,32291.17
+Grocery,Tier 2 City,65111.48,No,Back to School,1.16,0.55,0,141350.62
+Grocery,Tier 2 City,29231.59,Yes,Regular,1.17,0.75,0,46022.99
+Pharmacy,Tier 1 City,62063.69,No,Regular,0.91,1.32,0,40321.07
+Home Decor,Metro,54181.75,No,Back to School,0.8,0.77,0,57175.81
+Pharmacy,Tier 2 City,19895.63,No,Winter,1.0,1.25,0,21873.9
+Grocery,Tier 1 City,56783.63,No,Winter,1.14,1.11,0,59999.86
+Electronics,Tier 1 City,5000.0,No,Festive,0.98,0.65,0,6647.53
+Home Decor,Tier 2 City,85008.93,No,Summer,0.83,0.81,0,82678.6
+Grocery,Metro,52590.31,No,Back to School,0.9,0.86,0,49971.55
+Apparel,Tier 2 City,35624.02,No,Winter,1.01,1.15,0,30482.98
+Pharmacy,Tier 2 City,59621.52,Yes,Regular,1.19,1.06,0,81443.23
+Pharmacy,Tier 2 City,65172.63,No,Festive,0.85,1.35,0,41187.8
+Grocery,Tier 1 City,88973.9,No,Winter,0.88,0.68,0,117510.64
+Apparel,Metro,57310.63,No,Festive,0.87,1.16,0,44037.13
+Home Decor,Tier 1 City,76816.82,No,Winter,1.16,1.09,0,85568.77
+Electronics,Metro,34557.25,No,Festive,1.0,1.31,0,34470.52
+Pharmacy,Tier 1 City,70414.79,No,Winter,1.08,1.2,0,61763.25
+Apparel,Tier 2 City,31568.19,No,Festive,1.11,1.49,0,22491.16
+Grocery,Tier 2 City,64135.42,No,Back to School,1.14,0.6,0,122060.51
+Apparel,Tier 2 City,87887.32,No,Festive,0.97,1.22,0,64022.76
+Grocery,Tier 1 City,68218.94,Yes,Summer,0.82,0.58,0,100204.34
+Pharmacy,Metro,62392.21,No,Regular,1.18,1.08,0,70327.32
+Electronics,Metro,70872.81,No,Winter,0.81,1.05,0,54344.34
+Pharmacy,Tier 1 City,39544.01,No,Winter,0.97,0.56,0,70485.05
+Apparel,Metro,45934.95,Yes,Winter,0.81,1.5,1,29665.77
+Electronics,Tier 1 City,25237.28,No,Winter,0.94,0.84,0,24862.41
+Apparel,Tier 1 City,59714.18,No,Summer,1.17,0.5,0,138412.68
+Electronics,Tier 1 City,28096.34,No,Winter,1.01,0.75,0,37631.11
+Pharmacy,Tier 1 City,84359.3,Yes,Back to School,1.06,1.43,1,83853.53
+Electronics,Tier 2 City,58123.5,No,Festive,1.05,1.4,0,42243.8
+Home Decor,Metro,36366.24,Yes,Summer,1.02,1.44,0,33225.05
+Grocery,Metro,64491.75,Yes,Back to School,1.0,0.78,0,96651.69
+Pharmacy,Tier 1 City,70502.56,No,Summer,1.06,0.59,0,116101.37
+Electronics,Metro,27008.26,Yes,Back to School,0.86,1.28,0,20979.61
+Electronics,Tier 1 City,69134.47,No,Back to School,0.86,1.15,0,61622.35
+Electronics,Tier 1 City,47740.24,No,Festive,1.02,1.4,0,31364.02
+Pharmacy,Metro,26280.31,No,Festive,0.83,0.93,1,20243.65
+Apparel,Metro,36074.05,No,Winter,1.06,1.45,0,14912.91
+Pharmacy,Tier 1 City,36353.6,No,Regular,1.02,0.83,1,54445.93
+Grocery,Metro,29803.86,No,Back to School,0.92,1.4,1,17829.71
+Home Decor,Tier 1 City,51403.12,Yes,Regular,0.88,1.46,1,36007.02
+Grocery,Metro,56809.99,Yes,Regular,1.02,0.66,0,99224.76
+Pharmacy,Metro,51212.48,No,Regular,1.19,0.83,1,82976.97
+Grocery,Tier 2 City,38900.49,No,Regular,1.11,1.4,0,36636.82
+Apparel,Metro,60502.55,No,Back to School,0.95,1.17,0,54986.21
+Grocery,Metro,64499.44,No,Winter,1.14,0.75,0,97171.57
+Pharmacy,Tier 2 City,17865.48,Yes,Summer,1.16,1.23,0,20485.76
+Home Decor,Metro,25123.76,Yes,Winter,1.02,1.07,0,28416.28
+Electronics,Metro,27508.11,No,Back to School,0.81,1.01,0,28562.14
+Electronics,Tier 1 City,53581.08,No,Winter,1.17,1.28,0,46940.23
+Pharmacy,Tier 2 City,49093.73,Yes,Regular,1.09,0.99,0,56802.05
+Electronics,Metro,71452.02,No,Regular,1.14,1.27,0,58812.72
+Home Decor,Tier 2 City,58377.59,No,Regular,1.15,1.01,0,64031.44
+Home Decor,Tier 1 City,92581.47,No,Back to School,0.97,0.53,0,167450.74
+Home Decor,Metro,68126.65,No,Summer,1.03,1.22,1,63886.97
+Grocery,Tier 2 City,48096.5,No,Festive,0.82,1.15,1,34170.05
+Apparel,Tier 1 City,76998.04,No,Summer,0.94,1.31,0,52895.8
+Home Decor,Tier 1 City,33380.84,No,Winter,0.93,0.52,0,64771.46
